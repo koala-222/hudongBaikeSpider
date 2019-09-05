@@ -1,0 +1,1004 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/HOPE%7E%E6%9C%AA%E7%94%9F%7E" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/5D/36/5D36CE68E5CA41BAD746CBB8D46D77D4_90.png?title=HOPE%7E%E6%9C%AA%E7%94%9F%7E"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>HOPE~未生~</h1></div>
+<div class="clear"></div>
+<div class="place">
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>《HOPE~未生~》是富士电视台2016年播出的职场励志剧，由河野圭太、城宝秀则等执导，德永友一编剧，由中岛裕翔主演，远藤宪一、濑户康史、山本美月、桐山照史等出演，于2016年7月17日首播。</p><p>该剧翻拍自以同名漫画为蓝本的韩国电视剧《未生》，讲述职业棋手的梦想受到挫折的主人公进入贸易公司就职，既没有学历也没有社会经验的他经历一系列职场挫折最终获得成长的故事。</p><p></p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="HOPE~未生~"/><div id="hd_ad_doc_109"> </div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="剧情简介" catalogkey="1" class="bold" href="javascript:void(0)" title="剧情简介">剧情简介</a>
+</li>
+<li>
+<em>2</em><a alt="分集剧情" catalogkey="3" class="bold" href="javascript:void(0)" title="分集剧情">分集剧情</a>
+</li>
+<li>
+<em>3</em><a alt="演职员表" catalogkey="5" class="bold" href="javascript:void(0)" title="演职员表">演职员表</a>
+</li>
+<li class="dot"><a alt="演员表" catalogkey="7" href="javascript:void(0)" title="演员表">演员表</a></li>
+<li class="dot"><a alt="职员表" catalogkey="9" href="javascript:void(0)" title="职员表">职员表</a></li>
+</ul>
+<ul class="lie3">
+<li>
+<em>4</em><a alt="角色介绍" catalogkey="11" class="bold" href="javascript:void(0)" title="角色介绍">角色介绍</a>
+</li>
+<li>
+<em>5</em><a alt="音乐原声" catalogkey="13" class="bold" href="javascript:void(0)" title="音乐原声">音乐原声</a>
+</li>
+<li>
+<em>6</em><a alt="幕后花絮" catalogkey="15" class="bold" href="javascript:void(0)" title="幕后花絮">幕后花絮</a>
+</li>
+<li>
+<em>7</em><a alt="获奖记录" catalogkey="17" class="bold" href="javascript:void(0)" title="获奖记录">获奖记录</a>
+</li>
+<li>
+<em>8</em><a alt="播出信息" catalogkey="19" class="bold" href="javascript:void(0)" title="播出信息">播出信息</a>
+</li>
+</ul>
+<ul class="lie3">
+<li>
+<em>9</em><a alt="剧集评价" catalogkey="21" class="bold" href="javascript:void(0)" title="剧集评价">剧集评价</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">剧情简介</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">分集剧情</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">演职员表</a>
+<i></i>
+</li>
+<li class="dot">
+<em>3.1</em><a catalogkey="7" href="javascript:void(0)">演员表</a>
+</li>
+<li class="dot">
+<em>3.2</em><a catalogkey="9" href="javascript:void(0)">职员表</a>
+</li>
+<li>
+<em>4</em><a catalogkey="11" class="bold" href="javascript:void(0)">角色介绍</a>
+<i></i>
+</li>
+<li>
+<em>5</em><a catalogkey="13" class="bold" href="javascript:void(0)">音乐原声</a>
+<i></i>
+</li>
+<li>
+<em>6</em><a catalogkey="15" class="bold" href="javascript:void(0)">幕后花絮</a>
+<i></i>
+</li>
+<li>
+<em>7</em><a catalogkey="17" class="bold" href="javascript:void(0)">获奖记录</a>
+<i></i>
+</li>
+<li>
+<em>8</em><a catalogkey="19" class="bold" href="javascript:void(0)">播出信息</a>
+<i></i>
+</li>
+<li>
+<em>9</em><a catalogkey="21" class="bold" href="javascript:void(0)">剧集评价</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>剧情简介<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<p>一之濑步 
+<i>（</i>
+<i>中岛裕翔</i>
+<i>饰）</i>从小喜欢围棋，而且进入日本棋院学习，梦想成为一名职业围棋手。高中时，父亲去世，母亲 
+<i>（</i>
+<i>朝加真由美</i>
+<i>饰）</i>独自支撑着整个家庭。为了维持家计，阿步打算高中毕业后就工作，母亲却倾尽全力支持让他继续学棋。高中毕业后，阿步没有上大学，一边打工一边钻研棋艺，参加专业棋士考试，只不过连年落第。专业棋手考试的年龄限制是23岁以下，已经22岁的阿步只剩下一次机会了。然而，就在考试前夕，因为母亲突然生病，他的考试失败。棋手梦成为泡影后，通过母亲托人找到的关系，阿步进入综合贸易公司与一物产，成为了普通的上班族。既没有社会经验又没有学历、哪国外语也不会的他并不被上司和同事所看好，被归入没有前途的边缘人之列。为了自己今后的人生，他决定迎接挑战，凭借围棋手特有的坚强意志、洞察力及记忆力，作为普通的社会人不断奋斗，证明自己并不是一无是处的废柴。在这一过程中，他身边的人也受到了潜移默化的影响。  </p><div class="img img_r">
+<a href="http://tupian.baike.com/a1_32_23_50200009239445156154236976014_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a1.att.hudong.com/32/23/50200009239445156154236976014_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>分集剧情<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<b>第1集</b><p>　　从就热爱围棋的一之濑步，梦想着通过日本棋院的考试、成为专业棋手，为此把全部青春都献给了围棋。高中时，父亲去世后，阿步一边打工帮补家计一边继续学习围棋。日本职业棋手采用考试的年龄期限是23岁以下，已经22岁的阿步辞掉打工的工作，专心备考，然而，在考试前夜，他的母亲夕纪因操劳过度病倒，心慌意乱的阿步考试失败。梦想破灭后，失意的阿步以打零工度日，看到阿步的样子，夕纪心痛不已，她托熟人帮阿步进入了综合贸易公司与一物产的招聘考试的最后环节。考试的内容是一个月的实习，应聘者作为实习生参与实际工作，公司通过考查其工作能力决定是否聘用。阿步被分到与一物产的营业3科，头一天上班，科长织田勇仁恰好外出公干，科内只有主任安芸公介。公介让阿步复印文件，但阿步不懂墨盒是什么，同期桐明真司帮助了他。公介得知阿步没上过大学，十分惊讶。公介出外办事，临走时嘱咐阿步别接电话，但是电话一直响个不停，阿步只得拿起电话，却不会用英文对话，只好求同期香月替他回了电话。吃午饭时，香月为阿步介绍同期参加实习的人。当得知阿步只有高中学历时，众人面面相觑。另一方面，参加实习的同期人见将吾听说阿步是走专务鹰野义郎的后门才进入公司的。这时，织田回到办公室，带阿步参加碰头会。但是，阿步什么也不会，只能干坐着。看到这种情形，织田告诉阿步明天不用来上班了。织田并非歧视阿步是走后门进来的，而是觉得他没有干劲儿。阿步辩称自己也有过梦想。然而，在织田看来，公司就是员工们为梦想而战的战场，不是什么人梦想受挫后的避风港。垂头丧气的阿步不知不觉间走到棋院，迎面碰到围棋老师松原。在老师和母亲的鼓励下，阿步下定了决心。第二天，他照常去公司上班。公介收到消息，印尼进口的钢管中混有残次品。织田命阿步、桐明等男实习生到仓库帮忙检查钢管。阿步认真查找问题钢管时，织田电话通知实习生们公司决定退货，无需再检查钢管。众人结伴离去，而阿步却因受人捉弄独自完成了检查。发现被戏弄后，阿步没有吭声而是在公司彻夜完成织田交代的文件分类整理任务。得知事情原委后，织田对阿步的印象有所改观。记忆力超群的阿步花一天时间就背下了整部贸易用语词典，得到公介夺奖。这时，其他实习生突然纷纷要求与阿步组队参加实习报告会，阿步喜不自禁，以为获得大家认可。公介见此情景，直言那些人是为了让阿步做陪衬人，以确保他们自己能顺利过关。因为营业2科实习生长井的疏忽，3科本应粉碎处理的草拟书掉在了公司大厅，恰好被织田的死对头鹰野捡到。</p><b>第2集</b><p>　　接受与一物产招聘测试的一之濑步等人，终于迎来了最后的企划报告会。他和人见将吾组成搭档。人见决定企划的主题为“文化与贸易”，并要阿步制作资料。这时，营业3科的科长织田勇仁与大型连锁公司的社长宫胁和久进行商业谈判，他叫阿步也列席谈判。宫胁的公司为了生产自己品牌的方便面，准备在泰国建工厂，正在寻找能共同投资的公司。实际上，织田与宫胁是初中同学，宫胁曾是织田的跟班。宫胁从织田接过与一物产曾参与过的类似项目的参考资料后，说前面的会议要拖延一会儿，希望织田稍等片刻，然后离席而去。过了一个多小时宫胁才回来，他表示接下来还有约会，以后再与织田联系，说完后便不理会织田的话径自离开。而织田与阿步准备回公司时，偶然发现宫胁之前是拿着他们的资料在和与一物产的对手公司谈判。其后，阿步随织田请宫胁喝酒。酒席上宫胁三番两次羞辱织田，开出苛刻的条件，织田都默默承受下来。看着这样的织田，阿步忽然觉得并非胜者才是强者，奋斗着的人们都是强者。另一方面，实习生桐明和香月等人都在为企划报告会而努力奋斗。阿步和人见一起做企划练习。在织田提醒下，阿步提议做演讲的模拟练习，对演讲颇有自信的人见觉得没有必要。就在报告会的前一天，以服装为导火索，阿步与人见起了冲突。阿步一时冲动说出人见选自己作搭档是因为瞧不起他的能力，二人不欢而散。在报告会当天，实习生们挨个接受公司领导考问。当轮到人见与阿步时，人见突然因为怯场而语无伦次。阿步挺身而出，接替人见做报告。然而，他照本宣科式的演讲，没有一丝吸引力。这时，作为旁观者，人见终于恢复了理智，重新上场，精彩地完成了演讲。正当他们松了一口气时，鹰野专务向阿步提出一个问题。</p><b>第3集</b><p>　　阿步、桐明、香月、人见通过了实习测试，被与一物产录用。桐明在钢铁2科，香月在资源2科，人见在纤维1科，阿步则分配到在实习时曾给予他很大帮助的织田勇仁课长所在的营业3科。然而，和其他人不一样，公司只和阿步签了一年的合同。过了两周，桐明与上司结城雅治不合，每回他交的文件都被结城圈圈点点，让桐明十分厌烦。人见也没能博得比他更滑头的上司鸣海亮太主任的好感，更常被其利用，不胜其烦。而在同期中最优秀的香月，在资源2科被分派做杂务，对此她只能一忍再忍。这时，因为从营业3科接手的石油公司的合同书出了问题，资源2科的科长寺崎京介来向织田抱怨。他声称追加购入煤油的合同还没有收到。安芸公介坚持说早就交给资源2科了。然而，寺崎根本听不进去，反而旧话重提，讲起织田在营业1科时把责任推到合同工身上的事，而且那个合同工在辞职后去世了。寺崎怀疑织田这次要故伎重施，还大声地对阿步等人说要他们都小心点，别让织田给害了。被这些话激怒了的安芸不加思索地把山崎推倒在地。此事引起高层注意，惩罚委员要调查安芸。为了帮助安芸，织田不惜低头恳求鹰野专务。另一方面，阿步找遍了营业3科也没找到那份引起是非的合同，他向香月求助。香月早知合同之事是上司桧山诚的责任。然而，作为资源2科的成员，她左右为难，不知如何是好，只得向公司管理层中唯一的女性——食品2科科长白石求教。</p><b>第4集</b><p>　　一之濑上等与一物产的新人受命进行培训，跟着老员工学习业务。香月到织田任科长的营业3科、人见到钢铁2科实习。而阿步则与桐明真司一起来到资源1科大平龙也的手下实习。织田告诉阿步，大平是对客户尽心尽力的模范员工，让他一定好好向大平学习。阿步与桐明来到资源1科，这时科里正因为老客户——东洋矿石没有准时供货而忙作一团。大平带阿步等人拜访东洋矿石的科长武林悟史。武林承认是因为他要看护老人而延误了发货。请求大平允许过两三天再交货。大平同意了他的请求，然后向资源1科科长高柳清志汇报。然而，高柳因大平轻易答应对方而大发雷霆，命令他一定让东洋铁矿准时履约，否则就别回公司。大平挺身维护客户的行为让阿步深受感动。而听说大平性格怯懦所以入职十年不能出人头地后，对于这样的前辈，桐明难掩失望之情。在桐明看来，公司应该是得到成长学习的地方，如果不合适就该早些辞职。这天，大平再次领着阿步等人来到东洋矿石，结果，发现武林欺骗了他。在阿步的激励下，大平头一次决定强势出击。</p><b>第5集</b><p>　　与一物产正在举行半年一次的新项目企划征集。这次，因为营业1科不参加，所以营业2科和阿步所在的营业3科展开竞争。营业3科主任安芸公介提出了使用椰子的能源回收再利用提案。不过，这种项目其他部门曾做过，科长织田勇仁宁愿在伊朗的石油项目上决胜负。对此，安芸公介提出，在交提案前，先宴请掌握企划决定权的营业部长宇野，以便说服他。在钢铁2科的桐明真司登录了转职代理人网站。他很反感上司结城净让他做一些文件工作，认为应该在学习基础工作的同时做一些能学到东西的工作。而结城却说钢铁工作不需要作秀，如果桐明不满意可以调到其他部门去。另一方面，在资源2科的香月被主任桧山命令重新写搁浅的方案。而实际上那是桧山自己提出的议案，不过被财务部长几度驳回，只好放弃，丢给香月。香月不得要领，听了阿步的建议，决定越级直接向财务部部长请教提案被驳回的原因。织田等人的营业3科团队从万事通人见那里得到关于宇野的情报，反复演练作战计划。在中华料理店，趁着宇野正高兴，织田他们拿出了方案，然而，却被对方轻易驳回了。为了部下考虑，织田决定进行部长属意的能源回收再利用提案。然而，织田带领安芸公介、阿步努力做出的项目提案到最后却轻易地被人夺走了。人见在公司的内部论坛上匿名发劳骚，却被上司鸣海揭穿。</p><b>第6集</b><p>　　香月成功地挽救了被财务驳回的企划案，受她的激励，一之濑步向科长织田提出要挑战新项目企划。织田和安芸表示会全力支持。与此同时，钢铁2科正在全力应对货船在太平洋航行中船体出现龟裂的问题。虽然货船回港，但是很难找到别的船盛载货物。阿步得知此事问是否能堵上船体的裂口。钢铁2科的主任结城听了阿步的话后，开始安排船体的焊接工作，最后总算避免了一场纠纷。结城把阿步帮助解决难题一事告诉了织田。看到阿步在公司活跃的样子，桐明十分焦躁。阿步在营业3科内部讲解新项目企划案，因为对销售一窍不通而受到织田的批评。所以，作为营业科的例行实习，阿步要拿着一万日元的本钱购入商品，然后转卖出去获利。结城从安芸那里听说了阿步实习的事，提出让桐明一起参加。另一方面，香月受命到波丘焦炭工业公司，安排焦炭集装箱事宜。因与上司鸣海闹意见而请假早退了的人见，偶然遇到香月，与她一起去了波丘。</p><b>第7集</b><p>　　阿步所在的营业3科提出的零售事业企划在董事会上得到位认可。鹰野专务以为营业3科增加新的战斗力为由把江部塞了进来。而江部以先前的工作尚未交接完为由，不听织田的指挥。安芸说江部入公司后不久就完成了多项大合同，是有功之臣，人称专务派的急先锋，但被与敌对的社长派从总部踢到了相关企业。在钢铁2科的桐明提出的面向中国的线材划也得到认可。为了让桐明学习，主任结城提议让他出席与双菱商事的合同谈判。另一方面，曾在双菱商事工作过的香月与来开会的前上司高濑逢。资源2科科长寺崎得知后，武断地认为香月是因为男女作风问题才从双菱辞职的，还说桧山对香月的态度改变也她讨好的结果。正在推进零售事业的织田向食品2科的凉子求助。然而，凉子的手下反对。正在这时，江部打电话给阿步让他找个借口溜出来。根据江部的指示，阿步来到某大楼，把江部给的信封交给一家叫赤城的公司。</p><b>第8集</b><p>　　阿步奉江部之命再次送信，这次安芸与他同行。安芸打开信封，想确认里面有什么。结果，里面除了合同之外还有给经办人的手续费。手续费数额之大让安芸吃惊。就在此时，江部出现在二人面前。阿步、安芸要求江部说明钱数为什么如此之高。而江部却说这件事是经过财务部和法务部批准的。另一方面，织田从鹰野专务交待的太阳能发电企划带回营业3科。这个与中国企业汀洲公司合作的计划，是一桩价值500亿日元的大生意。鹰野指示织田派江部担任汀洲公司的联络人。织田等马上着手制定计划，安排了高品质的配电盘。然而，就在合同签订前夕，发生了意料之外的问题。汀洲公司说他们和与一物产之前加入了一个叫做九垓公司的中介。与一物产的利润是3%，而中介手续费则有2.5%。这时，营业3科接到几个打给江部的可疑电话。阿步和安芸怀疑汀洲公司的项目另有玄机。而织田说无论如何也要完成这个项目。阿步觉得织田的表现与平常不太一样，心中忐忑不安，便去和桐明、香月、人见等同期商量此事。桐明偶然发现织田之所以竭力要完成汀洲公司项目是为了帮助阿步转正。听了桐明的话后，阿步十分矛盾，他不想因为自己令科长放弃一直以来坚守的原则。</p><b>第9集</b><p>　　与一物产对营业3科与中国汀洲公司合作的太阳能发电项目进行监察，起因是一之濑步与驻上海办事处的职员通电话时提出鹰野专务涉嫌不正当商业行为。被监察部调查的不止是营业3科科长织田和负责与汀洲公司交涉的江部，还有鹰野专务，通过调查事件的真相渐渐明朗。其实，按汀洲公司要求介入项目的中介公司并没有实体，那家公司的负责人正是江部的堂兄弟，也就是赤城公司的社长。江部过去曾多次让赤城公司为自己的项目做中介，从中收取中介费。很快，因为跟汀洲公司的纠纷，迄今为止和与一物产有贸易往来的中国企业开始拒绝合作。香月所在的资源2科和凉子任科长的食品2科也受到牵连。阿步觉得这全是自己出言不慎惹的祸，为此深感自责。织田听了阿步的想法后，表示对此事负责是他这个科长的义务和权力，阿步只要堂堂堂正正地去做就好。就在这时，织田被人事部叫了去。人事部部长的暗示必须有人为与一物产这次的骚乱负责，于是，织田向营业部长宇野提交了辞呈。</p><p><i>分集剧情参考资料  </i></p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>演职员表<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<a name="7"> </a><h3>演员表</h3><div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tbody>
+<tr>
+<td>角色</td>
+<td>演员</td>
+<td>备注</td>
+</tr>
+<tr>
+<td>中岛裕翔</td>
+<td>一之濑步</td>
+<td>简介 营业3科员工</td>
+</tr>
+<tr>
+<td>远藤宪一</td>
+<td>织田勇仁</td>
+<td>简介 营业3科科长，一之濑步的上司</td>
+</tr>
+<tr>
+<td>濑户康史</td>
+<td>桐明真司</td>
+<td>简介 钢铁2科员工，入职前在资源2科实习</td>
+</tr>
+<tr>
+<td>桐山照史</td>
+<td>人见将吾</td>
+<td>简介 纤维1科实习生，入职前在纤维2科实习</td>
+</tr>
+<tr>
+<td>山本美月</td>
+<td>香月茜</td>
+<td>简介 资源2科员工，入职前在钢铁2科实习</td>
+</tr>
+<tr>
+<td>朝加真由美</td>
+<td>一之濑夕纪</td>
+<td>简介 一之濑步的母亲</td>
+</tr>
+<tr>
+<td>风间杜夫</td>
+<td>鹰野义郎</td>
+<td>简介 专务</td>
+</tr>
+<tr>
+<td>山内圭哉</td>
+<td>安芸公介</td>
+<td>简介 营业3科主任</td>
+</tr>
+<tr>
+<td>丸山智己</td>
+<td>结城雅治</td>
+<td>简介 钢铁2科主任</td>
+</tr>
+<tr>
+<td>松田贤二</td>
+<td>桧山诚</td>
+<td>简介 资源2科主任</td>
+</tr>
+<tr>
+<td>中村友理</td>
+<td>白石凉子</td>
+<td>简介 食品2科科长</td>
+</tr>
+<tr>
+<td>松泽一之</td>
+<td>宇野道隆</td>
+<td>简介 营业部长</td>
+</tr>
+<tr>
+<td>远山俊也</td>
+<td>小早川升</td>
+<td>简介 营业2科科长</td>
+</tr>
+<tr>
+<td>樱田通</td>
+<td>新村庆太</td>
+<td>简介 阿步的同期，录取后被分配到关西分公司</td>
+</tr>
+<tr>
+<td>加治将树</td>
+<td>长井义彦</td>
+<td>简介 阿步的同期，在营业2科实习</td>
+</tr>
+<tr>
+<td>浪边邦斗</td>
+<td>押本胜</td>
+<td>简介 阿步的同期</td>
+</tr>
+<tr>
+<td>矢柴俊博</td>
+<td>寺崎京介</td>
+<td>简介 资源2科科长</td>
+</tr>
+<tr>
+<td>儿岛雄一</td>
+<td>鸣海亮太</td>
+<td>简介 纤维1科主任</td>
+</tr>
+<tr>
+<td>佐伯新</td>
+<td>高柳清志</td>
+<td>简介 资源1科科长</td>
+</tr>
+<tr>
+<td>山崎树范</td>
+<td>大平龙也</td>
+<td>简介 资源1科员工</td>
+</tr>
+<tr>
+<td>隈部洋平</td>
+<td>户口宏</td>
+<td>简介 资源2科员工</td>
+</tr>
+<tr>
+<td>大岛蓉子</td>
+<td>浅见梢</td>
+<td>简介 财务部部长</td>
+</tr>
+<tr>
+<td>樱井圣</td>
+<td>盐田聪</td>
+<td>简介 纤维1科科长</td>
+</tr>
+<tr>
+<td>宫川一朗太</td>
+<td>江部彻</td>
+<td>简介 营业3科主任，专务派干将</td>
+</tr>
+<tr>
+<td>金原泰成</td>
+<td>食品2科员工</td>
+<td>简介 白石的部下</td>
+</tr>
+<tr>
+<td>牧村泉三郎</td>
+<td>濑野尾</td>
+<td>简介 与一物产董事，曾任与一物产机械部长</td>
+</tr>
+<tr>
+<td>儿玉赖信</td>
+<td>山崎</td>
+<td>简介 与一物产董事，曾任与一物产食品部长</td>
+</tr>
+<tr>
+<td>佐户井贤太</td>
+<td>中村和之</td>
+<td>简介 与一物产人事部部长</td>
+</tr>
+<tr>
+<td>山中聪</td>
+<td>竹下雅也</td>
+<td>简介 与一物产上海分公司职员</td>
+</tr>
+<tr>
+<td>坂田聪</td>
+<td>与一物产监察部成员</td>
+<td></td>
+</tr>
+<tr>
+<td>吉家章人</td>
+<td>与一物产监察部成员</td>
+<td></td>
+</tr>
+<tr>
+<td>菅野久夫</td>
+<td>松原章雄</td>
+<td>简介 阿步的围棋老师</td>
+</tr>
+<tr>
+<td>庵原匠悟</td>
+<td>一之濑步（童年）</td>
+<td></td>
+</tr>
+<tr>
+<td>渡边弦</td>
+<td>一之濑步（少年）</td>
+<td></td>
+</tr>
+<tr>
+<td>温水洋一</td>
+<td>宫胁和久</td>
+<td>简介 大型连锁超市社长，织田的老同学</td>
+</tr>
+<tr>
+<td>伊藤正之</td>
+<td>武林悟史</td>
+<td>简介 东洋矿石科长</td>
+</tr>
+<tr>
+<td>须永庆</td>
+<td>石桥博之</td>
+<td>简介 东洋矿石社长</td>
+</tr>
+<tr>
+<td>吉泽梨里花</td>
+<td>白石纱英</td>
+<td>简介 白石凉子的女儿</td>
+</tr>
+<tr>
+<td>-</td>
+<td>桐明真司的父亲</td>
+<td>配音 野田圭一</td>
+</tr>
+<tr>
+<td>增田怜雄</td>
+<td>织田空</td>
+<td>简介 勇仁的儿子</td>
+</tr>
+<tr>
+<td>川上广高</td>
+<td>织田海</td>
+<td>简介 勇仁的儿子</td>
+</tr>
+<tr>
+<td>平田敦子</td>
+<td>织田佳子</td>
+<td>简介 织田勇仁的妻子</td>
+</tr>
+<tr>
+<td>长谷川朝晴</td>
+<td>高濑</td>
+<td>简介 双菱商事干部</td>
+</tr>
+<tr>
+<td>小林一英</td>
+<td>建筑工地工人</td>
+<td>简介 阿步向其推销毛巾</td>
+</tr>
+<tr>
+<td>内田滋</td>
+<td>中山</td>
+<td>简介 桐明真司的前辈</td>
+</tr>
+<tr>
+<td>纪村龙</td>
+<td>三原</td>
+<td>简介 与一物产前合同工，织田的部下，被辞退后死于事故</td>
+</tr>
+</tbody>
+</table>
+</div><a name="9"> </a><h3>职员表</h3><div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tr>
+<td class="list-key">制作人</td>
+<td class="list-value">高丸雅隆</td>
+</tr>
+<tr>
+<td class="list-key">原著</td>
+<td class="list-value">尹泰浩</td>
+</tr>
+<tr>
+<td class="list-key">导演</td>
+<td class="list-value">河野圭太、城宝秀则、渊上正人</td>
+</tr>
+<tr>
+<td class="list-key">编剧</td>
+<td class="list-value">德永友一</td>
+</tr>
+<tr>
+<td class="list-key">配乐</td>
+<td class="list-value">真锅昭大、MAYUKO</td>
+</tr>
+</table>
+</div><div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tbody>
+<tr>
+<td valign="top" width="327">围棋监修</td>
+<td valign="top" width="327">吉原由香里、桂笃</td>
+</tr>
+<tr>
+<td colspan="1" rowspan="1" valign="top">商社监修</td>
+<td colspan="1" rowspan="1" valign="top">兼松</td>
+</tr>
+</tbody>
+</table>
+</div><p><i>演职员表参考资料</i>   
+<i>  、  </i></p><div class="content_h2"><h2 class="mar-t10">
+<a name="11"> </a>角色介绍<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="11" target="_self">编辑</a>
+</h2>
+</div>
+<div>
+<table class="table">
+<tbody>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a0_21_23_50200009239445156154238543432_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a0.att.hudong.com/21/23/50200009239445156154238543432_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 一之濑步 </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 中岛裕翔 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        22岁，围棋职业棋士的梦想受挫后，托关系进入综合商社。因为之前一心扑在围棋上，既没学历也没社会经验，被视为“高中毕业”“啃老族”，周围人对他不抱任何期待，像丑小鸭一样。但是，他以下围棋时锻练出来的记忆力和洞察力以及不输给任何人的努力为武器，直面困难努力成为公司的一员。这样的他也给周围的人带来了改变。 
+      </dd>
+</dl></td>
+</tr>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a3_75_23_50200009239445156154235889958_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a3.att.hudong.com/75/23/50200009239445156154235889958_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 香月あかね </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 山本美月 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        22岁，与主人公一之濑同期入社的唯一女同事，优秀人才，深谋远虑，对谁都一视同仁。入职后分配到资源二科，才能出众、品行端正，却遭到男同事们的攻击，饱受性骚扰和职权骚扰之苦。只能做些端茶倒水的杂务，像被继母虐待的灰姑娘一样的她拼命寻找与男性社会斗争的方法。 
+      </dd>
+</dl></td>
+</tr>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a0_67_23_50200009239445156154238647210_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a0.att.hudong.com/67/23/50200009239445156154238647210_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 人见将吾 </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 桐山照史 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        22岁，一之濑的同期。爱说爱笑，和蔼可亲，是大家的开心果。因为善于交际，是公司内首屈一指的情报通。入职后如愿分到纺织一科，但遇到了不可理喻的上司。每天在争功诿过、奴役下属的上司手下工作的他，越来越愤怒了。 
+      </dd>
+</dl></td>
+</tr>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_53_23_50200009239445156154236097641_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a4.att.hudong.com/53/23/50200009239445156154236097641_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 桐明真司 </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 濑户康史 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        21岁，一之濑的同期，与一之濑相反，入职考试的成绩出类拔萃，学历高，自尊心强，出人头地的愿望强烈。父亲是大公司的骨干，但他不托后门，希望全凭实力晋升。入职后分到钢铁二科，只能做单调乏味的业务，自觉不能发挥实力，十分苦恼。在他看来，渐渐活跃起来的一之濑的存在，是对自己入职以来努力的全盘否定。 
+      </dd>
+</dl></td>
+</tr>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a0_66_23_50200009239445156154238983415_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a0.att.hudong.com/66/23/50200009239445156154238983415_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 织田勇仁 </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 远藤宪一 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        48岁，一之濑所在营业三科科长，部下眼里的工作狂。虽然看起可怕，但对部下来说是像太阳一样的理想上司。另一方面，工作虽优秀却因为肯巴结上司、不关心公司内斗争而升迁缓慢。遇到一之濑后，最初对这个“废物”十分严厉，但看到他努力的样子后，慢慢接受其成为团队的重要一员。 
+      </dd>
+</dl></td>
+</tr>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_70_23_50200009239445156154239077282_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a4.att.hudong.com/70/23/50200009239445156154239077282_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 安芸公介 </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 山内圭哉 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        36岁，织田的部下，一之濑的前辈。是个大好人，很理解一之濑。刚进公司时曾因为受前辈欺负而考虑辞职，是织田挽救了他。视织田为其职业生涯的恩人，就再难办的业务也努力完成。然而，身为不走运的织田的部下，他就像报恩的仙鹤一样，所做的工作不被高层注意，虽然优秀却得不到好评，为此，织田也很痛心。 
+      </dd>
+</dl></td>
+</tr>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a2_60_23_50200009239445156154236385270_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a2.att.hudong.com/60/23/50200009239445156154236385270_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 一之濑夕纪 </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 朝加真由美 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        52岁，从一之濑步小时候就支持他的围棋梦，鼓励儿子做他喜欢的事。但一心扑在围棋上的儿子长大成人后十分辛苦，这让她不免后悔。丈夫死后，阿步打工的收入勉强糊口，但看到成为职业棋手的梦想受挫、靠打零工度日的儿子，她心如刀绞，无论如何都想帮助儿子，于是找关系与第一物产的专务接触，安排阿步中途加入了入职考试。 
+      </dd>
+</dl></td>
+</tr>
+<tr>
+<td>
+<div class="img img_r" style="width:139px;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_20_23_50200009239445156154238441435_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a4.att.hudong.com/20/23/50200009239445156154238441435_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div></td>
+<td>
+<dl class="roleIntrodcution-descritpion">
+<dt>
+<div class="role-name">
+<span class="item-value"> 鹰野义郎 </span>
+</div>
+<div class="role-actor">
+<span class="item-key">演员</span>
+<span class="item-value"> 风间杜夫 </span>
+</div>
+<div class="role-voice">
+</div>
+</dt>
+<dd class="role-description">
+        56岁。公司的实权人物，对下界社长的位子虎视眈眈。头脑敏锐，非常优秀，经手的各种重要业务都取得成功。他认为，为了让公司做大，能利用的人或事全部要利用起来，对工作无助的事完全不必考虑。这种方法与织田正相反。因为一些旧事，与织田之间常起冲突。 
+      </dd>
+</dl></td>
+</tr>
+</tbody>
+</table>
+</div><p><i>角色介绍参考资料  </i></p><div class="content_h2"><h2 class="mar-t10">
+<a name="13"> </a>音乐原声<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="13" target="_self">编辑</a>
+</h2>
+</div>
+<div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<caption>
+   主题歌
+   <br/>　　
+  </caption>
+<tbody>
+<tr>
+<td width="235"><b>曲名</b></td>
+<td width="422"><b>备注</b></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="235">《コメット》</td>
+<td align="center" valign="middle" width="422">
+<div class="para" label-module="para">
+      演唱：Spitz
+     </div>
+<div class="para" label-module="para">
+      作词、作曲：草野正宗
+     </div>
+<div class="para" label-module="para">
+      发行日期：2016年7月27日
+     </div>
+<div class="para" label-module="para">
+      所属专辑：《醒めない》
+     </div> </td>
+</tr>
+</tbody>
+</table>
+</div><div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<caption>
+   电视原声带
+   <br/>　　
+  </caption>
+<tbody>
+<tr>
+<td colspan="2" style="border: 0px solid #ddd;"><b>曲名</b></td>
+<td style="border: 0px solid #ddd;"><b>备注</b></td>
+</tr>
+<tr>
+<td align="left" style="border: 0px solid #ddd;" valign="top" width="208">
+<div class="para" label-module="para">
+      1.HOPE～期待ゼロの新入社员～
+     </div>
+<div class="para" label-module="para">
+      2.ここが梦の场所
+     </div>
+<div class="para" label-module="para">
+      3.テキパキ働く社员たち
+     </div>
+<div class="para" label-module="para">
+      4.すみません!来てください!
+     </div>
+<div class="para" label-module="para">
+      5.场违い
+     </div>
+<div class="para" label-module="para">
+      6.上司の好みを把握する
+     </div>
+<div class="para" label-module="para">
+      7.谁もが必死で戦っている
+     </div>
+<div class="para" label-module="para">
+      8.一绪に戦う仲间
+     </div>
+<div class="para" label-module="para">
+      9.トラブル発生
+     </div>
+<div class="para" label-module="para">
+      10.何だって必死でやること
+     </div>
+<div class="para" label-module="para">
+      11.爪はじき
+     </div>
+<div class="para" label-module="para">
+      12.プライドも见栄も必要ない
+     </div> </td>
+<td align="left" colspan="1" rowspan="1" style="border: 0px solid #ddd;" valign="top" width="208">
+<div class="para" label-module="para">
+      13.努力が足りなかった
+     </div>
+<div class="para" label-module="para">
+      14.新たな戦い
+     </div>
+<div class="para" label-module="para">
+      15.真っ向胜负
+     </div>
+<div class="para" label-module="para">
+      16.自分に足りないもの
+     </div>
+<div class="para" label-module="para">
+      17.踏ん张れ
+     </div>
+<div class="para" label-module="para">
+      18.胸を张って仕事しろよ
+     </div>
+<div class="para" label-module="para">
+      19.宣戦布告
+     </div>
+<div class="para" label-module="para">
+      20.仆は壊れかけていた
+     </div>
+<div class="para" label-module="para">
+      21.何を大切に仕事をするのかは、みんな违っていいんだ
+     </div>
+<div class="para" label-module="para">
+      22.认められた时の嬉しさ
+     </div>
+<div class="para" label-module="para">
+      23.HOPE～小さくたって辉ける～
+     </div> </td>
+<td align="center" style="border: 0px solid #ddd;" valign="middle" width="208">
+<div class="para" label-module="para">
+      作曲：真锅昭大、 MAYUKO
+     </div>
+<div class="para" label-module="para">
+      发行日期：2016年8月31日
+     </div>
+<div class="para" label-module="para">
+<div class="lemma-picture text-pic layout-right" style="width:220px; cursor: move; float: right;">
+<div class="img img_r">
+<a href="http://tupian.baike.com/a0_37_23_50200009239445156154236505500_s_jpg.html" target="_blank" title="HOPE~未生~"><img alt="HOPE~未生~" data-original="http://a0.att.hudong.com/37/23/50200009239445156154236505500_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HOPE~未生~"/></a>
+<strong>HOPE~未生~</strong>
+</div>
+</div>
+</div> </td>
+</tr>
+</tbody>
+</table>
+</div><p><i>音乐原声参考资料    </i></p><div class="content_h2"><h2 class="mar-t10">
+<a name="15"> </a>幕后花絮<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="15" target="_self">编辑</a>
+</h2>
+</div>
+<p>• 该剧是男子组合Hey! Say! JUMP成员中岛裕翔首次单独主演黄金档电视连续剧。</p><p>• 在该剧播出前的宣传活动上，远藤宪一曾放出豪言，如果观众觉得剧情无趣他便隐退。</p><p>• 该剧的原作网络漫画《未生》在2014年由韩国tvN电视台改编为同名电视剧，这是富士电视台首次翻拍海外作品。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="17"> </a>获奖记录<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="17" target="_self">编辑</a>
+</h2>
+</div>
+<div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tbody>
+<tr>
+<td><b>获奖时间</b></td>
+<td colspan="2"><b>获奖奖项</b></td>
+<td><b>获奖方</b></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="153">2016年</td>
+<td align="center" valign="middle" width="153">第五届“日剧信心奖”</td>
+<td align="center" valign="middle" width="153">最佳男配角</td>
+<td align="center" valign="middle" width="153">山内圭哉  </td>
+</tr>
+</tbody>
+</table>
+</div><div class="content_h2"><h2 class="mar-t10">
+<a name="19"> </a>播出信息<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="19" target="_self">编辑</a>
+</h2>
+</div>
+<div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tbody>
+<tr>
+<td><b>集数</b></td>
+<td><b>播出日期</b></td>
+<td><b>导演</b></td>
+<td><b>收视率</b></td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="118">第一集</td>
+<td align="center" valign="middle" width="118">2016年7月17日</td>
+<td align="center" valign="middle" width="118">河野圭太</td>
+<td align="center" valign="middle" width="118">6.5%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第二集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年7月24日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">城宝秀则</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">7.1%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第三集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年7月31日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">河野圭太</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">6.0%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第四集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年8月7日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">城宝秀则</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">6.4%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第五集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年8月14日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">河野圭太</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">6.0%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第六集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年8月28日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">城宝秀则</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">6.5%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第七集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年9月4日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">渊上正人</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">4.8%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第八集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年9月11日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">城宝秀则</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">4.9%</td>
+</tr>
+<tr>
+<td align="center" colspan="1" rowspan="1" valign="middle">第九集</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">2016年9月18日</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">河野圭太</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">6.6%</td>
+</tr>
+<tr>
+<td align="center" colspan="3" rowspan="1" valign="middle">平均收视率</td>
+<td align="center" colspan="1" rowspan="1" valign="middle">6.09%</td>
+</tr>
+</tbody>
+</table>
+</div><p><i>播出信息参考资料<sup><a href="#hdtop_1" name="hdend_1" title="《HOPE~未生~》收视率">[1]</a></sup></i></p><div class="content_h2"><h2 class="mar-t10">
+<a name="21"> </a>剧集评价<span class="f18">/HOPE~未生~ </span><a class="bjbd" href="#" secid="21" target="_self">编辑</a>
+</h2>
+</div>
+<p>从视觉上看，该剧是一部完全Copy韩版的翻拍剧，重要桥段、人物关系、细节处理都遵循韩版的脉络，甚至就连剧中几位主要人物的造型都与韩版如出一辙。然而，如果说韩版是冰，通过一点点融化剧情，来做到润物细无声的励志，那么日版就是火，用内心炙热的小宇宙来燃烧职场之路。该剧凭借“写实风格”引起新晋上班族的的共鸣。从整部剧的结构上看，主角毫无疑问是一之濑步，这是男主一个人的战场，通过他的个人视角，展现新人职场的现状，同时通过他也展现了很多前辈们的形象，饰演上司的远藤宪一演技真挚，让人入戏，饰演前辈的山内圭哉表演自然，人物刻画细腻，饰演同期生的桐山照史浮夸中带着一丝狡黠。 
+<sup><a href="#hdtop_2" name="hdend_2" title="《HOPE》：是日版不是《未生》 还原日式职场剧">[2]</a></sup>
+<i>（搜狐娱乐评价）</i></p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=HOPE%7E%E6%9C%AA%E7%94%9F%7E" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=HOPE%7E%E6%9C%AA%E7%94%9F%7E" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+			 function goUrl(url){
+			  if(url == "" || url.length == 0){
+			  	return;
+			  }
+			  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+			  window.open(url,'_blank');
+			 }
+			</script>
+<dl class="reference bor-no">
+<dt>参考资料</dt>
+<dd>
+<span>[1]</span><a href="#hdend_1" name="hdtop_1">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://gb.dorama.info/drama/pfd_rate.php?num=17374')">偶像剧场：《HOPE~未生~》收视率<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2016-07-25</span>
+</dd>
+<dd>
+<span>[2]</span><a href="#hdend_2" name="hdtop_2">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://yule.sohu.com/20160722/n460318962.shtml')">搜狐：《HOPE》：是日版不是《未生》 还原日式职场剧<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2016-07-30</span>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;"><dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt></dl>
+<dl id="edit_tag" style="display:none;"><dt id="edit_tag_dt"><span class="l">开放分类</span></dt></dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="HOPE~未生~"/><input id="docidencry" name="docidencry" type="hidden" value="fQhxfQEYNX0BeUBFD"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/HOPE~%E6%9C%AA%E7%94%9F~/a0_84_24_50200009239445155964241470563_jpg.html" target="_blank" title=""><img alt="" src="http://a0.att.hudong.com/84/24/50200009239445155964241470563_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/HOPE~%E6%9C%AA%E7%94%9F~/a0_84_24_50200009239445155964241470563_jpg.html" target="_blank"><em></em>HOPE~未生~图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>9次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=HOPE%7E%E6%9C%AA%E7%94%9F%7E&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>9</span>位</li>
+<li>最近更新时间：2019-07-09 10:58:08</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=HOPE%7E%E6%9C%AA%E7%94%9F%7E&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=oXVlBVUVOBQgAQ1xX&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">101__022</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=IcFpAUWB5AG1CV0Z7&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="IcFpAUWB5AG1CV0Z7">xiebeng</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=TAQREAwReW0JFUAsK&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="TAQREAwReW0JFUAsK">liu951977617wind</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=CRFoEXlEKWFFTDwVC&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="CRFoEXlEKWFFTDwVC">cvkosdfuaoiduf</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=Qf3EAAAgMBWR9eXN5&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="Qf3EAAAgMBWR9eXN5">tanjunhong369</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=tAQREAwRfU0BEXAIC&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="tAQREAwRfU0BEXAIC">xiesiyun</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

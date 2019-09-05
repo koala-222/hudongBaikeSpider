@@ -1,0 +1,308 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/40/D0/40D0A68873CA4C6E1A821C3B23D95B10_90.png?title=%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>《下载南茜》</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/2008%E5%B9%B4%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="2008年电影">2008年电影</a><a href="//fenlei.baike.com/%E5%89%A7%E6%83%85%E7%89%87/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="剧情片">剧情片</a><a href="//fenlei.baike.com/%E6%83%8A%E6%82%9A%E7%89%87/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="惊悚片">惊悚片</a><a href="//fenlei.baike.com/%E7%BE%8E%E5%9B%BD%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="美国电影">美国电影</a><a href="//fenlei.baike.com/%E8%8B%B1%E8%AF%AD%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英语电影">英语电影</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>《下载南茜》是由 玛丽亚·贝罗、杰森·帕特里克、卢夫斯·塞维尔主演的一部<a href="http://www.baike.com/wiki/%E7%BE%8E%E5%9B%BD" target="_blank">美国</a>剧情电影。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="《下载南茜》"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('fun_film')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>中文名：</strong>
+<span>《下载南茜》</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="影片介绍" catalogkey="1" class="bold" href="javascript:void(0)" title="影片介绍">影片介绍</a>
+</li>
+<li>
+<em>2</em><a alt="剧情简介　　" catalogkey="3" class="bold" href="javascript:void(0)" title="剧情简介　　">剧情简介　　</a>
+</li>
+<li>
+<em>3</em><a alt="幕后花絮　" catalogkey="5" class="bold" href="javascript:void(0)" title="幕后花絮　">幕后花絮　</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">影片介绍</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">剧情简介　　</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">幕后花絮　</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>影片介绍<span class="f18">/《下载南茜》 </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" style="WIDTH: 172px"><a href="http://tupian.baike.com/a3_61_06_01300000344140124740067173566_jpg.html" target="_blank" title="《下载南茜》
+"><img alt="《下载南茜》
+" data-original="http://a3.att.hudong.com/61/06/01300000344140124740067173566_s.jpg" id="changeTheId-img_tmp_id" src="http://www.huimg.cn/lib/0.gif" title="《下载南茜》
+"/></a><strong>《<a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C" title="下载南茜">下载南茜</a>》 </strong></div>
+<p>中文名：《下载南茜》</p>
+<p>英文名：《Downloading Nancy》 </p>
+<p>导演：<a class="innerlink" href="http://www.baike.com/wiki/%E4%B9%94%E9%9F%A9%C2%B7%E7%91%9E%E5%85%8B" title="乔韩·瑞克">乔韩·瑞克</a> </p>
+<p>主演： <a class="innerlink" href="http://www.baike.com/wiki/%E7%8E%9B%E4%B8%BD%E4%BA%9A%C2%B7%E8%B4%9D%E7%BD%97" title="玛丽亚·贝罗">玛丽亚·贝罗</a><br/>          <a class="innerlink" href="http://www.baike.com/wiki/%E6%9D%B0%E6%A3%AE%C2%B7%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B" title="杰森·帕特里克">杰森·帕特里克</a> <br/>         <a class="innerlink" href="http://www.baike.com/wiki/%E5%8D%A2%E5%A4%AB%E6%96%AF%C2%B7%E5%A1%9E%E7%BB%B4%E5%B0%94" title="卢夫斯·塞维尔">卢夫斯·塞维尔</a> </p>
+<p>类型： <a class="innerlink" href="http://www.baike.com/wiki/%E6%83%8A%E6%82%9A" title="惊悚">惊悚</a>/剧情 </p>
+<p>国家/地区：<a class="innerlink" href="http://www.baike.com/wiki/%E7%BE%8E%E5%9B%BD" title="美国">美国</a> </p>
+<p>片长：93分钟 </p>
+<p>上映日期：2009-6-5美国 </p>
+<p>对白语言：<a class="innerlink" href="http://www.baike.com/wiki/%E8%8B%B1%E8%AF%AD" title="英语">英语</a> </p>
+<p>发行公司：Strand Releasing </p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>剧情简介　　<span class="f18">/《下载南茜》 </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" style="WIDTH: 178px"><a href="http://tupian.baike.com/a3_45_07_01300000344140124740073285825_jpg.html" target="_blank" title="《下载南茜》花絮"><img alt="《下载南茜》花絮" data-original="http://a3.att.hudong.com/45/07/01300000344140124740073285825_s.jpg" id="changeTheId-img_tmp_id" src="http://www.huimg.cn/lib/0.gif" title="《下载南茜》花絮"/></a><strong>《下载南茜》花絮</strong></div>
+<p>整个故事跟随着一个不幸福、名叫南茜(玛丽亚·贝罗饰)的妻子的命运和脚步--她本来想让一位<a class="innerlink" href="http://www.baike.com/wiki/%E7%BD%91%E5%8F%8B" title="网友">网友</a>杀死自己，可是他们一见面，却陷入了情网当中……辛苦劳作了一天的艾伯特·斯托克威尔(卢夫斯·塞维尔饰)下班回到家中，发现屋子空空落落的，只有妻子南茜留下的一张<a class="innerlink" href="http://www.baike.com/wiki/%E4%BE%BF%E6%9D%A1" title="便条">便条</a>，上面说明她出门会见朋友去了，对于共同生活了15年的妻子，艾伯特没有产生任何怀疑。 <br/><br/>然而让艾伯特想象不到的是，这一次南茜却对他说了一个彻头彻尾的谎言，在无望地等待了几天之后，艾伯特终于正视了这个摆在他面前的难题--他的妻子失踪了。其实，南茜见的是她的网友路易斯·法利(杰森·帕特里克饰)，两个人在网络上结识，通过了几次深入的交谈而有了情感方面的<a class="innerlink" href="http://www.baike.com/wiki/%E5%85%B1%E9%B8%A3" title="共鸣">共鸣</a>。对于南茜来说，路易斯是以“救世主”的形象出现在她那异常灰暗的世界中的，他们虽然是在猥亵的聊天室以及交互式的网页上认识的，可是见面之后，却不能阻止两个人展开的一场以救赎为目的的充满曲折的诉求。 <br/><br/>同样身心俱疲而且异常地孤独，路易斯和南茜不断地通过<a class="innerlink" href="http://www.baike.com/wiki/%E7%94%B5%E5%AD%90%E9%82%AE%E4%BB%B6" title="电子邮件">电子邮件</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E7%85%A7%E7%89%87" title="照片">照片</a>和承诺在彼此之间寻找慰藉……现在，艾伯特却被迫要与路易斯抗衡，因为他已经听说了自己的妻子是如何在网上交友，继而发展出一段<a class="innerlink" href="http://www.baike.com/wiki/%E7%BD%91%E6%81%8B" title="网恋">网恋</a>，以及他们如何相约一起结束这一切的。艾伯特发现妻子离家前的最后几日，过着的是异常悲伤且孤独的生活，已经把自己压抑到了一种绝望的境地，于是南茜决定去一个完全不一样的地方，寻找另外一种形式的自由和圆满，在那里，她的痛苦将会变成快乐--死亡虽然代表着<a class="innerlink" href="http://www.baike.com/wiki/%E7%BB%88%E7%BB%93" title="终结">终结</a>，却也象征着一个全新的开始。到了最后，路易斯已经意识到他的生活受到的是什么样的层层禁锢，他只能在有限的空间里寻找属于自己的自由；至于南茜，她早就已经想明白了，属于她的惟一解脱就是死亡，只有这样她才能获得最终的释放；而艾伯特却不得不继续下去，挽回或拯救剩下来的一切。 </p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>幕后花絮　<span class="f18">/《下载南茜》 </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<p><strong>【从孤独走向终结】</strong> </p>
+<div class="img img_r" style="WIDTH: 178px"><a href="http://tupian.baike.com/a1_85_08_01300000344140124740085929365_jpg.html" target="_blank" title="《下载南茜》花絮"><img alt="《下载南茜》花絮" data-original="http://a1.att.hudong.com/85/08/01300000344140124740085929365_s.jpg" id="changeTheId-img_tmp_id" src="http://www.huimg.cn/lib/0.gif" title="《下载南茜》花絮"/></a><strong>《下载南茜》花絮</strong></div>
+<p>《下载南茜》遵循的是一个孤独的女子的脚步，她离开了自己的丈夫，就为了寻找她在互联网上认识的“灵魂伴侣”，然后结束自己的生命，以此来逼迫着观众屈服于影片中的角色在这个世界当中所面对的黑暗和阴郁--也许你不会对他们产生移情作用或同情心，但至少能够理解他们所采取的行为。影片是来自于瑞典的商业广告<a class="innerlink" href="http://www.baike.com/wiki/%E5%AF%BC%E6%BC%94" title="导演">导演</a>乔韩·瑞克(Johan Renck)的大银幕<a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%84%E5%A5%B3%E4%BD%9C" title="处女作">处女作</a>，在2008年的圣丹斯电影节上参加了竞赛片单元，受到了<a class="innerlink" href="http://www.baike.com/wiki/%E5%BD%B1%E8%AF%84" title="影评">影评</a>人的一致好评，并顺利地卖出了全球发行版权，瑞克说：“除了广告行业，我在音乐录影带的领域里也取得了一些过得去的成绩。我想我之所以能够走到今天这一步，还要源于我的生活环境，虽然我现在仍然住在瑞典，其实我对成长的惟一记忆就是满世界的奔跑，在包括<a class="innerlink" href="http://www.baike.com/wiki/%E7%91%9E%E5%85%B8" title="瑞典">瑞典</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E6%8C%AA%E5%A8%81" title="挪威">挪威</a>、美国和<a class="innerlink" href="http://www.baike.com/wiki/%E7%A7%91%E5%A8%81%E7%89%B9" title="科威特">科威特</a>在内的国家里都曾逗留过很长一段时间。至于现在，因为我的工作性质，我仍然没有办法在一个国家停留太长的时间，看来我天生就是一块当‘旅行者’的料儿。” <br/><br/>一开始的时候，乔韩·瑞克是以<a class="innerlink" href="http://www.baike.com/wiki/%E9%9F%B3%E4%B9%90%E4%BA%BA" title="音乐人">音乐人</a>和<a class="innerlink" href="http://www.baike.com/wiki/%E5%94%B1%E7%89%87" title="唱片">唱片</a>制作人的身份走进这个与娱乐有关的行当的，很快，他就开始自己拍摄MV，而且他还发现，原来他更愿意去讲述一个又一个稀奇古怪的故事，瑞克说：“没过多久，我就几乎放弃了音乐的制作，成为了专职的<a class="innerlink" href="http://www.baike.com/wiki/MV" title="MV">MV</a>导演，中间也接下了很多商业广告的执导工作。因为我发现，作为一名音乐人，在创造力方面讲究的是一种‘速食文化’，你必须大量地发表音乐作品，而且还要挤出足够多的时间，花费在巡演或偏僻的旅馆房间里……而就我个人来说，脑动力的活跃程度只能用一般来形容，所以说搞音乐真的是不太适合我，再加上我性格中有自我毁灭的潜在倾向，很可能会阻止我在音乐方面的发展。其实一直以来，我总是会被照片上的画面和小说里的故事所深深地吸引，喜欢想象着将两者结合到一起会传达出一种什么样的信息--所以只有<a class="innerlink" href="http://www.baike.com/wiki/%E6%91%84%E5%83%8F%E6%9C%BA" title="摄像机">摄像机</a>才符合我的终极想象，对于我来说，那是一个全新且美好的世界，也准许我最终走上了电影之路。” <br/><br/>当乔韩·瑞克决定慢慢脱离音乐工业之后，他开始用摄像机来记录自己所看到的一切，瑞克说：“虽然《下载南茜》是我的第一部导演作品，但在此之前，我制作过大量各类短片，还包括前面提到的MV和广告，对于我来说，这些都是难以衡量的经验。不过我也确实是第一次使用电影的手段和框架去讲述一个完整的故事，那种感觉就好像是，在经过了这么多年的摸索之后，我终于找到了自己寻觅了许久的企盼。” <br/><br/>其实打从乔韩·瑞克开始执导MV的时候起，他就知道自己早晚有一天会迈进电影导演的行列，瑞克承认道：“确定了为之努力的方向之后，你自然就会去挖掘能够向目标靠拢的故事素材了……除了我自己也在努力地创作写东西之外，我还不断地阅读别人交给我的剧本，这种‘饥不择食’的方式注定我要看到一大堆非常烂的垃圾，然而它们中却有一个剧本真的包含了能够引发我的制作兴趣的故事内容。以不改变里面的基本概念为前提，我在剧本上标明了大量的注解，然后将它退回给两位<a class="innerlink" href="http://www.baike.com/wiki/%E7%BC%96%E5%89%A7" title="编剧">编剧</a>帕梅拉·卡明(Pamela Cuming)和<a class="innerlink" href="http://www.baike.com/wiki/%E6%9D%8E%C2%B7%E7%BD%97%E6%96%AF" title="李·罗斯">李·罗斯</a>(Lee Ross)--他们完全接受了我提出的修改意见，于是我们一起开始了富有成效的重写工作，直到里面包含了所有我们希望出现的电影元素。从本质上而言，《下载南茜》所讲述的是一个极其不稳定的惊悚故事，所以在最初筹备拍摄预算的时候，我们确实遇到了不小的障碍，不过资金一旦到位，后面对演员的选择反而变成了一个稍微简单的过程，因为我相信他们肯定能够发现影片中的角色和故事是多么地具有趣味性且耐人寻味。即使如此，我们仍然意识到这里有待解决的问题一大堆，钱和演员是一方面，后勤工作也需要非常细致的安排。” <br/><br/><strong>【优秀的卡司阵容】</strong> </p>
+<div class="img img_r" style="WIDTH: 178px"><a href="http://tupian.baike.com/a1_26_08_01300000344140124740089784721_jpg.html" target="_blank" title="《下载南茜》花絮"><img alt="《下载南茜》花絮" data-original="http://a1.att.hudong.com/26/08/01300000344140124740089784721_s.jpg" id="changeTheId-img_tmp_id" src="http://www.huimg.cn/lib/0.gif" title="《下载南茜》花絮"/></a><strong>《下载南茜》花絮</strong></div>
+<p>对于一部独立电影来说，2008年的<a class="innerlink" href="http://www.baike.com/wiki/%E5%9C%A3%E4%B8%B9%E6%96%AF%E7%94%B5%E5%BD%B1%E8%8A%82" title="圣丹斯电影节">圣丹斯电影节</a>，也就成了第一次做导演的乔韩·瑞克所能想象得到的最完美的展示<a class="innerlink" href="http://www.baike.com/wiki/%E8%88%9E%E5%8F%B0" title="舞台">舞台</a>，他表示：“由于这么多年来，我一直拍摄公益或商业广告，所以对于一部作品的制作流程，早就已经不陌生了。虽然我总是在留意有没有适合我的电影<a class="innerlink" href="http://www.baike.com/wiki/%E5%89%A7%E6%9C%AC" title="剧本">剧本</a>，但《下载南茜》却是第一个让我产生真正的兴趣的选择。因此，我自然会以制作一部电影的眼光去看待它，直至到它完全符合我的所有要求。我是那种特别知道自己想要什么的人，虽然对于我来说，花掉这么长的时间和数量如此多的演员合作，还是第一次，但只要明确目的，一切不可能都会变成可能--首先让他们的表演能够有效地推动故事的发展，然后我再进行一些调整，将不同的性格特色和戏剧张力尽可能地融合到一起。幸运的是，我集结的是一批非常有智慧且才华横溢的卡司阵容，他们不仅尽全力地支持着我，同时也接受了这样一种非常态下的电影制作方式。而且打从一开始，在影片中饰演了路易斯的杰森·帕特里克(Jason Patric)就参与到所有的工作当中，给予的是全权的配合，他对人物和故事的理解，已经到达了一种完美的境界，我从这个充满魅力、性情乖戾、充满才气的男人身上学到了很多东西。” <br/><br/>在将《下载南茜》搬上<a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%A7%E9%93%B6%E5%B9%95" title="大银幕">大银幕</a>的过程中，乔韩·瑞克需要面对的是各种各样之前无法想象的挑战，他继续说：“筹资拍片也只是第一步而已，我们在演员的选择方面也经历了灾难性的波折，由于资金有限，留给我们的回旋余地就会很小，每时每刻都有可能加入进来新演员，即使到了最后一分钟，我仍然觉得没有为影片中的角色寻找到足够的演员，最后只能忍痛删掉剧本中的几个影响力没有那么大的人物。其实早在三年前，我们就已经准备好了影片的拍摄事宜了，结果却因为当时饰演南茜的人意外怀孕而使得所有的努力全部泡汤……那个时候我真的是心灰意冷到了极点。一天晚上，我去电影院看了<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%AD%94%E6%9C%AF%E5%B8%88%E3%80%8B" title="《魔术师》">《魔术师》</a> (The Illusionist)，卢夫斯·塞维尔(Rufus Sewell)的表演彻底地把我给征服了，所以我们找到他，商谈合作的可能性。在塞维尔同意饰演丈夫艾伯特之后，一切突然出现了转机，我们也找到了那个更适合南茜的演员人选--玛丽亚·贝罗(Maria Bello)。” <br/><br/>不仅在圣丹斯电影节上参加了<a class="link_red" href="javascript:linkredwin('竞赛片');" target="" title="竞赛片">竞赛片</a>的单元，而且还得到了评委会大奖的提名，《下载南茜》也算是受到了业内人士的初步肯定，但乔韩·瑞克仍然希望影片可以借这个机会顺利找到发行商，真正地落户安家，瑞克说：“我想也只有这个方法，才能让更多的人走进<a class="innerlink" href="http://www.baike.com/wiki/%E7%94%B5%E5%BD%B1%E9%99%A2" title="电影院">电影院</a>看到这部影片……其实从我个人出发，我是希望能够在圣丹斯看到更多的电影作品，认识更多的人，参加一场真正的独立电影的<a class="innerlink" href="http://www.baike.com/wiki/%E5%BA%86%E5%85%B8" title="庆典">庆典</a>。” <br/><br/>当乔韩·瑞克还是一个少年郎的时候，他就一直非常喜欢像<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%97%AA%E7%81%B5%E3%80%8B" title="《闪灵》">《闪灵》</a> (The Shining)、<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%A9%B1%E9%AD%94%E4%BA%BA%E3%80%8B" title="《驱魔人》">《驱魔人》</a> (The Exorcist)和<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%8F%91%E6%9D%A1%E6%A9%98%E5%AD%90%E3%80%8B" title="《发条橘子》">《发条橘子》</a> (A Clockwork Orange)这种极具惊悚色彩的电影作品，所以《下载南茜》自然也受到了潜移默化的影响，瑞克说：“不仅是电影作品，还有那部英国电视剧<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%95%85%E5%9B%AD%E9%A3%8E%E9%9B%A8%E5%90%8E%E3%80%8B" title="《故园风雨后》">《故园风雨后》</a> (Brideshead Revisited)，也对当时还是一个小男孩的我带来了非常深远的启发。当我和杰森·帕特里克谈论起《驱魔人》的时候，两个人都因为这部影片被低估而唏嘘不已，同时也为影片中所展现出来的那种出色的才华以及倍受肯定的表演兴奋异常，我们不约而同地想起了年轻的牧师戴米恩，想起他是如何丢失了信仰和面对罪恶的，我真的非常喜欢这个角色的扮演者杰森·米勒(Jason Miller)的表演手段，就在我夸夸其谈的时候，帕特里克却平静地对我说，‘好吧，他是我的父亲。’把我吓了一跳。” <br/><br/>虽然离开了音乐工业已经有一段时间了，但是在乔韩·瑞克的心目中，不管音乐还是电影，成功的定义其实是一样的，他说：“同理的还有文学和艺术--只要能够对除作者以外的人产生影响，那么它们就是真正意义上的成功之作。” <br/><br/>在影片中饰演丈夫的是来自于英国的演员卢夫斯·塞维尔，而他之前的角色大多是积郁很深、垂头丧气的男人形象，里面最著名的无疑就是<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%81%8B%E7%88%B1%E5%81%87%E6%9C%9F%E3%80%8B" title="《恋爱假期》">《恋爱假期》</a> (The Holiday)中那个很糟糕的男友了。而到了《下载南茜》，塞维尔却摇身一变成了“苦主”，不得不面对有外遇的妻子和她的情人，塞维尔说：“其实很多人对我说过，他们都觉得凭借着我的表演经验，我似乎更适合杰森·帕特里克扮演的那个角色……然而我需要说明的是，我不是那种特型<a class="innerlink" href="http://www.baike.com/wiki/%E6%BC%94%E5%91%98" title="演员">演员</a>，所以在我看来，如果有人选择我，肯定不愿意让我不断地‘重复自己’，我尊重乔韩·瑞克的定位，事实证明，他的决定是对的。” </p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a><a href="http://so.baike.com/s/tupian/%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B" id="moreId" target="_blank">更多&gt;&gt;</a></span><div class="scrollX">
+<div class="scroll-con" style="height:200px;"><ul class="fodder-img" id="figul" style="width:10000px;position: absolute;">
+<li>
+<a class="fimg" href="http://tupian.baike.com/a1_60_33_16300000344140124740336414917_jpg.html?prd=zhengwenye_left_futu_tupian" target="_blank"><img alt="《下载南茜》" src="http://a1.att.hudong.com/60/33/16300000344140124740336414917_140.jpg"/></a><a href="http://tupian.baike.com/a1_60_33_16300000344140124740336414917_jpg.html?prd=zhengwenye_left_futu_miaoshu" target="_blank">《下载南茜》</a>
+</li>
+<li>
+<a class="fimg" href="http://tupian.baike.com/a2_33_33_16300000344140124740334134003_jpg.html?prd=zhengwenye_left_futu_tupian" target="_blank"><img alt="《下载南茜》" src="http://a2.att.hudong.com/33/33/16300000344140124740334134003_140.jpg"/></a><a href="http://tupian.baike.com/a2_33_33_16300000344140124740334134003_jpg.html?prd=zhengwenye_left_futu_miaoshu" target="_blank">《下载南茜》</a>
+</li>
+<li>
+<a class="fimg" href="http://tupian.baike.com/a4_13_33_16300000344140124740330700535_jpg.html?prd=zhengwenye_left_futu_tupian" target="_blank"><img alt="《下载南茜》" src="http://a4.att.hudong.com/13/33/16300000344140124740330700535_140.jpg"/></a><a href="http://tupian.baike.com/a4_13_33_16300000344140124740330700535_jpg.html?prd=zhengwenye_left_futu_miaoshu" target="_blank">《下载南茜》</a>
+</li>
+<li>
+<a class="fimg" href="http://tupian.baike.com/a4_47_32_16300000344140124740329262672_jpg.html?prd=zhengwenye_left_futu_tupian" target="_blank"><img alt="《下载南茜》" src="http://a4.att.hudong.com/47/32/16300000344140124740329262672_140.jpg"/></a><a href="http://tupian.baike.com/a4_47_32_16300000344140124740329262672_jpg.html?prd=zhengwenye_left_futu_miaoshu" target="_blank">《下载南茜》</a>
+</li>
+</ul></div>
+<p class="arrow gray9" id="fuTuPageId" style="display:none;"><i><span id="fuTuPageNumSpan"></span></i><span id="fuTuPageSizeSpan"></span><em class="btn-prev" id="fuTuBtnPrev"></em><em class="btn-next" id="fuTuBtnNext"></em></p>
+</div>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+		 function goUrl(url){
+		  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+		  window.open(url,'_blank');
+		 }
+		</script>
+<dl class="reference bor-no">
+<dt>扩展阅读</dt>
+<dd>
+<em>1</em>电影网，《下载南茜》Downloading Nancy ，2009年<a><input name="refrenceurlinput" onclick="goUrl('http://m1905.com/FilmInfo/film/2009/7/1016341714537.shtml')" readonly="" type="text" value="http://m1905.com/FilmInfo/film/2009/7/1016341714537.shtml"/></a>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/2008%E5%B9%B4%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kuozhan_kaifangfenlei">2008年电影</a><a href="http://fenlei.baike.com/%E5%89%A7%E6%83%85%E7%89%87/?prd=zhengwenye_left_kuozhan_kaifangfenlei">剧情片</a><a href="http://fenlei.baike.com/%E6%83%8A%E6%82%9A%E7%89%87/?prd=zhengwenye_left_kuozhan_kaifangfenlei">惊悚片</a><a href="http://fenlei.baike.com/%E7%BE%8E%E5%9B%BD%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kuozhan_kaifangfenlei">美国电影</a><a href="http://fenlei.baike.com/%E8%8B%B1%E8%AF%AD%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英语电影</a><a href="/fenlei/">美国剧情片</a><a href="/fenlei/">美国惊悚片</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="2008年电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="剧情片"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="惊悚片"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="美国电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英语电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="美国剧情片"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="美国惊悚片"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="《下载南茜》"/><input id="docidencry" name="docidencry" type="hidden" value="CQloEXlEDUFVXCwVC"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B/a3_61_06_01300000344140124740067173566_jpg.html" target="_blank" title=""><img alt="" src="http://a3.att.hudong.com/61/06/01300000344140124740067173566_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B/a3_61_06_01300000344140124740067173566_jpg.html" target="_blank"><em></em>《下载南茜》图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>7次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>5</span>位</li>
+<li>最近更新时间：2011-06-26 19:01:11</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=%E3%80%8A%E4%B8%8B%E8%BD%BD%E5%8D%97%E8%8C%9C%E3%80%8B&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=TAAREAwRXWUVEWAcD&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">凑巧</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=yQ11RVURfAmdSeElI&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="yQ11RVURfAmdSeElI">农夫山泉有点甜</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=GdwFRBHZmXW9da0V8&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="GdwFRBHZmXW9da0V8">田恬</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=dd3cDAFtRA3dfAX12&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="dd3cDAFtRA3dfAX12">tlzy</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=mZX10agFZZWQFelVv&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="mZX10agFZZWQFelVv">哗天霓彩</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=TAAREAwRXWUVEWAcD&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="TAAREAwRXWUVEWAcD">凑巧</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%91%9E%E5%85%B8&amp;prd=citiao_so" target="_blank" title="瑞典"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/28/47/50200009239445155794478239713_140.jpg);"><p></p></span>瑞典</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%8E%9B%E4%B8%BD%E4%BA%9A%C2%B7%E8%B4%9D%E7%BD%97&amp;prd=citiao_so" target="_blank" title="玛丽亚·贝罗"><span class="aimg" style="background-image:url(http://a3.att.hudong.com/44/73/50200009239445155866735367427_140.jpg);"><p></p></span>玛丽亚·…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%9D%B0%E6%A3%AE%C2%B7%E5%B8%95%E7%89%B9%E9%87%8C%E5%85%8B&amp;prd=citiao_so" target="_blank" title="杰森·帕特里克"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/15/86/50200014992522154840867573847_140.jpg);"><p></p></span>杰森·帕…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%8D%A2%E5%A4%AB%E6%96%AF%C2%B7%E5%A1%9E%E7%BB%B4%E5%B0%94&amp;prd=citiao_so" target="_blank" title="卢夫斯·塞维尔"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/16/70/50200009239445155865703611156_140.jpg);"><p></p></span>卢夫斯·…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%83%8A%E6%82%9A%E7%89%87&amp;prd=citiao_so" target="_blank" title="惊悚片"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/41/68/20300542519510139918682549812_140.jpg);"><p></p></span>惊悚片</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%BE%8E%E5%9B%BD&amp;prd=citiao_so" target="_blank" title="美国"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/41/15/20300542392970152946150216586_140.jpg);"><p></p></span>美国</a></li>
+</ul>
+</div>
+<div><iframe frameborder="0" height="384" marginheight="0" marginwidth="0" scrolling="no" src="http://www.baike.com/shouye/reci/reci-yule-common.html" width="270"></iframe></div>
+<div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%8F%B6%E9%97%AE%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《叶问》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%9A%AE%E5%85%89%E4%B9%8B%E5%9F%8E%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《暮光之城》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%8B%86%E5%BC%B9%E9%83%A8%E9%98%9F%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《拆弹部队》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E7%B2%BE%E8%88%9E%E9%97%A8%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《精舞门》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E9%95%BF%E6%B1%9F%E4%B8%83%E5%8F%B7%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《长江七号》</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%8A%9F%E5%A4%AB%E7%86%8A%E7%8C%AB%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《功夫熊猫》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%A5%B3%E4%BA%BA%E4%B8%8D%E5%9D%8F%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《女人不坏》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%90%8C%E7%BA%A7%E7%94%9F%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《同级生》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E9%BA%A6%E7%94%B0%E9%87%8C%E7%9A%84%E5%AE%88%E6%9C%9B%E8%80%85%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《麦田里的守望者》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E8%B4%AB%E6%B0%91%E7%AA%9F%E7%9A%84%E7%99%BE%E4%B8%87%E5%AF%8C%E7%BF%81%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《贫民窟的百万富翁》</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

@@ -1,0 +1,270 @@
+﻿<div class="w-990">
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy">
+<h3>“<b>AJAX</b>”是个多义词，全部含义如下：
+				   </h3>
+<span class="r grayc"><a class="ambiguityCorrectionNew" href="#" onclick="polysemycheck();">纠错</a> | <a class="add" href="#" onclick="polysemycheck();" style="cursor:pointer">编辑多义词</a></span>
+<ul id="polysemyAll" style="display:block">
+<li class="current"><strong>10</strong></li>
+</ul>
+<input id="doctitle_polysemy" name="doctitle_polysemy" type="hidden" value="AJAX"/>
+</div>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/ajax%5B10%5D" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/26/D3/26D35D23E1DDC41A6F66F79D98C08E1A_90.png?title=ajax%5B10%5D"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>ajax[10]</h1></div>
+<div class="clear"></div>
+<div class="place">
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>AJAX即“<a href="http://www.baike.com/wiki/Asynchronous" target="_blank">Asynchronous</a>，Javascript+XML”（异步JavaScript和XML），是指一种创建交互式网页应用的网页开发<a href="http://www.baike.com/wiki/%E6%8A%80%E6%9C%AF" target="_blank">技术</a>。AJAX=异步JavaScript和XML（标准通用标记语言的子集）。AJAX是一种用于创建快速动态网页的技术。通过在后台与服务器进行少量数据交换，AJAX可以使网页实现异步更新。这意味着可以在不重新加载整个网页的情况下，对网页的某部分进行更新。传统的网页（不使用AJAX）如果需要更新内容，必须重载整个网页面。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="ajax[10]"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('science_program')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>中文名：</strong>
+<span>阿贾克斯</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>英文名：</strong>
+<span>Asynchronous Javascript And XML</span>
+</td> </tr> <tr>
+<td>
+<strong>名称：</strong>
+<span>AJAX</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="名称来源 " catalogkey="1" class="bold" href="javascript:void(0)" title="名称来源 ">名称来源</a>
+</li>
+<li>
+<em>2</em><a alt="应用优势" catalogkey="3" class="bold" href="javascript:void(0)" title="应用优势">应用优势</a>
+</li>
+<li>
+<em>3</em><a alt="应用案例" catalogkey="5" class="bold" href="javascript:void(0)" title="应用案例">应用案例</a>
+</li>
+<li>
+<em>4</em><a alt="开发模式" catalogkey="7" class="bold" href="javascript:void(0)" title="开发模式">开发模式</a>
+</li>
+<li>
+<em>5</em><a alt="开发框架" catalogkey="9" class="bold" href="javascript:void(0)" title="开发框架">开发框架</a>
+</li>
+<li>
+<em>6</em><a alt="JSer" catalogkey="11" class="bold" href="javascript:void(0)" title="JSer">JSer</a>
+</li>
+<li>
+<em>7</em><a alt="主要技术" catalogkey="13" class="bold" href="javascript:void(0)" title="主要技术">主要技术</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">名称来源</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">应用优势</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">应用案例</a>
+<i></i>
+</li>
+<li>
+<em>4</em><a catalogkey="7" class="bold" href="javascript:void(0)">开发模式</a>
+<i></i>
+</li>
+<li>
+<em>5</em><a catalogkey="9" class="bold" href="javascript:void(0)">开发框架</a>
+<i></i>
+</li>
+<li>
+<em>6</em><a catalogkey="11" class="bold" href="javascript:void(0)">JSer</a>
+<i></i>
+</li>
+<li>
+<em>7</em><a catalogkey="13" class="bold" href="javascript:void(0)">主要技术</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>名称来源 <span class="f18">/ajax[10] </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-0" style="WIDTH: 207px; DISPLAY: block"><a href="http://tupian.baike.com/a4_30_70_01300542517414139918707840955_jpg.html" target="_blank" title="1"><img alt="1" data-original="http://a4.att.hudong.com/30/70/01300542517414139918707840955_s.jpg" id="changeTheId-img-0" src="http://www.huimg.cn/lib/0.gif" title="1"/></a><strong>AJAX</strong></div>AJAX 指异步JavaScript及XML（AsynchronousJavascript+XML）。<br/>Web应用的交互如Flickr,Backpack和Google在这方面已经有质的飞跃。这个术语源自<a class="innerlink" href="http://www.baike.com/wiki/%E6%8F%8F%E8%BF%B0" target="_blank" title="描述">描述</a>从基于Web的应用到基于数据的应用的转换。在基于数据的应用中，用户需求的数据如联系人列表，可以从独立于实际网页的服务端取得并且可以被动态地写入网页中，给缓慢的Web应用体验着色使之像桌面应用一样。<br/>Ajax的核心是JavaScript对象XmlHttpRequest。该对象在Internet Explorer 5中首次引入，它是一种支持异步请求的技术。简而言之，XmlHttpRequest使您可以使用JavaScript向服务器提出请求并处理响应，而不阻塞用户。<br/><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>应用优势<span class="f18">/ajax[10] </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+		AJAX不是一种新的编程语言，而是一种用于创建更好更快以及交互性更强的 Web 应用程序的技术。<br/>使用Javascript向服务器提出请求并处理响应而不阻塞用户！核心对象XMLHTTPRequest。通过这个对象，您的 JavaScript 可在不重载页面的情况与Web服务器交换数据。<br/>AJAX 在浏览器与 Web 服务器之间使用异步数据传输（HTTP <a class="innerlink" href="http://www.baike.com/wiki/%E8%AF%B7%E6%B1%82" target="_blank" title="请求">请求</a>），这样就可使网页从服务器请求少量的信息，而不是整个页面。<br/>AJAX 可使因特网应用程序更小、更快，更友好。<br/>AJAX 是一种独立于 Web 服务器软件的浏览器技术。　AJAX 基于下列 Web 标准：<br/>JavaScriptXMLHTMLCSS在 AJAX 中使用的 Web 标准已被良好定义，并被所有的主流浏览器支持。AJAX 应用程序独立于浏览器和平台。<br/>Web 应用程序较桌面应用程序有诸多优势；它们能够涉及广大的用户，它们更易安装及维护，也更易开发。<br/>不过，因特网应用程序并不像传统的桌面应用程序那样完善且友好。<br/>通过 AJAX，因特网应用程序可以变得更完善，更友好。<br/><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>应用案例<span class="f18">/ajax[10] </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+		该技术在1998年前后得到了应用。允许客户端脚本发送HTTP请求（XMLHTTP）的第一个组件由Outlook Web Access小组写成。该组件原属于微软Exchange Server，并且迅速地成为了Internet Explorer 4.0的一部分。部分观察家认为，Outlook Web Access是第一个应用了Ajax技术的成功的商业应用程序，并成为包括Oddpost的网络邮件产品在内的许多产品的领头羊。但是，2005年初，许多事件使得Ajax被大众所接受。Google在它著名的<a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%A4%E4%BA%92" target="_blank" title="交互">交互</a>应用程序中使用了异步通讯，如Google、Google地图、Google搜索<br/>建议、Gmail等。Ajax这个词由《Ajax: A New Approach to Web Applications》一文所创，该文的迅速流传提高了人们使用该项技术的意识。另外，对Mozilla/Gecko的支持使得该技术走向成熟，变得更为易用。<br/>AJAX前景非常乐观，可以提高系统性能，优化用户界面。AJAX现有直接框架AjaxPro，可以引入AjaxPro.2.dll文件，可以直接在前台页面JS调用后台页面的方法。但此框架与FORM验证有冲突。另外微软也引入了AJAX组件，需要添加AjaxControlToolkit.dll文件，可以在控件列表中出现相关控件。<br/><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>开发模式<span class="f18">/ajax[10] </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+		许多重要的技术和AJAX开发模式可以从现有的知识中获取。例如，在一个发送请求到服务端的应用中，必须包含请求顺序、优先级、超时响应、错误处理及回调，其中许多元素已经在Web服务中包含了。同时，随着技术的成熟还会有许多地方需要改进，特别是UI部分的易用性。<br/>AJAX开发与传统的C/S开发有很大的不同。这些不同引入了新的编程问题，最大的问题在于易用性。由于AJAX依赖浏览器的JavaScript和XML，浏览器的兼容性和支持的标准也变得和JavaScript的运行时性能一样重要了。这些问题中的大部分来源于浏览器、服务器和技术的组合，因此必须理解如何才能最好的使用这些技术。<br/>综合各种变化的技术和强耦合的客户服务端环境，AJAX提出了一种新的开发方式。AJAX开发人员必须理解传统的MVC架构，这限制了应用层次之间的<a class="innerlink" href="http://www.baike.com/wiki/%E8%BE%B9%E7%95%8C" target="_blank" title="边界">边界</a>。同时，开发人员还需要考虑C/S环境的外部和使用AJAX技术来重定型MVC边界。最重要的是，AJAX开发人员必须禁止以页面集合的方式来考虑Web应用而需要将其认为是单个页面。一旦UI设计与服务架构之间的范围被严格区分开来后，开发人员就需要更新和变化的技术集合了。<br/><div class="content_h2"><h2 class="mar-t10">
+<a name="9"> </a>开发框架<span class="f18">/ajax[10] </span><a class="bjbd" href="#" secid="9" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-1" style="WIDTH: 220px"><a href="http://tupian.baike.com/a3_06_70_01300542517414139918709762347_jpg.html" target="_blank" title="1"><img alt="1" data-original="http://a3.att.hudong.com/06/70/01300542517414139918709762347_s.jpg" id="changeTheId-img-1" src="http://www.huimg.cn/lib/0.gif" title="1"/></a>AJAX</div>随着AJAX迅速地引人注目起来，我想开发人员对这种技术的期待也迅速地增加。就像任何新技术，AJAX的兴旺也需要一整个开发工具/编程语言及相关技术系统来支撑。<br/><div class="content_h2"><h2 class="mar-t10">
+<a name="11"> </a>JSer<span class="f18">/ajax[10] </span><a class="bjbd" href="#" secid="11" target="_self">编辑</a>
+</h2>
+</div>
+<br/>JSer是国人开发的一款全功能的开源脚本框架，使用JSer可以极其方便的进行AJAX操作。<br/>以下代码演示了如何使用JSer发送一个异步的AJAX POST请求：<br/>1<br/>2<br/>3<br/>4<br/>5<br/>6<br/>7<br/>8<br/>9<br/>JSer.url("save.jsp").set({<br/>key:"test",<br/>name:"book"/*向save.jsp程序发送两个POST参数，分别是key=test,name=book*/<br/>}).ajax({//执行AJAX请求<br/>method:'post',//POST方式发送请求<br/>success:function(d){//AJAX请求成功时执行此回调函数<br/>alert(d);//弹出返回提示<br/>}<br/>});<br/><div class="content_h2"><h2 class="mar-t10">
+<a name="13"> </a>主要技术<span class="f18">/ajax[10] </span><a class="bjbd" href="#" secid="13" target="_self">编辑</a>
+</h2>
+</div>
+		Web标准（standards-based presentation）XHTML+CSS的表示；<br/>使用DOM（Document Object Model）进行动态显示及<a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%A4%E4%BA%92" target="_blank" title="交互">交互</a>；<br/>使用 XML 和XSLT进行数据交换及相关操作；<br/>使用 XMLHttpRequest 进行异步数据查询、检索；<br/>使用 JavaScript 将所有的东西绑定在一起。英文参见Ajax的提出者Jesse James Garrett的原文,原文题目（Ajax: A New Approach to Web Applications）。<br/>类似于DHTML或LAMP，AJAX不是指一种单一的技术，而是有机地利用了一系列相关的技术。事实上，一些基于AJAX的“派生/合成”式（derivative/composite）的技术正在出现，如“AFLAX”。<br/>AJAX的应用使用支持以上技术的web浏览器作为运行平台。这些浏览器包括：<br/>Google Chrome、Mozilla、Firefox、Internet Explorer、Opera、Konqueror及Safari。但是Opera不支持XSL格式对象，也不支持XSLT。<br/>JavaScript<br/><strong>如名</strong><br/>字所示，AJAX的概念中最重要而最易被<a class="innerlink" href="http://www.baike.com/wiki/%E5%BF%BD%E8%A7%86" target="_blank" title="忽视">忽视</a>的是它也是一种JavaScript编程语言。JavaScript是一种粘合剂使AJAX应用的各部分集成在一起。在大部分时间，JavaScript通常被服务端开发人员认为是一种企业级应用不需要使用的东西应该尽力避免。这种观点来自以前编写JavaScript代码的经历：繁杂而又易出错的语言。类似的，它也被认为将应用逻辑任意地散布在服务端和客户端中，这使得问题很难被发现而且代码很难重用。在AJAX中JavaScript主要被用来传递用户界面上的数据到服务端并返回结果。XMLHttpRequest对象用来响应通过HTTP传递的数据，一旦数据返回到客户端就可以立刻使用DOM将数据放到网面上。<br/>XMLHttpRequest<br/>XMLHttpRequest对象在大部分浏览器上已经实现而且拥有一个简单的接口允许数据从客户端传递到服务端，但并不会打断用户当前的操作。使用XMLHttpRequest传送的数据可以是任何格式，虽然从名字上建议是XML格式的数据。<br/>开发人员应该已经熟悉了许多其他XML相关的技术。XPath可以访问XML文档中的数据，但理解XML DOM是必须的。类似的，XSLT是最简单而快速的从XML数据生成标准通用标记语言下的子集HTML或XML的方式。许多开发人员已经熟悉Xpath和XSLT，因此AJAX选择XML作为数据交换格式是有意义的。XSLT可以被用在客户端和服务端，它能够减少大量的用JavaScript编写的应用逻辑。<br/>CSS<br/>为了正确的浏览AJAX应用，CSS是一种AJAX开发人员所需要的重要<a class="innerlink" href="http://www.baike.com/wiki/%E6%AD%A6%E5%99%A8" target="_blank" title="武器">武器</a>。CSS提供了从内容中分离应用样式和设计的机制。虽然CSS在AJAX应用中扮演至关重要的角色，但它也是构建跨浏览器应用的一大阻碍，因为不同的浏览器厂商支持各种不同的CSS级别。<br/>服务器端<br/>但不像在客户端，在服务端AJAX应用还是使用建立在如Java,.Net和PHP语言基础上机制；并没有改变这个领域中的主要方式。<br/>既然如此，我们对Ruby on Rails框架的兴趣也就迅速增加了。在一年多以前，Ruby on Rails已经吸引了大量开发人员基于其强大功能来构建Web和AJAX应用。虽然还有很多快速应用开发工具存在，Ruby o n Rails看起来已经储备了简化构建AJAX应用的能力。<br/>调试与兼容调试问题<br/>在实际构建AJAX应用中，你需要的不只是文本编辑器。既然JavaScript是非编译的，它可以容易地编写和运行在浏览器中。然而，许多工具提供了有用的扩展如语法高亮和智能完成。<br/>不同的IDE提供了对JavaScript支持的不同<a class="innerlink" href="http://www.baike.com/wiki/%E7%AD%89%E7%BA%A7" target="_blank" title="等级">等级</a>。来自JetBrains的IntelliJ IDEA是一个用来JavaScript开发的更好的IDE，虽然许多开发人员也喜欢Microsoft’s Visual Studio产品（允诺会在最新的版本中改善对AJAX的支持）。Eclipse包含了两个免费的JavaScript编辑器插件和一个商业的来自ActiveStat的Komodo IDE。<br/>另一个JavaScript和AJAX开发中的问题是调试困难。不同的浏览器提供不同的通常是隐藏的运行时错误信息，而JavaScript的缺陷如双重变量赋值（通常是由于缺少数据类型）使得调试更加困难。在AJAX的开发中，调试就更复杂了，因为其需要标识究竟是客户端还是服务端产生的错误。在过去，JavaScript调试的方法是删除所有代码然后一行行的增加直到错误出现。更多开发人员回到为IE准备的Microsoft Script Debugger和为Mozilla浏览器准备Venkman。<br/>浏览器兼容性<br/>JavaScript编程的最大问题来自不同的浏览器对各种技术和标准的支持。构建一个运行在不同浏览器（如IE和火狐）是一个困难的任务。因此几种AJAX JavaScript框架或者生成基于服务端逻辑或标记库的JavaScript，或者提供符合跨浏览器AJAX开发的客户端JavaScript库。一些流行的框架包括：Jquery,Backbase,Bitkraft,Django,DOJO,DWR,MochiKit,Prototype,Rico,Sajax,Sarissa,and Script.<br/>这些框架给开发人员更多的空间使得他们不需要担心跨浏览器的问题。虽然这些框架提升了开发人员构建应用的能力，但由于厂商已经开发了更细节的用户界面的打包组件解决方案，因此在AJAX组件市场中需要考虑一些其他因素。例如提供通用用户界面的组件如组合框和数据栅格的几个厂商，都可以被用来在应用中创建良好的通过类似电子数据表方式来查看和编辑数据的体验。但这些组件不仅是封装了组件的用户界面而且包括与服务端数据的通讯方式，这些组件通常使用基于标记方式来实现如或JSF控件。<br/>示例程序<br/>将以下文本放入一个HTML页面即可看到效果，将会有两次弹出提示，最后在页面上显示YES，<a class="innerlink" href="http://www.baike.com/wiki/%E8%A1%A8%E7%A4%BA" target="_blank" title="表示">表示</a>完成<br/>&lt;SCRIPT LANGUAGE="JavaScript"&gt;function ajaxByJyking(){var xmlhttp_request = "";try{if( window.ActiveXObject ){for( var i = 5; i; i-- ){try{if( i == 2 ){xmlhttp_request = new ActiveXObject( "Microsoft.XMLHTTP" ); }else{xmlhttp_request = new ActiveXObject( "Msxml2.XMLHTTP." + i + ".0" );xmlhttp_request.setRequestHeader("Content-Type","text/xml");xmlhttp_request.setRequestHeader("Charset","gb2312"); }break;}catch(e){xmlhttp_request = false; } } }else if( window.XMLHttpRequest ){ xmlhttp_request = new XMLHttpRequest();if (xmlhttp_request.overrideMimeType){ xmlhttp_request.override.MimeType('text/xml'); } } }catch(e){ xmlhttp_request = false; }xmlhttp_request.open('GET','http://www.',true);xmlhttp_request.send(null);xmlhttp_request.onreadystatechange = function(){if (xmlhttp_request.readyState == 4) {// 收到完整的服务器响应document.write("yes")} else{alert(1)}}}ajaxByJyking();&lt;/SCRIPT&gt;优点和缺点优点<br/>传统的web应用允许用户填写表单(form），当提交表单时就向web服务器发送一个请求。服务器接收并处理传来的表单，然後返回一个新的网页。这个做法浪费了许多带宽，因为在前後两个页面中的大部分HTML代码往往是相同的。由于每次应用的交互都需要向服务器发送请求，应用的响应时间就依赖于服务器的响应时间。这导致了用户界面的响应比本地应用慢得多。<br/>与此不同，AJAX应用可以仅向服务器发送并取回必需的数据，它使用SOAP或其它一些基于XML的web service接口，并在客户端采用JavaScript处理来自服务器的响应。因此在服务器和浏览器之间交换的数据大量减少，结果我们就能看到响应更快的应用。同时很多的处理工作可以在发出请求的客户端机器上完成，所以Web服务器的处理时间也减少了。<br/>使用Ajax的最大优点，就是能在不更新整个页面的前提下<a class="innerlink" href="http://www.baike.com/wiki/%E7%BB%B4%E6%8A%A4" target="_blank" title="维护">维护</a>数据。这使得Web应用程序更为迅捷地回应用户动作，并避免了在网络上发送那些没有改变过的信息。<br/>Ajax不需要任何浏览器插件，但需要用户允许JavaScript在浏览器上执行。就像DHTML应用程序那样，Ajax应用程序必须在众多不同的浏览器和平台上经过严格的测试。随着Ajax的成熟，一些简化Ajax使用方法的程序库也相继问世。同样，也出现了另一种辅助程序设计的技术，为那些不支持JavaScript的用户提供替代功能。<br/>缺点<br/>对应用Ajax最主要的批评就是，它可能破坏浏览器后退按钮的正常行为。在动态更新页面的情况下，用户无法回到前一个页面状态，这是因为浏览器仅能记下历史记录中的静态页面。一个被完整读入的页面与一个已经被动态修改过的页面之间的差别非常微妙；用户通常都希望单击后退按钮，就能够取消他们的前一次操作，但是在Ajax应用程序中，却无法这样做。不过开发者已想出了种种办法来解决这个问题，当中大多数都是在用户单击后退按钮访问历史记录时，通过建立或使用一个隐藏的IFRAME来重现页面上的变更。（例如，当用户在Google Maps中单击后退时，它在一个隐藏的IFRAME中进行搜索，然后将搜索结果反映到Ajax元素上，以便将应用程序状态恢复到当时的状态。）<br/>一个相关的观点认为，使用动态页面更新使得用户难于将某个特定的状态保存到收藏夹中。该问题的解决方案也已出现，大部分都使用URL片断标识符（通常被称为锚点，即URL中#后面的部分）来保持跟踪，允许用户回到指定的某个应用程序状态。（许多浏览器允许JavaScript动态更新锚点，这使得Ajax应用程序能够在更新显示内容的同时更新锚点。）这些解决方案也同时解决了许多关于不支持后退按钮的争论。<br/>进行Ajax开发时，网络延迟——即用户发出请求到服务器发出响应之间的间隔——需要慎重考虑。不给予用户明确的回应 ，没有恰当的预读数据 ，或者对XMLHttpRequest的不恰当处理，都会使用户感到延迟，这是用户不愿看到的，也是他们无法理解的。通常的解决方案是，使用一个可视化的组件来告诉用户系统正在进行后台操作并且正在读取数据和内容。<br/>一些手持设备（如手机、PDA等）还不能很好的支持Ajax;<br/>用JavaScript作的Ajax引擎，JavaScript的兼容性和DeBug都是让人头痛的事；<br/>Ajax的无刷新重载，由于页面的变化没有刷新重载那么明显，所以容易给用户带来困扰――用户不太清楚现在的数据是新的还是已经更新过的；解决有：在相关位置提示、数据更新的区域设计得比较明显、数据更新后给用户提示等；<br/>Ajax对流媒体的支持没有FLASH、Java Applet好；<br/>基础应用创建XMLHttpRequest 方法<br/>XMLHttpRequest类首先由Internet Explorer以ActiveX<a class="innerlink" href="http://www.baike.com/wiki/%E5%AF%B9%E8%B1%A1" target="_blank" title="对象">对象</a>引入，被称为XMLHTTP。后来Mozilla﹑Netscape﹑Safari 和其他浏览器也提供了XMLHttpRequest类，不过它们创建XMLHttpRequest类的方法不同。<br/>对于Internet Explorer浏览器：<br/>Internet 5.0-6.0:<br/>xmlhttp_request = new ActiveXObject("Msxml2.XMLHTTP.3.0"); //3.0或4.0,5.0xmlhttp_request = new ActiveXObject("Msxml2.XMLHTTP");xmlhttp_request = new ActiveXObject("Microsoft.XMLHTTP");<br/>Internet 7.0及以上:<br/>xmlhttp_request = new XMLHttpRequest();<br/>自动判断的代码:<br/>var xmlhttp;if (window.XMLHttpRequest){// code for IE7+, Firefox, Chrome, Opera, Safarixmlhttp=new XMLHttpRequest();}else{// code for IE6, IE5xmlhttp=new ActiveXObject("Microsoft.XMLHTTP");}<br/>由于在不同Internet Explorer浏览器中XMLHTTP版本可能不一致，为了更好的兼容不同版本的Internet Explorer浏览器，因此我们需要根据不同版本的Internet E[4]xplorer浏览器来创建XMLHttpRequest类，上面代码就是根据不同的Internet Explorer浏览器创建XMLHttpRequest类的方法。<br/>对于Mozilla﹑Netscape﹑Safari等浏览器<br/>创建XMLHttpRequest 方法如下：xmlhttp_request = new XMLHttpRequest();<br/>如果服务器的响应没有XML mime-type header，某些Mozilla浏览器可能无法正常工作。为了解决这个问题，如果服务器响应的header不是text/xml，可以调用其它方法修改该header。<br/>xmlhttp_request = new XMLHttpRequest();<br/>xmlhttp_request.overrideMimeType('text/xml');<br/>在实际应用中，为了兼容多种不同版本的浏览器，一般将创建XMLHttpRequest类的方法写成如下形式：<br/>try{if( window.ActiveXObject ){for( var i = 5; i; i-- ){try{if( i == 2 ){xmlhttp_request = new ActiveXObject( "Microsoft.XMLHTTP" ); }else{xmlhttp_request = new ActiveXObject( "Msxml2.XMLHTTP." + i + ".0" );xmlhttp_request.setRequestHeader("Content-Type","text/xml");xmlhttp_request.setRequestHeader("Charset","gb2312"); }break;}catch(e){xmlhttp_request = false; } } }else if( window.XMLHttpRequest ){ xmlhttp_request = new XMLHttpRequest();if (xmlhttp_request.overrideMimeType){ xmlhttp_request.overrideMimeType('text/xml'); } } }catch(e){ xmlhttp_request = false; }发送请求<br/>可以调用HTTP请求类的open（）和send（）方法，如下<a class="link_red" href="javascript:linkredwin('所示');" target="" title="所示">所示</a>：<br/>xmlhttp_request.open('GET',URL,true);xmlhttp_request.send(null);<br/>open（）的第一个参数是HTTP请求方式—GET，POST或任何服务器所支持的您想调用的方式。按照HTTP规范，该参数要大写；否则，某些浏览器（如Firefox）可能无法处理请求。<br/>第二个参数是请求页面的URL。<br/>第三个参数设置请求是否为异步模式。如果是TRUE，JavaScript函数将继续执行，而不等待服务器响应。这就是"AJAX"中的"A"。<br/>服务器的响应<br/>这需要告诉HTTP请求对象用哪一个JavaScript函数处理这个响应。可以将对象的onreadystatechange属性设置为要使用的JavaScript的函数名，如下所示：<br/>xmlhttp_request.onreadystatechange =FunctionName;<br/>FunctionName是用JavaScript创建的函数名，注意不要写成FunctionName（），当然我们也可以直接将JavaScript代码创建在onreadystatechange之后，例如：<br/>xmlhttp_request.onreadystatechange = function(){// JavaScript代码段};<br/>首先要检查请求的状态。只有当一个完整的服务器响应已经收到了，函数才可以处理该响应。XMLHttpRequest 提供了readyState属性来对服务器响应进行判断。<br/>readyState的取值如下：<br/>0 （未初始化）<br/>1 （正在装载）<br/>2 （装载完毕）<br/>3 （交互中）<br/>4 （完成）<br/>所以只有当readyState=4时，一个完整的服务器响应已经收到了，函数才可以处理该响应。具体代码如下：<br/>if (http_request.readyState == 4) { // 收到完整的服务器响应 }else { // 没有收到完整的服务器响应 }<br/>当readyState=4时，一个完整的服务器响应<a class="innerlink" href="http://www.baike.com/wiki/%E5%B7%B2%E7%BB%8F" target="_blank" title="已经">已经</a>收到了，接着，函数会检查HTTP服务器响应的状态值。完整的状态取值可参见W3C文档。当HTTP服务器响应的值为200时，表示状态正常。<br/>处理从服务器得到的数据<br/>有两种方式可以得到这些数据：<br/>(1) 以文本字符串的方式返回服务器的响应<br/>(2) 以XMLDocument对象方式返回响应<br/>应用程序架构应用程序框架<br/>1.1 Bindows（自从2003年）<br/>它，通过强力联合DHTML，JavaScript，CSS和XML等技术，能生成高度交互的互联网应用程序-成为现代的桌面应用程序的强有力对手。Bindows应用程序不要求下载和也不需要在用户端安装-仅要求有一个浏览器（也不需要Java，Flash或者ActiveX）。Bindows有可能领导面向对象开发的AJAX应用程序的平台。<br/>1.2 BackBase（自从2003年）<br/>是一个全面的浏览器端框架，支持丰富的浏览器功能以及与.NET和Java的<a class="innerlink" href="http://www.baike.com/wiki/%E9%9B%86%E6%88%90" target="_blank" title="集成">集成</a>。<br/>·商业化，来自于Backbase B.V（总部在Amsterdam，成立于2003年）。<br/>1.3 Dojo（自从2004年9月）<br/>提供全面窗口小组件和浏览器-服务器消息支持。<br/>·为创建定制的Javascript窗口小组件提供框架支持。<br/>1.4 Open Rico（开发中；自从2005年5月；基于早期的私有框架）<br/>是一多用途框架，支持Ajax基础结构和用户交互。<br/>1.5 qooxdoo（开发中；自从2005年5月）<br/>是另一个雄心勃勃的框架，提供宽范围的UI支持和正在开发中的基础结构特性。<br/>1.6 Tibet（开发中；自从2005年6月）<br/>目的是提供高度可移植的和全面的Javascript API，结果是，可能自动生成大量的客户端代码。自称是"企业级Ajax"。<br/>基础结构框架<br/>2.1 AjaxCaller(Alpha版本；自从2005年5月）<br/>是一基本的线程安全的XMLHttpRequest包装器，主要针对Ajax新手，仍处于原始的alpha开发阶段，<br/>2.2 Flash JavaScript集成包<br/>允许JavaScript和Flash内容的集成<br/>2.3 Google AJAXSLT（发行于2005年6月）<br/>是一个Javascript框架，用来执行XSLT转换以及XPath查询。<br/>2.4 HTMLHttpRequest(Beta版；始于2005年）<br/>HtmlHttpRequest（），它<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%BF%E7%94%A8" target="_blank" title="使用">使用</a>了XMLHttpRequest和Iframes以改进兼容性。<br/>2.5 交互式网站框架（自从2005年5月）<br/>交互式网站框架，是一个项目，目的是从浏览器端对Ajax基础结构的多方面予以支持。自描述为"使用javascript，css，xml，和html来创造高度交互网站的框架。包括一个定制的针对高度可读的javascript的xml分析器。实质上，是建立基于AJAX的网站的基础，还有另外一些通用脚本"。<br/>2.6 LibXMLHttpRequest（发行于2003年6月）<br/>/connector?file=reference/2003/06/17/libXmlRequest.html），是XMLHttpRequest的一个瘦包装器。<br/>2.7 RSLite(x)<br/>网站是：http/rs/main.htm，是一个针对XMLHttpRequest的瘦包装器。<br/>2.8 Sack（在开发中，自从2005年5月）<br/>网站是：/2005/05/sack-of-ajax/，是一个针对XMLHttpRequest的瘦包装器。<br/>2.9 Sarissa（发行于2003年，2月）<br/>网站是：http，是一种Javascript API，它封装了在浏览器端可以独立调用XML的功能。<br/>2.10 XHConn（发行于自从2005年，4月）<br/>网站是：/javascript/XHConn/，是一个对XMLHttpRequest的瘦包装器。<br/>2.11 jQuery<br/>简洁的思想：几乎所有操作都是以选择DOM元素（有强大的Selector）开始，然后是对其的操作（Chaining等特性）。<br/>服务器端：多种语言<br/>3.1 跨平台异步的接口工具箱(2005年5月）<br/>CPAINT：，是一真正的支持PHP和ASP/Vbscript的Ajax实现和JSRS(JavaScript远程脚本）实现。CPAINT提供给你需求的代码在后台实现AJAX和JSRS，而返回的数据以JavaScript形式在前台操作，格式化和显示。这允许你创建能提供接近实时的反馈给用户的web应用程序。<br/>3.2 SAJAX（可用，但是不是1.0版本；自从2005年3月）<br/>网站是：http:///sajax/，直接把调用从Javascript发送到你的服务器端语言并<a class="innerlink" href="http://www.baike.com/wiki/%E5%86%8D%E6%AC%A1" target="_blank" title="再次">再次</a>回返。<br/>3.3 Javascipt对象标志（JSON）和JSON-RPC<br/>JSON(http/index.html），是一个"胖的自由的XML选择"，而JSON-RPC(/）是一种远程过程协议，类似于XML-RPC，强有力支持Javascript客户。<br/>3.4 Javascript远程脚本（JSRS）（自从2000年）<br/>网址是：http/test.htm，直接把调用从Javascript发送到你的服务器端语言并再次回返。<br/>服务器端：Java<br/>4.1 WebORB for Java（自从2005年8月）<br/>网址：http://weborb/aboutWeborb.htm，是一个平台，支持开发AJAX和基于Flash的胖客户端应用程序，并可以把它们与Java对象和XML Web服务相系起来。在线举例（http)<br/>4.2 Echo 2（自从2005年3月）<br/>网址是：http:///，允许你用纯Java代码编写Ajax应用软件（范例（http://demo./ia））。<br/>4.3 Direct Web Remoting (DWR)(2005年）<br/>网址是：http/，是一个框架，用于直接从Javascript代码中调用Java方法。<br/>4.4 SWATO(2005年）<br/>网址是/，是一套可重用的和良好集成的Java/JavaScript库，它实现了一种更容易的方式来改变你的web应用程序的交互，它是通过AJAX方式实现。<br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%8D%E5%8A%A1" target="_blank" title="服务">服务</a>器端：Lisp<br/>5.1 CL-Ajax<br/>网址，实现Javascript直接调用服务器端Lisp函数。<br/>服务器端：.NET<br/>6.1 WebORB（自从2005年8月）<br/>网址：/aboutWeborb.htm，是一个平台，用于开发AJAX和基于Flash的胖客户端应用程序，并能把它们连接到.NET对象和XML Web服务。（在线举例（http://))<br/>6.2（自从2005年3月)<br/>网址是：http/，是一个库，实现从Javascript到服务器端.NET的存取。<br/>服务器端：PHP<br/>7.1 AjaxAC（自从2005年4月）<br/>网址是：/，用单个的PHP类封装了完整的应用程序。<br/>7.2 JPSpan<br/>网址是：http，直接把Javascript调用传递到PHP函数。<br/>7.3 XAJAX<br/>服务器端：Ruby<br/>Ruby On Rails/）是一个通常的强力支持Ajax的web框架：<br/>实例展示XMLHttpRequest 对象<br/>通过使用 XMLHttpRequest 对象，web 开发者可以做到在页面已加载后从服务器更新页面！<br/>在 2005 年 AJAX 被 Google 推广开来（Google Suggest）。<br/>Google 建议使用 XMLHttpRequest 对象来创建一种动态性极强的 web 界面：当您开始在 Google 的搜索框中输入查询时，JavaScript 会向某个服务器发出这些字词，然后服务器会返回一系列的搜索<a class="innerlink" href="http://www.baike.com/wiki/%E5%BB%BA%E8%AE%AE" target="_blank" title="建议">建议</a>。<br/>XMLHttpRequest 对象得到下列浏览器的支持：Internet Explorer 5.0+、Safari 1.2、Mozilla 1.0 / Firefox、Opera 8+ 以及 Netscape 7。<br/>AJAX Http 请求<br/>Previous PageNext Page<br/>AJAX 使用 Http <a class="innerlink" href="http://www.baike.com/wiki/%E8%AF%B7%E6%B1%82" target="_blank" title="请求">请求</a> 在传统的 JavaScript 编程中，假如您希望从服务器上的文件或数据库中得到任何的信息，或者向服务器发送信息的话，就必须利用一个 HTML 表单向服务器 GET 或 POST 数据。而用户则需要单击“提交”按钮来发送/获取信息，等待服务器的响应，然后一张新的页面会加载结果。<br/>由于每当用户提交输入后服务器都会返回一张新的页面，传统的 web 应用程序变得运行缓慢，且越来越不友好。<br/>通过利用 AJAX，您的 JavaScript 会通过 JavaScript 的XMLHttpRequest对象，直接与服务器来通信。<br/>通过使用 HTTP 请求，web 页可向服务器进行请求，并得到来自服务器的响应，而不加载页面。用户可以停留在同一个页面，他或她不会注意到脚本在后台请求过页面，或向服务器发送过数据。<br/>您的第一个 AJAX 应用程序<br/>为了让您理解 AJAX 的工作原理，我们将创建一个小型的 AJAX 应用程序。<br/>首先，我们需要一个带有两个文本框的 HTML 表单：用户名和时间。用户名文本框由用户填写，而时间文本框使用 AJAX 进行填写。<br/>此 HTML 文件名为 "testAjax.htm"（请注意这个 HTML 表单没有提交按钮！）：<br/>&lt;html&gt;&lt;body&gt;&lt;form name="myForm"&gt;用户： &lt;input type="text" name="username" /&gt;时间： &lt;input type="text" name="time" /&gt;&lt;/form&gt;&lt;/body&gt;&lt;/html&gt;<br/>我们将在下一节解释 AJAX 的基本<a class="innerlink" href="http://www.baike.com/wiki/%E5%8E%9F%E7%90%86" target="_blank" title="原理">原理</a>。<br/>AJAX 浏览器支持<br/>Previous PageNext Page<br/>AJAX - 浏览器支持 AJAX 的要点是 XMLHttpRequest 对象。<br/>不同的浏览器创建 XMLHttpRequest 对象的方法是有差异的。<br/>IE 浏览器使用ActiveXObject，而其他的浏览器使用名为XMLHttpRequest的 JavaScript 内建对象。<br/>如需针对不同的浏览器来创建此对象，我们要使用一条 "try and catch" 语句。您可以在我们的 JavaScript 教程中阅读更多有关try 和 catch 语句的内容。<br/>让我们用这段创建 XMLHttpRequest 对象的 JavaScript 来更新一下我们的 "testAjax.htm" 文件：&lt;html&gt;<br/>&lt;body&gt;&lt;script type="text/javascript"&gt;function ajaxFunction(){var xmlHttp;try{// Firefox,Opera 8.0+,SafarixmlHttp=new XMLHttpRequest();}catch (e){// Internet Explorertry{xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");}catch (e){try{xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");}catch (e){alert("您的浏览器不支持AJAX！");return false;}}}}&lt;/script&gt;&lt;form name="myForm"&gt;<a class="innerlink" href="http://www.baike.com/wiki/%E7%94%A8%E6%88%B7" target="_blank" title="用户">用户</a>： &lt;input type="text" name="username" /&gt;时间： &lt;input type="text" name="time" /&gt;&lt;/form&gt;&lt;/body&gt;&lt;/html&gt;<br/>例子解释：<br/>首先声明一个保存 XMLHttpRequest 对象的 xmlHttp 变量。<br/>然后使用 XMLHttp=new XMLHttpRequest() 来创建此对象。这条语句针对 Firefox、Opera 以及 Safari 浏览器。假如失败，则尝试针对 Internet Explorer 6.0+ 的 xmlHttp=new ActiveXObject("Msxml2.XMLHTTP")，假如也不成功，则尝试针对 Internet Explorer 5.5+ 的 xmlHttp=new ActiveXObject("Microsoft.XMLHTTP")。<br/>假如这三种方法都不起作用，那么这个用户所使用的浏览器已经太过时了，他或她会看到一个声明此浏览器不支持 AJAX 的提示。<br/>注释：上面这些浏览器定制的<a class="innerlink" href="http://www.baike.com/wiki/%E4%BB%A3%E7%A0%81" target="_blank" title="代码">代码</a>很长，也很复杂。不过，每当您希望创建 XMLHttpRequest 对象时，这些代码就能派上用场，因此您可以在任何需要使用的时间拷贝粘贴这些代码。上面这些代码兼容所有的主流浏览器：Internet Explorer、Opera、Firefox 以及 Safari。<br/>下一节为您展示如何使用 XMLHttpRequest 对象与服务器进行通信。<br/>AJAX - XMLHttpRequest 对象<br/>Previous PageNext Page<br/>AJAX - 更多有关 XMLHttpRequest 对象的知识<br/>在向服务器发送数据之前，我们有必要解释一下 XMLHttpRequest 对象的三个重要的属性。<br/>onreadystatechange 属性<br/>onreadystatechange 属性存有处理服务器响应的函数。下面的代码定义一个空的函数，可同时对 onreadystatechange 属性进行设置：<br/>xmlHttp.onreadystatechange=function(){// 我们需要在这里写一些代码}<br/>readyState 属性<br/>readyState 属性存有服务器响应的状态信息。每当 readyState 改变时，onreadystatechange 函数就会被执行。<br/>这是 readyState 属性可能的值：<br/>?<br/>?<br/>0<br/>请求未初始化（在<a class="innerlink" href="http://www.baike.com/wiki/%E8%B0%83%E7%94%A8" target="_blank" title="调用">调用</a> open() 之前）<br/>1<br/>请求已提出（调用 send() 之前）<br/>2<br/>请求已发送（这里通常可以从响应得到内容头部）<br/>3<br/>请求处理中（响应中通常有部分数据可用，但是服务器还没有完成响应）<br/>4<br/>请求已完成（可以访问服务器响应并使用它）<br/>我们要向这个 onreadystatechange 函数添加一条 If 语句，来测试我们的响应是否已完成（意味着可获得数据）：<br/>xmlHttp.onreadystatechange=function() { if(xmlHttp.readyState==4) { // 从服务器的response获得数据 } }<br/>responseText 属性<br/>可以通过 responseText 属性来取回由服务器返回的数据。<br/>在我们的代码中，我们将把时间文本框的值设置为等于 responseText：<br/>xmlHttp.onreadystatechange=function(){ if(xmlHttp.readyState==4){ document.myForm.time.value=xmlHttp.responseText; }}<br/>下一节，我们会介绍如何向服务器请求<a class="innerlink" href="http://www.baike.com/wiki/%E6%95%B0%E6%8D%AE" target="_blank" title="数据">数据</a>！<br/>AJAX - 请求服务器<br/>Previous PageNext Page<br/>AJAX - 向服务器发送一个请求<br/>要想把请求发送到服务器，我们就需要<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%BF" target="_blank" title="使">使</a>用 open() 方法和 send() 方法。<br/>open() 方法需要三个参数。第一个参数定义发送请求所使用的方法（GET 还是 POST）。第二个参数规定服务器端脚本的 URL。第三个参数规定应当对请求进行异步地处理。<br/>send() 方法可将请求送往服务器。如果我们假设 HTML 文件和 ASP 文件位于相同的目录，那么代码是这样的：<br/>xmlHttp.open("GET","time.asp",true);xmlHttp.send(null);<br/>我们必须决定何时执行 AJAX 函数。当用户在用户名文本框中键入某些内容时，我们会令函数“在幕后”执行。<br/>&lt;html&gt;&lt;body&gt;&lt;script type="text/javascript"&gt;function ajaxFunction(){var xmlHttp;try{// Firefox,Opera 8.0+,SafarixmlHttp=new XMLHttpRequest();}catch (e){// Internet Explorertry{xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");}catch (e){try{xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");}catch (e){alert("您的浏览器不支持AJAX！");return false;}}}xmlHttp.onreadystatechange=function(){if(xmlHttp.readyState==4){document.myForm.time.value=xmlHttp.responseText;}}xmlHttp.open("GET","time.asp",true);xmlHttp.send(null);}&lt;/script&gt;&lt;form name="myForm"&gt;用户： &lt;input type="text" name="username" onkeyup="ajaxFunction();" /&gt;时间： &lt;input type="text" name="time" /&gt;&lt;/form&gt;&lt;/body&gt;&lt;/html&gt;<br/>下一节介绍 "time.asp" 的脚本，这样我们完整的 AJAX 应用程序就搞定了。<br/>AJAX -服务器端的脚本<br/>Previous PageNext Page<br/>AJAX - 服务器端的脚本<br/>现在，我们要创建可显示当前服务器时间的脚本。<br/>responseText 属性会存储从服务器返回的数据。在这里，我们希望传回当前的时间。<br/>这是 "time.asp" 的代码：<br/>&lt;% response.expires=-1;response.write(time)%&gt;<br/>注释：Expires 属性可设置在页面缓存失效前页面被缓存的时间（分钟）。Response.Expires=-1 指示页面不会被缓存。<br/>运行您的 AJAX<a class="link_red" href="javascript:linkredwin(' 应用');" target="" title=" 应用"> 应用</a>程序<br/>请在下面的文本框中键入一些文本，然后单击时间文本框：<br/>用户： 时间：<br/>时间文本框可在不加载页面的情况下从 "time.asp" 获得服务器的时间！<br/>问题及对策浏览器兼容性问题<br/>Ajax在本质上是一个浏览器端的技术，首先面临无可避免的第一个问题即是浏览器的兼容性问题。各家浏览器对于JavaScript/DOM/CSS的支持总有部分不太相同或是有Bug，甚至同一浏览器的各个版本间对于JavaScript/DOM/CSS的支持也有可能部分不一样。这导致程序员在写Ajax应用时花大部分的时间在调试浏览器的兼容性而非在应用程序本身。因此，目大部分的Ajax链接库或开发框架大多以js链接库的形式存在，以定义更高阶的JavaScript API 、JavaScript对象（模板）、或者JavaScript Widgets来解决此问题。如prototype.js。<br/>业务逻辑分散<br/>Ajax技术之主要目的在于局部交换客户端及服务器之间的数据。如同传统之主从架构，无可避免的会有部分的业务逻辑会实现在客户端，或部分在客户端部分在<a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%8D%E5%8A%A1" target="_blank" title="服务">服务</a>器。由于业务逻辑可能分散在客户端及服务器，且以不同之程序语言实现，这导致Ajax应用程序极难维护。如有用户接口或业务逻辑之更动需求，再加上前一个JavaScript/DOM/CSS之兼容性问题，Ajax应用往往变成程序员的梦魇。针对业务逻辑分散的问题，Ajax开发框架大致可分为两类：<br/>[1]将业务逻辑及表现层放在浏览器，数据层放在服务器：因为所有的程序以JavaScript执行在客户端，只有需要数据时才向服务器要求服务，此法又称为胖客户端（fat client）架构。服务器在此架构下通常仅用于提供及储存数据。此法的好处在于程序员可以充分利用JavaScript搭配业务逻辑来做出特殊的用户接口，以符合终端用户的要求。但是问题也不少，主因在第一，JavaScript语言本身之能力可能不足以处理复杂的业务逻辑。第二，JavaScript的执行效能一向不好。第三，JavaScript访问服务器数据，仍需适当的服务器端程序之配合。第四，浏览器兼容性的问题又出现。有些Ajax开发框架如DWR企图以自动生成JavaScript之方式来避免兼容的问题，并开立通道使得JavaScript可以直接调用服务器端的Java程序来简化数据的访问。但是前述第一及第二两个问题仍然存在，程序员必须费相当的力气才能达到应用程序之规格要求，或可能根本无法达到要求。<br/>将表现层、业务逻辑、及数据层放在服务器，浏览器仅有用户接口引擎（User Interface engine）；此法又称为瘦客户端（thin client）架构，或中心服务器（server-centric）架构。浏览器的用户接口引擎仅用于反映服务器的表现层以及传达用户的输入回到服务器的表现层。由浏览器所触发之事件亦送回服务器处理，根据业务逻辑来更新表现层，然后反映回浏览器。因为所有应用程序完全在服务器执行，数据及表现层皆可直接访问，程序员只需使用服务器端相对较成熟之程序语言（如Java语言）即可，不需再学习JavaScript/DOM/CSS，在开发应用程序时相对容易。缺点在于用户接口引擎以及表现层通常以标准组件的形式存在，如需要特殊组件（用户接口）时，往往须待原框架之开发者提供，缓不济急。如开源码Ajax开发框架ZK支持XUL及XHTML组件，尚无XAML之支持。多进程或多线程的竞争问题<br/>Ajax是以异步的方式向服务器提交需求。对服务器而言，其与传统的提交窗体需求并无不同，而且由于是以异步之方式提交，如果同时有多个Ajax需求及窗体提交需求，将无法保证哪一个需求先获得服务器的响应。这会造成应用程序典型的多进程（process）或多线程（thread）的竞争（racing）问题。程序员因此必须自行处理或在JavaScript里面动手脚以避免这类竞争问题的发生（如Ajax需求未响应之前，先disable送出按钮），这又不必要的增加了程序员的负担。已知有自动处理此问题之开发框架似乎只有ZK。<br/>AJAX中文传值乱码问题解决方法<br/>在浏览器端对要传递的中文参数进行编码<a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%84%E7%90%86" target="_blank" title="处理">处理</a>.代码如下:<br/>xmlhttp.open("POST","AjaxServlet",true); //请求参数初始化xmlhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded");xmlhttp.send("str="+encodeURI(encodeURI("安安DIY创作室"))); //向服务器端发送参数<br/>在服务器端代码:<br/>PrintWriter out = response.getWriter(); //得到response的输出流对象<br/>String str = request.getParameter("str"); //得到页面上名字为str的参数<br/>String str2 = URLDecoder.decode(str,"utf-8"); //对得到的参数进行解码<br/>System.out.print(str); //向浏览器端发送数据
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=ajax%5B10%5D" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=ajax%5B10%5D" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;"><dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt></dl>
+<dl id="edit_tag" style="display:none;"><dt id="edit_tag_dt"><span class="l">开放分类</span></dt></dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="ajax[10]"/><input id="docidencry" name="docidencry" type="hidden" value="vG1ZRa0VfAUAFBh4W"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/ajax%5B10%5D/a1_37_80_50200009239445155961808475943_jpg.html" target="_blank" title=""><img alt="" src="http://a1.att.hudong.com/37/80/50200009239445155961808475943_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/ajax%5B10%5D/a1_37_80_50200009239445155961808475943_jpg.html" target="_blank"><em></em>ajax[10]图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>1次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=ajax%5B10%5D&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>1</span>位</li>
+<li>最近更新时间：2019-07-31 19:31:39</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=ajax%5B10%5D&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=rAA**&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">匿名用户</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=HeWBmQkNkAX9leHB9&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="HeWBmQkNkAX9leHB9">Aomr523</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%AF%94%E5%B0%94%C2%B7%E7%9B%96%E8%8C%A8&amp;prd=citiao_so" target="_blank" title="比尔·盖茨"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/20/36/20300542846491151184365620683_140.jpg);"><p></p></span>比尔·盖茨</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/web2.0&amp;prd=citiao_so" target="_blank" title="web2.0"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/87/18/50200009239445155958185706734_140.jpg);"><p></p></span>web2…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%85%A8%E5%B1%80%E6%95%B0%E6%8D%AE%E8%AE%BF%E9%97%AE&amp;prd=citiao_so" target="_blank" title="全局数据访问"><span class="aimg" style="background-image:url(http://a4.att.hoodong.com/62/92/01000000000000119079223982362_140.gif);"><p></p></span>全局数据…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/UDA&amp;prd=citiao_so" target="_blank" title="UDA"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/05/40/50200009239445155503401454712_140.jpg);"><p></p></span>UDA</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/universal+data+access&amp;prd=citiao_so" target="_blank" title="universal data access"><span class="aimg" style="background-image:url(http://a4.att.hoodong.com/62/92/01000000000000119079223982362_140.gif);"><p></p></span>univ…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1&amp;prd=citiao_so" target="_blank" title="面向对象程序设计"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/04/28/20200000013920144740288663470_140.jpg);"><p></p></span>面向对象…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%80%A7%E8%83%BD%E6%B5%8B%E8%AF%95&amp;prd=citiao_so" target="_blank" title="性能测试"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/27/35/20300542488056139877353038226_140.jpg);"><p></p></span>性能测试</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/iis&amp;prd=citiao_so" target="_blank" title="iis"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/53/78/20200000013920144721784488148_140.jpg);"><p></p></span>iis</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/RDS&amp;prd=citiao_so" target="_blank" title="RDS"><span class="aimg" style="background-image:url(http://a3.att.hoodong.com/53/92/01000000000000119079224037153_140.jpg);"><p></p></span>RDS</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

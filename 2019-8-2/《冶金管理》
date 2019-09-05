@@ -1,0 +1,408 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/%E3%80%8A%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E3%80%8B" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/5A/FB/5AFB8FDE507C5B901CA75DAC28775D28_90.png?title=%E3%80%8A%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E3%80%8B"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>《冶金管理》</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/%E5%86%B6%E9%87%91/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="冶金">冶金</a><a href="//fenlei.baike.com/%E5%87%BA%E7%89%88%E7%89%A9/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="出版物">出版物</a><a href="//fenlei.baike.com/%E6%8A%A5%E5%88%8A/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="报刊">报刊</a><a href="//fenlei.baike.com/%E6%9C%9F%E5%88%8A/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="期刊">期刊</a><a href="//fenlei.baike.com/%E6%9C%9F%E5%88%8A%E6%9D%82%E5%BF%97/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="期刊杂志">期刊杂志</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>《冶金管理》是由冶金工业经济发展研究中心主办，石洪卫主编的经济管理期刊，主要栏目有热点聚焦 资本运营报告 市场预测<a href="http://www.baike.com/wiki/%E5%88%86%E6%9E%90" target="_blank">分析</a> 管理理论与案例 科技进步园地 信息平台。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="《冶金管理》"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('culture_magazine')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>名称：</strong>
+<span>冶金管理</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>英文名：</strong>
+<span>Stcel &amp; Management</span>
+</td> </tr> <tr>
+<td>
+<strong>类别：</strong>
+<span>管理</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>语种：</strong>
+<span>中文</span>
+</td> </tr> <tr>
+<td>
+<strong>主办单位：</strong>
+<span>冶金工业经济发展研究中心</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>主编：</strong>
+<span>石洪卫</span>
+</td> </tr> <tr>
+<td>
+<strong>出版周期：</strong>
+<span>月刊</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>主要栏目：</strong>
+<span>热点聚焦 资本运营报告 市场预测分析 管理理论与案例 科技进步园地 信息平台</span>
+</td> </tr> <tr>
+<td>
+<strong>国内刊号：</strong>
+<span>CN 11-2940/D</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>国际刊号：</strong>
+<span>ISSN 1005-6726</span>
+</td> </tr> <tr>
+<td>
+<strong>邮发代号：</strong>
+<span>80-108</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>定价：</strong>
+<span>单价：16，定价：192</span>
+</td> </tr> <tr>
+<td>
+<strong>其他：</strong>
+<span>《冶金管理》面向钢铁行业，为业内人士提供行业动态信息，介绍先进管理经验，剖析管理案例，分析产品及趋势、走向。同时也为钢铁行业上下游行业提供钢铁行业的宏观发展形势</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="简介" catalogkey="1" class="bold" href="javascript:void(0)" title="简介">简介</a>
+</li>
+<li>
+<em>2</em><a alt="联合整合融合" catalogkey="3" class="bold" href="javascript:void(0)" title="联合整合融合">联合整合融合</a>
+</li>
+<li>
+<em>3</em><a alt="参考资料" catalogkey="5" class="bold" href="javascript:void(0)" title="参考资料">参考资料</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">简介</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">联合整合融合</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">参考资料</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>简介<span class="f18">/《冶金管理》 </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<p>《冶金管理》创刊于1988年,由中国钢铁工业协会主管、冶金工业经济发展研究中心主办。杂志面向钢铁企事业单位领导、钢铁行业从事经济研究、<a class="innerlink" href="http://www.baike.com/wiki/%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86" title="企业管理">企业管理</a>、市场营销、<a class="innerlink" href="http://www.baike.com/wiki/%E6%8A%80%E6%9C%AF%E4%BA%BA%E5%91%98" title="技术人员">技术人员</a>等,反映钢铁行业动态,报道行业发展现状及趋势。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>联合整合融合<span class="f18">/《冶金管理》 </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<p>世界钢铁产业发展史表明，通过企业间的兼并重组，适度提高产业集中度是钢铁工业走向成熟的必由之路。中国钢铁工业要想提升竞争能力，获得持续发展，必须走联合重组之路，通过优势企业收购、兼并落后企业，展开优化重组并淘汰落后，才能在根本上实现我国从钢铁大国到钢铁强国的转变。宝钢是中国钢铁业联合重组的先行者。本文重点总结了<a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%9D%E9%92%A2" title="宝钢">宝钢</a>重组的历程和经验。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>参考资料<span class="f18">/《冶金管理》 </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<p><a href="http://www.jx.cn/hyzr/hyzrview.asp?id=3124">http://www.jx.cn/hyzr/hyzrview.asp?id=3124</a><br/></p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div class="wenxian_app">
+<link href="http://www.huimg.cn/hudong/entry/widget/wenxian/css/wenxianapp160908.css" rel="stylesheet" type="text/css"/>
+<div class="h3tit"><h3>相关文献</h3></div>
+<ul>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_whyjglgbxyxb200201023.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="武汉冶金管理干部学院2001年科研、教研成果统计表">武汉冶金管理干部学院2001年科研、教研成果统计表</a><span>
+										-
+										武汉冶金管理干部学院学报
+										-
+									</span><span>2002</span><span>12</span><span>
+										(
+										1
+										)
+									</span>
+</li>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_whyjglgbxyxb200104023.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="武汉冶金管理干部学院学报2001年总目录">武汉冶金管理干部学院学报2001年总目录</a><span>
+										-
+										武汉冶金管理干部学院学报
+										-
+									</span><span>2001</span><span>11</span><span>
+										(
+										4
+										)
+									</span>
+</li>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_guizhg200203006.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="刚果红+对氨基苯磺酸复合型负载形成树脂与刚果红单一型负载形成树脂富集贵金属的性能比较">刚果红+对氨基苯磺酸复合型负载形成树脂与刚果红单一型负载形成树脂富集贵金属的性能比较</a><span>
+										-
+										贵州化工
+										-
+									</span><span>2002</span><span>27</span><span>
+										(
+										3
+										)
+									</span>
+</li>
+</ul>
+</div>
+<div class="nav-module">
+<h2>经济管理类期刊汇总</h2>
+<em class="tounfold"> </em><span class="toggleshow" style="display: none;"> </span><span class="togglehide"> </span><div id="navData"><table class="table">
+<tbody>
+<tr>
+<td>经济管理类期刊是研究宏观、微观经济理论、交流经济管理的经验，介绍经济管理科学知识，报道国外经济发展动态。按卷与期和（或）年与期的顺序编号，意欲长期印行下去的连续出版物。 </td></tr></tbody></table>
+<table class="table">
+<tbody>
+<tr>
+<td>
+<p><a href="http://www.baike.com/wiki/%E3%80%8A%E5%8D%97%E6%96%B9%E5%86%9C%E6%9D%91%E3%80%8B"><font color="#4a4a4a">《南方农村》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%9C%9F%E5%9C%B0%E3%80%8B"><font color="#4a4a4a">《中国土地》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E8%87%B4%E5%AF%8C%E4%B9%8B%E5%8F%8B%E3%80%8B"><font color="#4a4a4a">《致富之友》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B0%8F%E5%BA%B7%E7%94%9F%E6%B4%BB%E3%80%8B"><font color="#4a4a4a">《小康生活》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9D%91%E7%BB%8F%E8%90%A5%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《农村经营管理》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%BB%BF%E8%89%B2%E4%B8%AD%E5%9B%BD%E3%80%8B"><font color="#4a4a4a">《绿色中国》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%9C%9F%E5%9C%B0%E7%A7%91%E5%AD%A6%E3%80%8B"><font color="#4a4a4a">《中国土地科学》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E9%A5%B2%E6%96%99%E5%8D%9A%E8%A7%88%EF%BC%88%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E7%89%88%EF%BC%89%E3%80%8B"><font color="#4a4a4a">《饲料博览（企业管理版）》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E8%88%AA%E5%A4%A9%E5%B7%A5%E4%B8%9A%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《航天工业管理》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%8D%8E%E5%8C%97%E7%94%B5%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《华北电业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B0%B4%E5%88%A9%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《水利经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%8A%95%E8%B5%84%E5%8C%97%E4%BA%AC%E3%80%8B"><font color="#4a4a4a">《投资北京》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E8%8B%B1%E6%89%8D%E3%80%8B"><font color="#4a4a4a">《英才》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%8E%B0%E4%BB%A3%E4%BC%81%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《现代企业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%96%B0%E8%B5%84%E6%9C%AC%E3%80%8B"><font color="#4a4a4a">《新资本》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E9%83%91%E5%B7%9E%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E5%B9%B2%E9%83%A8%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%E3%80%8B"><font color="#4a4a4a">《郑州经济管理干部学院学报》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%96%E7%95%8C%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《世界经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%BB%8F%E6%B5%8E%E8%AF%84%E8%AE%BA%E3%80%8B"><font color="#4a4a4a">《经济评论》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E9%9D%92%E6%B5%B7%E5%86%9C%E7%89%A7%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《青海农牧业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E8%8C%B6%E4%B8%96%E7%95%8C%E3%80%8B"><font color="#4a4a4a">《茶世界》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%B8%9A%E8%B4%A8%E9%87%8F%E6%A0%87%E5%87%86%E3%80%8B"><font color="#4a4a4a">《农业质量标准》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%8D%97%E8%B4%A2%E7%BB%8F%E6%94%BF%E6%B3%95%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5%E3%80%8B"><font color="#4a4a4a">《中南财经政法大学学报》<br/></font></a><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%AD%90%E5%95%86%E6%83%85%C2%B7%E9%80%9A%E4%BF%A1%E5%B8%82%E5%9C%BA%E3%80%8B"><font color="#4a4a4a">《中国电子商情·通信市场》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%9E%97%E4%B8%9A%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《林业经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%B8%9A%E5%B7%A5%E7%A8%8B%E6%8A%80%E6%9C%AF%C2%B7%E6%96%B0%E8%83%BD%E6%BA%90%E4%BA%A7%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《农业工程技术·新能源产业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%8E%B0%E4%BB%A3%E7%8F%AD%E7%BB%84%E3%80%8B"><font color="#4a4a4a">《现代班组》</font></a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B1%BD%E8%BD%A6%E8%A7%82%E5%AF%9F%E3%80%8B"><font color="#4a4a4a">《汽车观察》</font></a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B9%96%E5%8C%97%E7%94%B5%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《湖北电业》</font></a> </p></td>
+<td>
+<ul>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%85%92%E3%80%8B"><font color="#4a4a4a">《中国酒》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%BA%A7%E5%93%81%E5%B8%82%E5%9C%BA%E5%91%A8%E5%88%8A%E3%80%8B"><font color="#4a4a4a">《农产品市场周刊》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E8%88%AA%E7%A9%BA%E5%B7%A5%E4%B8%9A%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6%E3%80%8B"><font color="#4a4a4a">《航空工业经济研究》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B8%94%E4%B8%9A%E7%BB%8F%E6%B5%8E%E7%A0%94%E7%A9%B6%E3%80%8B"><font color="#4a4a4a">《渔业经济研究》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E8%88%B9%E8%89%87%E3%80%8B"><font color="#4a4a4a">《船艇》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%BB%BA%E7%AD%91%E5%B8%82%E5%9C%BA%E4%B8%8E%E6%8B%9B%E6%A0%87%E6%8A%95%E6%A0%87%E3%80%8B"><font color="#4a4a4a">《建筑市场与招标投标》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E6%9C%BA%E7%94%B5%E4%BA%A7%E5%93%81%E5%B8%82%E5%9C%BA%E3%80%8B"><font color="#4a4a4a">《机电产品市场》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E4%BB%8A%E6%97%A5%E5%B7%A5%E7%A8%8B%E6%9C%BA%E6%A2%B0%E3%80%8B"><font color="#4a4a4a">《今日工程机械》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B1%BD%E8%BD%A6%E4%B8%8E%E7%A4%BE%E4%BC%9A%E3%80%8B"><font color="#4a4a4a">《汽车与社会》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E6%96%BD%E5%B7%A5%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《施工企业管理》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《冶金管理》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%85%E8%92%99%E5%8F%A4%E7%85%A4%E7%82%AD%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《内蒙古煤炭经济》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%8A%E6%B5%B7%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《上海农村经济》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B1%B1%E4%B8%9C%E7%BA%BA%E7%BB%87%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《山东纺织经济》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E7%8E%B0%E4%BB%A3%E5%95%86%E8%B4%B8%E5%B7%A5%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《现代商贸工业》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E8%B5%84%E6%BA%90%E8%8A%82%E7%BA%A6%E4%B8%8E%E7%8E%AF%E4%BF%9D%E3%80%8B"><font color="#4a4a4a">《资源节约与环保》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B1%B1%E4%B8%9C%E7%9C%81%E5%86%9C%E4%B8%9A%E7%AE%A1%E7%90%86%E5%B9%B2%E9%83%A8%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%E3%80%8B"><font color="#4a4a4a">《山东省农业管理干部学院学报》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%89%A9%E8%B5%84%E6%B5%81%E9%80%9A%E7%A0%94%E7%A9%B6%E3%80%8B"><font color="#4a4a4a">《物资流通研究》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E7%8E%B0%E4%BB%A3%E5%9F%8E%E5%B8%82%E7%A0%94%E7%A9%B6%E3%80%8B"><font color="#4a4a4a">《现代城市研究》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E7%B2%AE%E9%A3%9F%E9%97%AE%E9%A2%98%E7%A0%94%E7%A9%B6%E3%80%8B"><font color="#4a4a4a">《粮食问题研究》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%96%E7%95%8C%E5%86%9C%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《世界农业》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9C%BA%E5%B8%82%E5%9C%BA%E3%80%8B"><font color="#4a4a4a">《农机市场》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E6%96%B0%E7%96%86%E8%B4%A2%E7%BB%8F%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%E3%80%8B"><font color="#4a4a4a">《新疆财经学院学报》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%86%9C%E4%B8%9A%E4%BC%9A%E8%AE%A1%E3%80%8B"><font color="#4a4a4a">《中国农业会计》</font></a> </li>
+<li><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9D%91%E5%B7%A5%E4%BD%9C%E9%80%9A%E8%AE%AF%E3%80%8B"><font color="#4a4a4a">《农村工作通讯》</font></a> </li></ul> </td>
+<td>
+<p><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%B8%9A%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《农业经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%8C%BB%E8%8D%AF%E6%8A%80%E6%9C%AF%E7%BB%8F%E6%B5%8E%E4%B8%8E%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《中国医药技术经济与管理》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%92%8C%E5%8C%96%E5%B7%A5%E7%BB%8F%E6%B5%8E%E5%88%86%E6%9E%90%E3%80%8B"><font color="#4a4a4a">《中国石油和化工经济分析》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%88%B6%E8%A1%A3%E3%80%8B"><font color="#4a4a4a">《中国制衣》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%9C%8D%E9%A5%B0%E3%80%8B"><font color="#4a4a4a">《中国服饰》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%B3%E7%AD%96%E5%92%A8%E8%AF%A2%E9%80%9A%E8%AE%AF%E3%80%8B"><font color="#4a4a4a">《决策咨询通讯》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%9B%BD%E9%99%85%E9%87%91%E8%9E%8D%E7%A0%94%E7%A9%B6%E3%80%8B"><font color="#4a4a4a">《国际金融研究》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E9%9D%92%E6%B5%B7%E9%87%91%E8%9E%8D%E3%80%8B"><font color="#4a4a4a">《青海金融》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B5%8E%E5%8D%97%E9%87%91%E8%9E%8D%E3%80%8B"><font color="#4a4a4a">《济南金融》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E9%87%91%E7%BA%B5%E6%A8%AA%E3%80%8B"><font color="#4a4a4a">《农金纵横》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%93%88%E5%B0%94%E6%BB%A8%E5%95%86%E4%B8%9A%E5%A4%A7%E5%AD%A6%E5%AD%A6%E6%8A%A5%EF%BC%88%E7%A4%BE%E4%BC%9A%E7%A7%91%E5%AD%A6%E7%89%88%EF%BC%89%E3%80%8B"><font color="#4a4a4a">《哈尔滨商业大学学报（社会科学版）》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%95%86%E7%94%A8%E6%B1%BD%E8%BD%A6%E6%96%B0%E9%97%BB%E3%80%8B"><font color="#4a4a4a">《商用汽车新闻》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%8E%A9%E5%85%B7%E4%B8%96%E7%95%8C%E3%80%8B"><font color="#4a4a4a">《玩具世界》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%B6%E9%87%91%E8%B4%A2%E4%BC%9A%E3%80%8B"><font color="#4a4a4a">《冶金财会》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%8A%E6%B5%B7%E5%B7%A5%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《上海工业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9D%91%E8%B4%A2%E6%94%BF%E4%B8%8E%E8%B4%A2%E5%8A%A1%E3%80%8B"><font color="#4a4a4a">《农村财政与财务》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E8%88%B9%E8%88%B6%E7%89%A9%E8%B5%84%E4%B8%8E%E5%B8%82%E5%9C%BA%E3%80%8B"><font color="#4a4a4a">《船舶物资与市场》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%9F%B3%E6%B2%B9%E5%8C%96%E5%B7%A5%E7%AE%A1%E7%90%86%E5%B9%B2%E9%83%A8%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%E3%80%8B"><font color="#4a4a4a">《石油化工管理干部学院学报》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%BB%BF%E8%89%B2%E8%B4%A2%E4%BC%9A%E3%80%8B"><font color="#4a4a4a">《绿色财会》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%AD%A6%E6%B1%89%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E5%B9%B2%E9%83%A8%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%E3%80%8B"><font color="#4a4a4a">《武汉冶金管理干部学院学报》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E8%83%BD%E6%BA%90%E5%9F%BA%E5%9C%B0%E5%BB%BA%E8%AE%BE%E3%80%8B"><font color="#4a4a4a">《能源基地建设》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B9%A1%E9%95%87%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《乡镇经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%9F%B3%E5%8C%96%E3%80%8B"><font color="#4a4a4a">《中国石化》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%A4%96%E7%8E%A9%E5%85%B7%E5%88%B6%E9%80%A0%E3%80%8B"><font color="#4a4a4a">《中外玩具制造》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%B8%9A%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98%E3%80%8B"><font color="#4a4a4a">《农业经济问题》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%B8%9A%E6%8A%80%E6%9C%AF%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《农业技术经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%9B%BD%E9%98%B2%E7%A7%91%E6%8A%80%E5%B7%A5%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《国防科技工业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%BA%BA%E7%BB%87%E6%9C%8D%E8%A3%85%E5%91%A8%E5%88%8A%E3%80%8B"><font color="#4a4a4a">《纺织服装周刊》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%9B%BD%E9%99%85%E7%9F%B3%E6%B2%B9%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《国际石油经济》</font></a> </p> </td>
+<td>
+<p><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B9%BF%E8%A5%BF%E7%B2%AE%E9%A3%9F%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《广西粮食经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%BE%9B%E7%94%B5%E4%BC%81%E4%B8%9A%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《供电企业管理》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%BB%BA%E7%AD%91%E7%AE%A1%E7%90%86%E7%8E%B0%E4%BB%A3%E5%8C%96%E3%80%8B"><font color="#4a4a4a">《建筑管理现代化》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B7%A5%E4%B8%9A%E8%AE%BE%E8%AE%A1%E3%80%8B"><font color="#4a4a4a">《工业设计》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B9%96%E5%8D%97%E7%83%9F%E8%8D%89%E3%80%8B"><font color="#4a4a4a">《湖南烟草》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%8D%AF%E7%89%A9%E7%BB%8F%E6%B5%8E%E5%AD%A6%E3%80%8B"><font color="#4a4a4a">《中国药物经济学》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B1%9F%E8%A5%BF%E5%86%9C%E4%B8%9A%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《江西农业经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%85%A4%E7%82%AD%E5%B7%A5%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《中国煤炭工业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%9C%9F%E8%B5%84%E6%BA%90%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《中国国土资源经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%8A%9B%E6%8A%80%E6%9C%AF%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《电力技术经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%8C%96%E5%B7%A5%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《化工管理》<br/></font></a><a href="http://www.baike.com/wiki/%E3%80%8A%E6%95%B0%E5%AD%97%E7%9F%B3%E6%B2%B9%E5%92%8C%E5%8C%96%E5%B7%A5%E3%80%8B"><font color="#4a4a4a">《数字石油和化工》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E9%92%A2%E9%93%81%E4%B8%9A%E3%80%8B"><font color="#4a4a4a">《中国钢铁业》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%9E%97%E4%B8%9A%E7%BB%8F%E6%B5%8E%E9%97%AE%E9%A2%98%E3%80%8B"><font color="#4a4a4a">《林业经济问题》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B9%BF%E8%A5%BF%E7%83%9F%E8%8D%89%E3%80%8B"><font color="#4a4a4a">《广西烟草》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9D%91%E8%B4%A2%E5%8A%A1%E4%BC%9A%E8%AE%A1%E3%80%8B"><font color="#4a4a4a">《农村财务会计》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B9%A1%E9%95%87%E8%AE%BA%E5%9D%9B%E3%80%8B"><font color="#4a4a4a">《乡镇论坛》</font></a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%B8%9A%E9%83%A8%E5%8C%97%E4%BA%AC%E5%86%9C%E5%9E%A6%E7%AE%A1%E7%90%86%E5%B9%B2%E9%83%A8%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%E3%80%8B"><font color="#4a4a4a">《农业部北京农垦管理干部学院学报》<br/></font></a><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%9F%E6%80%81%E7%BB%8F%E6%B5%8E%EF%BC%88%E5%AD%A6%E6%9C%AF%E7%89%88%EF%BC%89%E3%80%8B"><font color="#4a4a4a">《生态经济（学术版）》</font></a><font style="BACKGROUND-COLOR: #fafafa"><br/></font><a href="http://www.baike.com/wiki/%E3%80%8A%E6%B1%9F%E8%8B%8F%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《江苏农村经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E5%9C%BA%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《农场经济管理》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9D%91%E5%BB%BA%E8%AE%BE%E3%80%8B"><font color="#4a4a4a">《农村建设》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B1%B1%E4%B8%9C%E5%86%9C%E4%B8%9A%EF%BC%88%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E7%89%88%EF%BC%89%E3%80%8B"><font color="#4a4a4a">《山东农业（农村经济版）》<br/></font></a><a href="http://www.baike.com/wiki/%E3%80%8A%E5%90%89%E6%9E%97%E5%86%9C%E4%B8%9A%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E4%BF%A1%E6%81%AF%E3%80%8B"><font color="#4a4a4a">《吉林农业农村经济信息》<br/></font></a><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E4%B8%9A%E7%A7%91%E7%A0%94%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E3%80%8B"><font color="#4a4a4a">《农业科研经济管理》</font></a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E6%A3%89%E9%BA%BB%E6%B5%81%E9%80%9A%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《中国棉麻流通经济》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%9F%B3%E6%B2%B9%E5%92%8C%E5%8C%96%E5%B7%A5%EF%BC%88%E4%BC%81%E4%B8%9A%E7%89%88%EF%BC%89%E3%80%8B"><font color="#4a4a4a">《中国石油和化工（企业版）》<br/></font></a><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%8C%96%E5%A6%86%E5%93%81%EF%BC%88%E8%A1%8C%E4%B8%9A%EF%BC%89%E3%80%8B"><font color="#4a4a4a">《中国化妆品（行业）》</font></a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B1%B1%E8%A5%BF%E5%86%9C%E7%BB%8F%E3%80%8B"><font color="#4a4a4a">《山西农经》</font></a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%BA%91%E5%8D%97%E8%B4%A2%E8%B4%B8%E5%AD%A6%E9%99%A2%E5%AD%A6%E6%8A%A5%EF%BC%88%E7%BB%8F%E6%B5%8E%E7%AE%A1%E7%90%86%E7%89%88%EF%BC%89%E3%80%8B"><font color="#4a4a4a">《云南财贸学院学报（经济管理版）》</font></a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E3%80%8B"><font color="#4a4a4a">《农村经济》</font></a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%86%9C%E6%9D%91%E7%BB%8F%E6%B5%8E%E4%B8%8E%E6%8A%80%E6%9C%AF%E3%80%8B"><font color="#4a4a4a">《农村经济与技术》</font></a> </p> </td></tr></tbody></table></div>
+</div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=%E3%80%8A%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E3%80%8B" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=%E3%80%8A%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E3%80%8B" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+		 function goUrl(url){
+		  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+		  window.open(url,'_blank');
+		 }
+		</script>
+<dl class="reference bor-no">
+<dt>扩展阅读</dt>
+<dd>
+<em>1</em>http://www.jx.cn/hyzr/hyzrview.asp?id=3124<a><input name="refrenceurlinput" onclick="goUrl('http://www.jx.cn/hyzr/hyzrview.asp?id=3124')" readonly="" type="text" value="http://www.jx.cn/hyzr/hyzrview.asp?id=3124"/></a>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/%E5%86%B6%E9%87%91/?prd=zhengwenye_left_kuozhan_kaifangfenlei">冶金</a><a href="http://fenlei.baike.com/%E5%87%BA%E7%89%88%E7%89%A9/?prd=zhengwenye_left_kuozhan_kaifangfenlei">出版物</a><a href="http://fenlei.baike.com/%E6%8A%A5%E5%88%8A/?prd=zhengwenye_left_kuozhan_kaifangfenlei">报刊</a><a href="http://fenlei.baike.com/%E6%9C%9F%E5%88%8A/?prd=zhengwenye_left_kuozhan_kaifangfenlei">期刊</a><a href="http://fenlei.baike.com/%E6%9C%9F%E5%88%8A%E6%9D%82%E5%BF%97/?prd=zhengwenye_left_kuozhan_kaifangfenlei">期刊杂志</a><a href="/fenlei/">大众媒体 </a><a href="/fenlei/">经济管理</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="冶金"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="出版物"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="报刊"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="期刊"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="期刊杂志"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="大众媒体 "/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="经济管理"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="《冶金管理》"/><input id="docidencry" name="docidencry" type="hidden" value="VG1ZRa0dfBUABBxgb"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img"><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;" title="编辑摘要"><img alt="编辑摘要" src="//www.huimg.cn/entry/images/summary_default270x233.png" title="编辑摘要"/></a></div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>9次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=%E3%80%8A%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E3%80%8B&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>6</span>位</li>
+<li>最近更新时间：2011-03-06 09:33:37</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=%E3%80%8A%E5%86%B6%E9%87%91%E7%AE%A1%E7%90%86%E3%80%8B&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=wUkYACAMERkdHWBBZ&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">冰姿</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=eGgYDQlgaHnVFWFMf&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="eGgYDQlgaHnVFWFMf">小杂草</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=wUkYACAMERkdHWBBZ&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="wUkYACAMERkdHWBBZ">冰姿</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=zAANWX1leUE9WVn4E&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="zAANWX1leUE9WVn4E">宏纳</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=fRBxfQEcEX0dbURZP&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="fRBxfQEcEX0dbURZP">浮点</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=QfnEAAAgECmh_c3B8&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="QfnEAAAgECmh_c3B8">KenQ</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%AE%9D%E9%92%A2%E9%9B%86%E5%9B%A2%E6%9C%89%E9%99%90%E5%85%AC%E5%8F%B8&amp;prd=citiao_so" target="_blank" title="宝钢集团有限公司"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/66/23/20300001385827146088232628058_140.jpg);"><p></p></span>宝钢集团…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E9%9D%92%E5%B2%9B%E5%95%A4%E9%85%92&amp;prd=citiao_so" target="_blank" title="青岛啤酒"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/73/40/50200009239445155868403549285_140.jpg);"><p></p></span>青岛啤酒</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E8%B5%84%E4%BA%A7%E9%87%8D%E7%BB%84&amp;prd=citiao_so" target="_blank" title="资产重组"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/12/66/50200009239445155364669568234_140.jpg);"><p></p></span>资产重组</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%8E%8B%E5%8B%8B&amp;prd=citiao_so" target="_blank" title="王勋"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/07/76/01300000190639121847767837223_140.jpg);"><p></p></span>王勋</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%AD%99%E5%BE%B7%E5%92%8C&amp;prd=citiao_so" target="_blank" title="孙德和"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/68/46/50200014992522154839468633700_140.jpg);"><p></p></span>孙德和</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E9%82%B5%E8%B1%A1%E5%8D%8E&amp;prd=citiao_so" target="_blank" title="邵象华"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/86/38/50200014992522154995380913546_140.jpg);"><p></p></span>邵象华</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E4%B8%96%E7%95%8C%E9%92%A2%E9%93%81%E5%B7%A5%E4%B8%9A&amp;prd=citiao_so" target="_blank" title="世界钢铁工业"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/45/06/01000000000000119080683973345_140.jpg);"><p></p></span>世界钢铁…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E8%8E%B1%E9%92%A2%E9%9B%86%E5%9B%A2&amp;prd=citiao_so" target="_blank" title="莱钢集团"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/10/33/01300000249987122519336452305_140.gif);"><p></p></span>莱钢集团</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%85%BC%E5%B9%B6&amp;prd=citiao_so" target="_blank" title="兼并"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/23/72/01300000239271122794728045315_140.jpg);"><p></p></span>兼并</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E9%9D%92%E9%93%9C%E5%99%A8&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">青铜器</a></li>
+<li><a href="http://so.baike.com/doc/%E7%A1%AB%E9%85%B8&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">硫酸</a></li>
+<li><a href="http://so.baike.com/doc/%E7%A8%80%E5%9C%9F&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">稀土</a></li>
+<li><a href="http://so.baike.com/doc/%E7%89%9B%E8%86%9D&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">牛膝</a></li>
+<li><a href="http://so.baike.com/doc/%E6%B1%9E&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">汞</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E7%A1%AB%E5%8C%96%E6%B0%A2&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">硫化氢</a></li>
+<li><a href="http://so.baike.com/doc/%E6%B7%AC%E7%81%AB&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">淬火</a></li>
+<li><a href="http://so.baike.com/doc/%E6%B0%A2%E6%B0%94&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">氢气</a></li>
+<li><a href="http://so.baike.com/doc/%E9%92%A2%E5%8C%96%E7%8E%BB%E7%92%83&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">钢化玻璃</a></li>
+<li><a href="http://so.baike.com/doc/%E9%92%A2%E5%8C%96%E7%8E%BB%E7%92%83&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">钢化玻璃</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

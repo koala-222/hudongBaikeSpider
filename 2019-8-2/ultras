@@ -1,0 +1,334 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/ULTRAS" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/63/B9/63B93EC6503ED248ECB20E43D465A27D_90.png?title=ULTRAS"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>ULTRAS</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/U%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="U开头单词">U开头单词</a><a href="//fenlei.baike.com/%E4%BD%93%E8%82%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="体育">体育</a><a href="//fenlei.baike.com/%E4%BD%93%E8%82%B2%E8%BF%90%E5%8A%A8/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="体育运动">体育运动</a><a href="//fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英文单词">英文单词</a><a href="//fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英语">英语</a><a href="//fenlei.baike.com/%E8%B6%B3%E7%90%83/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="足球">足球</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>Ultras（乌尔特拉斯，由拉丁语中的单词ultrā引派生而来，意为超乎寻常的，暗指他们的激情非比寻常），指体育运动队的支持者通过一些狂热的方式表达对自己运动队的热爱。这一单词主要是指一些欧洲足球俱乐部的支持者们。</p><p></p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="ULTRAS"/><div id="hd_ad_doc_109"> </div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="概念" catalogkey="1" class="bold" href="javascript:void(0)" title="概念">概念</a>
+</li>
+<li>
+<em>2</em><a alt="起源" catalogkey="3" class="bold" href="javascript:void(0)" title="起源">起源</a>
+</li>
+<li>
+<em>3</em><a alt="特征" catalogkey="5" class="bold" href="javascript:void(0)" title="特征">特征</a>
+</li>
+<li>
+<em>4</em><a alt="在中国发展" catalogkey="7" class="bold" href="javascript:void(0)" title="在中国发展">在中国发展</a>
+</li>
+<li class="dot"><a alt="雏形" catalogkey="9" href="javascript:void(0)" title="雏形">雏形</a></li>
+<li class="dot"><a alt="现状" catalogkey="11" href="javascript:void(0)" title="现状">现状</a></li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">概念</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">起源</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">特征</a>
+<i></i>
+</li>
+<li>
+<em>4</em><a catalogkey="7" class="bold" href="javascript:void(0)">在中国发展</a>
+<i></i>
+</li>
+<li class="dot">
+<em>4.1</em><a catalogkey="9" href="javascript:void(0)">雏形</a>
+</li>
+<li class="dot">
+<em>4.2</em><a catalogkey="11" href="javascript:void(0)">现状</a>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>概念<span class="f18">/ULTRAS </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<p>Ultras组织的行为方式主要包括在球场看台上燃烧信号弹（通常配合以看台巨幕）、统一发出声音、藐视权威以及展示横幅标语等。这些行为旨在制造让对手及对手支持者胆寒的气氛，</p><div class="img img_r">
+<a href="http://tupian.baike.com/a0_11_29_50200009239445156171296751635_s_jpg.html" target="_blank" title="Bad Blue Boys"><img alt="Bad Blue Boys" data-original="http://a0.att.hudong.com/11/29/50200009239445156171296751635_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="Bad Blue Boys"/></a>
+<strong>Bad Blue Boys</strong>
+</div><p>并为自己的球队助威。两支球队之间的死敌关系会致使双方支持者的对立，Ultras组织都能以各自支持的球队相互区分。 Ultras组织的行为有时会非常极端过激，并受到以下因素的影响，包括：种族矛盾、政治意识形态分歧、同城德比，甚至是自己球队糟糕的表现。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>起源<span class="f18">/ULTRAS </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<p>Ultras组织这一特殊的球迷团体在1960年代末期集中出现于意大利，当时的足球俱乐部降低了球场内特定看台的票价。Ultras组织的暴力行为引起一些死亡事件，并引起警察的暴力性报复。</p><p>最早的Ultras组织由前南斯拉夫地区的一些组织发展而成：在1950年的南斯拉夫，有一群民族主义拥护者，他们支持的是克罗地亚地区的海杜克斯普利特队（Hajduk Split）-现为克罗地亚联赛球队-创建了一个名叫Torcida Split的组织。 （该组织的名字沿用至今）。历史第二悠久的Ultras组织据说是支持意大利AC米兰队（AC Milan）的Fossa dei Leoni（狮子窝），成立于1968年。 （译者：狮子窝已于2005年11月17日正式解散）该组织的名称源于米兰队主场圣西罗球场的昵称，并扎根于圣西罗票价便宜的17区看台。意大利更早的球迷组织为都灵队的Fedelissimi Granata，并仍然在“马拉松看台”（Maratona curve）战斗。桑普多利亚队（Sampdoria）的Ultras组织与1969年诞生（他们也是第一个自称"Ultras"的组织），随后是国际米兰队(FC Internazionale Milano)的"The Boys"组织。1970年，前南斯拉夫首都贝尔格莱德，贝尔格莱德游击队（Partizan Belgrade）的Ultras组织Grobari（掘墓人）成立。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>特征<span class="f18">/ULTRAS </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<p><b>组织成员</b></p><p>Ultras组织通常由一个核心小组所领导（领导成员拥有对组织的最高控制权），并且在组织内部可能出现一些分支小组，这些小组可能是由成员之间的友谊、居住的区域或者是政治立场而形成的。 Ultras组织以各种风格形式大小的横幅和旗帜展示组织的名字及标志。有些Ultras组织会出售一些组织的商品，包括围巾、帽子或外套。 Ultras的助威文化由几种不同的形式组成，包括挥舞围巾和唱歌。一个Ultras组织的成员人数可由一小撮到数百人不等。他们通常会宣布拥有所在的整个看台。</p><p><b>核心精神</b></p><p>以下四点是Ultras的核心精神：</p><p>● 不管比分如何，永远以歌声和口号贯穿整场比赛</p><p>● 在比赛进程中永远不坐下</p><p>● 尽可能多地到场每一场比赛，不管是主场还是客场，无论花费或路途</p><p>● 忠于组织所在的看台</p><p><b>行为</b></p><p>Ultras组织通常有一名代表，负责与俱乐部老板协商相关事宜，包括：球票、看台位置以及物品存放地点等。有些俱乐部为Ultras组织提供更便宜的球票，存放旗帜和横幅的地点以及能够尽早进入球场以进行布置的权利。这样的特惠可能遭到一些非Ultras组织的不满。有些球赛观众则会因为观球视线被遮挡而批评Ultras组织看球时从不坐在座位上、挥舞旗帜、展示横幅等行为。其他批评声包括Ultras对非Ultras球迷的攻击和恐吓等。</p><p><b>比赛日</b></p><p>在一些重要的比赛开始前，多数的Ultras组织会准备并展示看台巨幕（Tifo）。巨幕的大小各异，以组织的经济能力而定。这样的巨幕通常只是在该Ultras组织所在的看台展示。另外，他们也会组织一些看台拼图（由成员手举一块塑料板或纸张而组成。其他运用到看台上的物品有：气球、飘带、横幅、信号弹、烟雾弹，以及大型玩偶（桑普多利亚Ultras在2002年开始使用）。许多流行的文化元素及符号都能运用到横幅中去，包括电影“发条橙”中的男主角Alex DeLarge的头像、斗牛犬造型或切·格瓦拉的头像。土耳其的加拉塔萨雷队（Galatasaray SK）的UltrAslan组织以狮子为标志，寓意加拉塔萨雷队是土耳其联赛的王者。加拉塔萨雷队的名字Galatasaray原自土耳其语中的saray，队名的意思为：Galata宫殿（Galata为伊斯坦布尔市下的一个辖区的名字）。 看台上各种形式的展示通常花费巨大，并需要数月的时间来准备。有些Ultras组织，尤其是意大利的一些组织，对所谓的“现代足球”非常的排斥。这里现代足球指的是，为了足球产业中各个方面的商业利益而出现的：全坐席球场、昂贵的球票、在非常规时间进行比赛</p><div class="img img_r">
+<a href="http://tupian.baike.com/a4_78_76_50200009239445156155769846541_s_jpg.html" target="_blank" title="ULTRAS"><img alt="ULTRAS" data-original="http://a4.att.hudong.com/78/76/50200009239445156155769846541_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="ULTRAS"/></a>
+<strong>ULTRAS</strong>
+</div><p>（为了照顾不同时区的转播）、球员像商品一样被买卖以及足球运动中日益商业化的大环境。在意大利的球场经常能看到球迷打出“Contro Il Calcio Moderno”（反对现代足球），“No Al Calcio Moderno”（对现代足球说不）等横幅，表达此类含义的横幅标语在欧洲的其他国家也时有出现。在英国的球场里比较盛行的一句话是“Love Football, Hate Business”（我们热爱足球，但讨厌商业行为）。 Ultras组织都会高声为球队呐喊歌唱，每个组织都会有几首球迷歌。很多曲调都是借鉴一些流行歌曲，比如“Guantanamera”、“7 Nation Army”、“Bella Ciao”和“ACAB”。大多数情况下，组织的领导利用扩音器来指挥协调看台上的各种事务，包括口号、唱歌、展示横幅。球迷杂志和网站在Ultras运动中占据了很大的一部分。随着印刷成本的降低和制作软件的不断发展，如今的球迷杂志也越来越专业。</p><p><b>足球流氓行为</b></p><p>尽管许多Ultras组织有暴利因素，大部分的比赛中还是不会有暴利事件发生。足球流氓团体的主要目的是和对手的球迷干架，而Ultras组织和那些团体不同。 Ultras更多地把精力放在对球队的支持上。足球流氓在客场之旅中通常比较低调，通常不会穿有自己球队颜色的衣服以避免被警察盯梢。而Ultras则会比较显眼，不在乎警察对他们行动的监察。当遇到冲突或麻烦时，Ultras也会反击，但他们的做法有点和一些政治骚乱相类似，而通常国家宪兵也会像对待政治运动一样对待Ultras的活动。</p><p>然而，源于意大利本土的Ultras组织与源于英国的足球流氓也发生了一些交集。在2006年3月的意大利罗马，英国俱乐部米德尔斯堡队（Middlesbrough FC）与意大利俱乐部罗马队（AS Roma）的比赛中，三名米德尔斯堡球迷在与罗马队Ultras组织成员的冲突中被刺。罗马队的Ultras组织也卷入了2007年4月与英国曼彻斯特联队（Manchester United）的斗殴事件，当时11名曼联球迷、2名罗马球迷重伤入院治疗。这些特殊的事件可以反映出罗马球迷的反英国情绪。这些存在于罗马球迷心中的情绪可以追溯到1984年的欧洲冠军杯决赛（译者：当时在罗马奥林匹克体育场举行的比赛中，罗马队与英国利物浦队（Liverpool FC）1-1战平，在随后的点球大战2-4惜败）。同时西班牙当局也对Ultras团体间冲突而发生的暴力事件而头疼不已。</p><p><b>政治倾向</b></p><p>有些Ultras组织会合政治因素联系在一起，包括种族主义、反种族主义、民族主义或反资本主义等。除此之外，在一些Ultras组织里有些运动已经超越了传统的左翼右翼政治运动，即抵抗足球商业化的运动。在意大利，这一运动被称为“No al Calcio Moderno”，大致可翻译为：反对现代足球。在有些实例中，球迷放弃自己原先支持的球队，并成立新的球队，包括著名的曼彻斯特联队（Manchester United FC）与“联合曼彻斯特队”（FC United of Manchester）（译者： FC United of Manchester在英国被称为FC United，是一支英国足球联赛中的半职业球队。目前还没有正式中文名称，这里暂时把他称为联合曼彻斯特队。这支球队是由原曼联队球迷于2005年创立组建的，当时美国商人马尔科姆·格雷泽成功收购曼联，使得一些曼联球迷决定重新组织起一支球队以代表最纯粹的曼彻斯特足球。这支球队的创立伊始便得到了超过4000名球迷的资金支持，并通过投票的方式，从FC United of Manchester, FC Manchester Central, AFC Manchester 1878以及Newton Heath United FC四个名字中挑选出了球队最终的名称。目前</p><div class="img img_r">
+<a href="http://tupian.baike.com/a3_25_29_50200009239445156171297115855_s_jpg.html" target="_blank" title="Napoli ultras"><img alt="Napoli ultras" data-original="http://a3.att.hudong.com/25/29/50200009239445156171297115855_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="Napoli ultras"/></a>
+<strong>Napoli ultras</strong>
+</div><p>该球队在英国第7级别的联赛中征战，08-09赛季在22支球队中最终排名第6，主场场均观众人数为2152人。）这样的例子还包括英国温布尔顿队（Wimbledon FC现已更名为MK DonsFC）以及球迷创立的AFC Wimbledon队、以色列耶路撒冷的Hapoel Jerusalem队以及球迷创立的Hapoel Katamon队、奥地利萨尔茨堡FC Red Bull Salzburg队以及球迷创立的SV Austria Salzburg。 一些Ultras组织，例如意大利利沃诺队（Livorno）的Brigate Autonome Livornesi组织、克罗地亚萨格勒布队（NK Zagreb，不是萨格勒布迪那摩）的Bijeli anđeli组织、塞浦路斯奥莫尼亚竞技队（AC Omonia）的GATE9组织、意大利阿雷佐队（AC Arezzo）的Fossa组织、意大利比萨队（Pisa Calcio）的Ultras组织、法国马赛队（Olympique de Marseilles）的Curva-Massilia组织、德国圣保利队（FC St.Pauli）的Ultrà Sankt Pauli组织、以色列特拉维夫队（Hapoel Tel-Aviv）的Ultras Hapoel组织、希腊雅典AEK队（AEK Athens）的Original 21组织、苏格兰格拉斯哥凯尔特人队（Celtic FC）的Green Brigade组织、西班牙塞维利亚队（Sevilla FC）的Biris Norte组织，以展示五角星、铁锤和镰刀、无政府主义标志（anarchy symbol）、切格瓦拉头像以及一些反法西斯主义标志而著名。</p><p>在土耳其，贝西克塔斯队（Beşiktaş JK）的Çarşı组织持有左翼政治观点，并在其组织标志上有一个类似无政府主义标志的A型字母。荷兰阿贾克斯队（Ajax Amsterdam）的球迷则经常展示有大卫之星（译者：Star of David，犹太标志）和以色列国旗，并且高喊“Joden！Joden！”（荷兰语，意为犹太人）的口号，以表达阿贾克斯俱乐部有犹太人创立的历史。每年一届的Mondiali Antirazzisti（反种族主义世界杯）吸引超过6000人的参与，这也是世界上反对法西斯主义Ultras规模最大型的聚会。</p><p>意大利拉齐奥队（SS Lazio）的Irriducibili组织、塞浦路斯尼科西亚希腊人竞技队（APOEL FC）的PAN SY FI组织、意大利国际米兰队（FC Internazionale Milano）的Boys San组织、西班牙皇家马德里队（Real Madrid CF）的Ultras Sur组织、意大利维罗纳队（Hellas Verona FC）的Brigate Gialloblu组织、西班牙西班牙人队（RCD Espanyol）的Brigadas Blanquiazules组织、克罗地亚海杜克斯普利特队（Hajduk Split）的Torcida组织、克罗地亚萨格勒布迪纳摩队（Dinamo Zagreb）的Bad Blue Boys组织、罗马尼亚布加勒斯特迪那摩队（FC Dinamo Bucuresti）的Nuova Guardia组织、罗马尼亚布加勒斯特星队（FC Steaua Bucureşti）和西班牙马德里竞技队（Atlético Madrid）的Ultras组织，都以悬挂纳粹标志及其他种族主义图案而闻名。</p><p><b>死敌</b></p><p>Ultras组织之间的激烈敌对及对抗在全世界范围来说都是一件非常普遍的事情。不过在欧洲，此类对抗的规模则相比较而言更大。而此类敌对状态基本上是建立在两个死敌俱乐部之间，很多情况下建立在同城德比对手之间，有些也建立在政治立场相对的组织之间（例如意大利利沃诺队（AS Livorno Calcio）与意大利拉齐奥队（SS Lazio）。不过，也有支持同一支球队的两个不同Ultras组织相互敌对的情况发生。不少Ultras组织会试图抢夺敌对组织的横幅或旗帜。而被敌对组织取得本组织的横幅或旗帜在Ultras文化当中是极大的耻辱，并且，丢失横幅的一方会被要求解散自己的组织。</p><p>在弗兰克林.弗尔的《足球解读世界：揭示足球令世界痴狂的深层次原因》一书中，将塞尔维亚与克罗地亚两国之间球队的比赛描绘成：“两队之间的新仇旧恨，能在足球场内亲眼目睹，两队球迷把各自国家在两国战争之间的屠杀事件编成歌曲，在体育场内传唱。贝尔格莱德游击队的Ultras组织Grobari （意为：掘墓人）的成员与贝尔格莱德红星队（FC Red Star Belgrade）的Ultras组织The Delije的成员组成了塞尔维亚军方领导人Željko Ražnatović（又称Arkan）领导下的“Tigers”军事行动小组的大部分成员，这一行动组又被称为“Arkan's Tigers”，在南斯拉夫内战中执行了数次军事任务。Arkan's Tigers行动组的成员在1992年3月22号红星队与游击队的德比中策划了令人影响深刻的一幕。两队球迷作为Arkan's Tigers行动组的成员聚集在一起高唱“离Vukovar还有20里路，离Vukovar还有10里路，哦，欢迎来到Vukovar！ ”。（译者：Vukovar为克罗地亚城镇的名字）他们不断变化着城镇的名字，而这些地名正是克罗地亚军队在内战争中失守的地方。当时Arkan正作为红星队支持者球迷会的领导。</p><p>在2007年波黑国家队与克罗地亚国家队的一场友谊赛当中，克罗地亚球迷排出了一个U字型的标志，暗指二战时期克罗地亚国内Ustase运动及其屠杀塞尔维亚人、犹太人的历史。 （译者：“Ustase”——第二次世界大战期间克罗地亚的法西斯分裂主义者的组织机构乌斯塔沙，他们自发执行对犹太人的屠杀，手法在云云纳粹卫星国中最为凶残，据盟军估计有70万犹太人和塞尔维亚人在克罗地亚遇害。）这也导致了在波斯尼亚穆斯林与克罗地亚人的紧张关系。</p><p><b>延伸阅读</b></p><p>一个真正的Ultras，没有名字，只有亲密的朋友认识他；没有面容，通常他把连帽衫的帽子扣在头上，用围巾围住脸；不会穿的和别人一样，不追求时尚流行；只要走在路上，就算身上没有支持任何球队的标记，他也能被人认出来。一个真正的Ultras在受到攻击时，奋起反击；在听到呼救时，全力相助。他的战斗并不会在回家摘下围巾后就立即结束，他生来就是个斗士。</p><p>一个经历过战斗的Ultras是年轻Ultras的榜样，并受到年轻人的尊重。年轻的Ultras以能够站在他们的身边一起战斗为荣，接受他们的批评并不断成长，甚至会在和他们握手时脸红。普通人可能不会理解一个Ultras，同时Ultras也并不需要他们的理解，更不会向他们解释自己所专注的事情。每一个Ultras都有自己的不同之处。有些人会穿上带有球队标记和颜色的衣服，而有些则从来不曾拥有这些。有些人紧跟自己所在的组织，而有些则习惯独行。</p><p>每一个Ultras都有自己与众不同的地方，但有一种伟大的力量把他们聚集在了一起，那是他们对自己球队的热爱，是能够站在凄风苦雨的看台上的毅力，是用全力吼出的歌声所迸发出的激情。他们聚集在了一起，在去往客场比赛的火车上喝个烂醉睡在一起。他们聚集在一起，一起由警察护送经过对手城市的市中心。他们聚集在一起，挨了好几个小时的饿之后分吃一个三明治。他们为了一个眼神，一个想法，一个且唯一的信仰，聚在一起。</p><p>一切的一切把我们聚集在了一起，同时又让我们和其他世俗的事物分离开来。处处操心的父母、傻乎乎的表弟、胆小怕事的同学或同事、脾气暴躁的老师或老板早已和我们分道扬镳。Ultras并不是破坏公物和无理的暴力宣泄的代名词。而是努力捍卫著一种生活方式的行为，一种已经受到社会问题，无聊的电视节目，吸引越来越多的年轻人的Disco以及来自警察和政府的不公正镇压威胁的生活方式。</p><p>做一个Ultras并不仅仅只有这些，还包括那种没有办法向他人解释的情感和激情。那些人根本都不想来理解，宁愿简单地低下头默默地生活著，那些人永远都没有勇气跨过那道坎加入到我们中来。很庆幸的是我们做到了。<sup><a href="#hdtop_1" name="hdend_1" title="Ultras的生活方式">[1]</a></sup></p><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>在中国发展<span class="f18">/ULTRAS </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+<a name="9"> </a><h3>雏形</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a3_44_29_50200009239445156171296955786_s_jpg.html" target="_blank" title="申花蓝魔"><img alt="申花蓝魔" data-original="http://a3.att.hudong.com/44/29/50200009239445156171296955786_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="申花蓝魔"/></a>
+<strong>申花蓝魔</strong>
+</div><p>在中国，2000年在上海成立的申花蓝魔是第一个具备Ultras性质的球迷团体，多年来一直坚持走民间路线。此后在各地虽然诞生了不少类似团体，但多为俱乐部的官方组织，只有形式上的效仿，缺乏气质上的接近。因为要真正成为Ultras，必须保证民间身份，拒绝商业行为，同时坐在曲线看台，只有这样才能保证狂热和忠诚。直到2005年，一些原北京国安官方球迷会的成员自行组织了御林军，明确提出了要创建中国的Ultras组织，2015年初，河南建业红魔球迷协会也在百度河南建业吧掀起了对Ultras文化的深入探讨，初步确定了发展Ultras文化的目标。</p><p>在大连，成立于2003年的蓝色激浪在2006年初提出导入Ultras理念，并视其为发展目标。这是中国第一支由普通球迷组织尝试转型为Ultras的球迷组织。</p><p>2007年7月在上海出现了一个自称C.U.N.A（Commando Ultra Nord Anteriore)的组织，这个组织的诞生，重新建立了一种ultras在中国新的发展模式。即是依附在大组织之中，且保有独立思想的小组模式。到了2008年，全国诞生了多个和C.U.N.A模式一样的Ultras组织。时至今日这种模式的组织还在不断的诞生之中。</p><a name="11"> </a><h3>现状</h3><p>可是现状也并不全是那么乐观，Ultras小组于大组织之间的矛盾，以及原本走Ultras路线的大组织面临改变路线或者再次改变路线的问题。2010年8月23日，江苏深蓝JRU的Ultras小组C.U.S发表公告，宣布退出JRU而独立，成为了中国第一个独立的Ultras小组。<sup><a href="#hdtop_2" name="hdend_2" title="2010年8月23日 C.U.S公告">[2]</a></sup>2012年3月9日申花ultras小组C.U.N.A在经历分裂和重组失败后宣布解散。<sup><a href="#hdtop_3" name="hdend_3" title="CUNA解散公告">[3]</a></sup></p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div class="wenxian_app">
+<link href="http://www.huimg.cn/hudong/entry/widget/wenxian/css/wenxianapp160908.css" rel="stylesheet" type="text/css"/>
+<div class="h3tit"><h3>相关文献</h3></div>
+<ul>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_zgcsyxzz200112014.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="结节性甲状腺肿声像图特征与病理对照分析">结节性甲状腺肿声像图特征与病理对照分析</a><span>
+										-
+										中国超声医学杂志
+										-
+									</span><span>2001</span><span>17</span><span>
+										(
+										12
+										)
+									</span>
+</li>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_zgcsyxzz200709018.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="超声检查诊断子宫内膜病变的临床价值">超声检查诊断子宫内膜病变的临床价值</a><span>
+										-
+										中国超声医学杂志
+										-
+									</span><span>2007</span><span>23</span><span>
+										(
+										9
+										)
+									</span>
+</li>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_jlycsjs200810005.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="浅谈超声波流量计的基本原理及类型">浅谈超声波流量计的基本原理及类型</a><span>
+										-
+										计量与测试技术
+										-
+									</span><span>2008</span><span>35</span><span>
+										(
+										10
+										)
+									</span>
+</li>
+</ul>
+</div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=ULTRAS" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=ULTRAS" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+			 function goUrl(url){
+			  if(url == "" || url.length == 0){
+			  	return;
+			  }
+			  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+			  window.open(url,'_blank');
+			 }
+			</script>
+<dl class="reference bor-no">
+<dt>参考资料</dt>
+<dd>
+<span>[1]</span><a href="#hdend_1" name="hdtop_1">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://hi.baidu.com/cuna2007/blog/item/47e728a94dd010ff1f17a2fa.html')">Ultras的生活方式<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2019-07-24</span>
+</dd>
+<dd>
+<span>[2]</span><a href="#hdend_2" name="hdtop_2">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://tieba.baidu.com/f?kz=869346033')">2010年8月23日 C.U.S公告<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2019-07-24</span>
+</dd>
+<dd>
+<span>[3]</span><a href="#hdend_3" name="hdtop_3">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://hi.baidu.com/cuna2007/item/ddc3581c5bef53fe756a849f')">CUNA官方网站：CUNA解散公告<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2019-07-24</span>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/U%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">U开头单词</a><a href="http://fenlei.baike.com/%E4%BD%93%E8%82%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">体育</a><a href="http://fenlei.baike.com/%E4%BD%93%E8%82%B2%E8%BF%90%E5%8A%A8/?prd=zhengwenye_left_kuozhan_kaifangfenlei">体育运动</a><a href="http://fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英文单词</a><a href="http://fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英语</a><a href="http://fenlei.baike.com/%E8%B6%B3%E7%90%83/?prd=zhengwenye_left_kuozhan_kaifangfenlei">足球</a><a href="/fenlei/">ultras</a><a href="/fenlei/">球迷文化</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="U开头单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="体育"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="体育运动"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英文单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英语"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="足球"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="ultras"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="球迷文化"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="ULTRAS"/><input id="docidencry" name="docidencry" type="hidden" value="pHlpWQVlYfgteZQAf"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/ULTRAS/a1_44_45_50200009239445156000459329301_jpg.html" target="_blank" title=""><img alt="" src="http://a1.att.hudong.com/44/45/50200009239445156000459329301_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/ULTRAS/a1_44_45_50200009239445156000459329301_jpg.html" target="_blank"><em></em>ULTRAS图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>16次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=ULTRAS&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>13</span>位</li>
+<li>最近更新时间：2019-07-24 23:08:31</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=ULTRAS&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=jRQNBCFgWAFdWA0JO&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">fuhuanyu15</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=SZHFndWVyUAhRX1Fh&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="SZHFndWVyUAhRX1Fh">langaikai521</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=nfUACAwQNXUMJCwt7&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="nfUACAwQNXUMJCwt7">smmaimai_555</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=TAQREAwReWkJDWwUE&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="TAQREAwReWkJDWwUE">fusiling110</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=KVFEDX0VMDFFSGAJW&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="KVFEDX0VMDFFSGAJW">product2007</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=IcFpAUWB4BmFLVkR6&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="IcFpAUWB4BmFLVkR6">daikang666</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/ufo&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">ufo</a></li>
+<li><a href="http://so.baike.com/doc/UFO&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">UFO</a></li>
+<li><a href="http://so.baike.com/doc/USB&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">USB</a></li>
+<li><a href="http://so.baike.com/doc/uus&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">uus</a></li>
+<li><a href="http://so.baike.com/doc/UML&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">UML</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/ungelivable&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">ungelivable</a></li>
+<li><a href="http://so.baike.com/doc/UPS&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">UPS</a></li>
+<li><a href="http://so.baike.com/doc/USSD&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">USSD</a></li>
+<li><a href="http://so.baike.com/doc/url&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">url</a></li>
+<li><a href="http://so.baike.com/doc/URL&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">URL</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

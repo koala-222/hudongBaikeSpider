@@ -1,0 +1,806 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/1D/1D/1D1D661471BE0F35C9226579472A6A44_90.png?title=%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>《春秋》</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E8%91%97%E4%BD%9C/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="中国历史著作">中国历史著作</a><a href="//fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E6%95%99%E8%82%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="中国古代教育">中国古代教育</a><a href="//fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E5%90%8D%E8%91%97/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="中国古典名著">中国古典名著</a><a href="//fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8F%B2%E5%AD%A6%E5%8F%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="中国史学史">中国史学史</a><a href="//fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%8F%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="中国教育史">中国教育史</a><a href="//fenlei.baike.com/%E4%B8%AD%E6%96%87%E4%B9%A6%E7%B1%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="中文书籍">中文书籍</a><a href="//fenlei.baike.com/%E4%B9%A6%E7%B1%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="书籍">书籍</a><a href="//fenlei.baike.com/%E5%8E%86%E5%8F%B2%E8%A6%81%E7%B1%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="历史要籍">历史要籍</a><a href="//fenlei.baike.com/%E5%8F%A4%E4%BB%8A%E5%90%8D%E8%91%97/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="古今名著">古今名著</a><a href="//fenlei.baike.com/%E5%8F%B2%E4%B9%A6/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="史书">史书</a><a href="//fenlei.baike.com/%E5%8F%B2%E5%AD%A6%E5%8F%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="史学史">史学史</a><a href="//fenlei.baike.com/%E5%AD%94%E5%AD%90/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="孔子">孔子</a><a href="//fenlei.baike.com/%E6%94%BF%E6%B3%95%E6%9C%9F%E5%88%8A/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="政法期刊">政法期刊</a><a href="//fenlei.baike.com/%E6%96%87%E5%AD%A6/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="文学">文学</a><a href="//fenlei.baike.com/%E6%AD%8C%E6%9B%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="歌曲">歌曲</a><a href="//fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="艺术">艺术</a><a href="//fenlei.baike.com/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6%E6%96%87%E5%8C%96/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="诸子百家文化">诸子百家文化</a><a href="//fenlei.baike.com/%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="音乐">音乐</a><a href="//fenlei.baike.com/%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="音乐作品">音乐作品</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>《<a href="http://www.baike.com/wiki/%E6%98%A5%E7%A7%8B" target="_blank">春秋</a>》是儒家的经书，记载了从鲁隐公元年（前722年）到鲁哀公十四年（前481年）的历史，也是中国现存最早的一部编年体史书。《春秋》一书的史料价值很高，但不完备，王安石甚至说《春秋》是“断烂朝报”。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="《春秋》"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('culture_book')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>名称：</strong>
+<span>《春秋》</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>作者：</strong>
+<span>孔子</span>
+</td> </tr> <tr>
+<td>
+<strong>类别：</strong>
+<span>是儒家的经书</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>语种：</strong>
+<span>中文</span>
+</td> </tr> <tr>
+<td>
+<strong>出版社：</strong>
+<span>岳麓书社</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>装帧：</strong>
+<span>平装</span>
+</td> </tr> <tr>
+<td>
+<strong>简介：</strong>
+<span>记载了从鲁隐公元年（前722年）到鲁哀公十四年（前481年）的历史，也是中国现存最早的一部编年体史书。</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>其他：</strong>
+<span>相传《春秋》之书出于孔子之手，旧时有“文王拘而演周易、仲尼厄而作春秋”之说。</span>
+</td> </tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie4">
+<li>
+<em>1</em><a alt="概述" catalogkey="1" class="bold" href="javascript:void(0)" title="概述">概述</a>
+</li>
+<li>
+<em>2</em><a alt="词语释义" catalogkey="3" class="bold" href="javascript:void(0)" title="词语释义">词语释义</a>
+</li>
+<li>
+<em>3</em><a alt="历史记载" catalogkey="5" class="bold" href="javascript:void(0)" title="历史记载">历史记载</a>
+</li>
+<li>
+<em>4</em><a alt="春秋时代" catalogkey="7" class="bold" href="javascript:void(0)" title="春秋时代">春秋时代</a>
+</li>
+<li>
+<em>5</em><a alt="体裁史记" catalogkey="9" class="bold" href="javascript:void(0)" title="体裁史记">体裁史记</a>
+</li>
+</ul>
+<ul class="lie4">
+<li>
+<em>6</em><a alt="品读方法" catalogkey="11" class="bold" href="javascript:void(0)" title="品读方法">品读方法</a>
+</li>
+<li>
+<em>7</em><a alt="作品欣赏" catalogkey="13" class="bold" href="javascript:void(0)" title="作品欣赏">作品欣赏</a>
+</li>
+<li>
+<em>8</em><a alt="写作动机" catalogkey="15" class="bold" href="javascript:void(0)" title="写作动机">写作动机</a>
+</li>
+<li>
+<em>9</em><a alt="相关评论" catalogkey="17" class="bold" href="javascript:void(0)" title="相关评论">相关评论</a>
+</li>
+<li>
+<em>10</em><a alt="作品价值" catalogkey="19" class="bold" href="javascript:void(0)" title="作品价值">作品价值</a>
+</li>
+</ul>
+<ul class="lie4">
+<li>
+<em>11</em><a alt="历史评价" catalogkey="21" class="bold" href="javascript:void(0)" title="历史评价">历史评价</a>
+</li>
+<li>
+<em>12</em><a alt="名称的来历" catalogkey="23" class="bold" href="javascript:void(0)" title="名称的来历">名称的来历</a>
+</li>
+<li>
+<em>13</em><a alt="文化概念" catalogkey="25" class="bold" href="javascript:void(0)" title="文化概念">文化概念</a>
+</li>
+<li>
+<em>14</em><a alt="艺术独特" catalogkey="27" class="bold" href="javascript:void(0)" title="艺术独特">艺术独特</a>
+</li>
+<li>
+<em>15</em><a alt="科技原理" catalogkey="29" class="bold" href="javascript:void(0)" title="科技原理">科技原理</a>
+</li>
+</ul>
+<ul class="lie4">
+<li>
+<em>16</em><a alt="宗教简介" catalogkey="31" class="bold" href="javascript:void(0)" title="宗教简介">宗教简介</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">概述</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">词语释义</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">历史记载</a>
+<i></i>
+</li>
+<li>
+<em>4</em><a catalogkey="7" class="bold" href="javascript:void(0)">春秋时代</a>
+<i></i>
+</li>
+<li>
+<em>5</em><a catalogkey="9" class="bold" href="javascript:void(0)">体裁史记</a>
+<i></i>
+</li>
+<li>
+<em>6</em><a catalogkey="11" class="bold" href="javascript:void(0)">品读方法</a>
+<i></i>
+</li>
+<li>
+<em>7</em><a catalogkey="13" class="bold" href="javascript:void(0)">作品欣赏</a>
+<i></i>
+</li>
+<li>
+<em>8</em><a catalogkey="15" class="bold" href="javascript:void(0)">写作动机</a>
+<i></i>
+</li>
+<li>
+<em>9</em><a catalogkey="17" class="bold" href="javascript:void(0)">相关评论</a>
+<i></i>
+</li>
+<li>
+<em>10</em><a catalogkey="19" class="bold" href="javascript:void(0)">作品价值</a>
+<i></i>
+</li>
+<li>
+<em>11</em><a catalogkey="21" class="bold" href="javascript:void(0)">历史评价</a>
+<i></i>
+</li>
+<li>
+<em>12</em><a catalogkey="23" class="bold" href="javascript:void(0)">名称的来历</a>
+<i></i>
+</li>
+<li>
+<em>13</em><a catalogkey="25" class="bold" href="javascript:void(0)">文化概念</a>
+<i></i>
+</li>
+<li>
+<em>14</em><a catalogkey="27" class="bold" href="javascript:void(0)">艺术独特</a>
+<i></i>
+</li>
+<li>
+<em>15</em><a catalogkey="29" class="bold" href="javascript:void(0)">科技原理</a>
+<i></i>
+</li>
+<li>
+<em>16</em><a catalogkey="31" class="bold" href="javascript:void(0)">宗教简介</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content"><span><div class="content_h2"><h2 class="mar-t10">
+<a name="1"> </a>概述<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+</span><span><div class="img img_r" id="changeTheId-wrap-img-0" style="width: 254px; "><a href="http://tupian.baike.com/a0_76_31_01300000240273127237317723932_jpg.html" target="_blank" title="《春秋》"><img alt="《春秋》" data-original="http://a0.att.hudong.com/76/31/01300000240273127237317723932_s.jpg" id="changeTheId-img-0" src="http://www.huimg.cn/lib/0.gif" title="《春秋》"/></a><strong style="">《春秋》</strong></div><p>《春秋》是儒家的经书，<a class="innerlink" href="http://www.baike.com/wiki/%E8%AE%B0%E8%BD%BD" title="记载">记载</a>了从鲁隐公元年（前722年）到鲁哀公十四年（前481年）的历史，也是中国现存最早的一部编年体史书。《春秋》一书的史料<a class="innerlink" href="http://www.baike.com/wiki/%E4%BB%B7%E5%80%BC" title="价值">价值</a>很高，但不完备，王安石甚至说《春秋》是“断烂朝报”。</p></span><p><span> 在中国上古时期，春季和秋季是<a class="innerlink" href="http://www.baike.com/wiki/%E8%AF%B8%E4%BE%AF" title="诸侯">诸侯</a>朝聘王室的时节。另外，春秋在古代也代表一年四季。而史书记载的都是一年四季中发生的大事，因此“春秋”是史书的统称。而鲁国史书的正式名称就是《春秋》。传统上认为《春秋》是孔子的作品，也有人认为是鲁国史官的集体<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%9C%E5%93%81" title="作品">作品</a>。《春秋》原本秦代以后已经失传，现在流行的版本是由《左氏传》、《公羊传》、《穀梁传》三传中拼凑的。 <br/><br/></span>《春秋》又是<a class="innerlink" href="http://www.baike.com/wiki/%E9%B2%81%E5%9B%BD">鲁国</a>史书的专名。各国史书有专名的，如<a class="innerlink" href="http://www.baike.com/wiki/%E6%99%8B%E5%9B%BD">晋国</a>史书叫<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%B9%98%E3%80%8B">《乘》</a>，<a class="innerlink" href="http://www.baike.com/wiki/%E6%A5%9A%E5%9B%BD">楚国</a>史书叫<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%A2%BC%E6%9D%8C%E3%80%8B">《梼杌》</a>（见<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AD%9F%E5%AD%90%C2%B7%E7%A6%BB%E5%A8%84%E4%B8%8B%E3%80%8B">《孟子·离娄下》</a>）。鲁国史书专名《春秋》，所以<a class="link_red" href="javascript:linkredwin('《左传·昭公二年》');" target="">《左传·昭公二年》</a>叙述<a class="innerlink" href="http://www.baike.com/wiki/%E6%99%8B%E5%B9%B3%E5%85%AC">晋平公</a>派遣<a class="innerlink" href="http://www.baike.com/wiki/%E9%9F%A9%E5%AE%A3%E5%AD%90">韩宣子</a>（起）出使鲁国，看到<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%93%E3%80%8B">《易》</a><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%B1%A1%E3%80%8B">《象》</a>和<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%B2%81%E6%98%A5%E7%A7%8B%E3%80%8B">《鲁春秋》</a>。不过韩起所看到的《鲁春秋》，一定是从<a class="innerlink" href="http://www.baike.com/wiki/%E5%91%A8%E5%85%AC">周公</a>姬旦叙起，才能说：“吾乃今知周公之德与周之所以王也。”而现存的《春秋》，才从鲁隐公叙起。隐公父亲惠公以上的鲁国历史原始记载已经完全亡佚。<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%A5%9A%E8%AF%AD%E4%B8%8A%E3%80%8B">《楚语上》</a>也说：“教之《春秋》”，就是说，对太子，用史书教授他。<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%A2%A8%E5%AD%90%C2%B7%E6%98%8E%E9%AC%BC%E7%AF%87%E3%80%8B">《墨子·明鬼篇》</a>有“周之《春秋》”、“燕之《春秋》”、“宋之《春秋》”、“齐之《春秋》”，就是指周朝、燕、宋、齐诸国都有史书，<a class="innerlink" href="http://www.baike.com/wiki/%E5%A2%A8%E5%AD%90">墨子</a>曾读过。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>词语释义<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-1" style="width: 300px; "><a href="http://tupian.baike.com/a4_84_04_01300000209183121786049590722_jpg.html" target="_blank" title="《春秋》"><img alt="《春秋》" data-original="http://a4.att.hudong.com/84/04/01300000209183121786049590722_s.jpg" id="changeTheId-img-1" src="http://www.huimg.cn/lib/0.gif" title="《春秋》"/></a><strong style="">《春秋》</strong></div><p>1. 在古代是以农耕为主的时代，一年中春秋是重要的两个季节，春种秋收，以春秋做为一年最重要的交替，所以春秋就是一年的代称。因此《春秋》的字面意思就是<a class="innerlink" href="http://www.baike.com/wiki/%E5%8E%86%E5%8F%B2" title="历史">历史</a>。也泛指岁月和光阴。一说在古代怀疑最初没有四季而只有春秋，故在古书中“一春秋”指一年。 <br/>2. 泛指历史：甘洒热血写春秋。 <br/>3. 时代名。因鲁国编年史《春秋》得名。一般指前770年~前476年这个时期。 <br/>4. 儒家经典之一。编年体春秋史。相传由<a class="innerlink" href="http://www.baike.com/wiki/%E5%AD%94%E5%AD%90" title="孔子">孔子</a>据鲁国史官所编《春秋》加以整理修订而成，记载自公元前722年至前481年共二百四十二年间的史事，是中国最早的编年体<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%B2%E4%B9%A6" title="史书">史书</a>。 <br/>5. 古代史书的通称。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>历史记载<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-2" style="width: 242px; "><a href="http://tupian.baike.com/a0_26_32_01300000240273127237320894732_jpg.html" target="_blank" title="《春秋》"><img alt="《春秋》" data-original="http://a0.att.hudong.com/26/32/01300000240273127237320894732_s.jpg" id="changeTheId-img-2" src="http://www.huimg.cn/lib/0.gif" title="《春秋》"/></a><strong style="">《春秋》</strong></div><p>至迟自<a class="innerlink" href="http://www.baike.com/wiki/%E8%A5%BF%E5%91%A8">西周</a>起，就有<a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%AA%E5%8F%B2">太史</a>记载<a class="innerlink" href="http://www.baike.com/wiki/%E5%9B%BD%E5%AE%B6">国家</a>大事；在每一季的开始，一般要写“春”到“秋”四季的季节。但古人重视<a class="innerlink" href="http://www.baike.com/wiki/%E6%98%A5%E5%AD%A3">春季</a>和<a class="innerlink" href="http://www.baike.com/wiki/%E7%A7%8B%E5%AD%A3">秋季</a>，因此把国史记载叫做《春秋》，这可能是“春秋”作为史书名的来由罢。现存《春秋》，从鲁隐公记述到<a class="innerlink" href="http://www.baike.com/wiki/%E9%B2%81%E5%93%80%E5%85%AC">鲁哀公</a>，历十二代君主，计二百四十四年（依<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%85%AC%E7%BE%8A%E4%BC%A0%E3%80%8B">《公羊传》</a>和<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%B0%B7%E6%A2%81%E4%BC%A0%E3%80%8B">《谷梁传》</a>载至哀公十四年止，为二百四十二年，<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%B7%A6%E4%BC%A0%E3%80%8B">《左传》</a>多二年），它基本上是鲁国史书的原文。<br/><br/>相传《春秋》之书出于孔子之手，旧时有“<a class="innerlink" href="http://www.baike.com/wiki/%E6%96%87%E7%8E%8B">文王</a>拘而演<a class="innerlink" href="http://www.baike.com/wiki/%E5%91%A8%E6%98%93">周易</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E4%BB%B2%E5%B0%BC">仲尼</a>厄而作春秋”之说。但后世亦有不同说法，<a class="innerlink" href="http://www.baike.com/wiki/%E6%B8%85%E4%BA%BA">清人</a><a class="innerlink" href="http://www.baike.com/wiki/%E8%A2%81%E8%B0%B7%E8%8A%B3">袁谷芳</a><a class="link_red" href="javascript:linkredwin('《春秋书法论》');" target="">《春秋书法论》</a>说：《春秋》者，鲁史也。鲁史氏书之，孔子录而藏之，以传信于后世者也。石韫玉《独学庐初稿·春秋论》也说：《春秋》者，鲁史之旧文也。《春秋》共十二公之事，历二百四十年之久，秉笔而书者必更数十人。此数十人者，家自为师，人自为学，则其书法，岂能尽同？虽然春秋之作者有<a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%89%E8%AE%AE">争议</a>，但其经过<a class="innerlink" href="http://www.baike.com/wiki/%E5%AD%94%E5%AD%90">孔子</a>之手修而改之，则无大异。 </p><p>事实上，春秋作为一鲁国的史书，其作用早已超出史书范围，春秋用词遣句“字字针贬”成为独特的文风，被称为春秋<a class="innerlink" href="http://www.baike.com/wiki/%E7%AC%94%E6%B3%95">笔法</a>，为历代文代<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%B2%E5%AE%B6">史家</a>奉为<a class="innerlink" href="http://www.baike.com/wiki/%E7%BB%8F%E5%85%B8">经典</a>。《春秋》所记，是二百四十多年的春秋各国大事，目前所存<a class="innerlink" href="http://www.baike.com/wiki/%E5%85%A8%E6%96%87">全文</a>，不过一万六千多字，但据<a class="innerlink" href="http://www.baike.com/wiki/%E6%9B%B9%E9%AD%8F">曹魏</a>时的张晏和晚唐时人<a class="innerlink" href="http://www.baike.com/wiki/%E5%BE%90%E5%BD%A6%E5%BC%95">徐彦引</a><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E8%AF%B4%E3%80%8B">《春秋说》</a>，都说是一万八千字（<a class="innerlink" href="http://www.baike.com/wiki/%E5%BC%A0%E8%AF%B4%E8%A7%81">张说见</a><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%8F%B2%E8%AE%B0%C2%B7%E5%A4%AA%E5%8F%B2%E5%85%AC%E8%87%AA%E5%BA%8F%C2%B7%E9%9B%86%E8%A7%A3%E3%80%8B">《史记·太史公自序·集解》</a>引，<a class="innerlink" href="http://www.baike.com/wiki/%E5%BE%90%E8%AF%B4%E8%A7%81">徐说见</a><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%85%AC%E7%BE%8A%E4%BC%A0%C2%B7%E6%98%AD%E5%85%AC%E5%8D%81%E4%BA%8C%E5%B9%B4%E7%96%8F%E3%80%8B">《公羊传·昭公十二年疏》</a>引），可见《春秋》原文，从三国以后脱露了一千多字。很多大事漏记。</p><p>因为《春秋》是粗线条的笔墨。为补这一遗缺，后来又出现以春秋为主本的<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%BC%A0%E3%80%8B">《传》</a>，即现今流传下来的<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E5%85%AC%E7%BE%8A%E4%BC%A0%E3%80%8B">《春秋公羊传》</a><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E8%B0%B7%E6%A2%81%E4%BC%A0%E3%80%8B">《春秋谷梁传》</a>和<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E5%B7%A6%E6%B0%8F%E4%BC%A0%E3%80%8B">《春秋左氏传》</a>三种，并称春秋三传。《传》的《春秋经》文字基本上相同，也有一些差异，传文按年合并，先经后传。本栏春秋为单行本，其他三传请到本书馆十三经栏目阅读或下载。</p><span><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>春秋时代<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-3" style="width: 225px; "><a href="http://tupian.baike.com/a4_80_32_01300000240273127237323661748_jpg.html" target="_blank" title="《春秋》"><img alt="《春秋》" data-original="http://a4.att.hudong.com/80/32/01300000240273127237323661748_s.jpg" id="changeTheId-img-3" src="http://www.huimg.cn/lib/0.gif" title="《春秋》"/></a><strong style="">《春秋》</strong></div><p>中国<a class="innerlink" href="http://www.baike.com/wiki/%E5%84%92%E5%AE%B6%E6%96%87%E5%8C%96" title="儒家文化">儒家文化</a>的创始人孔子曾经编了一部记载当时鲁国历史的史书名叫《春秋》，而这部史书中记载的时间跨度与构成一个历史阶段的春秋时代大体相当，所以后人就将这一历史阶段称为春秋时期，指的是从公元前770年到公元前476年，基本上是东周的前半期。 </p><p>东周一开始，周王朝就走了下坡路，王室衰微，大权旁落，诸侯国之间互相征伐，战争频仍。小的诸侯国纷纷被吞并，强大的诸侯国在局部地区实现了统一。在春秋中期，出现了一个比较和平的时期，原因是各国都被战争搞得十分疲惫，需要休整，于是通过公元前５４６年由１４国参加的第二次“弭兵之会”达成协议，战火暂时得以平息。可是，这期间在长江流域，吴、楚、越三国之间却多次爆发霸权之争。春秋时代的中后期，随着牛耕的普及和铁制农具的应用，经济有了迅速发展，出现了私田的开发和井田制的瓦解这一深刻的社会变化。在一些诸侯国的内部，<a class="innerlink" href="http://www.baike.com/wiki/%E8%B4%B5%E6%97%8F" title="贵族">贵族</a>势力强大起来，开始向国君争夺权力。公元前４５３年<a class="innerlink" href="http://www.baike.com/wiki/%E6%99%8B%E5%9B%BD" title="晋国">晋国</a>出现了韩、赵、魏三家大户，将晋国进行了瓜分，自己分别建立了国家，就是著名的“三家分晋”。于是，七雄并立，互相争霸的时代逐步到来，春秋时期走向了战国时期。 </p><p>春秋时期，简称春秋，前770年~前476年（另一说，前770年~前403年），属于东周的一个时期，春秋时代周王的势力减弱，诸侯群雄纷争，齐桓公、宋襄公、晋文公、秦穆公、楚庄王相继称霸，史称“春秋五霸”。(一说是齐桓公、<a class="innerlink" href="http://www.baike.com/wiki/%E6%99%8B%E6%96%87%E5%85%AC" title="晋文公">晋文公</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E6%A5%9A%E5%BA%84%E7%8E%8B" title="楚庄王">楚庄王</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E5%90%B4%E7%8E%8B%E9%98%96%E9%97%BE" title="吴王阖闾">吴王阖闾</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E8%B6%8A%E7%8E%8B%E5%8B%BE%E8%B7%B5" title="越王勾践">越王勾践</a>)。春秋时期之后是战国时代。 </p><p>春秋时期的得名，是因<a class="innerlink" href="http://www.baike.com/wiki/%E5%AD%94%E5%AD%90" title="孔子">孔子</a>修订《春秋》而得名。这部书记载了从鲁隐公元年（前722年）到鲁哀公十四年（前481年）的历史。现代的学者为了方便起见，一般从周平王元年（前770年）东周立国起，到周敬王四十三年（前477年）为止，称为“春秋时期”。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="9"> </a>体裁史记<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="9" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-4" style="width: 299px; "><a href="http://tupian.baike.com/a0_57_59_01300000209219122002593907550_jpg.html" target="_blank" title="《春秋》"><img alt="《春秋》" data-original="http://a0.att.hudong.com/57/59/01300000209219122002593907550_s.jpg" id="changeTheId-img-4" src="http://www.huimg.cn/lib/0.gif" title="《春秋》"/></a><strong style="">《春秋》</strong></div><p>春秋’以“年・时（季节）・月・日 - 记事”为体裁。 <br/>年：鲁国之君主、鲁公在位纪年。 <br/>时：季节。四季之“春・夏・秋・冬”。 <br/>月：“正月、二月、三月…”。 <br/>日：“甲子、乙丑、丙寅…”。 <br/>记事：短句构成。 <br/>王 <br/>例如、隐公元年・二年（文依‘左传’）。 <br/>年 四季 月 日 记事 <br/>元年 春 王正月 <br/>三月 公及<a class="link_red" href="javascript:linkredwin('邾仪');" target="" title="邾仪">邾仪</a>父盟于蔑 （隐公在蔑与邾地国君仪父盟交） <br/>夏 五月 郑伯克段于鄢 （郑伯在段地打败其弟弟共叔段） <br/>秋 七月 天王使宰咺来扫惠公仲子之賵 <br/>九月 及宋人盟于宿 <br/>冬 十有二月 <a class="innerlink" href="http://www.baike.com/wiki/%E7%A5%AD%E4%BC%AF%E6%9D%A5" title="祭伯来">祭伯来</a> （祭伯这个人来访） <br/>公子益师卒 （公子益师去世） <br/>二年 春 公会戎于潜 <br/>夏 五月 莒人入向 <br/>无骇帅师入极 （无骇的军队攻入极） <br/>秋 八月 庚辰 公及戎盟于唐 <br/>九月 纪<a class="innerlink" href="http://www.baike.com/wiki/%E8%A3%82%E7%B9%BB" title="裂繻">裂繻</a>来逆女 <br/>冬 十月 伯姬扫于纪 （伯姬出嫁于纪） <br/>纪子帛莒子盟于密 <br/>十有二月 乙卯 夫人子氏薨 （夫人之子氏病亡） <br/>郑人伐卫 （郑国之人攻讨卫） <br/>（注：上文中对于春秋的解读在三传之中各不相同，故括号中的只是其中一种参考） 《春秋》中的文字非常简练，事件的记载很简略，最少一字，如僖公三年六月“雨”；或二三字，如僖公三年夏四月“不雨”、八年夏“狄伐晋”；即使是最多字的“定公四年春三月”叙述也不超过四十五个字。最初原文仅18000多字，三国曹魏时张晏<a class="innerlink" href="http://www.baike.com/wiki/%E8%AE%A1%E7%AE%97" title="计算">计算</a>《春秋》共有18 000字，晚唐人徐彦的计算亦有18000字，南宋王观国<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AD%A6%E6%9E%97%E3%80%8B" title="《学林》">《学林》</a>则记载有16500个字，现存版本则只有16000多字。因此古人为此书又写了一些著作，对书中的记载进行解释和说明，称之为“传”。据《汉书·艺文志》记载，为春秋作传者共5家： <br/>《左氏传》30卷 <br/>《公羊传》11卷 <br/>《穀梁传》11篇 <br/>《邹氏传》11卷 <br/>《夹氏传》11卷 <br/>其中后两种已经不存。公羊传和穀梁传成书于西汉初年，用当时通行的隶书所写，称为今文。左传有两种，一种出于孔子旧居的墙壁之中，使用秦朝以前的古代字体写的，称为古文；一种是从战国时期的荀卿流传下来的。 </p><p>公羊传和穀梁传与左传有很大的不同。公羊传穀梁传讲“微言大义”，希望试图阐述清楚孔子的本意（作者认为《春秋》是孔子所作），有人认为有些内容有牵强附会的<a class="innerlink" href="http://www.baike.com/wiki/%E5%AB%8C%E7%96%91" title="嫌疑">嫌疑</a>。左传以史实为主，补充了《春秋》中没有记录的大事，一些纪录和《春秋》有出入，有人认为左传的史料价值大于公羊传和穀梁传。 </p><div class="content_h2"><h2 class="mar-t10">
+<a name="11"> </a>品读方法<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="11" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-5" style="width: 300px; "><a href="http://tupian.baike.com/a3_32_32_01300000240273127237329692425_jpg.html" target="_blank" title="《春秋》"><img alt="《春秋》" data-original="http://a3.att.hudong.com/32/32/01300000240273127237329692425_s.jpg" id="changeTheId-img-5" src="http://www.huimg.cn/lib/0.gif" title="《春秋》"/></a><strong style="">《春秋》</strong></div><p>《春秋》是经而非寻常史书。读《春秋》之法，必尊以经而后读之，须怀以诚敬之心读之。非此而不能明其<a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%A7%E4%B9%89">大义</a>所在。若与<a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%8C%E5%8D%81%E5%9B%9B%E5%8F%B2">二十四史</a>同而混读，必生乖张之心，必生偏狭之念。如是则终生不能明于<a class="innerlink" href="http://www.baike.com/wiki/%E5%9C%A3%E8%B4%A4">圣贤</a>之道也。</p><p>《春秋》以一字为<a class="innerlink" href="http://www.baike.com/wiki/%E8%A4%92%E8%B4%AC">褒贬</a>，微言大义，在乎其中矣。孔子作春秋而乱臣贼子惧，其缘何也？惟其惧以<a class="innerlink" href="http://www.baike.com/wiki/%E8%B4%BB%E8%87%AD" title="贻臭">贻臭</a>千古，为万世所唾骂，受鬼神之诛耳。故是《春秋》为经，以大义所存焉。此等深意，虽以<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%B2">史</a>迁之贤而不能及。今人或以曲笔讽之，其谬甚深也！因此一叹。 </p><div class="content_h2"><h2 class="mar-t10">
+<a name="13"> </a>作品欣赏<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="13" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" id="changeTheId-wrap-img-6" style="width: 200px; "><a href="http://tupian.baike.com/a4_60_34_01300000240273127237345807930_jpg.html" target="_blank" title="《春秋》"><img alt="《春秋》" data-original="http://a4.att.hudong.com/60/34/01300000240273127237345807930_s.jpg" id="changeTheId-img-6" src="http://www.huimg.cn/lib/0.gif" title="《春秋》"/></a><strong style="">《春秋》</strong></div><p>孔子所作的《春秋》是一部蕴涵着<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%9C%E8%80%85">作者</a>深刻<a class="innerlink" href="http://www.baike.com/wiki/%E6%94%BF%E6%B2%BB%E6%80%9D%E6%83%B3">政治思想</a>的政治学<a class="innerlink" href="http://www.baike.com/wiki/%E8%91%97%E4%BD%9C">著作</a>，这是从先<a class="innerlink" href="http://www.baike.com/wiki/%E7%A7%A6%E5%AD%9F">秦孟</a>、荀到两汉马、班诸家一致的正确看法。两汉以后，今文<a class="innerlink" href="http://www.baike.com/wiki/%E7%BB%8F%E5%AD%A6">经学</a>衰微，学者多受古文经学门户之见的影响，错误地视《春秋》为历史学著作，并由此引发了长期以来聚讼纷纭的《春秋》<a class="innerlink" href="http://www.baike.com/wiki/%E6%80%A7%E8%B4%A8">性质</a>之争。 </p><p>围绕《春秋》是<a class="innerlink" href="http://www.baike.com/wiki/%E5%8E%86%E5%8F%B2%E5%AD%A6">历史学</a>著作还是<a class="innerlink" href="http://www.baike.com/wiki/%E6%94%BF%E6%B2%BB%E5%AD%A6">政治学</a>著作这一问题，千余年来先后形成了以下三种观点：一、传统今文经学家的<a class="innerlink" href="http://www.baike.com/wiki/%E6%AD%A3%E7%A1%AE">正确</a>观点，即以《春秋》为政治学著作，持此说者如<a class="innerlink" href="http://www.baike.com/wiki/%E6%B8%85%E4%BA%BA">清人</a><a class="innerlink" href="http://www.baike.com/wiki/%E7%9A%AE%E9%94%A1%E7%91%9E">皮锡瑞</a>，近人徐复观、<a class="innerlink" href="http://www.baike.com/wiki/%E5%90%95%E6%80%9D%E5%8B%89">吕思勉</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E8%83%A1%E9%80%82">胡适</a>等；二、古文经学家及近代“古史辨”派学者的观点，即认为《春秋》是<a class="innerlink" href="http://www.baike.com/wiki/%E5%8E%86%E5%8F%B2">历史</a>学著作，古文经学家如<a class="innerlink" href="http://www.baike.com/wiki/%E6%99%8B%E4%BA%BA">晋人</a><a class="innerlink" href="http://www.baike.com/wiki/%E6%9D%9C%E9%A2%84">杜预</a>，近人<a class="innerlink" href="http://www.baike.com/wiki/%E9%92%B1%E7%8E%84%E5%90%8C">钱玄同</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E9%A1%BE%E9%A2%89%E5%88%9A">顾颉刚</a>、<a class="innerlink" href="http://www.baike.com/wiki/%E5%88%98%E8%8A%82">刘节</a>等人坚持这种看法；三、调和说，即认为《春秋》“亦经亦史”，持此说者如钱穆、雷戈。实际上，“亦经亦史”说是一种自相矛盾的说法，我们不妨先对之略加分析以见其不妥。<a class="innerlink" href="http://www.baike.com/wiki/%E9%92%B1%E7%A9%86">钱穆</a>认为《春秋》是一部“亦经亦史的一家言”，<a class="innerlink" href="http://www.baike.com/wiki/%E7%90%86%E7%94%B1">理由</a>是古无经、史的区别，经、史之分是后代才有的观念，“若我们定要说《春秋》是经非史，这实在只见其为后代人意见，据之以争古代之著作，未免搔不着痛痒”。这种貌似公允的调和论之所以不能成立的<a class="innerlink" href="http://www.baike.com/wiki/%E5%8E%9F%E5%9B%A0">原因</a>有二：首先，“经史不分”之说不符合古代经史关系的实际。关于这点，<a class="innerlink" href="http://www.baike.com/wiki/%E9%92%9F%E8%82%87%E9%B9%8F">钟肇鹏</a>先生曾在上世纪60年代的一文中专门加以辨析，并有力阐明了<a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%AD%E5%9B%BD">中国</a><a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%A4%E4%BB%A3">古代</a>经史有别、史先于经的事实，故而毋庸今人置喙。其次，一部论著的性质是恒定不变的，而属于学科分化的经史之分则是一个<a class="innerlink" href="http://www.baike.com/wiki/%E5%8A%A8%E6%80%81">动态</a>过程，两者不宜混为一谈。由于经、史的区别是<a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%AC%E8%B4%A8">本质</a>性的，两者之间没有调和的余地，当然也不存在某种中间过渡形态。这样说来，“亦经亦史”说实际上等于取消、而不是解决了《春秋》性质问题，无怪乎自产生以来和者寥寥。与此不同，以《春秋》为史学著作的<a class="innerlink" href="http://www.baike.com/wiki/%E9%94%99%E8%AF%AF">错误</a>看法，却由于牵涉到一些史实和<a class="innerlink" href="http://www.baike.com/wiki/%E7%90%86%E8%AE%BA">理论</a>的辨析而情况复杂；加之此说出自著名学者之口，因而长期以来对之鲜有质疑者。由于今人的误解多系盲从前贤所致，所以首先对传统诸种《春秋》为史学著作说的错误加以分析辩驳，无疑是我们正确认识《春秋》性质的<a class="innerlink" href="http://www.baike.com/wiki/%E9%92%A4%E9%94%AE" title="钤键">钤键</a>所在。<sup><a href="#hdtop_1" name="hdend_1" title="教学科研资料网">[1]</a></sup> </p><div class="content_h2"><h2 class="mar-t10">
+<a name="15"> </a>写作动机<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="15" target="_self">编辑</a>
+</h2>
+</div>
+<p><a class="innerlink" href="http://www.baike.com/wiki/%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6">历史学家</a>从事历史创作的<a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%BB%E8%A7%82">主观</a><a class="innerlink" href="http://www.baike.com/wiki/%E5%8A%A8%E6%9C%BA">动机</a>在于真实地记载历史，这是判定一部作品为历史学著作的第一项标准。正如有学者所说：“记录和保存历史史实，是史家最基本的也是最原始的动机之一。……<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%B2%E5%AE%B6">史家</a>从记存史事的动机出发来研究历史，对于史学的发展产生了巨大影响，可以说，史学的产生即由此始。”史学著作当以记事为目的，这也是古今中外历史学家的一致看法，故太史公以“废明圣盛德不载，灭功臣世家贤大夫之业不述”为憾事，而以“述故事，整齐其世传”为撰史的<a class="innerlink" href="http://www.baike.com/wiki/%E7%AB%8B%E8%B6%B3%E7%82%B9">立足点</a>。<a class="innerlink" href="http://www.baike.com/wiki/%E5%90%95%E6%80%9D%E5%8B%89">吕思勉</a>说：“何谓史？史也者，记事者也。”讲的也是同样的<a class="innerlink" href="http://www.baike.com/wiki/%E9%81%93%E7%90%86">道理</a>。 </p><p>求真记实对历史学家著史而言既是目的也是原则，因而堪称判断一本论著是否为史学著作的<a class="innerlink" href="http://www.baike.com/wiki/%E8%AF%95%E9%87%91%E7%9F%B3">试金石</a>。<a class="innerlink" href="http://www.baike.com/wiki/%E8%92%8B%E5%BA%86%E6%AD%A3">蒋庆正</a>确地指出：“孔子为何要作《春秋》，是理解《春秋》一书性质的关键。”孔子为什么作《春秋》？作者的目的也在于求真记实吗？<a class="innerlink" href="http://www.baike.com/wiki/%E7%AD%94%E6%A1%88">答案</a>显然是否定的。一度以疑古者自居的胡适就曾指出：“《春秋》那部书，只可当作孔门正名<a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%BB%E4%B9%89">主义</a>的参考书看，却不可当作一部模范的史书看。后来的史家把《春秋》当作作史的模范，便大错了。为什么呢？因为历史的宗旨在于‘说真话，记实事’。《春秋》的宗旨，不在记实事，只在写个人心中对实事的评判。”<a class="innerlink" href="http://www.baike.com/wiki/%E5%BE%90%E5%A4%8D%E8%A7%82">徐复观</a>先生也说：“可以断定孔子修《春秋》的动机、<a class="innerlink" href="http://www.baike.com/wiki/%E7%9B%AE%E7%9A%84">目的</a>，不在今日所谓‘史学’，而是发挥古代良史，以史的审判代替神的<a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%A1%E5%88%A4">审判</a>的庄严使命。可以说，这是史学以上的<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%BF%E5%91%BD">使命</a>，所以它是经而不是史。”这些论述都根据作者的动机，正确指出了《春秋》的政治学性质，结论足以服人。</p><p>人们之所以长期以来对孔子作《春秋》的动机与种种“《春秋》为史学著作”说之间的显著矛盾视而不见，当与<a class="innerlink" href="http://www.baike.com/wiki/%E8%AF%AF%E8%A7%A3">误解</a>并混淆孔子“直”的观念和“直书”思想有关。<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%AE%BA%E8%AF%AD%C2%B7%E5%AD%90%E8%B7%AF%E3%80%8B">《论语·子路》</a>记载说，叶公语孔子曰：“吾党有直躬者，其父攘羊，而子证之。”孔子曰：“吾党之直者异于是，父为子隐，子为父隐，直在其中矣。”孔子通过玩弄概念的方式表达了他对春秋时期“臣弑其君，子弑其父”<a class="innerlink" href="http://www.baike.com/wiki/%E7%A4%BE%E4%BC%9A">社会</a>现实的批评，但他在这里所追求的“直”显然并非事实的真相，而只是论者心中“善”的道德观念。是的，孔子曾有诸如“多闻阙疑，慎言其余”之类的话，足见他确有注重<a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%A2%E8%A7%82%E4%BA%8B%E5%AE%9E">客观事实</a>的可贵思想；但由于《春秋》是孔子藉以表达<a class="innerlink" href="http://www.baike.com/wiki/%E6%94%BF%E6%B2%BB%E7%90%86%E6%83%B3">政治理想</a>的政治学著作而非历史学著作，所以贯穿其中的并不是这种<a class="innerlink" href="http://www.baike.com/wiki/%E6%B1%82%E7%9C%9F">求真</a>思想，相反，指导作者进行“笔削”的正是<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%AE%BA%E8%AF%AD%E3%80%8B">《论语》</a>中“父为子隐，子为父隐”那种的“直”的观念而已。这种<a class="innerlink" href="http://www.baike.com/wiki/%E6%84%8F%E4%B9%89">意义</a>上的“直”与历史学家对史学客观性的追求恰好相悖逆，遗憾的是以往很少有人注意到上述两种观念间的名实之辨。<sup><a href="#hdtop_2" name="hdend_2" title="当当网">[2]</a></sup> </p><div class="content_h2"><h2 class="mar-t10">
+<a name="17"> </a>相关评论<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="17" target="_self">编辑</a>
+</h2>
+</div>
+<p>《春秋》<a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%A7%E4%B9%89">大义</a>”并非“史义”。史学<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%9C%E5%93%81">作品</a>不仅应记载事实还要展示作者的思想，这是历史上多数学者都赞同的看法。但史学思想源于史实，且不能脱离史实而独存，这点即使极端如<a class="innerlink" href="http://www.baike.com/wiki/%E5%85%8B%E7%BD%97%E9%BD%90">克罗齐</a>、科林伍德者也不曾否认。《春秋》大义不同于历史学家的思想，《春秋》只是作者将政治理想赋予历史的形式而已：“《春秋》系以先王之志，亦即是以政治的理想为归趋；但乃随史实之<a class="innerlink" href="http://www.baike.com/wiki/%E6%9B%B2%E6%8A%98">曲折</a>而见，故谓之‘志而晦’”，“孔子因乐尧舜之道（‘先王之志’），以<a class="innerlink" href="http://www.baike.com/wiki/%E5%B0%A7%E8%88%9C">尧舜</a>之道为基准，是非于二百四十二年之中，作拨乱反正的凭借”。《春秋》大义源于作者的政治观，而历史思想来自史家对史实的思考，足见两者根本不同。不幸的是，有<a class="innerlink" href="http://www.baike.com/wiki/%E5%AD%A6%E8%80%85">学者</a>将《春秋》的“微言大义”与历史学家的史学思想相提并论，或以之为早期史家主体意识的<a class="innerlink" href="http://www.baike.com/wiki/%E5%9A%86%E5%A4%B1" title="嚆失">嚆失</a>而予以表彰，或以之为古代刀笔吏史学的首恶而大加贬斥。实则就《春秋》而言，历史是形式、<a class="innerlink" href="http://www.baike.com/wiki/%E7%9A%AE%E6%AF%9B">皮毛</a>，政治是内容、<a class="innerlink" href="http://www.baike.com/wiki/%E6%A0%B8%E5%BF%83">核心</a>，以褒贬、<a class="innerlink" href="http://www.baike.com/wiki/%E6%9B%B2%E7%AC%94">曲笔</a>为形式的“春秋笔法”正是《春秋》微言大义之所系，去此则大义不存。至于效法《春秋》任情褒贬，当受其批评的无疑应当是后世的误解者，又岂能以此归咎于《春秋》及其<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%9C%E8%80%85">作者</a>？ </p><p>首先，认为《春秋》为孔子所修，在这个意义上，我们将“调和说”视为对顾、钱等人观点的修正也未尝不可。其次，认为《春秋》是<a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%AD%E5%9B%BD">中国</a>第一部历史学著作，而孔子则是中国的“<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%B2%E5%AD%A6%E4%B9%8B%E7%88%B6">史学之父</a>”或“史学之祖”。有学者认为：正如<a class="innerlink" href="http://www.baike.com/wiki/%E5%B8%8C%E7%BD%97%E5%A4%9A%E5%BE%B7">希罗多德</a>是<a class="innerlink" href="http://www.baike.com/wiki/%E5%B8%8C%E8%85%8A">希腊</a>史学之父一样，孔子是中国史学之父；孔子的《春秋》，正如希罗多德的<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%8E%86%E5%8F%B2%E3%80%8B">《历史》</a>一样，是世界上最早的历史专著。有学者则说：“当西方史学之父希罗多德写出他的<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%B8%8C%E6%B3%A2%E6%88%98%E4%BA%89%E5%8F%B2%E3%80%8B">《希波战争史》</a>时，中国的史学之父孔子的《春秋》已经问世30多年了。”还有学者主张：“我国学术界曾把<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%B8%E9%A9%AC%E8%BF%81">司马迁</a>誉为‘中国古代史学之父’，我认为孔子可称为中国古代史学之祖。”实际上，凡此种种说法中无不充斥着误解，只可惜学者的<a class="innerlink" href="http://www.baike.com/wiki/%E7%90%86%E6%80%A7">理性</a>每每为热情所蒙蔽，以致陷入为古人争讼的怪圈而习焉不察。再者，“调和论”者认为《春秋》的“微言大义”不仅存在，同时正是《春秋》之所以为史学著作的关键。有作者这样<a class="innerlink" href="http://www.baike.com/wiki/%E8%AF%84%E8%AE%BA">评论</a>说：“孔子对于历史<a class="innerlink" href="http://www.baike.com/wiki/%E7%BC%96%E5%B9%B4">编年</a>的革新，即赋予历史记录之中以褒贬的历史评判，使历史记录具备了崭新的姿态。《春秋》因此成为我国第一部历史学著作，而不再是历史记录，孔子因此而成为中国史学之父。”<a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%9E%E9%99%85">实际</a>上，论者之所以将《春秋》的微言大义解释为“史义”，乃是源于对近代<a class="innerlink" href="http://www.baike.com/wiki/%E8%A5%BF%E6%96%B9">西方</a>史家关于史学著作应表现作者思想这一观点的误解，关于这点，我们留待下文辨析。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="19"> </a>作品价值<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="19" target="_self">编辑</a>
+</h2>
+</div>
+<p>《春秋》虽然不是历史学著作，却是可贵的史料著作，因而对于研究<a class="innerlink" href="http://www.baike.com/wiki/%E5%85%88%E7%A7%A6">先秦</a>历史、尤其对于研究<a class="innerlink" href="http://www.baike.com/wiki/%E5%84%92%E5%AE%B6">儒家</a>学说以及孔子思想意义重大。因此，从史料学的角度利用《春秋》不仅符合《春秋》性质的本来，而且比将它视为“断烂朝报”的历史学著作更具价值。先秦诸子著作无一属于史学著作，却都是今人研究<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%A4%E5%8F%B2">古史</a>所必需的史料，《春秋》的史实和大义因“三传”而明，这实在是它的特点和<a class="innerlink" href="http://www.baike.com/wiki/%E4%BC%98%E5%8A%BF">优势</a>所在。 </p><p>遗憾的是，多数学者长期以来一直对《春秋》的重要史料价值保持着令人吃惊的<a class="innerlink" href="http://www.baike.com/wiki/%E5%86%B7%E6%BC%A0">冷漠</a>。单就对孔子思想的研究而言，若干年来人们始终<a class="innerlink" href="http://www.baike.com/wiki/%E5%B1%80%E9%99%90">局限</a>于一部《论语》而已，有学者曾做过这样的调查：“<a class="innerlink" href="http://www.baike.com/wiki/%E5%BB%BA%E5%9B%BD">建国</a>以来，关于讨论孔子和他的思想的文字，见诸报刊的，迄今不下八百篇。撇去十年动乱期间所谓‘批儒评法’的渣滓，可作为研究史资料留存的，大约有四五百篇。那中间的<a class="innerlink" href="http://www.baike.com/wiki/%E8%A7%81%E8%A7%A3">见解</a>，色彩各异，精当与否，姑且不论，但如说引据的材料，多半没有超出今本《论语》一书，也许不会被斥为<a class="innerlink" href="http://www.baike.com/wiki/%E6%97%A0%E7%A8%BD%E4%B9%8B%E8%B0%88">无稽之谈</a>。”针对这样一种普遍蔓延的奇怪<a class="innerlink" href="http://www.baike.com/wiki/%E7%8E%B0%E8%B1%A1">现象</a>，论者意识到：“倘说要谈孔子其人其学，《论语》是唯一可信可据的<a class="innerlink" href="http://www.baike.com/wiki/%E6%9D%90%E6%96%99">材料</a>，此外诸书都不足征，那就成问题了。”超出《论语》研究孔子及其思想，首当其冲的是利用《春秋》，恐怕是论者上述这段话的题中应有之意吧？</p><p>再者，《春秋》是政治学著作，它的政治思想通过今文经学家的解说而得以体现，但由于误解了《春秋》的性质，现代学者对今文经的<a class="innerlink" href="http://www.baike.com/wiki/%E5%AD%A6%E6%9C%AF%E4%BB%B7%E5%80%BC">学术价值</a>始终未能给予应有的重视。公羊学、榖梁学甚至一度成为现代学术史上的无人问津的领域，治先秦史而不读<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%85%AC%E7%BE%8A%E4%BC%A0%E3%80%8B">《公羊传》</a>，这在今天的学者看来已不算什么<a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AE%AE">不可思议</a>之事，而研究今<a class="innerlink" href="http://www.baike.com/wiki/%E6%96%87%E7%BB%8F%E5%AD%A6">文经学</a>反被目为<a class="innerlink" href="http://www.baike.com/wiki/%E6%83%8A%E4%B8%96%E9%AA%87%E4%BF%97">惊世骇俗</a>之举。当今学者蒋庆曾就此批评道：“降及晚清，奇葩再发，康崔独秀，经苑芬芳。岂思室内起火，疑古蜂起；歆学余绪，<a class="innerlink" href="http://www.baike.com/wiki/%E4%BD%9C%E6%B5%AA%E5%85%B4%E9%A3%8E" title="作浪兴风">作浪兴风</a>。于是辩有为亡，非圣无法；托治国故，以史乱经。自此而后，斯学扫地，无人讲习，更糟践踏，旨丧义缺。此间虽有一二贤者如北流陈柱欲挽狂澜而崇正学，然旷野<a class="innerlink" href="http://www.baike.com/wiki/%E5%AD%A4%E6%AD%8C" title="孤歌">孤歌</a>，其学无闻。至今，又忽忽六十载矣，公羊已为绝学。”蒋氏的复兴儒学之议是否恰当姑且不论，但作为<a class="innerlink" href="http://www.baike.com/wiki/%E5%8F%A4%E4%BB%A3">古代</a>政治思想史的重要<a class="innerlink" href="http://www.baike.com/wiki/%E5%86%85%E5%AE%B9">内容</a>，今文经学无疑应被纳入研究者的视野，则是不容置疑的。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="21"> </a>历史评价<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="21" target="_self">编辑</a>
+</h2>
+</div>
+<p>孟子曰：“孔子成《春秋》而乱臣<a class="innerlink" href="http://www.baike.com/wiki/%E8%B4%BC%E5%AD%90" title="贼子">贼子</a>惧”，焦兹说“说《春秋》者，莫先于孟子”。 <br/>《宋史·王安石传》：“黜《春秋》之书，不使列于学官，至戏目为断烂朝报。” </p><div class="content_h2"><h2 class="mar-t10">
+<a name="23"> </a>名称的来历<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="23" target="_self">编辑</a>
+</h2>
+</div>
+<p>鲁国史官把当时各国报导的重大事件，按年、季、月、日记录下来，一年分春、夏、秋、冬四季记录，简括起来就把这部编年史名为“春秋”。孔子依据鲁国史官所编《春秋》加以整理修订，成为儒家经典之一。《春秋》记录了从鲁隐公元年（前722年）到鲁襄公十四年（前481年）共242年的大事。由于它所记历史事实的起止年代，大体上与一个客观的历史发展时期相当，所以历代史学家<a class="innerlink" href="http://www.baike.com/wiki/%E4%BE%BF%E6%8A%8A" title="便把">便把</a>《春秋》这个书名作为这个历史时期的名称。为了叙事方便，春秋时期开始于公元前770年（周平王元年）周平王东迁东周开始的一年，止于公元前476年（周敬王四十四年）战国前夕，总共295年。 </p><p>春秋以后，齐、楚、燕、韩、赵、魏、秦七大诸侯国连年战争，当时人们就称呼这七大诸侯国为“战国”。《战国策·燕策一》载苏秦的弟弟苏代说：“凡天下之战国七，而燕处弱焉。”可见当时七大诸侯国都有战国的称呼。到西汉初年，“战国”这个名词的含义还没有变化。到西汉末年刘向编辑<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%88%98%E5%9B%BD%E7%AD%96%E3%80%8B" title="《战国策》">《战国策》</a>一书时，才开始把“战国”作为特定的历史时期的名称。战国时期开始于公元前475年（周元王元年）《史记》的《六国年表》开始的一年，止于公元前221年（秦王政二十六年）秦灭齐统一六国的一年，共255年。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="25"> </a>文化概念<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="25" target="_self">编辑</a>
+</h2>
+</div>
+<p>春秋战国是中国文化大发展的时期，实现了中国思想文化史上由卜巫的宗教迷信文化向以人为中心的理性人文文化的历史转型。在春秋这个转型期，尽管夏商周以来的传统观念仍在人们心中起着巨大的作用，普遍地发生着影响。周天子及其诸侯政治权威的动摇与衰落，学在<a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%98%E5%BA%9C" title="官府">官府</a>局面的被打破，随之而出现的学术下移、典籍文化走向民间等社会方方面面的变化，又引起了人们思想观念的某种改变，这些变化正是春秋时期思想文化转型得以实现的历史条件。 </p><div class="content_h2"><h2 class="mar-t10">
+<a name="27"> </a>艺术独特<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="27" target="_self">编辑</a>
+</h2>
+</div>
+<p>春秋时代的艺术，主要是青铜器上面的雕刻。著名的三足<a class="innerlink" href="http://www.baike.com/wiki/%E7%BE%8A%E9%A6%96%E9%BC%8E" title="羊首鼎">羊首鼎</a>就是春秋时代的<a class="innerlink" href="http://www.baike.com/wiki/%E9%9D%92%E9%93%9C%E8%89%BA%E6%9C%AF%E5%93%81" title="青铜艺术品">青铜艺术品</a>。1923年，在新郑市出土了大量春秋时代的青铜鼎、爵，和西周时期的青铜器相比之下工艺已经大大发展。青铜器上的纹饰也很讲究。 </p><div class="content_h2"><h2 class="mar-t10">
+<a name="29"> </a>科技原理<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="29" target="_self">编辑</a>
+</h2>
+</div>
+<p>《墨子》一书记述了类似秤的<a class="innerlink" href="http://www.baike.com/wiki/%E6%9D%A0%E6%9D%86%E5%8E%9F%E7%90%86" title="杠杆原理">杠杆原理</a>。这是最早的杠杆原理理论。 <br/>铁器和牛耕在春秋时期得到推广，推动了历史的发展。 <br/>在天文学、物理学、医学方面，春秋时期的中国在世界上处于领先水平。 </p><p>形成于春秋战国时的阴阳五行之说，将整个世界包括天文都纳入五行体系。“天”不仅以天象，而且还以各种物象来显示“天命”，因此，人们要以各种符应去体察“天命”，改变了以往用民心去体察天命的方法。这些符应显示于“五德转”。显示于“五行之运”。天象的观察不但适用于国家政治，特别是异常天象，因为事关“天命”，更是备受重视。春秋战国时期，一些精巧的医疗技术被发明并在临床得到应用。《灵枢·四时汽》记载了中国医学史上最早的腹腔穿刺术。 </p><p>中国传统农业在春秋时期才开始形成。春秋时期的人们发明了以前没有的铁犁铧、铁锄、连枷、石磨等新农具。 </p><p>春秋时期的<a class="innerlink" href="http://www.baike.com/wiki/%E9%9D%92%E9%93%9C%E5%99%A8" title="青铜器">青铜器</a>铸造也是这一时代的特征，以<a class="innerlink" href="http://www.baike.com/wiki/%E6%9B%BE%E5%9B%BD" title="曾国">曾国</a>和楚国、徐国的青铜器为代表。<sup><a href="#hdtop_3" name="hdend_3" title="春秋">[3]</a></sup> </p><div class="content_h2"><h2 class="mar-t10">
+<a name="31"> </a>宗教简介<span class="f18">/《春秋》 </span><a class="bjbd" href="#" secid="31" target="_self">编辑</a>
+</h2>
+</div>
+<p>春秋时期并没有一种广泛流行的宗教，因为<a class="innerlink" href="http://www.baike.com/wiki/%E9%81%93%E6%95%99" title="道教">道教</a>是从汉代才开始出现的，佛教也是在西汉时期传入<a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%AD%E5%9B%BD" title="中国">中国</a>的。不过，春秋时期也可能有一些不太知名的原始宗教。 <br/><br/></p></span>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div appcode="category">
+<link href="http://www.huimg.cn/hudong/entry/widget/tree/css/tree160908.css" media="all" rel="stylesheet" type="text/css"/>
+<p class="classification_style">显示方式：<a class="current" href="javascript:void(0)" value="tabletree">分类详情</a> | <a href="javascript:void(0)" value="tree">分类树</a></p>
+<div id="tableTree_style_category">
+<div class="classification" style="z-index:1;">
+<div class="h3tit" data-treeid="291">
+<h3>历史分类树</h3>
+<span class="more"><a class="editterm quizForTreeHref" href="javascript:void(0)">我要提建议</a></span>
+<span class="toggleshow" style="display: none;"></span>
+<span class="togglehide" style="display: block;"></span>
+</div>
+<div class="bor-ddd">
+<p class="gray6 pd10 bor-t">历史，或简称史，指对人类社会过去的事件和行动，以及对这些事件行为有系统的记录、诠释和研究。历史泛指所有事物的演变过程，一般专指人类社会与文明的演变情形，某种事物的发展过程或个人的经历。简而言之，即为对过去事实的记载。</p>
+<div class="lve1_t bor-t">
+<span class="ago2"></span>
+<div class="t_w bor-lrddd">
+<ul>
+<li>
+<a alt="历史" href="http://fenlei.hudong.com/%E5%8E%86%E5%8F%B2/" target="_blank" title="历史" value="24226">
+												历史
+											</a>
+</li>
+</ul>
+</div>
+<span class="after"></span>
+</div>
+<div class="lve2_t bor-t">
+<!--展开方式<div class="t_w   autoh">-->
+<div class="t_w">
+<div class="h84">
+<ul class="current" data-datatype="category" data-focus="24227" data-order="3">
+<li class="bold">
+<a alt="历史学" title="历史学" value="24227">历史学    </a>
+</li>
+<li>
+<a alt="历史事件" title="历史事件" value="24228">历史事件  </a>
+</li>
+<li>
+<a alt="区域历史" title="区域历史" value="24288">区域历史  </a>
+</li>
+</ul>
+</div>
+<span class="xl"><i></i>
+</span>
+<div class="page">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div class="lve3_t">
+<!--展开方式<div class="t_w  autoh">-->
+<div class="t_w">
+<div class="h84">
+<ul class="current" data-datatype="category" data-focus="24230" data-order="2">
+<li class="bold">
+<a alt="历史要籍" title="历史要籍" value="24230">历史要籍  </a>
+</li>
+<li>
+<a alt="历史名词" title="历史名词" value="24229">历史名词  </a>
+</li>
+<li>
+<a alt="史学理论" title="史学理论" value="24231">史学理论  </a>
+</li>
+<li>
+<a alt="历史学家" title="历史学家" value="24232">历史学家  </a>
+</li>
+<li>
+<a alt="文物考古" title="文物考古" value="24235">文物考古  </a>
+</li>
+</ul>
+</div>
+<span class="xl2"><i></i>
+</span>
+<div class="page">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div class="lve_c">
+<!-- 分类列表 -->
+<ul class="pic_ul" style="display:none;">
+</ul>
+<!-- 词条列表 -->
+<ul class="ul_pic zoom" data-datatype="doc" data-focus="《春秋》" data-order="1">
+<li class="current">
+<a alt="《春秋》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B" target="_blank" title="《春秋》"><img src="http://a1.att.hudong.com/03/32/20300543497168144560327303966_02_120_90.jpg" title="《春秋》"/>
+</a>
+<a alt="《春秋》" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B" target="_blank" title="《春秋》">《春秋》</a>
+</li>
+<li>
+<a alt="《三国会要》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E4%BC%9A%E8%A6%81%E3%80%8B" target="_blank" title="《三国会要》"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="《三国会要》"/>
+</a>
+<a alt="《三国会要》" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E4%BC%9A%E8%A6%81%E3%80%8B" target="_blank" title="《三国会要》">《三国会要》</a>
+</li>
+<li>
+<a alt="《三国志》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E3%80%8B" target="_blank" title="《三国志》"><img src="http://a1.att.hudong.com/83/74/20300000241358132368744699270_02_120_90.jpg" title="《三国志》"/>
+</a>
+<a alt="《三国志》" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E3%80%8B" target="_blank" title="《三国志》">《三国志》</a>
+</li>
+<li>
+<a alt="《三国志》：《周礼》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E3%80%8B%EF%BC%9A%E3%80%8A%E5%91%A8%E7%A4%BC%E3%80%8B" target="_blank" title="《三国志》：《周礼》"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="《三国志》：《周礼》"/>
+</a>
+<a alt="《三国志》：《周礼》" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E3%80%8B%EF%BC%9A%E3%80%8A%E5%91%A8%E7%A4%BC%E3%80%8B" target="_blank" title="《三国志》：《周礼》">《三国志》：《..</a>
+</li>
+<li>
+<a alt="《东汉会要》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%9C%E6%B1%89%E4%BC%9A%E8%A6%81%E3%80%8B" target="_blank" title="《东汉会要》"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="《东汉会要》"/>
+</a>
+<a alt="《东汉会要》" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%9C%E6%B1%89%E4%BC%9A%E8%A6%81%E3%80%8B" target="_blank" title="《东汉会要》">《东汉会要》</a>
+</li>
+<li>
+<a alt="《五代会要》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E4%BA%94%E4%BB%A3%E4%BC%9A%E8%A6%81%E3%80%8B" target="_blank" title="《五代会要》"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="《五代会要》"/>
+</a>
+<a alt="《五代会要》" href="http://www.baike.com/wiki/%E3%80%8A%E4%BA%94%E4%BB%A3%E4%BC%9A%E8%A6%81%E3%80%8B" target="_blank" title="《五代会要》">《五代会要》</a>
+</li>
+<li>
+<a alt="《仪礼》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E4%BB%AA%E7%A4%BC%E3%80%8B" target="_blank" title="《仪礼》"><img src="http://a2.att.hudong.com/52/37/01300000240273127219375982755_02_120_90.jpg" title="《仪礼》"/>
+</a>
+<a alt="《仪礼》" href="http://www.baike.com/wiki/%E3%80%8A%E4%BB%AA%E7%A4%BC%E3%80%8B" target="_blank" title="《仪礼》">《仪礼》</a>
+</li>
+<li>
+<a alt="《元史》" class="aimg" href="http://www.baike.com/wiki/%E3%80%8A%E5%85%83%E5%8F%B2%E3%80%8B" target="_blank" title="《元史》"><img src="http://a2.att.hudong.com/24/83/20300543847928146735834454435_02_120_90.jpg" title="《元史》"/>
+</a>
+<a alt="《元史》" href="http://www.baike.com/wiki/%E3%80%8A%E5%85%83%E5%8F%B2%E3%80%8B" target="_blank" title="《元史》">《元史》</a>
+</li>
+</ul>
+<div id="flipover">
+<!-- 没有就留白 -->
+<em>共有58个词条</em>
+<ul>
+<span class="">1</span><a class="" value="2">[2]</a><a class="" value="3">[3]</a><a class="" value="4">[4]</a>…<a class="" value="8">[8]</a><a class="after" value="2">下一页</a>
+</ul>
+</div>
+<!--下面是没数据时的显示内容已隐藏-->
+<div class="build-info" style="display:none;">
+<a class="btn_build" href="http://www.baike.com/createDocAuth.do?doc_title=%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B&amp;prd=so_chuangjiann" target="_blank">立刻创建</a>
+<h4>
+<strong>该分类下还没有词条</strong>，欢迎您来创建。
+						</h4>
+<p>
+							与广大同友分享关于“《春秋》”的知识。<br/>成千上万的读者会因为您的贡献而受益匪浅。
+						</p>
+<h4 class="mar-t20 gray3">您还可以：</h4>
+<p>
+<a href="http://fenlei.baike.com/themeManagerApply.do?Action=forapply" target="_blank">申请分类管理员</a>，参与知识体系建设。<br/>
+							分类管理员是一个分类的建设者，超着指导用户阅读的作用。所以现责任心是必不可少的。除此之外，只要您对某一领域有着相当的了解或者深厚的兴趣，拥有丰富的知识，并具愿意将自己的知识传递给更多的人，您就是分类管理员最合适的人选。
+						</p>
+<p class="mar-t5">
+<a href="http://task.baike.com/tasklist.wiki?Action=missionpackage2&amp;type=2" target="_blank">参加有奖任务</a>和更多举相同的人，通过完成某一领域的词条，分享知识聚集在一起。<br/>根据您的贡献程度，您将有机会获得积分和信用奖励。<br/>我可以用积分和信用干什么？
+							<a href="http://www.baike.com/giftshop/index.html?prd=xinzhishe_jifenshangdian" target="_blank">进入百科商城兑换各种精美礼品</a>。
+						</p>
+</div>
+</div>
+</div>
+</div>
+<script src="http://www.huimg.cn/app/category/js/categoryTree20150115.js" type="text/javascript"></script>
+</div>
+<div id="tree_style_category" style="display:none;">
+<!----------------style tree-------------------------------- -->
+<div class="categoryAppPannel">
+<div class="classification">
+<div class="h3tit"><h3>历史分类树</h3><span class="more"> <a class="editterm quizForTreeHref" href="javascript:void(0)">我要提建议</a></span>
+<span class="toggleshow" style="display:none;"></span><span class="togglehide"></span>
+</div>
+<div class="htree" style="display:block;">
+<ul class="root">
+<li><span><a href="http://fenlei.hudong.com/%E5%8E%86%E5%8F%B2/" target="_blank" title="历史">历史</a></span><em class="t_no"><i></i></em></li>
+</ul>
+<ul>
+<li class="blue">
+<span><a href="http://fenlei.hudong.com/%E5%8E%86%E5%8F%B2%E5%AD%A6/" target="_blank" title="历史学">历史学</a></span>
+<em class="t_no"><i></i></em>
+</li>
+<li>
+<span><a href="http://fenlei.hudong.com/%E5%8E%86%E5%8F%B2%E4%BA%8B%E4%BB%B6/" target="_blank" title="历史事件">历史事件</a></span><em class="t_yes"></em>
+</li>
+<li class="last">
+<span><a href="http://fenlei.hudong.com/%E5%8C%BA%E5%9F%9F%E5%8E%86%E5%8F%B2/" target="_blank" title="区域历史">区域历史</a></span><em class="t_yes"></em>
+</li>
+</ul>
+<ul class="r-ul">
+<li class="yend">
+<span><a href="http://fenlei.hudong.com/%E5%8E%86%E5%8F%B2%E8%A6%81%E7%B1%8D/" target="_blank" title="历史要籍">历史要籍</a></span>
+</li>
+<li>
+<span><a href="http://fenlei.hudong.com/%E5%8E%86%E5%8F%B2%E5%90%8D%E8%AF%8D/" target="_blank" title="历史名词">历史名词</a></span>
+</li>
+<li>
+<span><a href="http://fenlei.hudong.com/%E5%8F%B2%E5%AD%A6%E7%90%86%E8%AE%BA/" target="_blank" title="史学理论">史学理论</a></span>
+</li>
+<li>
+<span><a href="http://fenlei.hudong.com/%E5%8E%86%E5%8F%B2%E5%AD%A6%E5%AE%B6/" target="_blank" title="历史学家">历史学家</a></span><em class="t_yes"></em>
+</li>
+<li class="last">
+<span><a href="http://fenlei.hudong.com/%E6%96%87%E7%89%A9%E8%80%83%E5%8F%A4/" target="_blank" title="文物考古">文物考古</a></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+(function($,dom){
+	var category_tree_position = ["tableTree_style_category","tree_style_category"];
+	var tree_top_as = $(".classification_style a");
+	tree_top_as.each(function (index, domEle) {
+		  var $self = $(domEle);
+		  var tree_div = $('#'+category_tree_position[$(tree_top_as).index($self)]);
+		  if($.trim(tree_div.text()).length<1){
+			  $self.removeClass().addClass("disabled");
+			}
+	});
+
+	var tree_top_as_exclude = tree_top_as.not(".disabled");
+	$(dom).delegate(".classification_style a[class!='disabled']", 'click', function() {
+		var $self = $(this);
+		var tree_div = $('#'+category_tree_position[tree_top_as.index($self)]);
+		if($self.hasClass('current')){
+			return;
+		}
+		$self.removeClass().addClass("current");
+		tree_div.show();
+		if($self[0].text == "分类树"){
+			  $(".htree").each(function(i, el){
+				var o = $(el), height= o.height();
+				o.css('overflowY', ( height < 350 ) ? 'hidden':'scroll');
+			  });
+		}
+		tree_top_as_exclude.not($self).each(function(){
+				var _this = $(this);
+				_this.removeClass("current");
+			    $('#'+category_tree_position[tree_top_as.index(_this)]).hide();
+		});
+	});
+})(jQuery,document);
+
+
+try{
+	$(document).ready(function(){
+		$('.toggleshow').click(function(){
+		   $(this).closest(".classification").find("div").eq(1).show();
+		});
+		
+		$('.togglehide').click(function(){
+		   $(this).closest(".classification").find("div").eq(1).hide();
+		});
+
+		$('.quizForTreeHref').click(function(){
+		  $('#bootomtiwen').click();
+		});
+		
+		$(".htree").each(function(i, el){
+			var o = $(el), height= o.height();
+			o.css('overflowY', ( height < 350 ) ? 'hidden':'scroll');
+		});
+		
+		$(".categoryAppPannel a[target=_blank]").bind("click", function(){
+  			StatVirtualTraffic(document.referrer, window.location, 'stat_hdstat_onclick_category_tree_app');
+    	});
+	});
+	
+}catch(e){
+	
+}
+</script></div>
+<div class="nav-module">
+<h2>中国古典名著</h2>
+<em class="tounfold"> </em><span class="toggleshow" style="display: none;"> </span><span class="togglehide"> </span><div id="navData"><table class="table">
+<tbody>
+<tr>
+<td>悠悠的历史沉淀了多少芬芳,蕴涵了多少过去的岁月,多少过去的文人雅士.他们留下的不仅是一段段的佳话与传奇,还有那耐人寻味的古典之作,网罗了部分中国古典之名著,让其再现辉煌. 。 </td></tr></tbody></table>
+<table class="table">
+<tbody>
+<tr>
+<td>
+<p><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%90%B9%E5%89%91%E5%BD%95%E3%80%8B" title="《吹剑录》">《吹剑录》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%A2%82%E3%80%8B" title="《颂》">《颂》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%9B%BD%E9%A3%8E%E3%80%8B" title="《国风》">《国风》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%96%BB%E4%B8%96%E5%90%8D%E8%A8%80%E3%80%8B" title="《喻世名言》">《喻世名言》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E5%BF%97%E3%80%8B" title="《三国志》">《三国志》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%8A%B1%E9%97%B4%E9%9B%86%E3%80%8B" title="《花间集》">《花间集》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%85%A8%E5%94%90%E8%AF%97%E3%80%8B" title="《全唐诗》">《全唐诗》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%A6%B4%E8%8A%B1%E6%A2%A6%E3%80%8B" title="《榴花梦》">《榴花梦》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%9F%B3%E6%B0%8F%E4%BC%A0%E3%80%8B" title="《柳氏传》">《柳氏传》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%A6%BB%E9%AD%82%E8%AE%B0%E3%80%8B" title="《离魂记》">《离魂记》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%90%9C%E7%A5%9E%E8%AE%B0%E3%80%8B" title="《搜神记》">《搜神记》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%9C%8D%E5%B0%8F%E7%8E%89%E4%BC%A0%E3%80%8B" title="《霍小玉传》">《霍小玉传》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%9F%B3%E6%AF%85%E4%BC%A0%E3%80%8B" title="《柳毅传》">《柳毅传》</a></p></td>
+<td><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%94%90%E5%AE%8B%E4%BC%A0%E5%A5%87%E9%9B%86%E3%80%8B" title="《唐宋传奇集》">《唐宋传奇集》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%B5%B5%E9%A3%9E%E7%87%95%E5%88%AB%E4%BC%A0%E3%80%8B" title="《赵飞燕别传》">《赵飞燕别传》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%B1%89%E4%B9%A6%E3%80%8B" title="《汉书》">《汉书》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%9B%90%E9%93%81%E8%AE%BA%E3%80%8B" title="《盐铁论》">《盐铁论》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AD%BD%E6%B5%B7%E8%8A%B1%E3%80%8B" title="《孽海花》">《孽海花》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%88%97%E5%A5%B3%E4%BC%A0%E3%80%8B" title="《列女传》">《列女传》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%81%8A%E6%96%8B%E5%BF%97%E5%BC%82%E3%80%8B" title="《聊斋志异》">《聊斋志异》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B" title="《春秋》">《春秋》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%B9%9D%E8%BE%A9%E3%80%8B" title="《九辩》">《九辩》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%B9%9D%E7%AB%A0%E3%80%8B" title="《九章》">《九章》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AE%98%E5%9C%BA%E7%8E%B0%E8%A1%8C%E8%AE%B0%E3%80%8B" title="《官场现行记》">《官场现行记》</a></td>
+<td><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%9C%E5%91%A8%E5%88%97%E5%9B%BD%E5%BF%97%E3%80%8B" title="《东周列国志》">《东周列国志》</a><br/> <a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%9B%85%E3%80%8B" title="《雅》">《雅》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%A4%AA%E5%B9%B3%E5%B9%BF%E8%AE%B0%E3%80%8B" title="《太平广记》">《太平广记》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%8F%A4%E6%96%87%E8%A7%82%E6%AD%A2%E3%80%8B" title="《古文观止》">《古文观止》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AD%94%E9%9B%80%E4%B8%9C%E5%8D%97%E9%A3%9E%E3%80%8B" title="《孔雀东南飞》">《孔雀东南飞》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%A4%BC%E8%AE%B0%E3%80%8B" title="《礼记》">《礼记》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%B7%A6%E4%BC%A0%E3%80%8B" title="《左传》">《左传》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%A4%A9%E9%97%AE%E3%80%8B" title="《天问》">《天问》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%A6%BB%E9%AA%9A%E3%80%8B" title="《离骚》">《离骚》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%B0%81%E7%A5%9E%E6%BC%94%E4%B9%89%E3%80%8B" title="《封神演义》">《封神演义》</a><br/> </td></tr></tbody></table></div>
+</div>
+<div class="nav-module">
+<h2>盘点世界经典名著</h2>
+<em class="tounfold"> </em><span class="toggleshow" style="display: none;"> </span><span class="togglehide"> </span><div id="navData"><table class="table">
+<tbody>
+<tr>
+<td><span class="Apple-style-span" style="Simsun: ; 0: "><span class="Apple-style-span" style="Arial: ; 51: ">盘点世界经典名著</span></span>。 </td></tr></tbody></table>
+<table class="table">
+<tbody>
+<tr>
+<td><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%89%A9%E7%A7%8D%E8%B5%B7%E6%BA%90%E3%80%8B" title="《物种起源》">《物种起源》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%8D%89%E5%8F%B6%E9%9B%86%E3%80%8B" title="《草叶集》">《草叶集》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%B5%AE%E5%A3%AB%E5%BE%B7%E3%80%8B" title="《浮士德》">《浮士德》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%8E%8E%E5%A3%AB%E6%AF%94%E4%BA%9A%E5%85%A8%E9%9B%86%E3%80%8B" title="《莎士比亚全集》">《莎士比亚全集》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%86%E8%99%AB%E8%AE%B0%E3%80%8B" title="《昆虫记》">《昆虫记》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%A5%9E%E6%9B%B2%E3%80%8B" title="《神曲》">《神曲》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%AE%BA%E8%AF%AD%E3%80%8B" title="《论语》">《论语》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%B0%9A%E4%B9%A6%E3%80%8B" title="《尚书》">《尚书》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%B0%B4%E6%B5%92%E4%BC%A0%E3%80%8B" title="《水浒传》">《水浒传》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%AE%BA%E8%A1%A1%E3%80%8B" title="《论衡》">《论衡》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%80%81%E5%AD%90%E3%80%8B" title="《老子》">《老子》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%90%84%E5%AD%90%E3%80%8B" title="《萄子》">《萄子》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%B2%81%E8%BF%85%E5%85%A8%E9%9B%86%E3%80%8B" title="《鲁迅全集》">《鲁迅全集》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%B5%84%E6%9C%AC%E8%AE%BA%E3%80%8B" title="《资本论》">《资本论》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%BA%84%E5%AD%90%E3%80%8B" title="《庄子》">《庄子》</a></td>
+<td><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%B1%89%E4%B9%A6%E3%80%8B" title="《汉书》">《汉书》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%8D%B7%E9%A9%AC%E5%8F%B2%E8%AF%97%E3%80%8B" title="《荷马史诗》">《荷马史诗》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AF%B9%E8%AF%9D%E5%BD%95%E3%80%8B" title="《对话录》">《对话录》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%96%87%E9%80%89%E3%80%8B" title="《文选》">《文选》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%88%98%E4%BA%89%E4%B8%8E%E5%92%8C%E5%B9%B3%E3%80%8B" title="《战争与和平》">《战争与和平》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%93%88%E5%85%8B%E8%B4%9D%E5%88%A9%E8%8A%AC%E5%8E%86%E9%99%A9%E8%AE%B0%E3%80%8B" title="《哈克贝利芬历险记》">《哈克贝利芬历险记》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%A4%BC%E8%AE%B0%E3%80%8B" title="《礼记》">《礼记》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%A2%A8%E5%AD%90%E3%80%8B" title="《墨子》">《墨子》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%9B%9B%E4%B9%A6%E9%9B%86%E6%B3%A8%E3%80%8B" title="《四书集注》">《四书集注》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%8C%E9%BB%8E%E5%85%88%E7%94%9F%E9%9B%86%E3%80%8B" title="《昌黎先生集》">《昌黎先生集》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%9D%8E%E5%A4%AA%E7%99%BD%E9%9B%86%E3%80%8B" title="《李太白集》">《李太白集》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%A4%BE%E4%BC%9A%E5%A5%91%E7%BA%A6%E8%AE%BA%E3%80%8B" title="《社会契约论》">《社会契约论》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%85%AD%E7%A5%96%E5%9D%9B%E7%BB%8F%E3%80%8B" title="《六祖坛经》">《六祖坛经》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89%E3%80%8B" title="《三国演义》">《三国演义》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%AF%97%E7%BB%8F%E3%80%8B" title="《诗经》">《诗经》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%82%B2%E6%83%A8%E4%B8%96%E7%95%8C%E3%80%8B" title="《悲惨世界》">《悲惨世界》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%96%E8%AF%B4%E6%96%B0%E8%AF%AD%E3%80%8B" title="《世说新语》">《世说新语》</a></td>
+<td><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%B7%B4%E9%BB%8E%E5%9C%A3%E6%AF%8D%E9%99%A2%E3%80%8B" title="《巴黎圣母院》">《巴黎圣母院》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%8F%B2%E8%AE%B0%E3%80%8B" title="《史记》">《史记》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4%E3%80%8B" title="《资治通鉴》">《资治通鉴》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%A0%82%E5%90%89%E6%B2%B3%E5%BE%B7%E3%80%8B" title="《堂吉河德》">《堂吉河德》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E9%9F%A9%E9%9D%9E%E5%AD%90%E3%80%8B" title="《韩非子》">《韩非子》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%84%92%E6%9E%97%E5%A4%96%E5%8F%B2%E3%80%8B" title="《儒林外史》">《儒林外史》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%9D%9C%E5%B7%A5%E9%83%A8%E9%9B%86%E3%80%8B" title="《杜工部集》">《杜工部集》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%A5%9A%E8%BE%9E%E3%80%8B" title="《楚辞》">《楚辞》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B" title="《春秋》">《春秋》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%B7%A6%E4%BC%A0%E3%80%8B" title="《左传》">《左传》</a> <br/>《<a class="innerlink" href="http://www.baike.com/wiki/%E6%88%98%E5%9B%BD%E7%AD%96%E3%80%8B" title="战国策》">战国策》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AD%9F%E5%AD%90%E3%80%8B" title="《孟子》">《孟子》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E3%80%8B" title="《孙子兵法》">《孙子兵法》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%BA%A2%E4%B8%8E%E9%BB%91%E3%80%8B" title="《红与黑》">《红与黑》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%91%A8%E6%98%93%E3%80%8B" title="《周易》">《周易》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%9C%A3%E7%BB%8F%E3%80%8B" title="《圣经》">《圣经》</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E8%A5%BF%E6%B8%B8%E8%AE%B0%E3%80%8B" title="《西游记》">《西游记》</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B" title="《红楼梦》">《红楼梦》</a> </td></tr></tbody></table></div>
+</div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+			 function goUrl(url){
+			  if(url == "" || url.length == 0){
+			  	return;
+			  }
+			  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+			  window.open(url,'_blank');
+			 }
+			</script>
+<dl class="reference bor-no">
+<dt>参考资料</dt>
+<dd>
+<span>[1]</span><a href="#hdend_1" name="hdtop_1">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://www.hist.pku.edu.cn/data/Article_Show.asp?ArticleID=569')">教学科研资料网<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2010-04-27</span>
+</dd>
+<dd>
+<span>[2]</span><a href="#hdend_2" name="hdtop_2">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://product.dangdang.com/product.aspx?product_id=20812443')">当当网<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2010-04-27</span>
+</dd>
+<dd>
+<span>[3]</span><a href="#hdend_3" name="hdtop_3">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://bbs.cqzg.cn/')">春秋<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2010-04-25</span>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo">
+<script type="text/javascript">
+		 function goUrl(url){
+		  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+		  window.open(url,'_blank');
+		 }
+		</script>
+<dl class="reference bor-no">
+<dt>扩展阅读</dt>
+<dd>
+<em>1</em>春秋知识<a><input name="refrenceurlinput" onclick="goUrl('http://www.lin58.com/lin/389.html')" readonly="" type="text" value="http://www.lin58.com/lin/389.html"/></a>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8E%86%E5%8F%B2%E8%91%97%E4%BD%9C/?prd=zhengwenye_left_kuozhan_kaifangfenlei">中国历史著作</a><a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E6%95%99%E8%82%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">中国古代教育</a><a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E5%90%8D%E8%91%97/?prd=zhengwenye_left_kuozhan_kaifangfenlei">中国古典名著</a><a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E5%8F%B2%E5%AD%A6%E5%8F%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">中国史学史</a><a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E6%95%99%E8%82%B2%E5%8F%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">中国教育史</a><a href="http://fenlei.baike.com/%E4%B8%AD%E6%96%87%E4%B9%A6%E7%B1%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">中文书籍</a><a href="http://fenlei.baike.com/%E4%B9%A6%E7%B1%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">书籍</a><a href="http://fenlei.baike.com/%E5%8E%86%E5%8F%B2%E8%A6%81%E7%B1%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">历史要籍</a><a href="http://fenlei.baike.com/%E5%8F%A4%E4%BB%8A%E5%90%8D%E8%91%97/?prd=zhengwenye_left_kuozhan_kaifangfenlei">古今名著</a><a href="http://fenlei.baike.com/%E5%8F%B2%E4%B9%A6/?prd=zhengwenye_left_kuozhan_kaifangfenlei">史书</a><a href="http://fenlei.baike.com/%E5%8F%B2%E5%AD%A6%E5%8F%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">史学史</a><a href="http://fenlei.baike.com/%E5%AD%94%E5%AD%90/?prd=zhengwenye_left_kuozhan_kaifangfenlei">孔子</a><a href="http://fenlei.baike.com/%E6%94%BF%E6%B3%95%E6%9C%9F%E5%88%8A/?prd=zhengwenye_left_kuozhan_kaifangfenlei">政法期刊</a><a href="http://fenlei.baike.com/%E6%96%87%E5%AD%A6/?prd=zhengwenye_left_kuozhan_kaifangfenlei">文学</a><a href="http://fenlei.baike.com/%E6%AD%8C%E6%9B%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">歌曲</a><a href="http://fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kuozhan_kaifangfenlei">艺术</a><a href="http://fenlei.baike.com/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6%E6%96%87%E5%8C%96/?prd=zhengwenye_left_kuozhan_kaifangfenlei">诸子百家文化</a><a href="http://fenlei.baike.com/%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kuozhan_kaifangfenlei">音乐</a><a href="http://fenlei.baike.com/%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81/?prd=zhengwenye_left_kuozhan_kaifangfenlei">音乐作品</a><a href="/fenlei/">C</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="中国历史著作"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="中国古代教育"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="中国古典名著"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="中国史学史"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="中国教育史"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="中文书籍"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="书籍"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="历史要籍"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="古今名著"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="史书"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="史学史"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="孔子"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="政法期刊"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="文学"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="歌曲"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="艺术"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="诸子百家文化"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="音乐"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="音乐作品"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="C"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="《春秋》"/><input id="docidencry" name="docidencry" type="hidden" value="qf3EAAAgEB2h6f3h8"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B/a1_03_32_20300543497168144560327303966_jpg.html" target="_blank" title="春秋经"><img alt="春秋经" src="http://a1.att.hudong.com/03/32/20300543497168144560327303966_s.jpg" title="春秋经"/></a><a class="card" href="http://tupian.baike.com/doc/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B/a1_03_32_20300543497168144560327303966_jpg.html" target="_blank"><em></em>《春秋》图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>46次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>33</span>位</li>
+<li>最近更新时间：2015-11-05 07:41:19</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=dd3cDAFtRA3ZXC3x3&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">zhang813100</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=YQl1RVUReAWJXekZJ&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="YQl1RVUReAWJXekZJ">MG42</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=WUkYADQcHQU5DXxNZ&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="WUkYADQcHQU5DXxNZ">山师大的妮子2</a></h4></li>
+<li><h4><a class="yonghu">匿名用户</a></h4></li>
+<li><h4><a class="yonghu">匿名用户</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=yQ11RVURfAmZUcUJE&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="yQ11RVURfAmZUcUJE">信乐林</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%8F%B2%E4%B9%A6&amp;prd=citiao_so" target="_blank" title="史书"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/44/48/50200009239445155862489859046_140.jpg);"><p></p></span>史书</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%9B%9B%E4%B9%A6%E4%BA%94%E7%BB%8F&amp;prd=citiao_so" target="_blank" title="四书五经"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/45/28/50200009239445155794289643681_140.jpg);"><p></p></span>四书五经</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%AD%94%E5%AD%90&amp;prd=citiao_so" target="_blank" title="孔子"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/32/03/50200009239445155793031561044_140.jpg);"><p></p></span>孔子</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%AD%94%E5%BA%99&amp;prd=citiao_so" target="_blank" title="孔庙"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/62/26/20300543359270143822260012877_140.jpg);"><p></p></span>孔庙</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%8F%B2%E8%AE%B0%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《史记》</a></li>
+<li><a href="http://so.baike.com/doc/%E5%AD%9F%E5%AD%90&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">孟子</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E8%AE%BA%E8%AF%AD%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《论语》</a></li>
+<li><a href="http://so.baike.com/doc/%E5%9B%9B%E4%B9%A6%E4%BA%94%E7%BB%8F&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">四书五经</a></li>
+<li><a href="http://so.baike.com/doc/%E6%98%A5%E7%A7%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">春秋</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%98%A5%E7%A7%8B%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《春秋》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E8%B5%84%E6%B2%BB%E9%80%9A%E9%89%B4%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《资治通鉴》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%BC%9F%E5%AD%90%E8%A7%84%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《弟子规》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%AD%99%E5%AD%90%E5%85%B5%E6%B3%95%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《孙子兵法》</a></li>
+<li><a href="http://so.baike.com/doc/%E5%BA%84%E5%AD%90&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">庄子</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

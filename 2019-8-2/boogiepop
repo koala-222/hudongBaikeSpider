@@ -1,0 +1,364 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/boogiepop" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/63/DF/63DF7DAD02877D084B443F3F72C53CF2_90.png?title=boogiepop"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>boogiepop</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/B%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="B开头单词">B开头单词</a><a href="//fenlei.baike.com/%E5%8A%A8%E6%BC%AB/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="动漫">动漫</a><a href="//fenlei.baike.com/%E6%97%A5%E6%9C%AC/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="日本">日本</a><a href="//fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英文单词">英文单词</a><a href="//fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英语">英语</a><a href="//fenlei.baike.com/%E8%BD%BB%E5%B0%8F%E8%AF%B4/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="轻小说">轻小说</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>Boogiepop系列（ブギーポップシリーズ）为日本科幻作家上远野浩平的轻小说系列，并有动画、电影、漫画等衍生作品。主要讲述浮现于普通人体内、自称为Boogiepop的人格，与被称为“世界之敌”的异能者之间的战斗。Boogiepop（ブギーポップ）原意为“不気味な泡”即可怕的泡沫，可以理解为与月世界两大抑止力类似的存在（只是Boogiepop比型月要早）。目前国内常见的译法为“不吉波普”。</p><p></p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="boogiepop"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('culture_lightnovel')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>中文名称：</strong>
+<span>boogiepop</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>原版名称：</strong>
+<span>boogiepop</span>
+</td> </tr> <tr>
+<td>
+<strong>其他名称：</strong>
+<span>ブギーポップシリーズ</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>作者：</strong>
+<span>上远野浩平</span>
+</td> </tr> <tr>
+<td>
+<strong>地区：</strong>
+<span>日本</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="内容介绍" catalogkey="1" class="bold" href="javascript:void(0)" title="内容介绍">内容介绍</a>
+</li>
+<li class="dot"><a alt="小说原作列表" catalogkey="3" href="javascript:void(0)" title="小说原作列表">小说原作列表</a></li>
+<li class="dot"><a alt="短篇" catalogkey="5" href="javascript:void(0)" title="短篇">短篇</a></li>
+<li>
+<em>2</em><a alt="衍生作品" catalogkey="7" class="bold" href="javascript:void(0)" title="衍生作品">衍生作品</a>
+</li>
+<li>
+<em>3</em><a alt="衍生作品评述" catalogkey="9" class="bold" href="javascript:void(0)" title="衍生作品评述">衍生作品评述</a>
+</li>
+</ul>
+<ul class="lie3">
+<li class="dot"><a alt="TV动画" catalogkey="11" href="javascript:void(0)" title="TV动画">TV动画</a></li>
+<li class="dot"><a alt="真人电影" catalogkey="13" href="javascript:void(0)" title="真人电影">真人电影</a></li>
+<li class="dot"><a alt="音乐" catalogkey="15" href="javascript:void(0)" title="音乐">音乐</a></li>
+<li class="dot"><a alt="画集" catalogkey="17" href="javascript:void(0)" title="画集">画集</a></li>
+<li class="dot"><a alt="漫画" catalogkey="19" href="javascript:void(0)" title="漫画">漫画</a></li>
+</ul>
+<ul class="lie3">
+<li>
+<em>4</em><a alt="汉化" catalogkey="21" class="bold" href="javascript:void(0)" title="汉化">汉化</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">内容介绍</a>
+<i></i>
+</li>
+<li class="dot">
+<em>1.1</em><a catalogkey="3" href="javascript:void(0)">小说原作列表</a>
+</li>
+<li class="dot">
+<em>1.2</em><a catalogkey="5" href="javascript:void(0)">短篇</a>
+</li>
+<li>
+<em>2</em><a catalogkey="7" class="bold" href="javascript:void(0)">衍生作品</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="9" class="bold" href="javascript:void(0)">衍生作品评述</a>
+<i></i>
+</li>
+<li class="dot">
+<em>3.1</em><a catalogkey="11" href="javascript:void(0)">TV动画</a>
+</li>
+<li class="dot">
+<em>3.2</em><a catalogkey="13" href="javascript:void(0)">真人电影</a>
+</li>
+<li class="dot">
+<em>3.3</em><a catalogkey="15" href="javascript:void(0)">音乐</a>
+</li>
+<li class="dot">
+<em>3.4</em><a catalogkey="17" href="javascript:void(0)">画集</a>
+</li>
+<li class="dot">
+<em>3.5</em><a catalogkey="19" href="javascript:void(0)">漫画</a>
+</li>
+<li>
+<em>4</em><a catalogkey="21" class="bold" href="javascript:void(0)">汉化</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>内容介绍<span class="f18">/boogiepop </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_20_60_50200009239445156208605853207_s_jpg.html" target="_blank" title="boogiepop"><img alt="boogiepop" data-original="http://a4.att.hudong.com/20/60/50200009239445156208605853207_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="boogiepop"/></a>
+<strong>boogiepop</strong>
+</div><p>日本科幻作家上远野浩平（上远野浩平，かどのこうへい）的出道作。自1998年第一部《ブギーポップは笑わない》（第4回电撃ゲーム小说大赏受赏作品）问世至今，全套销量超500万（2006年数据），并为以后的许多轻小说所借鉴（受他影响的轻小说家包括《奇诺之旅》的时雨泽惠一、西尾维新等）。先后被改编为TV动画（1999），真人剧场版（2000）以及漫画。其中比较为国内所熟悉的，便是Boogiepop Phantom这部1999年的TV版动画了。</p><a name="3"> </a><h3>小说原作列表</h3><p><b>01</b>　1998/02　 
+<b>ブギーポップは笑わない（</b>不吉波普不笑 
+<b>）</b>　Boogiepop and Others</p><p><b>02</b>　1998/08　 
+<b>ブギーポップ・リターンズ VSイマジネーター Part1（</b>不吉波普再临 VS幻想者 Part 1 
+<b>）</b>　VS Imaginator Part I “SIGN”</p><p><b>03</b>　1998/08　 
+<b>ブギーポップ・リターンズ VSイマジネーター Part2</b>
+<b>（不吉波普再临 VS幻想者 Part 2）</b>　VS Imaginator Part II “PARADE”</p><p><b>04</b>　1998/12　 
+<b>ブギーポップ・イン・ザ・ミラー「パンドラ」（镜中的不吉波普 “潘多拉”）</b>　Does anybody really know what time it is?</p><p><b>05</b>　1999/02　 
+<b>ブギーポップ・オーバードライブ歪曲王（超速的不吉波普 歪曲王）</b>　Heartbreaker II</p><p><b>06</b>　1999/05　 
+<b>夜明けのブギーポップ（黎明的不吉波普）</b>　Boogiepop at Dawn</p><p><b>07</b>　1999/08　 
+<b>ブギーポップ・ミッシング ペパーミントの魔术师（失踪的不吉波普 薄荷魔术师）</b>　Peppermint wizard, or Rize and fall of poor innocent puppet</p><p><b>08</b>　1999/12　 
+<b>ブギーポップ・カウントダウン エンブリオ侵蚀</b>
+<b>（不吉波普倒计时 胚胎侵蚀）</b>　“The EMBRYO” 1st half －erosion－</p><p><b>09</b>　2000/02　 
+<b>ブギーポップ・ウィキッド エンブリオ炎生（邪恶的不吉波普 胚胎爆发）</b>　“The EMBRYO” 2nd half －erupsion－</p><p><b>10</b>　2001/02　 
+<b>ブギーポップ・パラドックス ハートレス・レッド</b>
+<b>（不吉波普悖论 无情赤红）</b>　HEARTLESS RED-THE UNUSUAL CONTACT OF VERMILION HURT &amp; FIRE WITCH</p><p><b>11</b>　2001/09　 
+<b>ブギーポップ・アンバランス ホーリィ&amp;ゴースト</b>
+<b>（不吉波普失衡 神与鬼）</b>　Holy and Ghost are steeped in plastic crimes</p><p><b>13</b>　2003/03　 
+<b>ブギーポップ・スタッカート ジンクス・ショップへようこそ</b>
+<b>（不吉波普断奏 欢迎来到霉运小店）</b>　Welcome To Jinx Shop</p><p><b>16</b>　2005/04　 
+<b>ブギーポップ・バウンディング ロスト・メビウス</b>
+<b>（跳跃的不吉波普 迷失墨比斯）</b>　Lost in Moebius</p><p><b>18</b>　2006/04　 
+<b>ブギーポップ・イントレランス　オルフェの方舟（无法容忍的不吉波普 俄耳甫斯方舟）</b>　Ark of Orpheus</p><p><b>19</b>　2008/01　 
+<b>ブギーポップ・クエスチョン　沈黙ピラミッド（不吉波普的疑问 沉默金字塔）</b>　The Pyramid in Silence</p><p><b>22</b>　2009/12　 
+<b>ブギーポップ・ダークリー　化け猫とめまいのスキャット（暗黑的不吉波普 猫妖与晕眩的呐喊）</b>　The Scat Singing Cat</p><p><b>24</b>　2011/01　 
+<b>ブギーポップ・アンノウン 壊れかけのムーンライト</b>
+<b>（未知的不吉波普 破灭的月光）</b>　Lunar Rainbow</p><p>（以上由轻国kusodying提供，译名为kusodying暂定）</p><a name="5"> </a><h3>短篇</h3><p>．メタル・グゥルー（电撃hp3号掲载、単行本未収録）</p><p>．ロンドン・コーリング（电撃hp4号掲载、単行本未収録）</p><p>．死神を待ちながら（电撃hp5号掲载、単行本未収録）</p><p>．チャリオット・チューグル（电撃hp6号掲载、単行本未収録）</p><p>．ブギートーク・ポップライフ（CD「ニュルンベルクのマイスタージンガー第1幕への前奏曲ブギーポップ?ヴァージョン」に掲载）</p><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>衍生作品<span class="f18">/boogiepop </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+<p>TV动画－－「ブギーポップは笑わないBoogiepop Phantom」（幻影死神）（MADHOUSE)</p><p>TV动画－－「ブギーポップは笑わない」（不吉波普不笑）（MADHOUSE)</p><p>真人电影－－「ブギーポップは笑わないBoogiepop and Others」</p><p>漫画——ブギーポップは笑わない （绘：绪方刚志）、ブギーポップ・デュアル 负け犬たちのサーカス（绘：高野真之）</p><p>音乐——TV原声（2张）、电影原声《Music Inspired by Boogiepop and Others》（梶浦由记）</p><p>画集——《Boogiepop and Others》（绪方刚志）</p><div class="content_h2"><h2 class="mar-t10">
+<a name="9"> </a>衍生作品评述<span class="f18">/boogiepop </span><a class="bjbd" href="#" secid="9" target="_self">编辑</a>
+</h2>
+</div>
+<p>既为评述，主观再所难免，或伴有少量剧透。欲不带先入为主从零接触此系列的读者请绕行。</p><a name="11"> </a><h3>TV动画</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a4_28_66_50200009239445156208662831917_s_jpg.html" target="_blank" title="boogiepop"><img alt="boogiepop" data-original="http://a4.att.hudong.com/28/66/50200009239445156208662831917_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="boogiepop"/></a>
+<strong>boogiepop</strong>
+</div><p>「ブギーポップは笑わないBoogiepop Phantom」</p><p>放送时间：2000年1月5日 - 3月22日</p><p>全12话</p><p>英译Boogiepop and Others，中译“幻影死神”、“冷面魅影”、“死神之谜”…等。</p><p>Boogiepop Phantom是以Boogiepop系列第一部《ブギーポップは笑わない（Boogiepop不笑）》剧情为故事背景创作的续篇，故事时间设定在原作剧情后一个月。除以回溯形式不断提及的原作情节片断，以及原作外传《夜明けのブギーポップ（黎明的Boogiepop）》中的情节也时有提及之外，主体情节基本是原创的。这里就不得不说，作为一部改编动画，这部作品的原创情节是相当强的。Boogiepop系列小说的特点在于故事的叙述并非直线性，而是把事件、线索打乱，经由几个不同角色的角度叙述同一时间段发生的事情。不存在真正意义上的主角，而是通过若干起牵线作用的角色，把散乱的单元故事联系起来。读者的阅读过程就如同玩拼图游戏，在不同角色的不同经历中抽丝剥茧，逐渐还原出事件的原貌——这么说来，和蘑菇的DDD系列给我感觉很像。而这一特色在动画中得到了忠实的再现。事件的核心人物--不论是Boogiepop，Boogiepop Phantom还是宫下藤花，出场次数都是屈指可数。雾间凪和Manticore Phantom起着牵线人的作用。而故事的主角，是每一话各自怀着不同心事、上演着各色悲欢离合的平凡小人物--上一话中闪过两个镜头的路人A，没准就是下一话的主角--以其平凡无奇，却每一个都能给人留下深刻印象，因为在他们身上每个人都多少能看到自己的影子，对他们的故事每个人都会有着自己的解读--他们的故事，才是这部作品的灵魂所在。</p><p>多数不成功的改编动画都有这样的弊病－－只是单纯地想要重现原作却力不从心，结果只能被FANS嗤笑为“同人作品”。而我认为Boogiepop Phantom这部动画最可贵之处，在于立足于小说却又不拘泥于原作--并非只流于原作的形式，而是通过对人物的深入刻画，力图表达动画自己的东西，这使得它成为了一部有独立灵魂的作品。人类心理意识的探索，关于世界观的思辩，对于时间、记忆的感悟，交错的命运轨迹，同一事件对于人们产生的不同影响...这些都是动画的魅力所在。而更直接的，我觉得是表达了对于“不可复得的失去之物”的淡淡伤怀，以及“努力向前走”的执着吧。</p><p>动画的主要原创角色Boogiepop Phantom，个人觉得是一个比较出彩的设定--在前面的大半段剧情中两个Boogiepop的存在大大增加了作品的悬念，“一半意识追捕自己的另一半意识”这设定也可说相当有趣，且这个原创的御姐死神造形也与宫下藤花的LOLI造形Boogiepop形成视觉上的互补——我可以理解成是剧组在不遗余力地玩非主流谋杀观众脑细胞之余还不忘服务一下观众么？：P</p><p>值得一提的是，当今声优界几位响当当的红人都在该部作品中作为新人参演，包括福山、能登、浅川悠、小林沙苗…等，当然大多是路人。还有中田大叔也在里面路人了一把，伊藤美纪则是隐藏BOSS（又见神秘女医…）</p><a name="13"> </a><h3>真人电影</h3><p>「ブギーポップは笑わないBoogiepop and Others」2000年</p><p>不要存什么期待比较好。主流的评价似乎就是“邪神”。从网路上的一些剧照看来——Boogiepop那身拉风的行头给做得像什么特摄片里的外星航宙服似的，Echoes看上去整一脏兮兮大叔，早乙女是帅就是有点帅过头了，看上去还真有点夜神月FEEL...雾间是很帅很有大姐头气魄，可说好的长发御姐呢？！百合原美奈子倒意外地是个很可爱的...LOLI...（拜托人家早乙女是御姐控来的啊）。果然像这种超现实类型的题材还是要动画表现力来得强些...虽说音乐是出自尾浦由记之手想来应当不错吧…</p><a name="15"> </a><h3>音乐</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a4_04_06_50200009239445156213062055310_s_jpg.html" target="_blank" title="boogiepop"><img alt="boogiepop" data-original="http://a4.att.hudong.com/04/06/50200009239445156213062055310_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="boogiepop"/></a>
+<strong>boogiepop</strong>
+</div><p>原声音乐：据我所知一共出过三张OST--TV原声两张，电影版一张。TV版的两张原声OST收得很不   全，不知是还出过其它的又或是版权还什么原因。电影版原声由梶浦由记担当，名为Music Inspired by Boogiepop and Others。</p><p>此作的音乐有着极鲜明的特色，制作水准绝对上乘。本人对音乐分类比较外行，感觉其风格应当用“电子朋克”来形容吧？据说这点也是直接继承自LAIN。黑暗中诡秘的鼓点制造出强烈的迷幻效果，其间夹杂不规则的电子噪音，节奏从隐秘中逐渐显现，随着角色的心理变化不断逼进，在达到暴发的临界点时嘎然而止...在整个剧情中BGM对于氛围的营造几乎起到了决定作用。如月真名花的主题“Angel in the Dark”充满异域风情并且融合了灵魂乐的要素，极富神秘与灵性，而其中深沉的哀伤与无奈更仿如穿透听者的心灵。</p><p>OP和ED同样是前卫感十足的电子乐曲风，与动画格调合衬到天衣无缝，绝对是能让人听上瘾的。JAZZ风的OP“夕立ち”（电影版沿用，スガシカオ《Sweet》专辑收录），抒情而不煽情，曲中流露的沧桑加之淡淡的感伤，如沉淀许久的往事般令人回味无穷。ED“未来世纪（秘）クラブ”（杏子）的那种崩坏感，配上极富未来气息的歌词，更是爽到让人欲罢不能。</p><a name="17"> </a><h3>画集</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a3_56_97_50200009239445156210971729744_s_jpg.html" target="_blank" title="boogiepop"><img alt="boogiepop" data-original="http://a3.att.hudong.com/56/97/50200009239445156210971729744_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="boogiepop"/></a>
+<strong>boogiepop</strong>
+</div><p>《Boogiepop and Others》，作者系担当Boogiepop小说插画的绪方刚志。画集中除收录了Boogiepop系列相关插画、Pos   t、封面等画作之外，也收录了不少绪方刚志的其他插画作品（即所谓Others）。绪方的画风明显让人怀疑他给贞本义行打过下手，因为他的一些人设——不得不说太贞本了。尤其一些SF插画的服装，简直比EVA还EVA。另外还有那么几张上色超有村田莲尔FEEL…堪称博采众长啊这位。画功还算不错，算不上老辣但比较个性前卫，很适合SF题材。而且作为一个插画家风格还算多变，个人很喜欢他在一些作品中的浮雕风格以及色彩的运用。至于他的Boogiepop插画，虽然是TV的角色原案但其实画风和TV还是有明显不同，个人比较喜欢TV的，更偏写实一些。</p><a name="19"> </a><h3>漫画</h3><p>《暗之双生》（ブギーポップ・デュアル）</p><p>メディアワークス出版，共两卷</p><p>作画高野真之</p><p>似乎是小说中没有的原创剧情，情节还行，看看对了解原作的世界观背景会有一定帮助。作画水准也过得去，比起常由新人执笔的改编漫画来说画功算是老到，画风和绪方的比较接近（也就是说有那么点贞本味）。女主角根本就是葛城美里的保健室翻版，男主就老实这方面来说有点像碇真嗣不过个性可爱多了。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="21"> </a>汉化<span class="f18">/boogiepop </span><a class="bjbd" href="#" secid="21" target="_self">编辑</a>
+</h2>
+</div>
+<p>小说：据说出过台版但出版社年份等均未知，有待知情者补充。民间汉化进行中，目前到第二卷。英版有Seven Seas在出，能读英文又等不及汉化的可以用这个凑合…</p><p>漫画：ブギーポップ・デュアル 负け犬たちのサーカス（两卷）已汉化，译名《暗之双生》</p><p>电影：未知（说真的，这个不会有人想看吧…）</p><p>TV动画：已汉化。前四话字幕出得很早，质量难以恭维，之后由星雪字幕于2005年完成汉化。</p><p><sup><a href="#hdtop_1" name="hdend_1" title="轻国kusodying的作者介绍贴">[1]</a></sup></p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=boogiepop" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=boogiepop" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+			 function goUrl(url){
+			  if(url == "" || url.length == 0){
+			  	return;
+			  }
+			  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+			  window.open(url,'_blank');
+			 }
+			</script>
+<dl class="reference bor-no">
+<dt>参考资料</dt>
+<dd>
+<span>[1]</span><a href="#hdend_1" name="hdtop_1">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://www.lightnovel.cn/thread-194784-1-1.html')">轻国kusodying的作者介绍贴<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2019-07-25</span>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/B%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">B开头单词</a><a href="http://fenlei.baike.com/%E5%8A%A8%E6%BC%AB/?prd=zhengwenye_left_kuozhan_kaifangfenlei">动漫</a><a href="http://fenlei.baike.com/%E6%97%A5%E6%9C%AC/?prd=zhengwenye_left_kuozhan_kaifangfenlei">日本</a><a href="http://fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英文单词</a><a href="http://fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英语</a><a href="http://fenlei.baike.com/%E8%BD%BB%E5%B0%8F%E8%AF%B4/?prd=zhengwenye_left_kuozhan_kaifangfenlei">轻小说</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="B开头单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="动漫"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="日本"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英文单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英语"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="轻小说"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="boogiepop"/><input id="docidencry" name="docidencry" type="hidden" value="GcAFRBHZlW2NZYEN8"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/boogiepop/a0_36_23_50200009239445155964234281410_jpg.html" target="_blank" title=""><img alt="" src="http://a0.att.hudong.com/36/23/50200009239445155964234281410_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/boogiepop/a0_36_23_50200009239445155964234281410_jpg.html" target="_blank"><em></em>boogiepop图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>16次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=boogiepop&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>15</span>位</li>
+<li>最近更新时间：2019-07-20 23:42:51</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=boogiepop&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=kVFEDX0VEBV5VHgtQ&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">婉悦笛声</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=eGwYDQlgTFnNCV1Qd&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="eGwYDQlgTFnNCV1Qd">yueronline</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=Qf3EAAAgMC2N_eHR-&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="Qf3EAAAgMC2N_eHR-">ByGao</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=RAglxZQhqe3EFewIE&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="RAglxZQhqe3EFewIE">mavhk1</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=HeGBmR0duAXpidHJ-&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="HeGBmR0duAXpidHJ-">kzwjm20</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=oXVlBVUVOBQgKQltf&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="oXVlBVUVOBQgKQltf">peidream</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/Beyond&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">Beyond</a></li>
+<li><a href="http://so.baike.com/doc/BIGBANG&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">BIGBANG</a></li>
+<li><a href="http://so.baike.com/doc/bbs&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">bbs</a></li>
+<li><a href="http://so.baike.com/doc/Burberry&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">Burberry</a></li>
+<li><a href="http://so.baike.com/doc/BIOS&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">BIOS</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/bazinga&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">bazinga</a></li>
+<li><a href="http://so.baike.com/doc/BT&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">BT</a></li>
+<li><a href="http://so.baike.com/doc/BMI&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">BMI</a></li>
+<li><a href="http://so.baike.com/doc/Benefit&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">Benefit</a></li>
+<li><a href="http://so.baike.com/doc/Bug&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">Bug</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

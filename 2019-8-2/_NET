@@ -1,0 +1,594 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/.NET" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/8D/AE/8DAE6ECFB44403879EE16881256A2EE0_90.png?title=.NET"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>.NET</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：</p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>.NET是 Microsoft XML Web services 平台。XML Web services 允许应用程序通过 Internet 进行通讯和共享数据，而不管所采用的是哪种操作系统、设备或编程语言。Microsoft .NET 平台提供创建 XML Web services 并将这些服务集成在一起之所需。对个人用户的好处是无缝的、吸引人的体验。</p><p></p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value=".NET"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('science_software')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>中文名称：</strong>
+<span>刀奈特</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>外文名：</strong>
+<span>.NET</span>
+</td> </tr> <tr>
+<td>
+<strong>开发者：</strong>
+<span>微软</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>发行商：</strong>
+<span>微软</span>
+</td> </tr> <tr>
+<td>
+<strong>运行系统：</strong>
+<span>Windows系统、Linux、Mac OS X、iOS和Android</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>应用平台：</strong>
+<span>Microsoft XML Web services 平台</span>
+</td> </tr> <tr>
+<td>
+<strong>开发商：</strong>
+<span>微软</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>公司CEO：</strong>
+<span>比尔盖茨</span>
+</td> </tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie4">
+<li>
+<em>1</em><a alt=".net开源" catalogkey="1" class="bold" href="javascript:void(0)" title=".net开源">.net开源</a>
+</li>
+<li>
+<em>2</em><a alt=".net域名" catalogkey="3" class="bold" href="javascript:void(0)" title=".net域名">.net域名</a>
+</li>
+<li>
+<em>3</em><a alt="应用组件" catalogkey="5" class="bold" href="javascript:void(0)" title="应用组件">应用组件</a>
+</li>
+<li class="dot"><a alt="客户端应用" catalogkey="7" href="javascript:void(0)" title="客户端应用">客户端应用</a></li>
+<li class="dot"><a alt="WebServices" catalogkey="9" href="javascript:void(0)" title="WebServices">WebServices</a></li>
+<li class="dot"><a alt="接口规范" catalogkey="11" href="javascript:void(0)" title="接口规范">接口规范</a></li>
+<li class="dot"><a alt="CLR 与 CIL" catalogkey="13" href="javascript:void(0)" title="CLR 与 CIL">CLR与CIL</a></li>
+<li>
+<em>4</em><a alt="依赖关系" catalogkey="15" class="bold" href="javascript:void(0)" title="依赖关系">依赖关系</a>
+</li>
+<li>
+<em>5</em><a alt="2.0 版本" catalogkey="17" class="bold" href="javascript:void(0)" title="2.0 版本">2.0版本</a>
+</li>
+<li>
+<em>6</em><a alt="3.0版本" catalogkey="19" class="bold" href="javascript:void(0)" title="3.0版本">3.0版本</a>
+</li>
+<li>
+<em>7</em><a alt="4.0 版本" catalogkey="21" class="bold" href="javascript:void(0)" title="4.0 版本">4.0版本</a>
+</li>
+</ul>
+<ul class="lie4">
+<li>
+<em>8</em><a alt="动态编程" catalogkey="23" class="bold" href="javascript:void(0)" title="动态编程">动态编程</a>
+</li>
+<li>
+<em>9</em><a alt="并行计算" catalogkey="25" class="bold" href="javascript:void(0)" title="并行计算">并行计算</a>
+</li>
+<li>
+<em>10</em><a alt="协变和逆变" catalogkey="27" class="bold" href="javascript:void(0)" title="协变和逆变">协变和逆变</a>
+</li>
+<li>
+<em>11</em><a alt="默认参数" catalogkey="29" class="bold" href="javascript:void(0)" title="默认参数">默认参数</a>
+</li>
+<li>
+<em>12</em><a alt="4.5 版本" catalogkey="31" class="bold" href="javascript:void(0)" title="4.5 版本">4.5版本</a>
+</li>
+<li>
+<em>13</em><a alt="3.0特性" catalogkey="33" class="bold" href="javascript:void(0)" title="3.0特性">3.0特性</a>
+</li>
+<li class="dot"><a alt="类型化变量" catalogkey="35" href="javascript:void(0)" title="类型化变量">类型化变量</a></li>
+<li class="dot"><a alt="匿名类型" catalogkey="37" href="javascript:void(0)" title="匿名类型">匿名类型</a></li>
+<li class="dot"><a alt="类型化数组" catalogkey="39" href="javascript:void(0)" title="类型化数组">类型化数组</a></li>
+<li class="dot"><a alt="对象构造者" catalogkey="41" href="javascript:void(0)" title="对象构造者">对象构造者</a></li>
+<li class="dot"><a alt="集合构造者" catalogkey="43" href="javascript:void(0)" title="集合构造者">集合构造者</a></li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="Lambda表达式" catalogkey="45" href="javascript:void(0)" title="Lambda表达式">Lambda表达式</a></li>
+<li class="dot"><a alt="扩展方法" catalogkey="47" href="javascript:void(0)" title="扩展方法">扩展方法</a></li>
+<li class="dot"><a alt="Linq表达式" catalogkey="49" href="javascript:void(0)" title="Linq表达式">Linq表达式</a></li>
+<li>
+<em>14</em><a alt="3.5特性" catalogkey="51" class="bold" href="javascript:void(0)" title="3.5特性">3.5特性</a>
+</li>
+<li class="dot"><a alt="快速指南" catalogkey="53" href="javascript:void(0)" title="快速指南">快速指南</a></li>
+<li class="dot"><a alt="改进和LINQ" catalogkey="55" href="javascript:void(0)" title="改进和LINQ">改进和LINQ</a></li>
+<li class="dot"><a alt="其他改进" catalogkey="57" href="javascript:void(0)" title="其他改进">其他改进</a></li>
+<li class="dot"><a alt="注意事项" catalogkey="59" href="javascript:void(0)" title="注意事项">注意事项</a></li>
+<li>
+<em>15</em><a alt=".NET控件" catalogkey="61" class="bold" href="javascript:void(0)" title=".NET控件">.NET控件</a>
+</li>
+<li>
+<em>16</em><a alt="加密处理" catalogkey="63" class="bold" href="javascript:void(0)" title="加密处理">加密处理</a>
+</li>
+<li class="dot"><a alt="安全威胁" catalogkey="65" href="javascript:void(0)" title="安全威胁">安全威胁</a></li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="加密前提" catalogkey="67" href="javascript:void(0)" title="加密前提">加密前提</a></li>
+<li class="dot"><a alt="工具概况" catalogkey="69" href="javascript:void(0)" title="工具概况">工具概况</a></li>
+<li class="dot"><a alt="加密/解密" catalogkey="71" href="javascript:void(0)" title="加密/解密">加密/解密</a></li>
+<li class="dot"><a alt="防止破解" catalogkey="73" href="javascript:void(0)" title="防止破解">防止破解</a></li>
+<li>
+<em>17</em><a alt="未来发展" catalogkey="75" class="bold" href="javascript:void(0)" title="未来发展">未来发展</a>
+</li>
+<li>
+<em>18</em><a alt=".NET书籍" catalogkey="77" class="bold" href="javascript:void(0)" title=".NET书籍">.NET书籍</a>
+</li>
+<li>
+<em>19</em><a alt=".net域名" catalogkey="79" class="bold" href="javascript:void(0)" title=".net域名">.net域名</a>
+</li>
+<li>
+<em>20</em><a alt="注册规则" catalogkey="81" class="bold" href="javascript:void(0)" title="注册规则">注册规则</a>
+</li>
+<li>
+<em>21</em><a alt="注意问题" catalogkey="83" class="bold" href="javascript:void(0)" title="注意问题">注意问题</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">.net开源</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">.net域名</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">应用组件</a>
+<i></i>
+</li>
+<li class="dot">
+<em>3.1</em><a catalogkey="7" href="javascript:void(0)">客户端应用</a>
+</li>
+<li class="dot">
+<em>3.2</em><a catalogkey="9" href="javascript:void(0)">WebServices</a>
+</li>
+<li class="dot">
+<em>3.3</em><a catalogkey="11" href="javascript:void(0)">接口规范</a>
+</li>
+<li class="dot">
+<em>3.4</em><a catalogkey="13" href="javascript:void(0)">CLR与CIL</a>
+</li>
+<li>
+<em>4</em><a catalogkey="15" class="bold" href="javascript:void(0)">依赖关系</a>
+<i></i>
+</li>
+<li>
+<em>5</em><a catalogkey="17" class="bold" href="javascript:void(0)">2.0版本</a>
+<i></i>
+</li>
+<li>
+<em>6</em><a catalogkey="19" class="bold" href="javascript:void(0)">3.0版本</a>
+<i></i>
+</li>
+<li>
+<em>7</em><a catalogkey="21" class="bold" href="javascript:void(0)">4.0版本</a>
+<i></i>
+</li>
+<li>
+<em>8</em><a catalogkey="23" class="bold" href="javascript:void(0)">动态编程</a>
+<i></i>
+</li>
+<li>
+<em>9</em><a catalogkey="25" class="bold" href="javascript:void(0)">并行计算</a>
+<i></i>
+</li>
+<li>
+<em>10</em><a catalogkey="27" class="bold" href="javascript:void(0)">协变和逆变</a>
+<i></i>
+</li>
+<li>
+<em>11</em><a catalogkey="29" class="bold" href="javascript:void(0)">默认参数</a>
+<i></i>
+</li>
+<li>
+<em>12</em><a catalogkey="31" class="bold" href="javascript:void(0)">4.5版本</a>
+<i></i>
+</li>
+<li>
+<em>13</em><a catalogkey="33" class="bold" href="javascript:void(0)">3.0特性</a>
+<i></i>
+</li>
+<li class="dot">
+<em>13.1</em><a catalogkey="35" href="javascript:void(0)">类型化变量</a>
+</li>
+<li class="dot">
+<em>13.2</em><a catalogkey="37" href="javascript:void(0)">匿名类型</a>
+</li>
+<li class="dot">
+<em>13.3</em><a catalogkey="39" href="javascript:void(0)">类型化数组</a>
+</li>
+<li class="dot">
+<em>13.4</em><a catalogkey="41" href="javascript:void(0)">对象构造者</a>
+</li>
+<li class="dot">
+<em>13.5</em><a catalogkey="43" href="javascript:void(0)">集合构造者</a>
+</li>
+<li class="dot">
+<em>13.6</em><a catalogkey="45" href="javascript:void(0)">Lambda表达式</a>
+</li>
+<li class="dot">
+<em>13.7</em><a catalogkey="47" href="javascript:void(0)">扩展方法</a>
+</li>
+<li class="dot">
+<em>13.8</em><a catalogkey="49" href="javascript:void(0)">Linq表达式</a>
+</li>
+<li>
+<em>14</em><a catalogkey="51" class="bold" href="javascript:void(0)">3.5特性</a>
+<i></i>
+</li>
+<li class="dot">
+<em>14.1</em><a catalogkey="53" href="javascript:void(0)">快速指南</a>
+</li>
+<li class="dot">
+<em>14.2</em><a catalogkey="55" href="javascript:void(0)">改进和LINQ</a>
+</li>
+<li class="dot">
+<em>14.3</em><a catalogkey="57" href="javascript:void(0)">其他改进</a>
+</li>
+<li class="dot">
+<em>14.4</em><a catalogkey="59" href="javascript:void(0)">注意事项</a>
+</li>
+<li>
+<em>15</em><a catalogkey="61" class="bold" href="javascript:void(0)">.NET控件</a>
+<i></i>
+</li>
+<li>
+<em>16</em><a catalogkey="63" class="bold" href="javascript:void(0)">加密处理</a>
+<i></i>
+</li>
+<li class="dot">
+<em>16.1</em><a catalogkey="65" href="javascript:void(0)">安全威胁</a>
+</li>
+<li class="dot">
+<em>16.2</em><a catalogkey="67" href="javascript:void(0)">加密前提</a>
+</li>
+<li class="dot">
+<em>16.3</em><a catalogkey="69" href="javascript:void(0)">工具概况</a>
+</li>
+<li class="dot">
+<em>16.4</em><a catalogkey="71" href="javascript:void(0)">加密/解密</a>
+</li>
+<li class="dot">
+<em>16.5</em><a catalogkey="73" href="javascript:void(0)">防止破解</a>
+</li>
+<li>
+<em>17</em><a catalogkey="75" class="bold" href="javascript:void(0)">未来发展</a>
+<i></i>
+</li>
+<li>
+<em>18</em><a catalogkey="77" class="bold" href="javascript:void(0)">.NET书籍</a>
+<i></i>
+</li>
+<li>
+<em>19</em><a catalogkey="79" class="bold" href="javascript:void(0)">.net域名</a>
+<i></i>
+</li>
+<li>
+<em>20</em><a catalogkey="81" class="bold" href="javascript:void(0)">注册规则</a>
+<i></i>
+</li>
+<li>
+<em>21</em><a catalogkey="83" class="bold" href="javascript:void(0)">注意问题</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>.net开源<span class="f18">/.NET </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<p><b>.NET就是</b>
+<b>微软</b>
+<b>用来实现</b>
+<b>XML</b>
+<b>，</b>
+<b>Web Services</b>
+<b>，</b>
+<b>SOA</b>
+<b>（面向服务的</b>
+<b>体系结构</b>
+<b>service-oriented architecture）和敏捷性的技术。</b>对技术人员，想真正了解什么是.NET，必须先了解.NET技术出现的原因和它想解决的问题，必须先了解为什么他们需要XML,Web Services 和 SOA。技术人员一般将微软看成一个平台厂商。微软搭建技术平台，而技术人员在这个技术平台之上创建应用系统。从这个角度，.NET也可以如下来定义： 
+<b>.NET是</b>
+<b>微软</b>
+<b>的新一代</b>
+<b>技术平台</b>
+<b>，为敏捷商务构建互联互通的应用系统，这些系统是基于标准的，联通的，适应变化的，稳定的和高性能的。从技术的角度，一个.NET应用是一个运行于.NET Framework之上的</b>
+<b>应用程序</b>
+<b>。</b>（更精确的说，一个.NET应用是一个使用.NET Framework类库来编写，并运行于公共语言运行时Common Language Runtime之上的应用程序。）如果一个应用程序跟.NET Framework无关，它就不能叫做.NET程序。比如，仅仅使用了XML并不就是.NET应用，仅仅使用SOAP SDK调用一个Web Service也不是.NET应用。.NET是基于Windows操作系统运行的操作平台，应用于互联网的分布式。</p><p>2014年4月的Build开发者大会上，微软宣布开源一批.NET库和相关技术，成立.NET基金会去管理和引导开源组件的开发。微软还将在Apache 2.0许可证下开源Roslyn编译器堆栈，Roslyn是微软所谓的编译器即服务，包含了C#和 Visual Basic.NET 编译器。.NET基金会由来自微软、GitHub和Xamarin的代表组成，Xamarin由GNOME创始人Miguel de Icaza等人创建，开发.NET开源实现。Xamarin向基金会贡献了它的部分库。de Icaza在接受采访时表示，微软已经变了，不仅仅移除了许可证中的限制，而且与Xamarin合作征求设计反馈，在创作共用许可证下发布文档。</p><p>2014年11月13日，为了进一步扩大云计算市场，微软将不再把.NET和Visual Studio等关键软件技术局限在Windows平台，今后还将兼容Linux、Mac OS X、iOS和Android。除此之外，微软还宣布将开放.NET核心服务器运行环境和框架的源代码，使得外部开发者也可以对这一软件开发平台做出贡献。<sup><a href="#hdtop_1" name="hdend_1" title="微软宣布.NET开源：关键软件技术兼容各大平台">[1]</a></sup></p><p>作为这一变化的一部分，微软将允许开发者使用.NET运行环境和框架，来为Linux和Mac开发基于服务器和云端的应用。微软还推出了功能齐全的新版Visual Studio 2013，并将免费对独立开发者、学生、小企业等用户开放。<sup><a href="#hdtop_1" name="hdend_1" title="微软宣布.NET开源：关键软件技术兼容各大平台">[1]</a></sup></p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>.net域名<span class="f18">/.NET </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<p>.net是国际最广泛流行的通用域名格式。一般用于从事Internet相关的网络服务的机构或公司，是建立全球商业品牌，国际化形象的第一选择。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>应用组件<span class="f18">/.NET </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<a name="7"> </a><h3>客户端应用</h3><p>组成.net软件技术的组件，组件之一，“智能”客户端应用软件和操作系统，包括PC、PA、手机或其他移动设备通过互联网、借助Web Services技术，用户能够在任何时间、任何地点都可以得到需要的信息和服务。例如：可以在手机上阅读新闻、定购机票、浏览在线相册等等。CRM系统，应用了.NET的解决方案后所有的业务人员便可以通过手机或PDA直接访问客户信息了。</p><a name="9"> </a><h3>WebServices</h3><p>Web Services是智能终端软件的基础，微软为用户创建智能终端提供了一整套丰富的解决方案，包括：</p><p>.NET Framework- 智能终端实现跨平台（设备无关性）的</p><p>Visual Studio .NET – 建立并集成Web Services和应用程序的快速开发工具</p><p>Microsoft Windows Server 2003 – 新一代的企业服务器，用于提供建立和发布各种解决方案</p><p>Microsoft Office Professional Edition 2003 – 内建的工具集也能帮助开发智能终端</p><div class="img img_r">
+<a href="http://tupian.baike.com/a0_43_25_50200009239445156349259541225_s_jpg.html" target="_blank" title=".net"><img alt=".net" data-original="http://a0.att.hudong.com/43/25/50200009239445156349259541225_s.jpg" src="http://www.huimg.cn/lib/0.gif" title=".net"/></a>
+<strong>.net</strong>
+</div><p>Web Services是.NET的核心技术。那什么是Web Services呢？正如Web是新一代的用户与应用交互的途径， 
+<b>XML是新一代的</b>
+<b>程序</b>
+<b>之间通讯的途径一样，Web Services是新一代的计算机与计算机之间一种通用的数据传输格式，</b>可让不同运算系统更容易进行数据交换。Web Services有以下几点特性：Web services允许应用之间共享数据；Web services分散了代码单元；基于XML这种internet数据交换的通用语言，实现了跨平台、跨操作系统、跨语言。那微软的ASP和Web services究竟有什么不同呢，ASP仍然是一个集中式计算模型的产物，只不过是披着一层互联网的外衣。但Web Services却是一个迥然不同的精灵，它秉承“软件就是服务”的真言，同时顺应分布式计算模式的潮流。而它的存在形式又与以往软件不同。这种组件模式，小巧、单一，对于开发人员来讲，开发成本较低。</p><p>在这里指出Web services不是微软发明的，同样也不属于微软专有。Web services是一个开放的标准，和HTTP、 XML、SOAP一样。他们是一个工业标准而非微软标准，WS-I是为了促进Web Services互通性的联盟组织，最初是由IBM和微软所发起，其它的成员包括BEA System、惠普计算机（HP）、甲骨文（Oracle）、英特尔（Intel）和SUN 计算机（Sun Microsystem）。如今网络上存在的大多Web services其实没有使用.NET构架，Web services具有互操作属性，你同样可以使用Windows开发客户端来调用运行于Linux上面的Web services的方法。</p><a name="11"> </a><h3>接口规范</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a1_00_26_50200009239445156349260022720_s_jpg.html" target="_blank" title="microsoft .net"><img alt="microsoft .net" data-original="http://a1.att.hudong.com/00/26/50200009239445156349260022720_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="microsoft .net"/></a>
+<strong>microsoft .net</strong>
+</div><p>先前   提到的接口规范问题，在.NET中，Web service接口通常使用Web Services Description Language （WSDL）描述。WSDL 使用XML来定义这种接口操作标准及输入输出参数，看起来很像COM和CORBA的接口定义语言（IDLS）Interface Definition Languages。接口定义后就必须使用一些协议调用接口，如SOAP协议，SOAP源于一种叫做XML RPC（XML远程进程调用remote procedure calling）的协议，而Java则根据XML-RPC发展了自己的JAX-RPC协议用来调用Web Services。发布和访问Web Services的接口就用到UDDI了，这里我们只需要知道WSDL使用XML定义Web Services接口，通过SOAP访问Web Services，在internet上寻找Web Services使用UDDI就行了。服务器架构——Microsoft Windows Server System　Microsoft提供了最佳的服务器构架—Microsoft Windows Server System—便于发布、配置、管理、编排Web Services。为了满足分布式计算的需要微软构造了一系列的服务器系统，这些内建安全技术的系统全部支持XML，这样加速了系统、应用程序以及同样使用Web Services的伙伴应用之间的集成。</p><p>Microsoft Windows Server System包括：</p><p>Microsoft Application Center 2000 - 配置和管理Web应用程序</p><p>Microsoft BizTalk Server 2002 - 建立基于XML的跨应用和组织的商业逻辑</p><div class="img img_r">
+<a href="http://tupian.baike.com/a2_67_26_50200009239445156349260225471_s_jpg.html" target="_blank" title="visual studio .net"><img alt="visual studio .net" data-original="http://a2.att.hudong.com/67/26/50200009239445156349260225471_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="visual studio .net"/></a>
+<strong>visual studio .net</strong>
+</div><p>Microsoft Commerce Server 2002 – 能够迅速建立大规模电子商务的解决方案</p><p>Microsoft Content Management Server 2002 – 管理动态电子商务网站的目录</p><p>Microsoft Exchange Server 2000 – 用于进行随时随地的通讯协作</p><p>Microsoft Host Integration Server 2000 – 用于和主机系统之间传输数据</p><p>Microsoft Internet Security and Acceleration Server 2000 (ISA Server) – internet连接</p><p>Microsoft Mobile Information Server 2002 – 用于支持手持设备</p><p>Microsoft Operations Manager 2000 – 描述企业级解决方案的操作管理</p><p>Microsoft Project Server 2002 - 提供项目管理的最佳方案</p><p>Microsoft SharePoint Portal Server 2001 – 查询、共享、发布商业信息</p><p>Microsoft SQL Server 2000 – 企业级数据库</p><p>Microsoft Visual Studio .NET和Microsoft .NET Framework对于建立，发布并运行Web Services是一个完美的解决方案。</p><p>微软官方的教程。</p><a name="13"> </a><h3>CLR 与 CIL</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a3_33_25_50200009239445156349259841716_s_jpg.html" target="_blank" title="NET Framework 环境"><img alt="NET Framework 环境" data-original="http://a3.att.hudong.com/33/25/50200009239445156349259841716_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="NET Framework 环境"/></a>
+<strong>NET Framework 环境</strong>
+</div><p>.NET的   初级组成是CIL和CLR。CIL是一套运作环境说明，包括一般系统、基础类库和与机器无关的中间代码，全称为通用中间语言（CIL）。CLR则是确认操作密码符合CIL的平台。在CIL执行前，CLR必须将指令及时编译转换成原始机械码。</p><p>所有CIL（通用中间语言）都可经由.NET自我表述。CLR检查元资料以确保正确的方法被调用。元资料通常是由语言编译器生成的，但开发人员也可以通过使用客户属性创建他们自己的元资料。</p><p>如果一种语言实现生成了CIL，它也可以通过使用CLR被调用，这样它就可以与任何其他.NET语言生成的资料相交互。CLR也被设计为作业系统无关性。</p><p>当一个汇编体被载入时，CLR执行各种各样的测试。其中的两个测试是确认与核查。在确认的时候，CLR检查汇编体是否包含有效的元资料和CIL，并且检查内部表的正确性。核查则不那么精确。核查机制检查代码是否会执行一些“不安全”的操作。核查所使用的演算法非常保守，导致有时一些“安全”的代码也通不过核查。不安全的代码只有在汇编体拥有“跳过核查”许可的情况下才会被执行，通常这意味着代码是安装在本机上的。</p><p>通过.NET，你可以用SOAP和不同的Web services进行交互。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="15"> </a>依赖关系<span class="f18">/.NET </span><a class="bjbd" href="#" secid="15" target="_self">编辑</a>
+</h2>
+</div>
+<p>下图汇总了版本历史记录以及标识 Windows 所安装的版本。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a0_28_25_50200009239445156349259630025_s_jpg.html" target="_blank" title="版本历史及Windows 所安装的版本"><img alt="版本历史及Windows 所安装的版本" data-original="http://a0.att.hudong.com/28/25/50200009239445156349259630025_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="版本历史及Windows 所安装的版本"/></a>
+<strong>版本历史及Windows 所安装的版本</strong>
+</div><p>每个新版本的 .NET Framework 都会保留早期版本中的功能并会添加新功能。 CLR 由其自己的版本号确定的。 某些版本的 .NET Framework 包含新版本的 CLR，而其他版本的 .NET Framework 使用早期版本的 CLR。 例如，.NET Framework 4 包含 CLR 4，而 .NET Framework 3.5 包含 CLR 2.0。 （没有版本 3 的 CLR。）虽然 .NET Framework 4.5 是 .NET Framework 4 的就地更新，基础 CLR 版本号成为 CLR 4.5。</p><p>通常，您不应卸载计算机上安装 .NET Framework 的任何版本，因为您使用的应用程序可能取决于特定版本，并且可能中断，如果移除该版本。 您可以同时在一台计算机上加载 .NET Framework 的多个版本。 这意味着可以安装 .NET Framework，而无需卸载旧版本。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="17"> </a>2.0 版本<span class="f18">/.NET </span><a class="bjbd" href="#" secid="17" target="_self">编辑</a>
+</h2>
+</div>
+<p>完整版号 - 2.0.50727.42，发布于2005年10月27日。</p><p>.NET框架 2.0的组件都包含在 Visual Studio 2005和SQL Server 2005里面。通过MSDN Universe版可以免费下载RTM版本。</p><p>自1.1版本以来的改进：</p><p>• 大量的API变更。</p><p>• 新的API让需要管理.NET运行库实例的非.NET的应用程序可以做到这点。这个新的API对.NET运行库的各种功能，包括：多线程、存储器分配、代码加载等，提供了很好的控制。它最初是为Microsoft SQL Server能够有效率的使用.NET运行库而设计的，因为Microsoft SQL Server拥有它自己的日程管理器和存储器管理器。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="19"> </a>3.0版本<span class="f18">/.NET </span><a class="bjbd" href="#" secid="19" target="_self">编辑</a>
+</h2>
+</div>
+<p><b>.NET Framework 3.0</b>（曾用名 
+<b>WinFX</b>）是微软为操作系统Windows Vista（旧称“Longhorn”）而特别设计的API。.NET Framework是对.NET架构和Win32 API的扩展。虽然Win32 API仍然存在于Windows Vista中，但是在WinFX中不能通过它直接调用。另外，WinFX将提供给.NET程序员更加简便地方式来调用Windows中的功能</p><p>.NET Framework 3.0同样能在Windows XP和Windows Server 2003的计算机上运行，这样增加了能够运行.NET Framework 3.0程序的计算机数量。由于向后兼容，能够更加容易将这些技术介绍给开发人员和最终用户。2006年9月1日，微软发布了.NET Framework 3.0的RC版本，开发人员能够无需安装Vista就可以体验这些新的技术。</p><p>.NET Framework 3.0并没有新版本的CLR，而是在.NET Framework 2.0的基础上增加了几个新的部件，所以并没有任何程序设计语言有新的语法特性，如果要安装.NET Framework 3.0，则必须先安装.NET Framework 2.0，.NET Framework 3.0可以完全向下兼容.NET Framework 2.0。</p><p>.NET Framework 3.0主要由的四部分组成：</p><p>• WPF（Windows Presentation Foundation），内部代码“Avalon”，是一套基于XAML（eXtensible Application Markup Language）、.NET和矢量图技术的全新的图形界面系统和API，它充分利用了计算机的3D显卡硬件功能和Direct3D技术。</p><p>• WCF（Windows Communication Foundation），内部代码“Indigo”，是一个面向服务的通讯框架，利用它可以实现本地和远程的程序之间的交互。</p><p>• WF（Workflow Foundation）于2005年8月公开，微软提供的工作流引擎，通过它可以实现任务的自动化和事务的集成。</p><p>• InfoCard是一个软件组件的代码，用来安全的保存和使用用户的数字身份，并提供统一的界面来针对特定的事务选择身份，例如登陆一个网站。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="21"> </a>4.0 版本<span class="f18">/.NET </span><a class="bjbd" href="#" secid="21" target="_self">编辑</a>
+</h2>
+</div>
+<p>.NET Framework 4.0，英文版于2010年4月12日推出。</p><p>主要的新特性有以下几个方面：</p><p>• 动态编程</p><p>• 并行计算</p><p>• 后期绑定</p><p>• 协变与逆变</p><p>接下来我们一一领略C# 4.0中的语言特性。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="23"> </a>动态编程<span class="f18">/.NET </span><a class="bjbd" href="#" secid="23" target="_self">编辑</a>
+</h2>
+</div>
+<p>C#是静态强类型语言。而在很多情况下，提供“动态”行为，是常常发生的事情，例如通过反射在运行时访问.NET类型、调用动态语言对象、访问COM对象等，都无法以静态类型来获取。因此， C# 4.0引入的又一个全新的关键字dynamic，也同时引入了改善静态类型与动态对象的交互能力，这就是动态查找（Dynamic Lookup）例如：</p><p>public static void Main() {</p><p>dynamic d = GetDynamicObject();</p><p>d.MyMethod(22); // 方法调用</p><p>d.A = d.B; // 属性赋值</p><p>d[“one”] = d[“two”]; //索引器赋值</p><p>int i = d + 100; // 运算符调用</p><p>string s = d(1,2); // 委托调用</p><p>}</p><p>就像一个object可以代表任何类型，dynamic使得类型决断在运行时进行，方法调用、属性访问、委托调用都可动态分派。同时，动态特性还体现在构建一个动态对象，在C# 4.0实现IDynamicObject接口的类型，可以完全定义动态操作的意义，通过将C#编译器作为运行时组件来完成由静态编译器延迟的操作，例如：</p><p>dynamic d = new Foo();</p><p>string s;</p><p>d.MyMethod(s,3,null);</p><p>在具体执行过程中，C#的运行时绑定器基于运行时信息，通过反射获取d的实际类型Foo，然后在Foo类型上就MyMethod方法进行方法查找和重载解析，并执行调用，这正是动态调用的背后秘密：DLR。在.NET 4.0中将引入重要的底层组件DLR（Dynamic Language Runtime，动态语言运行时），除了实现动态查找的基础支持，DLR也同时作为基础设施为类似于IronRuby、IronPython这样的动态语言提供统一的互操作机制。总而言之，动态编程将为C#在以下领域产生巨大的变革：</p><p>· Office编程与其他COM交互。</p><p>·动态语言支持，在C#中消费IronRuby动态语言类型将并非难事，体验动态语言特性指日可待。</p><p>· 增强反射支持。</p><p>以调用IronRython为例，我们只需引入IronPython.dll,IronPython.Modules.dll,and Microsoft.Scripting.dll，即可通过创建ScriptRuntime在C#中HostingIronPython环境，进而来操作动态语言的类型信息。</p><p>ScriptRuntime py = Python.CreateRuntime();</p><p>dynamic mypy = py.UseFile("myfile .py");</p><p>Console.WriteLine(mypy.MyMethod("Hello"));</p><p>虽然从微软当前提供的技术资料和CTP演示中，动态查找还存在或多或少的问题，但是在“动态”大行其道的今天，我们无法回避也必须拥抱这个未来的主角，因为我坚信明天会更好。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="25"> </a>并行计算<span class="f18">/.NET </span><a class="bjbd" href="#" secid="25" target="_self">编辑</a>
+</h2>
+</div>
+<p>并行计算的出现，是计算机科学发展的必然结果，随着计算机硬件的迅猛发展，在多核处理器上工作已经是既存事实，而传统的编程模式必须兼容新的硬件环境才能使计算机性能达到合理的应用效果。用Anders大师的话说：未来5到10年，并行计算将成为主流编程语言不可忽视的方向，而4.0为C#打响了实现并发的第一枪。</p><p>未来的.NET Framework 4.0中将集成TPL（Task Parallel Library）和PLINQ（Parallel LINQ），这也意味着未来我们可以应用C# 4.0实现并行化应用，在统一的工作调度程序下进行硬件的并行协调，这将大大提高应用程序的性能同时降低现存并发模型的复杂性。</p><p>那么，我们应该一睹为快应用C#武器来开发并发环境下的超酷感受，在System.Threading.Parallel 静态类提供了三个重要的方法For、Foreach、Invoke可以为我们小试牛刀：</p><p>//应用TPL，执行并行循环任务</p><p>Parallel.For(0,10,i =&gt;{DoSomething(i);});</p><p>在线程争用执行情况下，相同的操作在双核平台下运行，以StopWatch进行精确时间测试，并行环境下的执行时间为 2001ms，而非并行环境下的执行时间为4500ms，并行运算的魅力果然名不虚传。我们再接再厉应用PLINQ执行对于并行运算的查询、排序等，当前PLINQ支持两种方式ParallelEnumerable类和ParallelQuery类，例如：</p><p>int[] data = new int[] { 0,1,2,3,4,5,6,7,8,9 };</p><p>int[] selected = (from x in data.AsParallel()</p><p>select x + 1).ToArray();</p><p>更详细的对比示例留待读者在实践中对此进行讨论，并行计算为托管代码在多核环境下的性能优化提供了统一的解决方案，而未来我们会做的更好。</p><p>备注：实际上，我们可以选择下载安装Microsoft Parallel Extensions to the .NET Framework 3.5June 2008 CTP包，就可以在.NET 3.5环境下体验并行计算的无穷魅力。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="27"> </a>协变和逆变<span class="f18">/.NET </span><a class="bjbd" href="#" secid="27" target="_self">编辑</a>
+</h2>
+</div>
+<p>协变和逆变，是为解决问题而生的。而要理清解决什么样的问题，需要首先从理清几个简单的概念开始。首先我们进行一点操作：</p><p>Derived d = new Derived();</p><p>Base b = d;</p><p>Derived类型继承自Based类型，由Derived引用可以安全的转换为Based引用，而这种转换能力可以无缝的实现在Derived数组和Base数组，例如：</p><p>Derived[] ds = new Derived[5];</p><p>Base[] bs = ds;</p><p>而这种原始转换（由子类转换为父类）方向相同的可变性，被称为协变（covariant）；其反向操作则被称为逆变（contravariant）。当同样的情形应用于泛型时，例如：</p><p>List&lt;Derived&gt; ds = new List&lt;Derived&gt;();</p><p>List&lt;Base&gt; bs = ds;</p><p>类似的操作却是行不通的。所以，这就成为C# 4.0中完善的问题——泛型的协变与逆变：</p><p>List&lt;Base&gt; bs = new List&lt;Base&gt;(); List&lt;Derived&gt; ds = new List&lt;Derived&gt;();</p><p>bs = ds; //List&lt;T&gt;；支持对T协变</p><p>ds = bs; //List&lt;T&gt;；支持对T逆变</p><p>而在C# 4.0中，伴随着协变与逆变特性的加入，C#引入两个in和out关键字来解决问题。</p><p>public interface ICovariant&lt;out T&gt; {</p><p>T MyAction();</p><p>}</p><p>public interface IContravariant&lt;in T&gt;</p><p>{</p><p>void MyAction(T arg);</p><p>}</p><p>其中，out表示仅能作为返回值的类型参数，而in表示仅能作为参数的类型参数，不过一个接口可以既有out又有in，因此既可以支持协变、支持逆变，也可以同时支持，例如：</p><p>public interface IBoth&lt;out U,in V&gt;</p><p>{</p><p>}</p><div class="content_h2"><h2 class="mar-t10">
+<a name="29"> </a>默认参数<span class="f18">/.NET </span><a class="bjbd" href="#" secid="29" target="_self">编辑</a>
+</h2>
+</div>
+<p>命名参数和可选参数是两个比较简单的特性，对于熟悉其他编程语言的开发者来说可选参数并不陌生，为参数提供默认值时就是可选参数：</p><p>public void MyMethod(int x,int y = 10,int z = 100) {</p><p>}</p><p>因此，我们可以通过调用MyMethod(1）、MyMethod(1,2）方式来调用MyMethod方法。而命名参数解决的是传递实参时，避免因为省去默认参数造成的重载问题，例如省去第二个参数y调用时，即可通过声明参数名称的方式来传递：</p><p>MyMethod(20,z: 200);</p><p>相当于调用MyMethod(20,10,200），非常类似于Attribute的调用方式。虽然只是小技巧，但也同时改善了方法重载的灵活性和适配性，体现了C#语言日趋完美的发展轨迹。</p><p>当然，除此之外.NET 4.0还增加了很多值得期待的平台特性，也将为C#编码带来前所未有的新体验。</p><p>以上相关版权归作者。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="31"> </a>4.5 版本<span class="f18">/.NET </span><a class="bjbd" href="#" secid="31" target="_self">编辑</a>
+</h2>
+</div>
+<p>.NET框架 4.5 是 .NET框架 4 高兼容性的就地更新 (in-place update)。 搭配 C# 或 Visual Basic 程序设计语言使用 .NET框架 4.5，即可编写 Windows Store 风格的应用程序。 .NET框架 4.5 可提升性能、可靠度及安全性。于2012年8月15日推出。但请注意，.NET框架 4.5不支持Windows XP操作系统。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="33"> </a>3.0特性<span class="f18">/.NET </span><a class="bjbd" href="#" secid="33" target="_self">编辑</a>
+</h2>
+</div>
+<a name="35"> </a><h3>类型化变量</h3><p>这个特性非常简单，有些JavaScript的影子，我们可以统一使用使用"var"关键字来声明局部变量，而不再需要指明变量的确切类型了，变量的确切类型可通过声明变量时的初始值推断出来。这样一来，可以大大简化我们声明局部变量的工作量了，下面是一个例子：</p><p>class LocalVariables : AppRunner.AbstractApplication</p><p>{</p><p>public override void Run()</p><p>{</p><p>var intValue = 5;</p><p>var stringValue = "This is a string";</p><p>var customClass = new LocalVariables();</p><p>var intArray = new int[3] { 1,2,3 };</p><p>foreach (var value in intArray)</p><p>Console.WriteLine(value);</p><p>}</p><p>}</p><p>上面的代码将被解析成：</p><p>class LocalVariables : AppRunner.AbstractApplication</p><p>{</p><p>public override void Run()</p><p>{</p><p>int intValue = 5;</p><p>string stringValue = "This is a string";</p><p>LocalVariables customClass = new LocalVariables();</p><p>int[] intArray = new int[3];</p><p>foreach (int value in intArray)</p><p>Console.WriteLine(value);</p><p>}</p><p>}</p><p>要特别注意的是，由于变量的类型是通过变量初始值推断而来的，所以在声明变量的同时必需为变量指定初始值。并且，变量并不是没有类型的，变量一旦初始化之后，类型就确定下来了，以后就只能存储某种类型的值了，比如上面的stringValue的类型经推断为string，所以该变量就只能保存string类型的值了。</p><a name="37"> </a><h3>匿名类型</h3><p>有些时候我们需要临时保存一些运算的中间结果，特别是当这些中间结果是由多个部份组成时，我们常常会去声明一个新的类型，以方便保存这些中间结果。表面上看起来这很正常，而细想之后就会发现，这个新类型只服务于这个函数，其它地方都不会再使用它了，就为这一个函数而去定义一个新的类型，确实有些麻烦。</p><p>C#3.0中的匿名类型特性就可以很好的解决上面提到的问题，通过匿名类型，我们可以简单使用new { 属性名1=值1，属性名2=值2,.....，属性名n=值n }的形式直接在函数中创建新的类型，看下面这个例子：</p><p>class AnonymousType : AppRunner.AbstractApplication</p><p>{</p><p>public override void Run()</p><p>{</p><p>var anonymousType1 = new {</p><p>CardNumber = "10001",Name = "van’s",Sex = true</p><p>};</p><p>Console.WriteLine(anonymousType1.CardNumber);</p><p>Console.WriteLine(anonymousType1.Name);</p><p>var anonymousType2 = new {</p><p>CardNumber = "10002",Name = "martin",Sex = true</p><p>};</p><p>anonymousType2 = anonymousType1;</p><p>}</p><p>}</p><p>在新类型中只能有字段成员，而且这些字段的类型也是通过初值的类型推断出来的。如果在声明新的匿名类型时，新类型的字段名、顺序以及初始值的类型是一致的，那么将会产生相同的匿名类型，所以上例中anonymousType1和anonymousType2的类型是相同的，自然能进行anonymousType2=anonymousType1的赋值。</p><a name="39"> </a><h3>类型化数组</h3><p>这个特性是对隐式类型化本地变量的扩展，有了这个特性，将使我们创建数组的工作变得简单。我们可以直接使用"new[]"关键字来声明数组，后面跟上数组的初始值列表。在这里，我们并没有直接指定数组的类型，数组的类型是由初始化列表推断出来的。</p><p>class AnonymousTypeArray : AppRunner.AbstractApplication</p><p>{</p><p>public override void Run()</p><p>{</p><p>var intArray = new[] { 1,2,3,4,5 };</p><p>var doubleArray = new[] { 3.14,1.414 };</p><p>var anonymousTypeArray = new[] {</p><p>new { Name="van’s",Sex=false,Arg=22 },</p><p>new { Name="martin",Sex=true,Arg=23 }</p><p>};</p><p>Console.WriteLine(intArray);</p><p>Console.WriteLine(doubleArray);</p><p>Console.WriteLine(anonymousTypeArray[0].Name);</p><p>}</p><p>}</p><p>上面的代码中，anonymousTypeArray变量的声明同时运用了隐式类型化数组和匿名类型两种特性，首先创建匿名类型，然后再初始值列表，推断出数组的确切类型。</p><a name="41"> </a><h3>对象构造者</h3><p>我们在声明数组时，可以同时对其进行初始化，这样就省去了很多麻烦，但是在创建类的对象时，这招可就不灵了，我们要么调用该类的构造函数完成对象的初始化，要么就手工进行初始化。这两种方法都不太方便，使用构造函数来对对象进行初始化时，我们为了某种灵活性，可能需要编写构造函数的多个重载版本，实在是麻烦。</p><p>C#3.0中加入的对象构造者特性，使得对象的初始化工作变得格外简单，我们可以采用类似于数组初始化的方式来初始化类的对象，方法就是直接在创建类对象的表达式后面跟上类成员的初始化代码。具体示例如下：</p><p>class Point</p><p>{</p><p>public int X { get; set; }</p><p>public int Y { get; set; }</p><p>public override string ToString()</p><p>{</p><p>return "(" + X.ToString() + "," + Y.ToString() + ")";</p><p>}</p><p>}</p><p>class Rectangle</p><p>{</p><p>public Point P1 { get; set; }</p><p>public Point P2 { get; set; }</p><p>public Rectangle()</p><p>{</p><p>P1 = new Point();</p><p>P2 = new Point();</p><p>}</p><p>public override string ToString()</p><p>{</p><p>return "P1: " + P1 + ",P2: " + P2;</p><p>}</p><p>}</p><p>class ObjectBuilder : AppRunner.AbstractApplication</p><p>{</p><p>public override void Run()</p><p>{</p><p>Point thePoint = new Point() { X = 1,Y = 2 };</p><p>Console.WriteLine("Point(X,Y) = ",thePoint);</p><p>Rectangle theRectangle = new Rectangle() {</p><p>P1 = { X = 1,Y = 1 },P2 = { X = 100,Y = 200 }</p><p>};</p><p>Console.WriteLine(theRectangle);</p><p>}</p><p>}</p><p>我们在定义Point类的X和Y属性时，只须写上该属性的get和set访问器声明，C#编译器会自动为我们生成默认的get和set操作代码，当我们需要定义简单属性时，这个特性非常有用。</p><p>我们以new Point() { X = 1,Y = 2 }语句，轻松的完成了对Point类的初始化工作。在创建类的对象时，我们可以按照需要去初始化类的对象，只要在类的创建表达式后跟上要初始化属性的列表即可，且可以只对需要初始化的属性赋初值，而无需把所有属性的初始值都写上去。</p><p>在theRectangle对象的初始化表达式中，我们首先对P1属性进行初始化，然而P1属性也是一个自定义的类型，所以P1属性的初始化是另一个类型（Point）的初始化表达式，我们可以这样的方式来对更加复杂的类型进行初始化。</p><p>上篇文章中介绍了C# 3.0中比较简单的四个特性，分别是隐式类型化本地变量、匿名类型、隐式类型化数组，以及对象构造者，下面我将对C# 3.0中的较复杂，同时也是非常强大的几个特性进行介绍，供大家快速浏览。</p><a name="43"> </a><h3>集合构造者</h3><p>我们可以在声明数组的同时，为其指定初始值，方法是直接在数组声明的后面跟上初始值列表。这样就使数组的初始化工作变得简单，而对于我们自己创建的集合类型，就无法享受到与普通数组一样的待遇了，我们无法在创建自定义集合对象的同时，使用数组的初始化语法为其指定初始值。</p><p>C# 3.0中加入的集合构造者特性，可使我们享受到与普通数组一样的待遇，从而在创建集合对象的同时为其指定初始值。为了做到这一点，我们需要让我们的集合实现ICollection&lt;T&gt;；接口，在这个接口中，完成初始化操作的关键在于Add函数，当我使用初始化语法为集合指定初始值时，C#编译器将自动调用ICollection&lt;T&gt;；中的Add函数将初始列表中的所有元素加入到集合中，以完成集合的初始化操作。使用示例如下：</p><p>class CollectionInitializer : AppRunner.AbstractApplication</p><p>{</p><p>class StringCollection : ICollection&lt;string&gt;</p><p>{</p><p>public void Add(string item)</p><p>{</p><p>Console.WriteLine(item);</p><p>}</p><p>// Other ICollection&lt;T&gt; Members</p><p>}</p><p>public override void Run()</p><p>{</p><p>StringCollection strings = new StringCollection() { "Van's","Brog","Vicky" };</p><p>}</p><p>}</p><p>在这个示例中，编译器会自动为strings对象调用Add方法，以将初始值列表中的所有元素加入到集合中，这里我们只是简单将初始值列表中的元素输出到控制台。</p><a name="45"> </a><h3>Lambda表达式</h3><p>C# 2.0中加入的匿名代理，简化了我们编写事件处理函数的工作，使我们不再需要单独声明一个函数来与事件绑定，只需要使用delegate关键字在线编写事件处理代码。</p><p>而C# 3.0则更进一步，通过Lambda表达式，我们可以一种更为简洁方式编写事件处理代码，新的Lambda事件处理代码看上去就像一个计算表达式，它使用"=&gt;"符号来连接事件参数和事件处理代码。我可以这样写：SomeEvent += 事件参数 =&gt; 事件处理代码；下面是完整的示例：</p><p>delegate T AddDelegate&lt;T&gt;(T a,T b);</p><p>class LambdaExpression : AppRunner.AbstractApplication</p><p>{</p><p>public static event EventHandler MyEvent;</p><p>public override void Run()</p><p>{</p><p>MyEvent += delegate(object s,EventArgs e)</p><p>{</p><p>Console.WriteLine(s);</p><p>};</p><p>MyEvent += (s,e) =&gt; { Console.WriteLine(s); };</p><p>MyEvent(this,null);</p><p>AddDelegate&lt;string&gt; add = (a,b) =&gt; a + b;</p><p>Console.WriteLine(add("Lambda","Expression"));</p><p>}</p><p>}</p><p>在上面的例子中，分别使用了匿名代理和Lambda表达式来实现同样的功能，可以明显看出Lambda表达式的实现更为简洁。我们在使用Lambda表达式编写事件处理代码时，无需指明事件参数的类型，且返回值就是最后一条语句的执行结果。</p><a name="47"> </a><h3>扩展方法</h3><p>当我们需要对已有类的功能进行扩展时，我们通常会想到继承，继承已有类，然后为其加入新的行为。而C# 3.0中加入的扩展方法特性，则提供了另一种实现功能扩展的方式，我们可以在不使用继承的前提下实现对已有类本身的扩展，这种方法并不会产生新的类型，而是采用向已有类中加入新方法的方式来完成功能扩展。</p><p>在对已有类进行扩展时，我们需将所有扩展方法都写在一个静态类中，这个静态类就相当于存放扩展方法的容器，所有的扩展方法都可以写在这里面。而且扩展方法采用一种全新的声明方式：public static 返回类型 扩展方法名（this 要扩展的类型 sourceObj [，扩展方法参数列表])，与普通方法声明方式不同，扩展方法的第一个参数以this关键字开始，后跟被扩展的类型名，然后才是真正的参数列表。下面是使用示例：</p><p>static class Extensions</p><p>{</p><p>public static int ToInt32(this string source)</p><p>{</p><p>return Int32.Parse(source);</p><p>}</p><p>public static T[] Slice&lt;T&gt;(this T[] source,int index,int count)</p><p>{</p><p>if (index &lt; 0 || count &lt; 0 || index + count &gt; source.Length)</p><p>{</p><p>throw new ArgumentException();</p><p>}</p><p>T[] result = new T[count];</p><p>Array.Copy(source,index,result,0,count);</p><p>return result;</p><p>}</p><p>}</p><p>class ExtensionMethods : AppRunner.AbstractApplication</p><p>{</p><p>public override void Run()</p><p>{</p><p>string number = "123";</p><p>Console.WriteLine(number.ToInt32());</p><p>int[] intArray = new int[] { 1,2,3 };</p><p>intArray = intArray.Slice(1,2);</p><p>foreach (var i in intArray)</p><p>Console.WriteLine(i);</p><p>}</p><p>}</p><p>在上面的示例中，静态的Extensions类中有两个扩展方法，第一个方法是对string类的扩展，它为string类加入了名为ToInt32的方法，该方法没有参数，并返回一个int类型的值，它将完成数字字符向整数的转换。有了这个扩展方法之后，就可对任意string类的对象调用ToInt32方法了，该方法就像其本身定义的一样。</p><p>第二个扩展方法是一个范型方法，它是对所有数组类型的扩展，该方法完成数组的切片操作。</p><p>C# 3.0中的Linq表达式，就是大量运用扩展方法来实现数据查询的。</p><a name="49"> </a><h3>Linq表达式</h3><p>C# 3.0中加入的最为复杂的特性就是Linq查询表达式了，这使我们可直接采用类似于SQL的语法对集合进行查询，这就使我们可以享受到关系数据查询的强大功能。</p><p>Linq查询表达式是建立在多种C# 3.0的新特性之上的，这也是我为什么最后才介绍Linq的原因。下面看一个例子：</p><p>class LinqExpression : AppRunner.AbstractApplication</p><p>{</p><p>public override void Run()</p><p>{</p><p>// 定义匿名数组persons，并为其赋初值</p><p>var persons = new[] {</p><p>new { Name="Van's",Sex=false,Age=22 },</p><p>new { Name="Martin",Sex=true,Age=30 },</p><p>new { Name="Jerry",Sex=false,Age=24 },</p><p>new { Name="Brog",Sex=false,Age=25 },</p><p>new { Name="Vicky",Sex=true,Age=20 }</p><p>};</p><p>/*</p><p>执行简单Linq查询</p><p>检索所有年龄在24岁以内的人</p><p>查询结果放在results变量中</p><p>results变量的类型与数组persons相同</p><p>*/</p><p>var results = from p in persons</p><p>where p.Age &lt;= 24</p><p>select p;</p><p>foreach (var person in results)</p><p>{</p><p>Console.WriteLine(person .Name);</p><p>}</p><p>Console.WriteLine();</p><p>// 定义匿名数组customers，并为其赋初值</p><p>// 该数组是匿名类型的</p><p>var customers = new[] {</p><p>new {</p><p>Name="Van's",City="China",Orders=new[] {</p><p>new {</p><p>OrderNo=0,</p><p>OrderName="C# Programming Language(Second Edition)",</p><p>OrderDate=new DateTime(2007,9,5)</p><p>},</p><p>new {</p><p>OrderNo=1,</p><p>OrderName="Head First Design Patterns(Chinese Edition)",</p><p>OrderDate=new DateTime(2007,9,15)</p><p>},</p><p>new {</p><p>OrderNo=2,</p><p>OrderName="asp .net Unleashed 2.0(Chinese Edition)",</p><p>OrderDate=new DateTime(2007,09,18)</p><p>},</p><p>new {</p><p>OrderNo=3,</p><p>OrderName="The C++ Programming Langauge(Special Edition)",</p><p>OrderDate=new DateTime(2002,9,20)</p><p>}</p><p>}</p><p>},</p><p>new {</p><p>Name="Brog",City="China",Orders=new[] {</p><p>new {</p><p>OrderNo=0,</p><p>OrderName="C# Programming Language(Second Edition)",</p><p>OrderDate=new DateTime(2007,9,15)</p><p>}</p><p>}</p><p>},</p><p>new {</p><p>Name="Vicky",City="London",Orders=new[] {</p><p>new { OrderNo=0,</p><p>OrderName="C++ Programming Language(Special Edition)",</p><p>OrderDate=new DateTime(2007,9,20)</p><p>}</p><p>}</p><p>}</p><p>};</p><p>/*</p><p>执行多重Linq查询</p><p>检索所在城市为中国，且订单日期为2007年以后的所有记录</p><p>查询结果是一个匿名类型的数组</p><p>其中包含客户名，订单号，订单日期，订单名四个字段</p><p>*/</p><p>var someCustomers = from c in customers</p><p>where c.City == "China"</p><p>from o in c.Orders</p><p>where o.OrderDate.Year &gt;= 2007</p><p>select new { c .Name,o.OrderNo,o.OrderDate,o.OrderName };</p><p>foreach (var customer in someCustomers)</p><p>{</p><p>Console.WriteLine(</p><p>customer .Name + "," + customer.OrderName + "," +</p><p>customer.OrderDate.ToString("D")</p><p>);</p><p>}</p><p>}</p><p>}</p><p>从上面的例子中，我们可以看到Linq查询的强大特性，它允许我们进行简单查询，或者进行更为复杂的多重连接查询。且查询的结果还可以是自定义的匿名类型。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="51"> </a>3.5特性<span class="f18">/.NET </span><a class="bjbd" href="#" secid="51" target="_self">编辑</a>
+</h2>
+</div>
+<a name="53"> </a><h3>快速指南</h3><p>VS 2008的多定向支持</p><p>VS 2008允许你构建针对多个.NET框架版本的应用。你可以从下面的博客贴子里进一步了解其中的工作原理：</p><p>VS 2008 Multi-Targeting Su ort</p><p>VS 2008 Web设计器和C 支持</p><p>VS 2008包含一个显著改进的HTML web设计器。该设计器提供了分割视图编辑，嵌套母板页，以及出色的C 集成。</p><p>A .NET还提供了一个新的控件，该控件对数据UI场景提供了非常灵活的支持，允许对输出的标识做完全的定制，与VS 2008中的新C 支持还有良好的协作。</p><p>A .NET AJAX和JavaScript支持</p><p>.NET 3.5 内置提供A .NET AJAX，还添加了支持We art的UpdatePanel，支持JSON的WCF，以及N个缺陷修补和性能改进等方面的新特性。VS 2008还对集成JavaScript和AJAX进你的应用提供了极棒的支持：</p><p>VS 2008 JavaScript Intellise e</p><p>VS 2008 JavaScript Debugging</p><a name="55"> </a><h3>改进和LINQ</h3><p>VS 2008中的新VB和C#编译器对这些语言做了显著的改进。两者都添加了函数式编程概念的支持，允许你编写更干净，更简洁，更具有表达性的代码。这些特性还促成了我们称之为LINQ（语言级集成查询）的新编程模型，使得查询和操作数据成为.NET中的一等编程概念。</p><p>下面是我撰写的一些讨论这些新语言特性的文章（用C#作为示例）：</p><p>自动属性，对象初始化器，和集合初始化器</p><p>扩展方法</p><p>Lambda表达式</p><p>查询句法</p><p>匿名类型</p><p>LINQ to SQL中的数据访问改进</p><p>LINQ to SQL是.NET 3.5中内置的OR/M （对象关系映射器）。它允许你使用.NET 对象模型对关系数据库进行建模。然后你可以使用LINQ对数据库进行查询，以及更新、插入，删除数据。LINQ to SQL完整支持事务，视图和存储过程。它还提供了一个把业务逻辑和验证规则结合进你的数据模型的简易方式。下面是一些我讨论如何使用LINQ to SQL的文章：</p><p>Part 1: Introduction to LINQ to SQL</p><p>Part 2: Defining our Data Model Cla es</p><p>Part 3: Querying our Database</p><p>Part 4: Updating our Database</p><p>Part 5: Binding UI using the A :LinqDataSource Control</p><p>我会在以后的几周内再往这个系列里添加几篇文章。我认为你会发现LINQ to SQL显著地简化了构建非常干净的数据模型以及编写极其干净的数据代码。</p><a name="57"> </a><h3>其他改进</h3><p>上面的列表只是所做改进的一小部分。针对客户端开发，VS 2008 包含了WPF设计器和项目支持。ClickOnce 和WPF XBA 在FireFox中也工作了。WinForms和WPF项目也能使用A .NET 应用服务（成员，角色和用户数据）来漫游用户数据了。办公开发也更加丰富了，包括对Office 2007 Ri on的集成支持。WCF和Workflow项目和设计器也包括在VS 2008中了。单元测试的速度大为提高，而且单元测试的支持包括在VS Profe ional版本（而不仅仅是VSTS版了）中了。连续集成支持也内置于TFS中了。AJAX web测试（单元和压力）也由VS Test产品支持了。还有许许多多多的改进，这里无法一一提及了。</p><a name="59"> </a><h3>注意事项</h3><p>在安装VS 2008 和.NET 3.5 Beta2之后，还有2件重要的事情你应该马上做：</p><p>1) 你应该下载和运行这个批文件。这只要几秒钟就可以运行完，它修补了这个星期早些时候我们发现的System.Web.Exte io .dll版本政策的问题，该程序集包含了 A .NET AJAX。如果你不运行这个批文件，那么用A .NET AJAX 1.0 和 VS 2005构建的现有的A .NET 2.0项目就会自动地运载随 .NET 3.5 Beta2发布的新A .NET AJAX 版本。这会工作而且运行良好，但会不小心导致你的VS2005应用依赖于.NET 3.5。运行这个批文件会改变新的System.Web.Exte io .dll程序集的版本绑定政策，确保你只在你明确构建.NET 3.5项目时才使用新的.NET 3.5 A .NET AJAX版本。</p><p>2) 假如你曾经在你的机器上安装过Orcas或VS 2008的早期版本（Beta1 或某个CTP 版本）的话，你需要在安装Beta2后重新设定你的VS 2008设置。如果你不这么做的话，有些设置会非常奇怪（一些窗口在出现在奇怪的地方），你也有可能看到一些IDE性能问题。你可以在命令行上对VS 2008的IDE版本键入“DevEnv /resetsettings”来重新设定你的配置。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="61"> </a>.NET控件<span class="f18">/.NET </span><a class="bjbd" href="#" secid="61" target="_self">编辑</a>
+</h2>
+</div>
+<p>.NET标准控件根据其应用环境分为两类：</p><p>Windows Form控件：主要用于Windows应用程序的开发。所有的Windows控件都是从Control类中派生来的，该类包含了所有用户界面的Windows Form组件，其中也包括Form类。Control类中包括了很多位所有控件所共享的属性、事件和方法。它包含复选框、文本框、按钮、标签、图像列表等。</p><p>Web窗体控件：主要用于Web应用程序的开发。它是专门针对Asp.NETWeb窗体设计的服务器控件。Web窗体控件包含在命名空间System.Web.UI.WebControls中，当用户使用Visual Studio创建Web窗体页面时，会自动在后台代码文件中添加引用该命名空间的Using语句。</p><p>.NET Compact Framework 提供了可以满足大多数设备项目需要的Windows Form控件。若要使用这些控件没有的功能，可以从公共控件派生您自己的自定义控件。可以通过定义从 Control 类或从程序集中的现有 UserControl 继承的公共类型创建自定义控件。</p><p>最简单的控件自定义是重写公共控件的方法。例如，可以重写 TextBox 控件的 OnKeyPress 继承方法，提供将输入限制为数字字符的代码。</p><p>如若觉得自定义控件过于浪费时间和复杂，也可以从受信任的来源下载控件，并通过添加引用来导入自定义控件。支持这些自定义的.NET的控件有：ComponentOne Studio,Spread，ActiveReports、MultiRow等。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="63"> </a>加密处理<span class="f18">/.NET </span><a class="bjbd" href="#" secid="63" target="_self">编辑</a>
+</h2>
+</div>
+<p>信息安全是计算机应用的首要问题之一，但关于.NET加密功能的范例却少之又少。有鉴于此，本文探讨了在.NET平台下加密/解密文件的一般过程，并提供了一个加密/解密文件的工具。</p><p>Web服务以不容置疑的态势迅速发展，促使许多单位开始考虑.NET之类的开发平台。但是，出于对安全问题的担心，一些单位总是对采用新技术心存顾虑。好在有许多成熟的安全和网络技术，例如虚拟私有网络（VPN）和防火墙等，能够极大地提高Web服务应用的安全和性能，让开发者拥有选择安全技术的自由，而不是非得使用尚在发展之中的XML安全技术不可。</p><p>虽然安全是信息系统的首要问题，但有关.NET安全和加密工具的范例却少之又少。看看大多数.NET书籍的目录，找不到任何有关安全的题目，更不用说关于密码系统的探讨了。</p><p>有鉴于此，本文将介绍如何在VB开发中运用.NET的加密和密钥生成类，提供一个可用来加密和解密文件的工具Cryption。有了这个工具，你就可以在硬盘上保存各种机密文件，例如所有的密码/用户名字信息、收支文件、以及其他想要保密的信息，还可以加密那些通过Internet发送的文件。加密技术的用途非常广泛，你可以进一步定制本文提供的工具满足某些特殊需要，例如增加批处理能力等。</p><a name="65"> </a><h3>安全威胁</h3><p>攻击和泄密是计算机面临的两大安全威胁。攻击可能来自病毒，例如它会删除文件、降低机器运行速度或引发其它安全问题。相比之下，泄密往往要隐蔽得多，它侵害的是你的隐私：未经授权访问硬盘文件，截取通过Internet发送的邮件，等等。泄密还可能伴随着攻击，例如修改机密文件等。</p><p>针对泄密的最佳防范措施就是加密。有效的加密不仅杜绝了泄密，而且还防范了由泄密引发的攻击。加密技术有时还用于通信过程中的身份验证——如果某个用户知道密码，那么他应该就是那个拥有这一身份的人。</p><p>然而必须说明的是，没有一种防范泄密的安全技术是绝对坚固的，因为密码有可能被未经授权的人获得。</p><a name="67"> </a><h3>加密前提</h3><p>首先，要想使用.NET的安全功能，就必须用Imports语句引入加密用的包。试验本文涉及的任何代码之前，请在VB代码窗口的顶部加入下列Imports语句：</p><p>Imports System</p><p>Imports System.Text</p><p>Imports System.Security.Cryptography</p><p>第二，美国政府过去限制某些加密技术出口。虽然这些限制不再有效，.NET框架在Windows的出口版本中禁用了“高级”加密技术。如果你的 Windows不带高级加密能力，可以从微软网站下载更新包：对于Windows 2000，安装Service Pack 2包含的High Encryption Pack；对于NT，安装Service Pack 6a。对于Windows ME、95、98的用户，IE 5.5也包含了High Encryption Pack。</p><a name="69"> </a><h3>工具概况</h3><p>本文提供的工具可用来加密和解密文件，如果你急着给一些文件加密，只需直接启动本文后面提供的工具即可。</p><p>这个工具提供了一个用来输入文件名字的文本框和一个输入密钥的文本框，通过便捷的用户界面提供加密、解密和密钥生成功能。在图一中，上方的文本框用来输入待加密/解密文件的名字；下面的文本框用来输入8个字符的密码。执行加密操作之后将生成一个新的文件，这个经过加密的文件和原始文件在同一目录下，文件名字也和原始文件的一样，但加上了“xx”后缀，例如，假设原始文件是MyFile.txt，则加密得到的文件是MyFilexx.txt。</p><p>加密好之后，原始文件不一定非删除不可，但一般来说最好删除，因为加密的根本目的就是为了隐藏原始文件的数据。如果要从加密后的文件恢复出原始文件，在上面的文本框中输入MyFilexx.txt，然后提供密码，Cryption工具将创建一个与原始文件一样的MyFile.txt文件。也就是说， Cryption把文件名字后面的“xx”看作是要求解密密文的标志。</p><p>注意：加密文件之后如果忘记了用来加密该文件的密码，再想恢复出原始文件就不可能了。当然，这与密码本身的复杂程度有关，要想保证文件的安全，最好采用较复杂的密码，例如混合运用字母、数字和特殊字符（如“$”符号等）。</p><p>.NET提供的加密技术不止一种，不过本文讨论的主要是对称加密。对称加密也称为私有密钥加密，它的特点是加密和解密用的是同一个密钥（实际上是同一种算法），解密方和加密方都有责任保障密码的安全（对于公用密钥、不对称加密，密钥一共有两个，其中一个密钥是公开的，这是当前公认最有效的加密技术，但就速度而言要比对称加密算法慢不少）。</p><p>在正式利用.NET加密类加密文件之前，首先必须从用户提供的密码生成一个密钥。密钥可以利用Hash函数生成，Hash函数把用户的密码字符串转换成一组类似随机数序列的、无意义的数据，这组数据可作为密钥使用，在加密过程中对原始数据进行唯一性变形处理。</p><p>例如，用密钥加密数据的一种办法是把原始数据的ASCII码加上密钥的ASCII码：</p><p>密钥：ab = ASCII: 97,98</p><p>数据：merry = ASCII: 109,101,114,114,121</p><p>把这组数据的ASCII码加上密钥的ASCII码（必要时重复使用密钥），得到的加密结果是：</p><p>97 98 97 98 97</p><p>+109 +101 +114 +114 +121</p><p>206 199 211 212218</p><p>对于同样的数据，Hash算法总是生成同样的结果（这就是说，对于同一个密码，同一Hash算法总是生成相同的bit序列）。实际上，在本文提供的代码中，利用.NET的SHA1CryptoServiceProvider类的ComputeHash方法可以验证这一点，例如，对于同一个输入参数 morph，任何时候该方法总是返回下面的结果：124，230，93，253，197，206，136，72。因此，如果有人知道密码以及生成密钥的算法，他也可以轻松地推算出密钥。</p><a name="71"> </a><h3>加密/解密</h3><p>.NET加密技术要求密钥有确定的长度，例如，DES（Data Encryption Standard）函数要求密钥的长度是64位，Rijndael则要求128、192或256位长度的密钥。密钥越长，加密强度越高。对于DES之外的加密算法，查询LegalKeySizes属性即可得到它允许的密钥长度，包括MinSize（支持的最小密钥长度）、MaxSize（最大密钥长度）、 SkipSize（增量）。SkipSize表示密钥最大长度和最小长度之间可用长度的间隔，例如，Rijndael算法的SkipSize值是64位。</p><p>利用下面的代码可以得到密钥的长度信息：</p><p>' 创建DES加密对象</p><p>Dim des As New DESCryptoServiceProvider()</p><p>Dim fd() As KeySizes</p><p>fd = des.LegalKeySizes() 'tells us the size(s),in bits</p><p>MsgBox("加密类型=" &amp; des.ToString() &amp; Chr(13) &amp; "minsize = " &amp; fd(0).MinSize &amp; Chr(13) &amp; _</p><p>"maxsize = " &amp; fd(0).MaxSize &amp; Chr(13) &amp; "skipsize = " &amp; fd(0).SkipSize)</p><p>运行上面的代码，得到的结果是64、64、0。如果把加密对象的声明改成TripleDESCryptoServiceProvider（），得到的结果是128、192、64。</p><p>说明：DES算法要求输入一个8字节的密码，但实际使用的密钥只有56位（7个字节），每一个字节的最后一位不用（它作为校验位使用，但不用于实际的加密过程）。</p><p>下面的代码开始生成本文示例程序的密钥：</p><p>Public Class Form1</p><p>Inherits System.Windows.Forms.Form</p><p>' 保存密钥的8字节的数组</p><p>Private TheKey(7) As Byte</p><p>' 在向量中放入一些随机数据</p><p>Private Vector() As Byte = {&amp;H12,&amp;H44,&amp;H16,&amp;HEE,&amp;H88,&amp;H15,&amp;HDD,&amp;H41}</p><p>首先，代码定义了保存密钥和初始向量（请参见稍后的详细说明）的两个变量。向量的初值这里用随机数据填充，当然，通过密码和Hash算法也可以获得向量的初值。下面的过程从用户输入的密码创建出密钥：</p><p>Sub CreateKey(ByVal strKey As String)</p><p>' 保存密钥的字节数组</p><p>Dim arrByte(7) As Byte</p><p>Dim AscEncod As New ASCIIEncoding()</p><p>Dim i As Integer = 0</p><p>AscEncod.GetBytes(strKey,i,strKey.Length,arrByte,i)</p><p>' 获得密码的Hash值</p><p>Dim hashSha As New SHA1CryptoServiceProvider()</p><p>Dim arrHash() As Byte = hashSha.ComputeHash(arrByte)</p><p>' 将Hash值保存到密钥</p><p>For i = 0 To 7</p><p>TheKey(i) = arrHash(i)</p><p>Next i</p><p>End Sub</p><p>用户的密码（strKey）传入到CreateKey过程，分解成一组ASCII值保存到一个字节数组。把这个字节数组传递给 SHA1CryptoServiceProvider类的ComputeHash方法，返回一个Hash值。把这个Hash值保存到TheKey数组，供以后的加密/解密过程使用（注意SHA1CryptoServiceProvider实际能够支持160位，但本文示例程序只用到64位）。</p><p>那么，初始向量究竟起什么作用呢？这个字节数组有8个元素，就象密钥一样，但向量和密钥的作用是不同的，向量用来避免DES之类的算法一个特有的问题。在DES之类的算法中，原始数据被分成8字节一块然后分别处理。DES在加密一块数据时，要用到前一块数据的模式，也就是说，如果改动了原始数据中第一块的某个字符，所有后继的块的内容都将随之改变，从而避免了一系列相连接的块中出现重复块的问题。</p><p>例如，假设你一时高兴，发了一个邮件，内容只有几个重复的单词“Melanie! Melanie! Melanie! Melanie！”，在密钥和块序列中前一块的共同作用下，加密之后的密文不会出现重复现象。然而，进一步考虑这个加密过程可以发现，如果用同一个密钥加密多个邮件，且邮件开头的问候语都相同，则邮件开头的一部分很容易受到攻击。由于这个原因，我们用初始向量来模拟前一个块。</p><p>本文加密/解密工具中的下面这段代码示范了如何加密文件：</p><p>Sub Encrypt(ByVal inName As String,ByVal outName As String )</p><p>Try</p><p>' 创建缓冲区</p><p>Dim storage(4096) As Byte</p><p>' 已经写入的字节数量</p><p>Dim totalBytesWritten As Long = 8</p><p>' 每次写入的字节数量</p><p>Dim packageSize As Integer</p><p>' 声明文件流</p><p>Dim fin As New FileStream(inName,FileMode.Open,FileAccess.Read)</p><p>Dim fout As New FileStream(outName,FileMode.OpenOrCreate,FileAccess.Write)</p><p>fout.SetLength(0)</p><p>'源文件的大小</p><p>Dim totalFileLength As Long = fin.Length</p><p>' 创建加密对象</p><p>Dim des As New DESCryptoServiceProvider()</p><p>Dim crStream As New CryptoStream(fout,_</p><p>des.CreateEncryptor(TheKey,Vector),_</p><p>CryptoStreamMode.Write)</p><p>' 输出加密后的文件</p><p>While totalBytesWritten &lt; totalFileLength</p><p>packageSize = fin.Read(storage,0,4096)</p><p>crStream.Write(storage,0,packageSize)</p><p>totalBytesWritten = Convert.ToInt32(totalBytesWritten + _</p><p>packageSize / des.BlockSize * des.BlockSize)</p><p>End While</p><p>crStream.Close()</p><p>Catch e As Exception</p><p>MsgBox(e.Message)</p><p>End Try</p><p>End Sub</p><p>注意这段代码创建了三个文件流：fin，表示明文形式的原始文件；fout，加密结果文件；crStream，加密流，用来把DES加密的结果转入输出文件fout。增加一个crStream流的好处是不必把结果保存到临时文件或缓冲区。</p><p>加密过程与解密过程的唯一重要区别是，执行解密时，我们将使用DESCryptoServiceProvider对象的另一个方法CreateDecryptor，除此之外，两者其余的处理步骤（包括参数，文件流，等等）基本相同。</p><a name="73"> </a><h3>防止破解</h3><p>黑客和密码专家破解加密文件的办法主要有两个，第一是搜索密文是否有重复现象，第二是用暴力破解法获得密钥。首先我们考虑一下初始向量如何防止重复现象，然后再探讨一下防止暴力破解的关键问题。</p><p>破解密文的第一种方式是搜索样本——特别是重复的样本。人们在写信的时候总是喜欢用同样的文字开头，例如“亲爱的XXX”、“Dear Sir”等，如果多个邮件的开头文字相同且通过同一密钥加密，则每个密文信件的开头也相同。假设Antonio写给Melanie的所有加密信件都有相同的问候语“@4^F (2$@Fx”，解密者就会首先检查开头的几个单词是不是“Dear Melanie”。解密机密文件的一个重要步骤就是猜测文件中应当会出现的几个单词，所以我们不应该给解密者提供这种方便。在本文的示例中，初始向量的内容被附加到文件的开头，从而防止了出现重复现象。只有信件的开头才容易受到此类攻击。</p><p>计算机的运算速度和精度要远远超过人，特别擅长处理一些重复的任务，例如尝试每一种可能的密钥组合最终破解密钥。DES加密算法本身是不安全的，这种加密算法早在70年代就已经公之于众。而且，破解者如果想要让搜索密钥的过程自动化，同样可以方便地运用.NET的DESCryptoServiceProvider类。</p><p>对于一个128位、结合运用密钥/初始向量的加密方案，计算机尝试每一种可能的密钥组合要花多少时间？专家们的看法并不一致，有人认为需要数月，也有人认为装有专用硬件的价值6位数的计算机每秒能够验证数十亿个密钥，破解DES密文只需数小时。如果你的机密值得花数月时间去破解，那么最好改用 TripleDES或其他加密算法。从TripleDES的名字也可以猜出，这种加密方式采用三重数据加密标准算法，所以密钥的长度是192位，而不是 64位的DES密钥。记住，在其他条件相同的情况下，密钥越长，安全程度越高。</p><p>结束语：现在你已经了解了. NET DES加密算法的使用过程，接下去可以研究.NET的其他安全功能，包括极具吸引力的公用密钥加密方案。虽然公用密钥加密方案执行起来速度慢一些，但加密效果一般要比TripleDES好。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="75"> </a>未来发展<span class="f18">/.NET </span><a class="bjbd" href="#" secid="75" target="_self">编辑</a>
+</h2>
+</div>
+<p>预测未来，在技术世界是常有的事儿。从高级语言的发展历史来看，编程世界从来就没有停止过脚步，变革时时发生、创新处处存在。以技术人员的角度来观摩未来，带着C# 4.0的脚步来看展望， 除了在函数式编程、并行计算和动态特性上大展拳脚，Meta Programming的概念已然浮出水面，将编译器变成一个Service，你可以自由控制在编译器和运行期的逻辑，那是多么美好而向往的未来呀，所以，我们坚信 4.0之后还有广阔的天地随着语言的变迁变得更加开阔。</p><p>概括Anders大师在C#设计过程中的思想，C#是语言美学的集大成者。例如，当使用foreach进行循环遍历之后，当应用using语句代替try/finally实现强制资源管理，当应该attribute进行运行时反射，当以LINQ进行语言级别的信息查询，这些语言级别的支持为C#实现面向对象编程带来强大的功能动力和美学感受。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="77"> </a>.NET书籍<span class="f18">/.NET </span><a class="bjbd" href="#" secid="77" target="_self">编辑</a>
+</h2>
+</div>
+<p>1.C#程序设计</p><p>2.C# Primer中文版</p><p>3..NET框架程序设计（修订版)</p><p>4..NET程序设计技术内幕</p><p>5..NET本质论--第1卷：公共语言运行库(中文版)</p><div class="content_h2"><h2 class="mar-t10">
+<a name="79"> </a>.net域名<span class="f18">/.NET </span><a class="bjbd" href="#" secid="79" target="_self">编辑</a>
+</h2>
+</div>
+<p>NET是类别顶级域名，.net域名与.com和.org同是目前国际最广泛流行的通用域名格式。net适用于各类网络提供商。</p><p>世界上第一个登记注册的域名是nordu(dot)net,注册于1985年1月1日，比最古老的.com域名symbolics(dot)com（注册于1985年3月15日）还要早两个多月时间。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="81"> </a>注册规则<span class="f18">/.NET </span><a class="bjbd" href="#" secid="81" target="_self">编辑</a>
+</h2>
+</div>
+<p>1、只提供英文字母（a-z，不区分大小写）、数字（0-9）、以及"-"（英文中的连词号，即中横线），不能使用空格及特殊字符(如!、$、&amp;、? 等)。</p><p>2、"-"不能用作开头和结尾。</p><p>3、长度不能超过63个字符。</p><p>4、简单、易记，逻辑性强（与企业商标、 产品名称吻合；根据网站的性质、用途选择）。</p><p>5、为同一个域名注册多个不同后缀。</p><p>6、域名购买年限选择2年以上。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="83"> </a>注意问题<span class="f18">/.NET </span><a class="bjbd" href="#" secid="83" target="_self">编辑</a>
+</h2>
+</div>
+<p>1、域名安全与产权方面来说:一定要正确填写域名的所有人(这项非常重要,是关系到域名的产权问题及以后的域名过户、转移注册商等问题)、注册联系人及身份证、管理联系邮箱(邮箱必须是经常使用的,以便续费的时收到提醒通知); 如果注册信息发生变化,应当及时更新。</p><p>2、域名注册时候最好选择好用、易记的域名，以便于宣传和推广。</p><p>3、注意全方位保护自己的域名品牌，现在互联网上域名已经成为宝贵的域名资源,如果你注册了一个域名之后,最好将相关的域名也注册下来，以避免被别人抢注。例如 注册了.com域名，可以同时将.net、.cn、.com.cn、.net、.cn、.info 等这些域名同时保护起来。适当的时候要考虑将一些类似的域名也注册掉。</p><p>4、除了传统的.cn、.com、.net等纯英文域名后缀之外，还有以“.中国”结尾的纯中文域名，并且注册“中文.CN”将自动获得对应的“中文.中国”域名，获赠繁体中文，无需另行申请注册。</p><p>对于企业用户，最好还要注册自己的中文域名，做到面面俱全，以锁定自己在互联网上绝对安全和品牌垄断权。</p><p>5、为避免域名过期导致要高价赎回，或是被抢注而要付出高成本代价，或是解析暂停影响网站访问的情况，按时续费也是非常重要的。所有域名过期后30天内可正常续费。</p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=.NET" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=.NET" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+			 function goUrl(url){
+			  if(url == "" || url.length == 0){
+			  	return;
+			  }
+			  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+			  window.open(url,'_blank');
+			 }
+			</script>
+<dl class="reference bor-no">
+<dt>参考资料</dt>
+<dd>
+<span>[1]</span><a href="#hdend_1" name="hdtop_1">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://tech.sina.com.cn/it/2014-11-13/doc-icczmvum9838387.shtml')">新浪：微软宣布.NET开源：关键软件技术兼容各大平台<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2014-11-13</span>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27"><a href="/fenlei/">互联网平台</a></dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="互联网平台"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value=".NET"/><input id="docidencry" name="docidencry" type="hidden" value="oXVlBVUVHBwAKTVJZ"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/.NET/a4_85_47_50200009239445155964479694957_jpg.html" target="_blank" title=""><img alt="" src="http://a4.att.hudong.com/85/47/50200009239445155964479694957_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/.NET/a4_85_47_50200009239445155964479694957_jpg.html" target="_blank"><em></em>.NET图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>44次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=.NET&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>28</span>位</li>
+<li>最近更新时间：2019-07-11 22:15:09</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=.NET&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=jRANBCFgWA1FXC0ZB&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">yuyoo</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=RAglxZQhqeH8EcAwI&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="RAglxZQhqeH8EcAwI">531yuan</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=BAQReRlFRVkNbX1AH&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="BAQReRlFRVkNbX1AH">dreamer314</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=Qf3EAAAgMBGJ5fXd1&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="Qf3EAAAgMBGJ5fXd1">KbMidnight</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=GdwFRAXFgWGFYakF9&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="GdwFRAXFgWGFYakF9">考试结束</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=Dd3cDAFtZBHRRAnF8&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="Dd3cDAFtZBHRRAnF8">dgdgsdgfsf</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/C%23&amp;prd=citiao_so" target="_blank" title="C#"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/85/83/50200009239445155793839574710_140.jpg);"><p></p></span>C#</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/Enterprise+JavaBean&amp;prd=citiao_so" target="_blank" title="Enterprise JavaBean"><span class="aimg" style="background-image:url(http://a3.att.hoodong.com/95/92/01000000000000119079212462295_140.jpg);"><p></p></span>Ente…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/Component&amp;prd=citiao_so" target="_blank" title="Component"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/12/76/20300543310654143580761683286_140.jpg);"><p></p></span>Comp…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%BE%AE%E8%BD%AF&amp;prd=citiao_so" target="_blank" title="微软"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/65/29/50200009239445155793298668507_140.jpg);"><p></p></span>微软</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/JDBC&amp;prd=citiao_so" target="_blank" title="JDBC"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/20/84/20200000013920144721842767472_140.jpg);"><p></p></span>JDBC</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/java%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5&amp;prd=citiao_so" target="_blank" title="java数据库连接"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/65/83/20200000013920144721839496936_140.jpg);"><p></p></span>java…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/EOS&amp;prd=citiao_so" target="_blank" title="EOS"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/10/02/01300001169625130614029379838_140.jpg);"><p></p></span>EOS</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/PHP&amp;prd=citiao_so" target="_blank" title="PHP"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/34/76/20300543006930142294766868753_140.jpg);"><p></p></span>PHP</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

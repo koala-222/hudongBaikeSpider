@@ -1,0 +1,369 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/26/88/26887795EB3D2FF2F3AE0C8DC19CEF36_90.png?title=%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>《电影》</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/%E5%87%BA%E7%89%88%E7%89%A9/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="出版物">出版物</a><a href="//fenlei.baike.com/%E6%88%8F%E5%89%A7/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="戏剧">戏剧</a><a href="//fenlei.baike.com/%E6%8A%A5%E5%88%8A/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="报刊">报刊</a><a href="//fenlei.baike.com/%E6%96%87%E5%AD%A6/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="文学">文学</a><a href="//fenlei.baike.com/%E6%9C%9F%E5%88%8A/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="期刊">期刊</a><a href="//fenlei.baike.com/%E6%9C%9F%E5%88%8A%E6%9D%82%E5%BF%97/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="期刊杂志">期刊杂志</a><a href="//fenlei.baike.com/%E6%9D%82%E5%BF%97/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="杂志">杂志</a><a href="//fenlei.baike.com/%E6%AD%8C%E6%9B%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="歌曲">歌曲</a><a href="//fenlei.baike.com/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="短篇小说">短篇小说</a><a href="//fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="艺术">艺术</a><a href="//fenlei.baike.com/%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="音乐">音乐</a><a href="//fenlei.baike.com/%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="音乐作品">音乐作品</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>《电影》由国家广电总局主管、中国电影艺术研究中心主办，杂志原为《电影通讯》，主要<a href="http://www.baike.com/wiki/%E7%89%88%E5%9D%97" target="_blank">版块</a>栏目：特别关注、小西天茶坊、指点星空阳光主持、感受银幕等等。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="《电影》"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('culture_magazine')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>名称：</strong>
+<span>《电影》</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>英文名：</strong>
+<span>MOVIE</span>
+</td> </tr> <tr>
+<td>
+<strong>类别：</strong>
+<span>电影期刊</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>语种：</strong>
+<span>中文</span>
+</td> </tr> <tr>
+<td>
+<strong>主办单位：</strong>
+<span>中国电影艺术研究中心</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>主编：</strong>
+<span>赵娟</span>
+</td> </tr> <tr>
+<td>
+<strong>出版周期：</strong>
+<span>月刊</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>主要栏目：</strong>
+<span>特别关注 小西天茶坊 指点星空阳光主持 感受银幕 擦拭锋芒 新片风景 点击名家 第一目击 新星座 锁定电视电影 好莱坞星谱 往日情怀 点评荧屏 遭遇好莱坞 领略韩潮 权威发布</span>
+</td> </tr> <tr>
+<td>
+<strong>国内刊号：</strong>
+<span>CN11-4668/J 73499</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>国际刊号：</strong>
+<span>ISSN1671-2528</span>
+</td> </tr> <tr>
+<td>
+<strong>邮发代号：</strong>
+<span>2-973</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>定价：</strong>
+<span>单价：15.00；定价：180.00</span>
+</td> </tr> <tr>
+<td>
+<strong>其他：</strong>
+<span>杂志原为《电影通讯》</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="基本简介" catalogkey="1" class="bold" href="javascript:void(0)" title="基本简介">基本简介</a>
+</li>
+<li>
+<em>2</em><a alt="期刊介绍" catalogkey="3" class="bold" href="javascript:void(0)" title="期刊介绍">期刊介绍</a>
+</li>
+<li>
+<em>3</em><a alt="主要栏目" catalogkey="5" class="bold" href="javascript:void(0)" title="主要栏目">主要栏目</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">基本简介</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">期刊介绍</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">主要栏目</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>基本简介<span class="f18">/《电影》 </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" style="WIDTH: 235px"><a href="http://tupian.baike.com/a0_56_61_01300000240273128989613734961_jpg.html" target="_blank" title="《电影》"><img alt="《电影》" data-original="http://a0.att.hudong.com/56/61/01300000240273128989613734961_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="《电影》"/></a><strong>《电影》</strong></div>
+<p>报刊名称：《电影》<br/>英文名称： Film<br/>主管单位： 国家广播电影电视总局<br/>编辑出版： <a class="link_red" href="javascript:linkredwin('电影杂志社');" target="" title="电影杂志社">电影杂志社</a><br/> 刊名变迁： 《<a class="innerlink" href="http://www.baike.com/wiki/%E7%94%B5%E5%BD%B1%E9%80%9A%E8%AE%AF" title="电影通讯">电影通讯</a>》（原）《电影》（现） </p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>期刊介绍<span class="f18">/《电影》 </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" style="WIDTH: 235px"><a href="http://tupian.baike.com/a3_58_61_01300000240273128989616087771_jpg.html" target="_blank" title="《电影》"><img alt="《电影》" data-original="http://a3.att.hudong.com/58/61/01300000240273128989616087771_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="《电影》"/></a><strong>《电影》</strong></div>
+<p>《电影》杂志原为《电影通讯》，由国家广电总局主管、中国电影艺术研究中心主办，具有<a class="link_red" href="javascript:linkredwin('影视资讯');" target="" title="影视资讯">影视资讯</a>的权威性和丰富性，能为读者提供国产影片和好莱坞影片的最新<a class="innerlink" href="http://www.baike.com/wiki/%E4%BF%A1%E6%81%AF" title="信息">信息</a>和影星名家的最新艺术动向，《电影》展法新世纪中国电影的新形象新趋势；树立大家气象，追求资讯评说，直面影事影人；倾力为新人新秀的成长提供<a class="innerlink" href="http://www.baike.com/wiki/%E5%81%A5%E5%BA%B7" title="健康">健康</a>的空间，帮助有志于电影的青年走上影坛。《电影》将影视剧及舞榭歌坛尽收视野。它追求鲜活生动图文并茂，每期有近百幅精美的中外明星生活照及最新影视剧剧照。<sup><a href="#hdtop_1" name="hdend_1" title="维普中文期刊">[1]</a></sup></p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>主要栏目<span class="f18">/《电影》 </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<p>主要版块栏目： 特别关注 <a class="innerlink" href="http://www.baike.com/wiki/%E5%B0%8F%E8%A5%BF%E5%A4%A9" title="小西天">小西天</a>茶坊 指点星空<a class="link_red" href="javascript:linkredwin('阳光主持');" target="" title="阳光主持">阳光主持</a> 感受银幕 擦拭锋芒 <a class="link_red" href="javascript:linkredwin('新片风景');" target="" title="新片风景">新片风景</a> 点击名家 第一目击 新星座 锁定电视电影 好莱坞星谱 往日情怀 点评荧屏 遭遇好莱坞 领略韩潮 权威发布 </p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div class="nav-module">
+<h2>电影期刊杂志荟萃</h2>
+<em class="tounfold"> </em><span class="toggleshow" style="display: none;"> </span><span class="togglehide"> </span><div id="navData"><table class="table">
+<tbody>
+<tr>
+<td> 电影，也称映画。是由活动照相术和幻灯放映术结合发展起来的一种现代艺术。本期任务将盘点以电影新片报道、专题策划和影评见长的一种期刊、杂志。</td></tr></tbody></table>
+<table class="table">
+<tbody>
+<tr>
+<td><a href="http://www.baike.com/wiki/%E3%80%8A%E5%B8%9D%E5%9B%BD%E3%80%8B">《帝国》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%9C%8B%E7%94%B5%E5%BD%B1%E3%80%8B">《看电影》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E9%A6%96%E6%98%A0%E3%80%8B">《首映》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%BD%B1%E6%89%8B%E5%86%8C%E3%80%8B">《电影手册》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%88%B1%E7%94%B5%E5%BD%B1%E3%80%8B">《爱电影》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E7%94%B5%E5%BD%B1%E6%8A%A5%E9%81%93%E3%80%8B">《中国电影报道》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8ADVD+SHOW%E3%80%8B">《DVD SHOW》</a></td>
+<td><a href="http://www.baike.com/wiki/%E3%80%8A%E9%93%B6%E5%B9%95%E4%B8%8E%E8%A7%82%E4%BC%97%E3%80%8B">《银幕与观众》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%A8%B1%E4%B9%90%E5%91%A8%E5%88%8A%E3%80%8B">《娱乐周刊》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%8E%AF%E7%90%83%E9%93%B6%E5%B9%95%E7%94%BB%E5%88%8A%E3%80%8B">《环球银幕画刊》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%BD%B1%E6%96%87%E5%AD%A6%E3%80%8B">《电影文学》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%BB%BC%E8%89%BA%E3%80%8B">《综艺》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B">《电影》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%BD%B1%E8%89%BA%E6%9C%AF%E3%80%8B">《电影艺术》</a></td>
+<td><a href="http://www.baike.com/wiki/%E3%80%8A%E5%BD%93%E4%BB%A3%E7%94%B5%E5%BD%B1%E3%80%8B">《当代电影》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%BD%B1%E6%88%8F%E6%9D%82%E5%BF%97%E3%80%8B">《影戏杂志》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8ADVD%E5%AF%BC%E5%88%8A%E3%80%8B">《DVD导刊》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E6%96%B0%E7%94%B5%E5%BD%B1%E3%80%8B">《新电影》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8ADVD%E9%93%B6%E5%B9%95%E5%86%85%E5%A4%96%E3%80%8B">《DVD银幕内外》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E5%AE%8C%E5%85%A8%E7%94%B5%E5%BD%B1%E3%80%8B">《完全电影》</a> <br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%BD%B1%E9%A2%91%E9%81%93%E3%80%8B">《电影频道》</a></td>
+<td><a href="http://www.baike.com/wiki/%E3%80%8A%E7%89%87%E5%9C%BA%E3%80%8B">《片场》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E9%93%B6%E5%B9%95%E5%86%85%E5%A4%96%E3%80%8B">《银幕内外》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%9C%E6%96%B9%E7%94%B5%E5%BD%B1%E3%80%8B">《东方电影》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%BD%B1%E6%91%84%E5%BD%B1%E6%9D%82%E5%BF%97%E3%80%8B">《电影摄影杂志》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E7%94%B5%E5%BD%B1SHOW%E3%80%8B">《电影SHOW》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8A%E4%B8%AD%E5%9B%BD%E8%8D%A7%E5%B9%95%E3%80%8B">《中国荧幕》</a><br/><a href="http://www.baike.com/wiki/%E3%80%8ADVD%E7%94%B5%E5%BD%B1%E8%AF%84%E4%BB%8B%E3%80%8B">《DVD电影评介》</a> </td></tr></tbody></table></div>
+</div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+			 function goUrl(url){
+			  if(url == "" || url.length == 0){
+			  	return;
+			  }
+			  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+			  window.open(url,'_blank');
+			 }
+			</script>
+<dl class="reference bor-no">
+<dt>参考资料</dt>
+<dd>
+<span>[1]</span><a href="#hdend_1" name="hdtop_1">^</a><label><a href="javascript:void(0)" onclick="goUrl('http://www.cqvip.com/qk/80656A/200510/#')">维普中文期刊<i class="ljico"> </i></a></label><span class="gray6 r">引用日期：2010-11-16</span>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/%E5%87%BA%E7%89%88%E7%89%A9/?prd=zhengwenye_left_kuozhan_kaifangfenlei">出版物</a><a href="http://fenlei.baike.com/%E6%88%8F%E5%89%A7/?prd=zhengwenye_left_kuozhan_kaifangfenlei">戏剧</a><a href="http://fenlei.baike.com/%E6%8A%A5%E5%88%8A/?prd=zhengwenye_left_kuozhan_kaifangfenlei">报刊</a><a href="http://fenlei.baike.com/%E6%96%87%E5%AD%A6/?prd=zhengwenye_left_kuozhan_kaifangfenlei">文学</a><a href="http://fenlei.baike.com/%E6%9C%9F%E5%88%8A/?prd=zhengwenye_left_kuozhan_kaifangfenlei">期刊</a><a href="http://fenlei.baike.com/%E6%9C%9F%E5%88%8A%E6%9D%82%E5%BF%97/?prd=zhengwenye_left_kuozhan_kaifangfenlei">期刊杂志</a><a href="http://fenlei.baike.com/%E6%9D%82%E5%BF%97/?prd=zhengwenye_left_kuozhan_kaifangfenlei">杂志</a><a href="http://fenlei.baike.com/%E6%AD%8C%E6%9B%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">歌曲</a><a href="http://fenlei.baike.com/%E7%9F%AD%E7%AF%87%E5%B0%8F%E8%AF%B4/?prd=zhengwenye_left_kuozhan_kaifangfenlei">短篇小说</a><a href="http://fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kuozhan_kaifangfenlei">艺术</a><a href="http://fenlei.baike.com/%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kuozhan_kaifangfenlei">音乐</a><a href="http://fenlei.baike.com/%E9%9F%B3%E4%B9%90%E4%BD%9C%E5%93%81/?prd=zhengwenye_left_kuozhan_kaifangfenlei">音乐作品</a><a href="/fenlei/">D</a><a href="/fenlei/">大众媒体 </a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="出版物"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="戏剧"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="报刊"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="文学"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="期刊"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="期刊杂志"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="杂志"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="歌曲"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="短篇小说"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="艺术"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="音乐"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="音乐作品"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="D"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="大众媒体 "/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="《电影》"/><input id="docidencry" name="docidencry" type="hidden" value="zAQNWX1leV0ZVV3EL"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B/a3_87_05_20300000237086143632050017108_jpg.html" target="_blank" title="《电影》"><img alt="《电影》" src="http://a3.att.hudong.com/87/05/20300000237086143632050017108_s.jpg" title="《电影》"/></a><a class="card" href="http://tupian.baike.com/doc/%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B/a3_87_05_20300000237086143632050017108_jpg.html" target="_blank"><em></em>《电影》图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>23次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>15</span>位</li>
+<li>最近更新时间：2016-03-26 02:26:45</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=%E3%80%8A%E7%94%B5%E5%BD%B1%E3%80%8B&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=uAggHUUNYUlJfWV8H&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">mhui</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=WUkYACAMER0RDXh1X&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="WUkYACAMER0RDXh1X">谢晶涛</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=qfnEABQwHBGZ8eHZ0&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="qfnEABQwHBGZ8eHZ0">电影杂志</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=heGBmR0dnBnhmeXd8&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="heGBmR0dnBnhmeXd8">wo3768879</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=icFpAUWBxBWdDVEV7&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="icFpAUWBxBWdDVEV7">junzi338</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=gdwFRAXViWGNcaEB9&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="gdwFRAXViWGNcaEB9">分享热门资源</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%95%99%E8%82%B2%E6%8A%80%E6%9C%AF%E6%9C%9F%E5%88%8A%E5%90%8D%E7%A7%B0&amp;prd=citiao_so" target="_blank" title="教育技术期刊名称"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>教育技术…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%8C%97%E4%BA%AC%E6%97%A5%E6%8A%A5%E6%8A%A5%E4%B8%9A%E9%9B%86%E5%9B%A2&amp;prd=citiao_so" target="_blank" title="北京日报报业集团"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/28/71/50200009239445155330717667716_140.jpg);"><p></p></span>北京日报…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E8%89%BE%E7%BE%8E%E5%A5%96&amp;prd=citiao_so" target="_blank" title="艾美奖"><span class="aimg" style="background-image:url(http://a3.att.hudong.com/67/35/50200009239445155794350146554_140.jpg);"><p></p></span>艾美奖</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%A5%BD%E8%8E%B1%E5%9D%9E&amp;prd=citiao_so" target="_blank" title="好莱坞"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/74/59/20300542014913140963596144126_140.jpg);"><p></p></span>好莱坞</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86&amp;prd=citiao_so" target="_blank" title="湖南卫视"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/02/46/50200009239445155794464161926_140.jpg);"><p></p></span>湖南卫视</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%88%90%E9%83%BD%E7%94%B5%E8%A7%86%E5%8F%B0&amp;prd=citiao_so" target="_blank" title="成都电视台"><span class="aimg" style="background-image:url(http://a3.att.hudong.com/57/63/50200009239445155793637312336_140.jpg);"><p></p></span>成都电视台</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E8%A1%A3%E7%89%A9%E5%8E%BB%E6%B1%A1%E6%8C%87%E5%8D%97&amp;prd=citiao_so" target="_blank" title="衣物去污指南"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>衣物去污…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%A5%A5%E6%96%AF%E5%8D%A1%E5%BD%B1%E5%B8%9D&amp;prd=citiao_so" target="_blank" title="奥斯卡影帝"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/06/82/01200000025840136358829709551_140.jpg);"><p></p></span>奥斯卡影帝</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86&amp;prd=citiao_so" target="_blank" title="吉林卫视"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/85/32/50200009239445155793325263475_140.jpg);"><p></p></span>吉林卫视</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E7%9B%97%E5%A2%93%E7%AC%94%E8%AE%B0%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《盗墓笔记》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E9%87%91%E9%BA%9F%E5%B2%82%E6%98%AF%E6%B1%A0%E4%B8%AD%E7%89%A9%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《金麟岂是池中物》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%B1%B1%E6%B5%B7%E7%BB%8F%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《山海经》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E9%AB%98%E6%A0%91%E4%B8%89%E5%A7%90%E5%A6%B9%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《高树三姐妹》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E9%87%91%E7%93%B6%E6%A2%85%E3%80%8B%5B%E5%8F%A4%E4%BB%A3%E7%A6%81%E4%B9%A6%5D&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《金瓶梅》[古代禁书]</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%98%93%E7%BB%8F%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《易经》</a></li>
+<li><a href="http://so.baike.com/doc/%E8%9A%81%E6%97%8F&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">蚁族</a></li>
+<li><a href="http://so.baike.com/doc/%E8%A5%BF%E6%B8%B8%E8%AE%B0&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">西游记</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E7%BA%A2%E6%A5%BC%E6%A2%A6%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《红楼梦》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%8F%B2%E8%AE%B0%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《史记》</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

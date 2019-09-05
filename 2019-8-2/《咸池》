@@ -1,0 +1,334 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/%E3%80%8A%E5%92%B8%E6%B1%A0%E3%80%8B" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/01/B4/01B480542FA5A3381B826459FA0109C3_90.png?title=%E3%80%8A%E5%92%B8%E6%B1%A0%E3%80%8B"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>《咸池》</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E4%B9%90%E6%9B%B2/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="中国乐曲">中国乐曲</a><a href="//fenlei.baike.com/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="古典音乐">古典音乐</a><a href="//fenlei.baike.com/%E6%96%87%E5%8C%96/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="文化">文化</a><a href="//fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="艺术">艺术</a><a href="//fenlei.baike.com/%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="音乐">音乐</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>《咸池》是一种古乐曲，相传为尧乐，也说为黄帝之乐，尧增修<a href="http://www.baike.com/wiki/%E6%B2%BF%E7%94%A8" target="_blank">沿用</a>。是一种表现宗教天神，歌颂的祭祀音乐。现已失传。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="《咸池》"/><div id="hd_ad_doc_109"> </div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="简介" catalogkey="1" class="bold" href="javascript:void(0)" title="简介">简介</a>
+</li>
+<li>
+<em>2</em><a alt="注释" catalogkey="3" class="bold" href="javascript:void(0)" title="注释">注释</a>
+</li>
+<li>
+<em>3</em><a alt="渊源" catalogkey="5" class="bold" href="javascript:void(0)" title="渊源">渊源</a>
+</li>
+<li>
+<em>4</em><a alt="作品选" catalogkey="7" class="bold" href="javascript:void(0)" title="作品选">作品选</a>
+</li>
+<li>
+<em>5</em><a alt="传说" catalogkey="9" class="bold" href="javascript:void(0)" title="传说">传说</a>
+</li>
+<li>
+<em>6</em><a alt="研究" catalogkey="11" class="bold" href="javascript:void(0)" title="研究">研究</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">简介</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">注释</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">渊源</a>
+<i></i>
+</li>
+<li>
+<em>4</em><a catalogkey="7" class="bold" href="javascript:void(0)">作品选</a>
+<i></i>
+</li>
+<li>
+<em>5</em><a catalogkey="9" class="bold" href="javascript:void(0)">传说</a>
+<i></i>
+</li>
+<li>
+<em>6</em><a catalogkey="11" class="bold" href="javascript:void(0)">研究</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">《咸池》古乐曲名。相传为 尧 乐。一说为<a class="innerlink" href="http://www.baike.com/wiki/%E9%BB%84%E5%B8%9D" title="黄帝">黄帝</a> 之乐，<a class="innerlink" href="http://www.baike.com/wiki/%E5%B0%A7" title="尧">尧</a> 增修沿用，是一种<a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%97%E6%95%99" title="宗教">宗教</a>祭祀音乐。  <br/><br/> <br/><br/><br/><div class="content_h2"><h2 class="mar-t10">
+<a name="1"> </a>简介<span class="f18">/《咸池》 </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<p>《咸池》<a class="link_red" href="javascript:linkredwin('古乐曲');" target="" title="古乐曲">古乐曲</a>名。相传为 </p><div class="img img_r" style="width:300"><a href="http://tupian.baike.com/a0_56_03_01300001151257131253034845503_jpg.html" target="_blank" title="《咸池》"><img alt="《咸池》" data-original="http://a0.att.hudong.com/56/03/01300001151257131253034845503_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="《咸池》"/></a><strong>《咸池》剧照</strong></div> 尧 乐。一说为 黄帝 之乐， 尧 增修沿用。
+<p> 原始社会的<a class="innerlink" href="http://www.baike.com/wiki/%E9%9F%B3%E4%B9%90" title="音乐">音乐</a>，一般只是反映人的生活与劳动过程，以及崇拜<a class="innerlink" href="http://www.baike.com/wiki/%E5%9B%BE%E8%85%BE" title="图腾">图腾</a>、天地的歌舞。这可能就是《吕氏春秋·仲夏纪》中所载：“昔葛天氏之乐，三人操牛尾投足以歌八阙，一曰载民，二曰玄鸟，三曰逐水草，四曰奋五谷，五曰敬天常，六曰建帝功，七曰依地德，八曰总禽兽之极”。</p>
+<p>原始社会的音乐，是完全顺应于生活、生产劳动与自然规律的。到了后来，音乐的内容，由于社会的发展，不仅是表现人类生活与生产劳动，而且与政治、宗教、战争发生了关系。</p>
+<p>所谓的<a class="innerlink" href="http://www.baike.com/wiki/%E5%85%AD%E4%BB%A3%E4%B9%90%E8%88%9E" title="六代乐舞">六代乐舞</a>，即《云门》《咸池》《大韶》《大夏》《大＠①》《大武》，以及六小舞，都是表现宗教天神，以及歌颂的乐舞。《云门》用于祭祀天神；《咸池》祭地神；《大韶》祭四望；《大夏》祭山川；《大》祭周始祖姜嫄；《大武》祭祀周代先祖。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>注释<span class="f18">/《咸池》 </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<p>《大咸》即《咸池》，据《周礼注疏·卷二十二》郑玄所注，我们可以首先认为《大咸》当属尧乐：“《大咸》，《咸池》，尧乐也。尧能<a class="innerlink" href="http://www.baike.com/wiki/%E6%AE%9A%E5%9D%87" title="殚均">殚均</a>刑法以仪民，言其德<a class="innerlink" href="http://www.baike.com/wiki/%E6%97%A0%E6%89%80%E4%B8%8D%E6%96%BD" title="无所不施">无所不施</a>。”又有《礼记·乐记》：“《大章》，章之也。《咸池》，备矣。《韶》，继也。《夏》，大也。”《咸池》居舜乐《大韶》之上，则应为尧或尧之前代乐舞。</p>
+<p>而《礼记正义·卷三十八》则给出了更为深入的解释，郑玄注：“黄帝所作乐名也，尧增修而用之。咸，皆也。池之言施也，言德之无不施也。《周礼》曰《大咸》。”由此按照《周礼》《礼记》，《咸池》本为黄帝乐名，至尧之时被增修采用，并沿用旧名，故而将《咸池》归于尧乐也是有依据的。“咸池”二字，咸作皆，池作施，极言布德之广。</p>
+<p>唐 元稹 《和李校书新题乐府·法曲》：“ 舜 持干羽 苗 革心， 尧 用《咸池》凤巢阁。”  <br/><br/>清 姚鼐 《雨登岳阳楼》诗：“《咸池》行復奏，<a class="innerlink" href="http://www.baike.com/wiki/%E5%80%9A%E5%BE%85" title="倚待">倚待</a>与谁聆。”  <br/><br/>宋  马端临  《文献通考》卷一百四十四·乐考十七 ：大咸《大司乐》郑注：“《大咸》、《咸池》，尧乐也。尧能殚均刑法以仪民，言其德无所不施。” <br/>   <br/>此外，《吕氏春秋·仲夏纪·古乐篇》更为详细的记述了黄帝作《咸池》的传说：“黄帝又命伶伦与荣将铸<a class="innerlink" href="http://www.baike.com/wiki/%E5%8D%81%E4%BA%8C%E9%92%9F" title="十二钟">十二钟</a>，以和五音，以施《<a class="innerlink" href="http://www.baike.com/wiki/%E8%8B%B1%E9%9F%B6" title="英韶">英韶</a>》。以仲春之月，乙卯之日，日在奎，始奏之，命之曰《咸池》。”</p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>渊源<span class="f18">/《咸池》 </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<p>黄帝奏《咸池》之年代 <br/><br/><a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%90%95%E6%B0%8F%E6%98%A5%E7%A7%8B%E3%80%8B" title="《吕氏春秋》">《吕氏春秋》</a>记载：“昔黄帝令伶伦作为律……黄帝又命伶伦与荣援铸十二钟，以和五音，以施英韶，以仲春之月，乙卯之日，日在奎，始奏之，命之曰《咸池》。”而黄帝之乐《咸池》与天象有关。《乐叶图征》称：“黄帝乐曰《咸池》。《咸池》，五车天关也。”五车天关均是天上的星宿。《史记》记载：“西宫咸池，曰天<a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%94%E6%BD%A2" title="五潢">五潢</a>。五潢，<a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%94%E5%B8%9D%E8%BD%A6" title="五帝车">五帝车</a>舍。”《史记·正义》指出：“<a class="innerlink" href="http://www.baike.com/wiki/%E5%92%B8%E6%B1%A0%E4%B8%89" title="咸池三">咸池三</a>星，在五车中，天潢南，鱼鸟之所托也。” <br/><br/>然而，由于岁差效应的影响，仲春时“日在奎”只能发生在东周及其以后，在6000年以前是不可能的，那时是“日在毕觜之间”。唐初的李淳风就认为“日在奎”是依据秦历改写的（见《路史》罗苹注），《吕氏春秋》记载的“仲春之月，日在奎，昏弧中，旦建星中”就说明了这一点。笔者猜测黄帝奏《咸池》时是“月在奎”，而在编写《吕氏春秋》时有人依据当时流行的《月令》而将其改为“日在奎”。 <br/><br/>如果黄帝奏《咸池》时是“月在奎”，同时是仲春月乙卯日。在公元前4414年（黄帝即位之年）至公元前4314年（黄帝在位百年）之间进行计算和寻找，可以确定为公元前4403年4月25日（戊戌年四月廿六乙卯日）、公元前4346年4月26日（乙未年四月廿六乙卯日）和公元前4336年5月3日（乙巳年四月廿四乙卯日）三个日期。 <br/><br/>由于多种文献记载黄帝奏《咸池》是在杀蚩尤之后，而在公元前4336年5月3日清晨时月亮又偏靠壁宿，因此笔者倾向认为，黄帝奏《咸池》的日期是公元前4346年4月26日。该日恰好是节气春分，为仲春之月的标志，于是“帝张《咸池》之乐于洞庭之野”（<a class="innerlink" href="http://www.baike.com/wiki/%E3%80%8A%E5%BA%84%E5%AD%90%E3%80%8B" title="《庄子》">《庄子》</a>）。在仲春乙卯日的清晨，一弯残月挂在奎宿的下方，天上的“咸池”即五车星宿刚刚升出东方的地平线。于是黄帝将乐曲命名为《咸池》，而“仲春乙卯”这个特殊的日子也就流传下来了。 <br/><br/>然而“月在奎”只是笔者的假设。若不是“月在奎”，则黄帝奏《咸池》的年代就宽泛多了，数年内就会遇到一次“仲春月乙卯日”。而在公元前4000年至公元前5000年的时间段里，在仲春时节（即包含节气春分之月）的清晨，均可看到“五车天关”等星宿从东方的地平线升起。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>作品选<span class="f18">/《咸池》 </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+<p><strong>《咸池》</strong></p>
+<p>作者：唐 元稹　</p>
+<p>（《咸池》，陶唐氏之乐歌也， 其义盖称尧德至大， 无不备全。凡二章， 章四句） </p>
+<p>元化油油兮，孰知其然。 <br/>至德汩汩兮，顺之以先。 <br/>元化<a class="innerlink" href="http://www.baike.com/wiki/%E6%B5%98%E6%B5%98" title="浘浘">浘浘</a>兮，孰知其然。 <br/>至道泱泱兮，由之以全。</p><br/><div class="content_h2"><h2 class="mar-t10">
+<a name="9"> </a>传说<span class="f18">/《咸池》 </span><a class="bjbd" href="#" secid="9" target="_self">编辑</a>
+</h2>
+</div>
+<p><br/>相传黄帝有一个乐官叫做<a class="innerlink" href="http://www.baike.com/wiki/%E6%B3%A0%E4%BC%A6" title="泠伦">泠伦</a>，是我国古代<a class="innerlink" href="http://www.baike.com/wiki/%E9%9F%B3%E5%BE%8B" title="音律">音律</a>的发明者。黄帝让他制定音律，他从大夏的西边一直走道昆仑山北，才在山后发现了一种适宜于做律管的竹子，他采伐了一些笔直而且厚薄均匀的竹子，先做成一根根三寸九分长的管，将它吹出的声音定为黄钟律。然后按比例制作了十二根长短不同的管，带到昆仑山下，根据凤凰的叫声来进行矫正。</p>
+<p>据说，公凤凰能叫出六种声音，雌凤凰能叫出另外六种声音。这十二种声音正好与他制作的十二根管子吹出的声音相同。泠伦将十二乐律的奇数音叫做“律”，偶数各音叫做“吕”。和起来就叫做律吕。十二律正好是一个八度的音程。</p>
+<p>接着泠伦又制作了是二口编钟，使他们同宫、商、角、征、羽相配合。</p>
+<p>这些完成以后，便于仲春二月乙卯的那一天，当太阳出现在奎方位的时候，由泠伦指挥，演出一场盛大的乐舞。<a class="innerlink" href="http://www.baike.com/wiki/%E4%B9%90%E8%88%9E" title="乐舞">乐舞</a>的名字叫《咸池》。</p>
+<p>黄帝赐他以名为姓，称为泠氏。泠又写做冷。所以世世代代的掌管宫廷音乐的人称为“伶人”。后来又成为演员的名称。泠伦的后代子孙称为泠氏，后来写错，误传为冷，成为冷氏。<br/></p><div class="content_h2"><h2 class="mar-t10">
+<a name="11"> </a>研究<span class="f18">/《咸池》 </span><a class="bjbd" href="#" secid="11" target="_self">编辑</a>
+</h2>
+</div>
+<p>《云门》的内容据说是歌颂黄帝创制万物，团聚万民，盛德就象天上的祥云一般。又有人说：由于黄帝功德普照天下，天之所生，地之所载，世间万物没有不受到他的恩泽的，所以这个乐舞也叫《咸池》，“咸池”也就是“咸施”。这些解释肯定有后世儒家附会的成分。而从另一些传说看，如《左传·昭十七年》“昔者黄帝氏以云纪，故为云师而云名。”黄帝是受天命治理天下时，天上有祥云出现，所以以云记事，以云命官。</p>
+<p>关于《咸池》也有另一种说法，唐人司马贞认为：咸池是西宫星名，“主五谷，其星五者<a class="innerlink" href="http://www.baike.com/wiki/%E5%90%84%E6%9C%89%E6%89%80%E8%81%8C" title="各有所职">各有所职</a>。”和农作物的丰歉有关。根据这些记载，可以设想这一乐舞原是黄帝族祭祀云图腾的一种图腾舞，以后又用来讴歌黄帝的功德，作为祭祖和祈求丰收的<a class="innerlink" href="http://www.baike.com/wiki/%E7%A5%AD%E7%A5%80" title="祭祀">祭祀</a>舞蹈。 </p>
+<p>在中国，有关钟声的文献记载很多，这些记载中的钟声大体可分为两类。一类是纯粹的宗教祭祀仪式和准宗教的战争仪式等活动中的钟声。如《吕氏春秋·仲夏纪》曾记载：“黄帝又命伶伦与荣将，铸十二钟，以和五音，以施英韶；以仲春之月，乙卯之日，日在奎，始奏之，命之曰《咸池》。” <br/><br/>《咸池》是什么呢？庄子在《天运》篇中记载有“帝张《咸池》之乐于洞庭之野”。帝即黄帝，与《吕氏春秋》记载相同。《咸池》给“北门成”的感受是“始闻之惧，复闻之怠，卒闻之而惑”。这形象地表明《咸池》是一种宗教祭祀音乐，它带给人的心理感受是恐惧、松弛和宗教性迷醉。 <br/><br/><br/></p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div class="wenxian_app">
+<link href="http://www.huimg.cn/hudong/entry/widget/wenxian/css/wenxianapp160908.css" rel="stylesheet" type="text/css"/>
+<div class="h3tit"><h3>相关文献</h3></div>
+<ul>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_mysd-x200801003.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title='"咸池至乐"与"希腊神庙"的相互诠释——试论庄子和海德格尔对艺术特性的认识'>"咸池至乐"与"希腊神庙"的相互诠释——试论庄子和海德格尔对艺术特性的认识</a><span>
+										-
+										美与时代（下半月）
+										-
+									</span><span>2008</span><span>
+										(
+										1
+										)
+									</span>
+</li>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_csjsllyj2011162314.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="入海河口城镇苦咸水利用方案">入海河口城镇苦咸水利用方案</a><span>
+										-
+										城市建设理论研究（电子版）
+										-
+									</span><span>2011</span><span>
+										(
+										16
+										)
+									</span>
+</li>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_bjgc200311010.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="空气质量的综合治理——卢咸池委员和他的提案">空气质量的综合治理——卢咸池委员和他的提案</a><span>
+										-
+										北京观察
+										-
+									</span><span>2003</span><span>
+										(
+										11
+										)
+									</span>
+</li>
+</ul>
+</div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=%E3%80%8A%E5%92%B8%E6%B1%A0%E3%80%8B" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=%E3%80%8A%E5%92%B8%E6%B1%A0%E3%80%8B" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo">
+<script type="text/javascript">
+		 function goUrl(url){
+		  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+		  window.open(url,'_blank');
+		 }
+		</script>
+<dl class="reference bor-no">
+<dt>扩展阅读</dt>
+<dd>
+<em>1</em>华夏星表<a><input name="refrenceurlinput" onclick="goUrl('http://www.staratlas.org/website/')" readonly="" type="text" value="http://www.staratlas.org/website/"/></a>
+</dd>
+<dd>
+<em>2</em>汉典<a><input name="refrenceurlinput" onclick="goUrl('http://www.zdic.net/')" readonly="" type="text" value="http://www.zdic.net/"/></a>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/%E4%B8%AD%E5%9B%BD%E4%B9%90%E6%9B%B2/?prd=zhengwenye_left_kuozhan_kaifangfenlei">中国乐曲</a><a href="http://fenlei.baike.com/%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kuozhan_kaifangfenlei">古典音乐</a><a href="http://fenlei.baike.com/%E6%96%87%E5%8C%96/?prd=zhengwenye_left_kuozhan_kaifangfenlei">文化</a><a href="http://fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kuozhan_kaifangfenlei">艺术</a><a href="http://fenlei.baike.com/%E9%9F%B3%E4%B9%90/?prd=zhengwenye_left_kuozhan_kaifangfenlei">音乐</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="中国乐曲"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="古典音乐"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="文化"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="艺术"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="音乐"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="《咸池》"/><input id="docidencry" name="docidencry" type="hidden" value="rBAlxZQhjcnAFeQEA"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img"><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;" title="编辑摘要"><img alt="编辑摘要" src="//www.huimg.cn/entry/images/summary_default270x233.png" title="编辑摘要"/></a></div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>8次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=%E3%80%8A%E5%92%B8%E6%B1%A0%E3%80%8B&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>4</span>位</li>
+<li>最近更新时间：2009-08-24 20:58:40</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=%E3%80%8A%E5%92%B8%E6%B1%A0%E3%80%8B&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=LGgdcWgJBAAFSC3Uf&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">时代老人</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=zAQNWX1lfUEJUVX0F&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="zAQNWX1lfUEJUVX0F">兔吉祥</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=LGgdcWgJBAAFSC3Uf&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="LGgdcWgJBAAFSC3Uf">时代老人</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=YQ11RVUReBG1efUZF&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="YQ11RVUReBG1efUZF">魏延章</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=nfUACAwQFWkIBDAV6&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="nfUACAwQFWkIBDAV6">飞越激情</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E3%80%8A%E4%BA%94%E9%9F%B3%E6%9B%B2+%E8%A7%92%E5%BC%95%E3%80%8B&amp;prd=citiao_so" target="_blank" title="《五音曲 角引》"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>《五音曲…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E3%80%8A%E5%A4%A7%E6%AD%A6%E3%80%8B&amp;prd=citiao_so" target="_blank" title="《大武》"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/34/35/01300000167299124516359365617_140.jpg);"><p></p></span>《大武》</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E3%80%8A%E4%B8%AD%E5%9B%BD%E5%8F%A4%E5%85%B8%E9%9F%B3%E4%B9%90%E3%80%8B&amp;prd=citiao_so" target="_blank" title="《中国古典音乐》"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>《中国古…</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%B8%B4%E6%9C%9B%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《渴望》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%98%A5%E6%B1%9F%E8%8A%B1%E6%9C%88%E5%A4%9C%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《春江花月夜》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E9%95%BF%E7%9B%B8%E6%80%9D%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《长相思》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%A2%85%E8%8A%B1%E4%B8%89%E5%BC%84%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《梅花三弄》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E9%9C%93%E8%A3%B3%E7%BE%BD%E8%A1%A3%E6%9B%B2%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《霓裳羽衣曲》</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%B9%BF%E9%99%B5%E6%95%A3%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《广陵散》</a></li>
+<li><a href="http://so.baike.com/doc/%E7%99%BD%E9%BE%99%E9%A9%AC&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">白龙马</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E8%83%A1%E7%AC%B3%E5%8D%81%E5%85%AB%E6%8B%8D%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《胡笳十八拍》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%BD%9D%E6%97%8F%E8%88%9E%E6%9B%B2%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《彝族舞曲》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E4%B9%8C%E8%8B%8F%E9%87%8C%E8%88%B9%E6%AD%8C%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《乌苏里船歌》</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

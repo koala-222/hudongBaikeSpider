@@ -1,0 +1,742 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/Youtube" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/CD/D4/CDD47C9C4628F91CF74255FEEA06B23C_90.png?title=Youtube"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>Youtube</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/%E4%BA%92%E8%81%94%E7%BD%91/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="互联网">互联网</a><a href="//fenlei.baike.com/%E7%A7%91%E6%8A%80/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="科技">科技</a><a href="//fenlei.baike.com/%E7%BD%91%E7%AB%99/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="网站">网站</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>YouTube是一个视频网站，早期公司位于加利福尼亚州的圣布鲁诺。注册于2005年2月15日，由美籍华人陈士骏等人创立，让用户下载、观看及分享影片或短片。2006年11月，Google公司以16.5亿美元收购了YouTube，并把其当做一家子公司来经营。2014年1月3日，YouTube宣布在拉斯维加斯消费电子展(CES)上演示4K高清视频流媒体服务。该服务采用谷歌的视频编解码技术VP9。网站的未注册用户仍可以直接观看视频，而注册用户则可以上传无限制数量的影片。而当影片有可能的冒犯性质的内容时，仅提供给18岁以上的注册用户观看。YouTube作为当前行业内在线视频服务提供商，YouTube的系统每天要处理上千万个视频片段，为全球成千上万的用户提供高水平的视频上传、分发、展示、浏览服务。2015年2月，央视首次把春晚推送到YouTube等境外网站。Switch应用程序“Youtube”18年11月9日上架。 2018年12月18日，世界品牌实验室编制的《2018世界品牌500强》揭晓，YouTube排名第20位。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="Youtube"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('science_web')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>外文名：</strong>
+<span>YouTube</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>网站类型：</strong>
+<span><a href="http://www.baike.com/wiki/%E8%A7%86%E9%A2%91" target="_blank">视频</a>网站</span>
+</td> </tr> <tr>
+<td>
+<strong>总部所在地：</strong>
+<span><a href="http://www.baike.com/wiki/%E7%BE%8E%E5%9B%BD" target="_blank">美国</a>加州圣布鲁诺（San Bruno）</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>口号：</strong>
+<span>Broadcast Yourself</span>
+</td> </tr> <tr>
+<td>
+<strong>所属公司：</strong>
+<span><a href="http://www.baike.com/wiki/%E9%99%88%E5%A3%AB%E9%AA%8F" target="_blank">陈士骏</a></span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>成立时间：</strong>
+<span>2005年2月14日</span>
+</td> </tr> <tr>
+<td>
+<strong>创始人：</strong>
+<span><a href="http://www.baike.com/wiki/%E4%B9%8D%E5%BE%97%C2%B7%E8%B4%BA%E5%88%A9" target="_blank">乍得·贺利</a>、<a href="http://www.baike.com/wiki/%E9%99%88%E5%A3%AB%E9%AA%8F" target="_blank">陈士骏</a>、<a href="http://www.baike.com/wiki/%E8%B4%BE%E5%BE%B7%C2%B7%E5%8D%A1%E6%9E%97%E5%A7%86" target="_blank">贾德·卡林姆</a></span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>产品服务：</strong>
+<span>视频短片分享服务</span>
+</td> </tr> <tr>
+<td>
+<strong>员工数：</strong>
+<span>约650名员工（2011年）</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+<div class="module zoom">
+<table><tr>
+<td>
+<strong>正确读法：</strong>
+<span>You Tube</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>错误读法：</strong>
+<span>You Tu Be</span>
+</td> </tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie4">
+<li>
+<em>1</em><a alt="历史沿革" catalogkey="1" class="bold" href="javascript:void(0)" title="历史沿革">历史沿革</a>
+</li>
+<li class="dot"><a alt="成立" catalogkey="3" href="javascript:void(0)" title="成立">成立</a></li>
+<li class="dot"><a alt="发展" catalogkey="5" href="javascript:void(0)" title="发展">发展</a></li>
+<li class="dot"><a alt="改版" catalogkey="7" href="javascript:void(0)" title="改版">改版</a></li>
+<li class="dot"><a alt="原创节目" catalogkey="9" href="javascript:void(0)" title="原创节目">原创节目</a></li>
+<li>
+<em>2</em><a alt="收购信息" catalogkey="11" class="bold" href="javascript:void(0)" title="收购信息">收购信息</a>
+</li>
+<li class="dot"><a alt="收购" catalogkey="13" href="javascript:void(0)" title="收购">收购</a></li>
+<li class="dot"><a alt="拟购" catalogkey="15" href="javascript:void(0)" title="拟购">拟购</a></li>
+<li>
+<em>3</em><a alt="产品服务" catalogkey="17" class="bold" href="javascript:void(0)" title="产品服务">产品服务</a>
+</li>
+<li class="dot"><a alt="影片播放" catalogkey="19" href="javascript:void(0)" title="影片播放">影片播放</a></li>
+<li class="dot"><a alt="影片上传" catalogkey="21" href="javascript:void(0)" title="影片上传">影片上传</a></li>
+<li class="dot"><a alt="电影频道" catalogkey="23" href="javascript:void(0)" title="电影频道">电影频道</a></li>
+<li class="dot"><a alt="付费频道" catalogkey="25" href="javascript:void(0)" title="付费频道">付费频道</a></li>
+<li class="dot"><a alt="翻译功能" catalogkey="27" href="javascript:void(0)" title="翻译功能">翻译功能</a></li>
+<li class="dot"><a alt="视频直播" catalogkey="29" href="javascript:void(0)" title="视频直播">视频直播</a></li>
+<li class="dot"><a alt="TESTTUBE" catalogkey="31" href="javascript:void(0)" title="TESTTUBE">TESTTUBE</a></li>
+<li class="dot"><a alt="数字音乐" catalogkey="33" href="javascript:void(0)" title="数字音乐">数字音乐</a></li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="打赏功能" catalogkey="35" href="javascript:void(0)" title="打赏功能">打赏功能</a></li>
+<li class="dot"><a alt="360度视频" catalogkey="37" href="javascript:void(0)" title="360度视频">360度视频</a></li>
+<li class="dot"><a alt="儿童版应用" catalogkey="39" href="javascript:void(0)" title="儿童版应用">儿童版应用</a></li>
+<li>
+<em>4</em><a alt="公司盈利" catalogkey="41" class="bold" href="javascript:void(0)" title="公司盈利">公司盈利</a>
+</li>
+<li class="dot"><a alt="广告浏览" catalogkey="43" href="javascript:void(0)" title="广告浏览">广告浏览</a></li>
+<li class="dot"><a alt="开始盈利" catalogkey="45" href="javascript:void(0)" title="开始盈利">开始盈利</a></li>
+<li class="dot"><a alt="伙伴受益" catalogkey="47" href="javascript:void(0)" title="伙伴受益">伙伴受益</a></li>
+<li class="dot"><a alt="目标用户" catalogkey="49" href="javascript:void(0)" title="目标用户">目标用户</a></li>
+<li class="dot"><a alt="付费服务" catalogkey="51" href="javascript:void(0)" title="付费服务">付费服务</a></li>
+<li>
+<em>5</em><a alt="社会影响" catalogkey="53" class="bold" href="javascript:void(0)" title="社会影响">社会影响</a>
+</li>
+<li class="dot"><a alt="市场份额" catalogkey="55" href="javascript:void(0)" title="市场份额">市场份额</a></li>
+<li class="dot"><a alt="视频数量" catalogkey="57" href="javascript:void(0)" title="视频数量">视频数量</a></li>
+<li class="dot"><a alt="资讯发布" catalogkey="59" href="javascript:void(0)" title="资讯发布">资讯发布</a></li>
+<li class="dot"><a alt="网络社区" catalogkey="61" href="javascript:void(0)" title="网络社区">网络社区</a></li>
+<li class="dot"><a alt="用户规模" catalogkey="63" href="javascript:void(0)" title="用户规模">用户规模</a></li>
+<li class="dot"><a alt="枪击案" catalogkey="65" href="javascript:void(0)" title="枪击案">枪击案</a></li>
+<li class="dot"><a alt="获得荣誉" catalogkey="67" href="javascript:void(0)" title="获得荣誉">获得荣誉</a></li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="播放极限" catalogkey="69" href="javascript:void(0)" title="播放极限">播放极限</a></li>
+<li>
+<em>6</em><a alt="争议事件" catalogkey="71" class="bold" href="javascript:void(0)" title="争议事件">争议事件</a>
+</li>
+<li class="dot"><a alt="不良风气" catalogkey="73" href="javascript:void(0)" title="不良风气">不良风气</a></li>
+<li class="dot"><a alt="侵犯版权" catalogkey="75" href="javascript:void(0)" title="侵犯版权">侵犯版权</a></li>
+<li class="dot"><a alt="隐私权" catalogkey="77" href="javascript:void(0)" title="隐私权">隐私权</a></li>
+<li>
+<em>7</em><a alt="接受审查" catalogkey="79" class="bold" href="javascript:void(0)" title="接受审查">接受审查</a>
+</li>
+<li class="dot"><a alt="中国" catalogkey="81" href="javascript:void(0)" title="中国">中国</a></li>
+<li class="dot"><a alt="芬兰" catalogkey="83" href="javascript:void(0)" title="芬兰">芬兰</a></li>
+<li class="dot"><a alt="亚美尼亚" catalogkey="85" href="javascript:void(0)" title="亚美尼亚">亚美尼亚</a></li>
+<li class="dot"><a alt="巴西" catalogkey="87" href="javascript:void(0)" title="巴西">巴西</a></li>
+<li class="dot"><a alt="孟加拉国" catalogkey="89" href="javascript:void(0)" title="孟加拉国">孟加拉国</a></li>
+<li class="dot"><a alt="印度尼西亚" catalogkey="91" href="javascript:void(0)" title="印度尼西亚">印度尼西亚</a></li>
+<li class="dot"><a alt="伊朗" catalogkey="93" href="javascript:void(0)" title="伊朗">伊朗</a></li>
+<li class="dot"><a alt="利比亚" catalogkey="95" href="javascript:void(0)" title="利比亚">利比亚</a></li>
+<li class="dot"><a alt="摩洛哥" catalogkey="97" href="javascript:void(0)" title="摩洛哥">摩洛哥</a></li>
+<li class="dot"><a alt="巴基斯坦" catalogkey="99" href="javascript:void(0)" title="巴基斯坦">巴基斯坦</a></li>
+<li class="dot"><a alt="苏丹" catalogkey="101" href="javascript:void(0)" title="苏丹">苏丹</a></li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="俄罗斯" catalogkey="103" href="javascript:void(0)" title="俄罗斯">俄罗斯</a></li>
+<li class="dot"><a alt="泰国" catalogkey="105" href="javascript:void(0)" title="泰国">泰国</a></li>
+<li class="dot"><a alt="突尼斯" catalogkey="107" href="javascript:void(0)" title="突尼斯">突尼斯</a></li>
+<li class="dot"><a alt="土耳其" catalogkey="109" href="javascript:void(0)" title="土耳其">土耳其</a></li>
+<li class="dot"><a alt="土库曼斯坦" catalogkey="111" href="javascript:void(0)" title="土库曼斯坦">土库曼斯坦</a></li>
+<li class="dot"><a alt="阿联酋" catalogkey="113" href="javascript:void(0)" title="阿联酋">阿联酋</a></li>
+<li class="dot"><a alt="日本" catalogkey="115" href="javascript:void(0)" title="日本">日本</a></li>
+<li class="dot"><a alt="软件方面" catalogkey="117" href="javascript:void(0)" title="软件方面">软件方面</a></li>
+<li class="dot"><a alt="教育机构" catalogkey="119" href="javascript:void(0)" title="教育机构">教育机构</a></li>
+<li>
+<em>8</em><a alt="特别活动" catalogkey="121" class="bold" href="javascript:void(0)" title="特别活动">特别活动</a>
+</li>
+<li class="dot"><a alt="愚人节" catalogkey="123" href="javascript:void(0)" title="愚人节">愚人节</a></li>
+<li class="dot"><a alt="贪食蛇" catalogkey="125" href="javascript:void(0)" title="贪食蛇">贪食蛇</a></li>
+<li>
+<em>9</em><a alt="未来发展" catalogkey="127" class="bold" href="javascript:void(0)" title="未来发展">未来发展</a>
+</li>
+<li>
+<em>10</em><a alt="相关事件" catalogkey="129" class="bold" href="javascript:void(0)" title="相关事件">相关事件</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">历史沿革</a>
+<i></i>
+</li>
+<li class="dot">
+<em>1.1</em><a catalogkey="3" href="javascript:void(0)">成立</a>
+</li>
+<li class="dot">
+<em>1.2</em><a catalogkey="5" href="javascript:void(0)">发展</a>
+</li>
+<li class="dot">
+<em>1.3</em><a catalogkey="7" href="javascript:void(0)">改版</a>
+</li>
+<li class="dot">
+<em>1.4</em><a catalogkey="9" href="javascript:void(0)">原创节目</a>
+</li>
+<li>
+<em>2</em><a catalogkey="11" class="bold" href="javascript:void(0)">收购信息</a>
+<i></i>
+</li>
+<li class="dot">
+<em>2.1</em><a catalogkey="13" href="javascript:void(0)">收购</a>
+</li>
+<li class="dot">
+<em>2.2</em><a catalogkey="15" href="javascript:void(0)">拟购</a>
+</li>
+<li>
+<em>3</em><a catalogkey="17" class="bold" href="javascript:void(0)">产品服务</a>
+<i></i>
+</li>
+<li class="dot">
+<em>3.1</em><a catalogkey="19" href="javascript:void(0)">影片播放</a>
+</li>
+<li class="dot">
+<em>3.2</em><a catalogkey="21" href="javascript:void(0)">影片上传</a>
+</li>
+<li class="dot">
+<em>3.3</em><a catalogkey="23" href="javascript:void(0)">电影频道</a>
+</li>
+<li class="dot">
+<em>3.4</em><a catalogkey="25" href="javascript:void(0)">付费频道</a>
+</li>
+<li class="dot">
+<em>3.5</em><a catalogkey="27" href="javascript:void(0)">翻译功能</a>
+</li>
+<li class="dot">
+<em>3.6</em><a catalogkey="29" href="javascript:void(0)">视频直播</a>
+</li>
+<li class="dot">
+<em>3.7</em><a catalogkey="31" href="javascript:void(0)">TESTTUBE</a>
+</li>
+<li class="dot">
+<em>3.8</em><a catalogkey="33" href="javascript:void(0)">数字音乐</a>
+</li>
+<li class="dot">
+<em>3.9</em><a catalogkey="35" href="javascript:void(0)">打赏功能</a>
+</li>
+<li class="dot">
+<em>3.10</em><a catalogkey="37" href="javascript:void(0)">360度视频</a>
+</li>
+<li class="dot">
+<em>3.11</em><a catalogkey="39" href="javascript:void(0)">儿童版应用</a>
+</li>
+<li>
+<em>4</em><a catalogkey="41" class="bold" href="javascript:void(0)">公司盈利</a>
+<i></i>
+</li>
+<li class="dot">
+<em>4.1</em><a catalogkey="43" href="javascript:void(0)">广告浏览</a>
+</li>
+<li class="dot">
+<em>4.2</em><a catalogkey="45" href="javascript:void(0)">开始盈利</a>
+</li>
+<li class="dot">
+<em>4.3</em><a catalogkey="47" href="javascript:void(0)">伙伴受益</a>
+</li>
+<li class="dot">
+<em>4.4</em><a catalogkey="49" href="javascript:void(0)">目标用户</a>
+</li>
+<li class="dot">
+<em>4.5</em><a catalogkey="51" href="javascript:void(0)">付费服务</a>
+</li>
+<li>
+<em>5</em><a catalogkey="53" class="bold" href="javascript:void(0)">社会影响</a>
+<i></i>
+</li>
+<li class="dot">
+<em>5.1</em><a catalogkey="55" href="javascript:void(0)">市场份额</a>
+</li>
+<li class="dot">
+<em>5.2</em><a catalogkey="57" href="javascript:void(0)">视频数量</a>
+</li>
+<li class="dot">
+<em>5.3</em><a catalogkey="59" href="javascript:void(0)">资讯发布</a>
+</li>
+<li class="dot">
+<em>5.4</em><a catalogkey="61" href="javascript:void(0)">网络社区</a>
+</li>
+<li class="dot">
+<em>5.5</em><a catalogkey="63" href="javascript:void(0)">用户规模</a>
+</li>
+<li class="dot">
+<em>5.6</em><a catalogkey="65" href="javascript:void(0)">枪击案</a>
+</li>
+<li class="dot">
+<em>5.7</em><a catalogkey="67" href="javascript:void(0)">获得荣誉</a>
+</li>
+<li class="dot">
+<em>5.8</em><a catalogkey="69" href="javascript:void(0)">播放极限</a>
+</li>
+<li>
+<em>6</em><a catalogkey="71" class="bold" href="javascript:void(0)">争议事件</a>
+<i></i>
+</li>
+<li class="dot">
+<em>6.1</em><a catalogkey="73" href="javascript:void(0)">不良风气</a>
+</li>
+<li class="dot">
+<em>6.2</em><a catalogkey="75" href="javascript:void(0)">侵犯版权</a>
+</li>
+<li class="dot">
+<em>6.3</em><a catalogkey="77" href="javascript:void(0)">隐私权</a>
+</li>
+<li>
+<em>7</em><a catalogkey="79" class="bold" href="javascript:void(0)">接受审查</a>
+<i></i>
+</li>
+<li class="dot">
+<em>7.1</em><a catalogkey="81" href="javascript:void(0)">中国</a>
+</li>
+<li class="dot">
+<em>7.2</em><a catalogkey="83" href="javascript:void(0)">芬兰</a>
+</li>
+<li class="dot">
+<em>7.3</em><a catalogkey="85" href="javascript:void(0)">亚美尼亚</a>
+</li>
+<li class="dot">
+<em>7.4</em><a catalogkey="87" href="javascript:void(0)">巴西</a>
+</li>
+<li class="dot">
+<em>7.5</em><a catalogkey="89" href="javascript:void(0)">孟加拉国</a>
+</li>
+<li class="dot">
+<em>7.6</em><a catalogkey="91" href="javascript:void(0)">印度尼西亚</a>
+</li>
+<li class="dot">
+<em>7.7</em><a catalogkey="93" href="javascript:void(0)">伊朗</a>
+</li>
+<li class="dot">
+<em>7.8</em><a catalogkey="95" href="javascript:void(0)">利比亚</a>
+</li>
+<li class="dot">
+<em>7.9</em><a catalogkey="97" href="javascript:void(0)">摩洛哥</a>
+</li>
+<li class="dot">
+<em>7.10</em><a catalogkey="99" href="javascript:void(0)">巴基斯坦</a>
+</li>
+<li class="dot">
+<em>7.11</em><a catalogkey="101" href="javascript:void(0)">苏丹</a>
+</li>
+<li class="dot">
+<em>7.12</em><a catalogkey="103" href="javascript:void(0)">俄罗斯</a>
+</li>
+<li class="dot">
+<em>7.13</em><a catalogkey="105" href="javascript:void(0)">泰国</a>
+</li>
+<li class="dot">
+<em>7.14</em><a catalogkey="107" href="javascript:void(0)">突尼斯</a>
+</li>
+<li class="dot">
+<em>7.15</em><a catalogkey="109" href="javascript:void(0)">土耳其</a>
+</li>
+<li class="dot">
+<em>7.16</em><a catalogkey="111" href="javascript:void(0)">土库曼斯坦</a>
+</li>
+<li class="dot">
+<em>7.17</em><a catalogkey="113" href="javascript:void(0)">阿联酋</a>
+</li>
+<li class="dot">
+<em>7.18</em><a catalogkey="115" href="javascript:void(0)">日本</a>
+</li>
+<li class="dot">
+<em>7.19</em><a catalogkey="117" href="javascript:void(0)">软件方面</a>
+</li>
+<li class="dot">
+<em>7.20</em><a catalogkey="119" href="javascript:void(0)">教育机构</a>
+</li>
+<li>
+<em>8</em><a catalogkey="121" class="bold" href="javascript:void(0)">特别活动</a>
+<i></i>
+</li>
+<li class="dot">
+<em>8.1</em><a catalogkey="123" href="javascript:void(0)">愚人节</a>
+</li>
+<li class="dot">
+<em>8.2</em><a catalogkey="125" href="javascript:void(0)">贪食蛇</a>
+</li>
+<li>
+<em>9</em><a catalogkey="127" class="bold" href="javascript:void(0)">未来发展</a>
+<i></i>
+</li>
+<li>
+<em>10</em><a catalogkey="129" class="bold" href="javascript:void(0)">相关事件</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>历史沿革<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<a name="3"> </a><h3>成立</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a1_04_12_50200014992522154402124632045_jpg.html" target="_blank" title="YouTube"><img alt="YouTube" data-original="http://a1.att.hudong.com/04/12/50200014992522154402124632045.jpg" src="http://www.huimg.cn/lib/0.gif" title="YouTube"/></a>
+<strong>YouTube</strong>
+</div><p>2005年情人节，YOUTUBE成立，由乍得·贺利（CHAD HURLEY）、陈士骏（STEVE CHEN）、贾德·卡林姆（JAWED KARIM）等3名PAYPAL前雇员创办。失业并负债的陈士骏和贺利在车房构思网上影音共享大计，并找来卡林姆帮忙，YOUTUBE就此诞生。其创办原意是为了方便朋友之间分享录影片段，后来逐渐成为网民的回忆储存库和作品发布场所。</p><p>2005年4月23日，YOUTUBE的第一部影片由卡林姆上传，长度只有19秒。在影片中，卡林姆站在加州圣地亚哥动物园的大象前说：“这些家伙有好长好长好长的，呃，鼻子。好酷”。</p><p>至2006年，YOUTUBE已有4000万条短片，每天吸引600万人浏览；在成立后的短短15个月，已超越MSN VIDEO与GOOGLE VIDEO等竞争对手，成为本世纪最多人浏览的网站。  </p><a name="5"> </a><h3>发展</h3><p>2006年10月9日，GOOGLE公司以16.5亿美元收购了YOUTUBE网站，并与环球唱片、SONYBMG、华纳音乐、哥伦比亚广播公司达成内容授权及保护协议，解除市场对内容供应商可能追究侵权内容而升高法律行动的疑虑。</p><p>2007年6月19日，YOUTUBE于巴黎宣布将开始拓展全球本地化服务，第一波首先推出9种语言版本。网站界面可供选取多国语言，也会根据地区结合当地民众的搜寻习惯和热门浏览。</p><p>2007年10月，在台湾出生的创办人之一陈士骏（STEVE CHEN）回到故乡，并宣布正式成立台湾中文版YOUTUBE。</p><p>2007年10月17日及18日，YOUTUBE分别开放了中国香港及台湾两地的中文网站。配合YOUTUBE台湾的面世，YOUTUBE与天下杂志、三立电视、中国电视公司、台湾公共广播电视集团、雄狮旅行社等签订内容供应合作协议；配合YOUTUBE香港的面世，YOUTUBE已经与香港多个著名机构签下内容供应合作协议，包括亚洲电视、香港旅游发展局、香港电台及天映娱乐。</p><p>2008年8月1日，据IT博客“与G共舞”消息，谷歌下属视频网站YOUTUBE正式支持简体中文，这是谷歌曲线进军中国市场的关键一步。由于中国法律的限制，外资企业谷歌公司无法直接推出针对中国市场的视频网站，但又不想放弃这块快速增长的市场，一直在进行着迂回摸索的艰难道路。YOUTUBE提供全球（全部）、澳大利亚、巴西、加拿大、德国、西班牙、法国、英国、香港、爱尔兰、印度、意大利、日本、韩国、墨西哥、荷兰、新西兰、波兰、俄罗斯、台湾等二十个区域频道，支持简体中文、繁体中文、日语、韩语、英语等15种主要语言。</p><p>YOUTUBE的改版，将语言与国家（地区）的选项区分开，“语言”概念仅适用于功能界面的，而国家（地区）选项，则适用于像当地用户推荐当地最感兴趣的视频内容，如果你想关注世界不同国家或地区正热门的视频，可以使用此功能切换查看。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a3_37_42_50200009239445155795428973027_jpg.html" target="_blank" title="YOUTUBE目前总部位于加利福尼亚州圣布里诺"><img alt="YOUTUBE目前总部位于加利福尼亚州圣布里诺" data-original="http://a3.att.hudong.com/37/42/50200009239445155795428973027.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE目前总部位于加利福尼亚州圣布里诺"/></a>
+<strong>YOUTUBE目前总部位于加利福尼亚州圣布里诺</strong>
+</div><p>2008年11月，YOUTUBE与米高梅公司、狮门娱乐公司和哥伦比亚广播公司达成协定，允许在其美国网站内播放完整长度的电影和电视剧，这举动是为了能和已经授权而能播放国家广播公司、福斯广播公司其电视系列剧的HULU竞争。</p><p>2009年11月中，YOUTUBE再次与英国第四台签署合约，英国第四台将把旗下节目完整上传到YOUTUBE的电视专区《SHOW》，让英国的YOUTUBE的用户免费且完整观看英国第四台的节目，总计与超过60家的合作公司上传约有4000多个完整的电视系列剧；英国第四台成为全球第一家提供完整节目给YOUTUBE使用的大众媒体。</p><p>2010年1月，YOUTUBE又提供给美国用户电影出租服务。2010年3月，YOUTUBE开始免费提供某些内容的影片或电视系列剧，如印度超级板球联赛的转播。根据YOUTUBE的报告指出这是全球第一个免费在线广播的一大体育盛事。  </p><p>2015年7月17日，谷歌发布了截至6月30日的2015财年第二季度财报显示，现在YouTube有超过10亿用户，世界上所有上网的人群中几乎有三分之一的人每天在YouTube合计消费几亿个小时的时间观看视频，现在YouTube的观看时间同比增长60%，这是几年来最高增长水平。  </p><a name="7"> </a><h3>改版</h3><p>2010年3月31日，YOUTUBE网站更改页面成更简洁的设计，其目的在于简化整体界面，以增加使用者停留在网站的时间。GOOGLE产品经理SHIVA RAJARAMAN对此评论说：“我们觉得我们真的需要稍微退一步，以消除站内混杂的资讯。”同年5月，报道指出YOUTUBE一天有超过20亿部影片的观赏，并被形容为“超过美国三大电视频道于黄金时段，观看总人数的一倍左右”。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a1_53_26_50200009239445155795260902354_jpg.html" target="_blank" title="新版YOUTUBE首页"><img alt="新版YOUTUBE首页" data-original="http://a1.att.hudong.com/53/26/50200009239445155795260902354.jpg" src="http://www.huimg.cn/lib/0.gif" title="新版YOUTUBE首页"/></a>
+<strong>新版YOUTUBE首页</strong>
+</div><p>2010年12月9日下午消息，为推广个性化主页MY YOUTUBE，视频网站YOUTUBE举办了一场最受欢迎音乐家评选活动，众多音乐界名人参与了该项活动。</p><p>2011年12月，YOUTUBE再次改版，这次改版带来了重大反响。</p><p>YOUTUBE改版的博客内容称：“你可以浏览推荐频道，可以定制主页内容，甚至可以将YOUTUBE账户连接到GOOGLE+和FACEBOOK，查看好友正在共享什么内容。在新的主页上，我们此前推出的订阅内容将出现在页面的中心。”</p><p>这次改版，YOUTUBE不像以往一样走被人诟病的多文字路线，用更多图片视频取代了文字，内容也更具社交化了，这是谷歌斥资17.6亿美元收购YOUTUBE以来进行的最大规模改版之一。</p><p>改版之后，YOUTUBE主页将是三个垂直排列的栏目，而非水平排列的视频。左边一栏是定制功能，用户可以定制最喜欢的频道，并且可以关注用户好友在其它社交网站上发布的视频。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a3_41_97_50200014992522154399977914141_jpg.html" target="_blank" title="个人操作明显的简化"><img alt="个人操作明显的简化" data-original="http://a3.att.hudong.com/41/97/50200014992522154399977914141.jpg" src="http://www.huimg.cn/lib/0.gif" title="个人操作明显的简化"/></a>
+<strong>个人操作明显的简化</strong>
+</div><p>中间一栏是YOUTUBE的全新主页面，可以播放视频。用户点击不同的频道，这部分内容显示就会随之改变。右边一栏则是推荐视频列表，根据用户的点击和过去观看视频的历史推荐其它的视频。改版后，在新版主页的左上角便能登陆，而后，用户进入到YOUTUBE的任意页面，右上角都有一个用户名，点开后就会打开我的收藏、稍后观看、我的频道等用户常用功能，这样用户就能随时打开这些功能，省去了用户进入个人频道的操作。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a0_83_26_50200009239445155795263238904_jpg.html" target="_blank" title="视频页面的重大改进"><img alt="视频页面的重大改进" data-original="http://a0.att.hudong.com/83/26/50200009239445155795263238904.jpg" src="http://www.huimg.cn/lib/0.gif" title="视频页面的重大改进"/></a>
+<strong>视频页面的重大改进</strong>
+</div><p>经过改版，新的视频页面有了很大变化，在新的视频页面中，用户可以直接看到有多人看了这部视频，有多少人顶（或踩）这部视频，可以直接分享或者举报。还有上传者评论、热门评论和视频回复等。同时，用户也可以直接在视频页上订阅该上传者的频道以及观看他（她）上传的其它视频的列表，这一切不用打开一个新页面，也不会中断你正看着的视频。右边一列是YOUTUBE根据你所看的视频所向你推荐的视频。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a4_56_17_50200014992522154402174617022_jpg.html" target="_blank" title="YOUTUBE的分享元素明显增强"><img alt="YOUTUBE的分享元素明显增强" data-original="http://a4.att.hudong.com/56/17/50200014992522154402174617022.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE的分享元素明显增强"/></a>
+<strong>YOUTUBE的分享元素明显增强</strong>
+</div><p>新版YOUTUBE明显增强了分享元素。进入首页，不再是一大堆推荐视频，而是你所订略的频道的动态。进入个人频道，你可以发布FEED。在视频评论里，你甚至可以@他人。最明显的莫过于视频分享了。当你顶了某个视频时，会直接弹出GOOGLE+、FACEBOOK和TWITTER的分享按钮和视频地址。如果你点分享键时，还有TUMBLR、BLOGGER、MYSPACE、HI5、LINKEDIN、STUMBLEUPON和ORKUT社交网站的分享按钮，同时还有镶入代码和电子邮件可选择。</p><p>在些较为热门的视频页面中，你可以查看它的统计显示，包括上传日期、流量分布、重大活动、该视频的全球流量分布、喜爱该视频的人群分布等。  </p><p>2015年4月22日，YouTube App 将停止支持 2012 年或更早上市的智能电视和 iOS 设备。绝大部分2013年后之后，才发布的设备都是安全的。受到波及的电视产品包括 Apple TV 第二代、Panasonic TV、Sony TV和蓝光播放器，以及所有运行 Google TV 1 或 2 的设备。而 iPhone、iPad 和 iPod 用户，想要继续使用 YouTube App 的话，必须升级到至少 iOS 7。第三代 Apple TV 也需要升级一下平台。Google TV 版本 3 或版本 4 的设备则需要在 Google Play 中更新到最新的 App。  </p><p>2018年5月18日，YouTube于5月22日推出一款新的音乐流媒体服务YouTube Music   。</p><a name="9"> </a><h3>原创节目</h3><p>2016年，YouTube的第一批原创节目首次在其高端服务上亮相，首先是该平台最受欢迎的一些视频创作者的系列。</p><p>2018年7月28日，该公司旗下的YouTube正在为法国、德国、日本、墨西哥和印度等国际市场开发剧本系列和其他原创节目，这些节目以多种形式出现，包括音乐纪录片、真人秀、脱口秀和剧本系列。  </p><p>2017年6月6日，《2017年BrandZ最具价值全球品牌100强》公布，YouTube名列第65位。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="11"> </a>收购信息<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="11" target="_self">编辑</a>
+</h2>
+</div>
+<a name="13"> </a><h3>收购</h3><p>2011年3月9日凌晨，YOUTUBE宣布已经收购在线视频内容提供商NEXT NEWNETWORKS。还表示，已经建立一支名为“YOUTUBE NEXT”的工作团队，负责加快视频开发，促进合作伙伴的增长，并研发一系列“NEXT”品牌产品。</p><p>YOUTUBE于2011年3月7日（周一）正式宣布收购视频制作公司NEXT NEW NETWORKS，业内人士认为，谷歌自此成为真正的媒体公司。</p><p>不过，有媒体认为，YOUTUBE的原创节目占比将非常小，YOUTUBE收购NEXT NEW NETWORKS的目的重点在建立平台，让YOUTUBE的合作伙伴制造内容。</p><p>此举旨在创造更多的专业内容，让YOUTUBE可以不断地长期地吸引观众，而不是那些YOUTUBE上充斥的滑稽视频，以及盗版音乐、电视视频。</p><p>此外，谷歌还宣布了培训项目YOUTUBE NEXT，将向视频制作者提供补助和培训。</p><p>YOUTUBE未宣布交易金额。消息人士透露，交易价格不到1亿美元。截至周一前，NEXT NEW NETWORKS共融资2600万美元。  </p><a name="15"> </a><h3>拟购</h3><p>2014年5月，外媒传出消息称YOUTUBE以接近以10亿美元的价格达成对游戏直播创业公司TWITCH的收购。据称，该交易将完全通过现金完成，“即将”达成。</p><p>2011年创立的TWITCH已经成为了一个较为热门的电子游戏在线直播网站，能够帮助像《口袋怪物》（POKEMON）这样的另类游戏吸引大量的观众。如果顺利完成，该交易将会成为YOUTUBE史上最重要的一笔并购。谷歌2006年买下YOUTUBE时的出价为16.5亿美元。谷歌的资深高管苏珊·沃西基（SUSAN WOJCICKI）被任命为YOUTUBE的CEO。</p><p>2014年7月25日，内幕人士透露GOOGLE 已经与 TWITCH 签署协议，以 10 亿美元收购这家游戏直播平台，但交易的宣布时间和确切价格等细节尚不明朗。业界普遍看好此次收购，认为此举有助于弥补YOUTUBE视频直播服务方面的短板。  </p><p>但Twitch与Google双方最终未能达成交易，亚马逊随即插手，最终成功收购Twitch。北京时间2014年8月26日亚马逊周一（8月25日）宣布，亚马逊将以约9.7亿美元的现金收购流媒体直播游戏视频网络Twitch Interactive所有流通股。   另外，twitch的CEO Emmett Shear官方博客里也明确表示twitch已经被亚马逊收购。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="17"> </a>产品服务<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="17" target="_self">编辑</a>
+</h2>
+</div>
+<p>YOUTUBE采用SORENSON SPARK与ADOBE FLASH9提供之影像编码技术，将用户上传影像档案进行压缩转档。今日YOUTUBE影片内容包罗万象，涵盖个人影片及电视节目片段，音乐录像带及家居录影等。YOUTUBE影像品质远不如REALVIDEO与WINDOWS MEDIA等联机流技术，但因低带宽需求并可简易地借由FLASH PLUG-IN内嵌于个人的BLOG或其他网站中而迅速取得压倒性的知名度与成功。高清视频有研究与投资公司决策高层指出 
+<b>YOUTUBE</b>的网站流量需求极高，甚至每月需要付大约100万美金的费用，在2006年3月，YOUTUBE开始在网站卖广告。在YOUTUBE中使用“播放清单”进行“自动播放”时，有导致影音播放不同步的累进误差，导致此现象的原因至今不明。  </p><p>YOUTUBE自2009年中起逐步减少支持INTERNET EXPLORER 6及以下的旧版浏览器。2010年3月13日，YOUTUBE停止支持INTERNET EXPLORER 6及以下的旧版浏览器。</p><p>该网站的视频的播放也是通过FLASH技术实现的。ADOBE也正在通过这一系列技术，从苹果（QUICKTIME）、微软（WINDOWS MEDIA）以及REAL(REAL MEDIA）等在线多媒体内容发布解决方案提供商手中抢夺更多的市场份额。并且希望在互联网上更多地体现其影响力。  </p><a name="19"> </a><h3>影片播放</h3><p>观看YOUTUBE影片的用户在其个人电脑网页浏览器上，需要安装ADOBE FLASH PLAYER的插件。其中ADOBE FLASH PLAYER是一种常见的安装在个人电脑的插件，并支持近75%的网络影片。</p><p>2010年1月YOUTUBE推出一实验版的网站，它使用内置的多媒体功能以替代网络浏览器来达到HTML5的标准。这使得观看影片前，并不需要事先安装ADOBE FLASH PLAYER或任何其他插件。YOUTUBE网站上另有一个页面，允许其所支持的浏览器选择HTML5模式来试用。但只有支持HTML5且使用H.264或WEBM格式的浏览器可以直接播放视频，且并不是所有的影片都能观看。  </p><p>最早YOUTUBE仅提供影片使用H.263视频编解码器，只有320X240像素画质以及单声道MP3音频的水平。2007年6月，YOUTUBE增加了一个能在移动电话上选择观看3GP格式影片的功能。2008年3月，增加了一个480X360像素分辨率的高品质模式；同年11月，增加了720P的高清晰度影片支持模式，同时播放器也能从4：3屏幕大小改为16：9的宽屏屏幕。有了这项新功能，YOUTUBE的开始改使用H.264/MPEG-4 AVC作为其缺省的视频编解码器。2009年11月，又加入了1080PHD的影片支持模式。2010年7月，YOUTUBE宣布计划推出了一系列的影片4K的格式，且预计其中有一模式的影片分辨率高达4096X3072像素。</p><p>YOUTUBE视频可在一个范围内选择所想要的像素水平，分别以标准质量（SQ），高品质（HQ）和高清晰度（HD）来取代之前以数值代表垂直分辨率的方法。而当前以H.264/MPEG-4 AVC作为缺省的视频编解码器、音频则改为AAC格式。  </p><a name="21"> </a><h3>影片上传</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a4_25_18_50200014992522154402185779243_jpg.html" target="_blank" title="YOUTUBE已取消部分用户上传时限"><img alt="YOUTUBE已取消部分用户上传时限" data-original="http://a4.att.hudong.com/25/18/50200014992522154402185779243.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE已取消部分用户上传时限"/></a>
+<strong>YOUTUBE已取消部分用户上传时限</strong>
+</div><p>YOUTUBE平均每秒有1小时的视频上传，平均每天有35万人的视频上传。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a0_21_88_50200014992522154401888923437_jpg.html" target="_blank" title="YOUTUBE的新上传界面"><img alt="YOUTUBE的新上传界面" data-original="http://a0.att.hudong.com/21/88/50200014992522154401888923437.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE的新上传界面"/></a>
+<strong>YOUTUBE的新上传界面</strong>
+</div><p>拥有YOUTUBE帐户的用户所能上传的影片长度其标准限制时间为15分钟（指单个）。2005年YOUTUBE创站刚开始并没有限制影片长度，但自2006年3月起，YOUTUBE改将影片长度限制在10分钟，这是因为YOUTUBE发现超过这段时间的影片大多是未经授权而上传的电视节目或者是电影内容，之后仅开放自2007年以前申请导演版帐号的用户或是与YOUTUBE有合作关系的大众媒体，可以上传超过15分钟的影片。而自2010年7月起，YOUTUBE放宽影片长度限制由10分钟增加至15分钟，而与YOUTUBE有合作关系的大众媒体，仍可以上传超过15分钟的影片。此外单个影片文件最大限制大小如果是使用基本或FLASH上传的为2GB大小，而如果使用JAVA上传者则可增加至20GB。12月10日早间消息，YOUTUBE宣布，将取消上传视频15分钟的时长限制，这一举措将开始在部分信誉较好的用户中生效。这同时意味着，用户有更多机会上传没有版权的任何长度的视频，如通过摄像机在电影院拍摄的完整电影等。YOUTUBE表示，之所以取消时间限制，是因为YOUTUBE有能力控制侵权行为。  </p><p>YOUTUBE的影片上传支持大多数常见的视频文件格式，包括AVI、MKV、MOV、MP4、DIVX、FLV和THEORA、MPEG-4、MPEG和WMV等格式。此外也支持3GP，让上传者也可使用移动电话来上传影片。</p><p>同时，YOUTUBE也更新了上传的界面，可以一次性上传多个视频，且各项上传功能皆有优化。  </p><a name="23"> </a><h3>电影频道</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a1_25_76_50200014992522154400766739421_jpg.html" target="_blank" title="YOUTUBE的电影"><img alt="YOUTUBE的电影" data-original="http://a1.att.hudong.com/25/76/50200014992522154400766739421.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE的电影"/></a>
+<strong>YOUTUBE的电影</strong>
+</div><p>YOUTUBE的电影频道已经上线许久，里面大部分内容需要付费，其价格从1.99美元起，用户购买的是48小时观看权。里面也有部分免费电影观看。  </p><p>2009年7月21日，YOUTUBE的软件工程师PETER BRADSHAW宣布YOUTUBE用户可以上传三维电影并加以观赏。  </p><a name="25"> </a><h3>付费频道</h3><p>2013年5月10日，YOUTUBE发布了一个付费频道订阅项目。</p><p>2013年2月，该项目的相关工作人员声称，该平台将包含至少50个YOUTUBE频道，订阅单个频道至少花费1.99美元一个月。2013年二月份时，YOUTUBE官方曾向美国科技媒体CNET表示确实在开发这样一个服务，但并未说明何时正式上线。<br/>　　该平台将帮助谷歌获得更多营收来源，并且相关频道运营者也将从内容获得收益。YOUTUBE方面拒绝就具体发布时间做出评论，只是提到“他们将继续努力创造出一个平台，为YOUTUBE用户带来更加优质的内容。并且让那些为YOUTUBE提供原创内容的个人或集体带来应有的回报。” YOUTUBE已经接触了一些内容制造商，这些内容制造商都有利于帮助建立起一个付费平台。根据ADAGE在2013年一月份的报道，YOUTUBE甚至考虑对其他内容收费，比如视频流直播、金融投资类节目。 </p><a name="27"> </a><h3>翻译功能</h3><p>2008年8月，YOUTUBE增加了视频外挂字幕功能。用户可以为自己的视频添加多种语言的字幕，但对于YOUTUBE面向的全球用户来说，仅凭上传者添加字幕肯定不能满足多语言用户的需求。将鼠标移至视频右下角，再选择“CC”（字幕）图表中的翻译功能，即可调用GOOGLE翻译引擎对原字幕进行实时翻译。  </p><a name="29"> </a><h3>视频直播</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a1_58_30_50200014992522154402305910926_jpg.html" target="_blank" title="YOUTUBE LIVE视频直播平台推按次付费功能"><img alt="YOUTUBE LIVE视频直播平台推按次付费功能" data-original="http://a1.att.hudong.com/58/30/50200014992522154402305910926.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE LIVE视频直播平台推按次付费功能"/></a>
+<strong>YOUTUBE LIVE视频直播平台推按次付费功能</strong>
+</div><p>2011年4月11日，YOUTUBE宣布，该公司一周年以前发布的视频直播平台YOUTUBE LIVE开始推出按次付费（PAY-PER-VIEW）的新功能，但并非面向所有市场推出。</p><p>YOUTUBE LIVE于2012年发布，为免费的基于广告的一向业务。YOUTUBE一直都在考虑如何让YOUTUBE LIVE平台不再只是一项免费的、基于广告的服务，而该公司正在推行这项计划。在向少量视频发布者提供测试服务后，YOUTUBE正在向YOUTUBE LIVE平台的视频发布者提供按次付费的功能。YOUTUBE称，该公司正处于向合作伙伴提供视频直播功能的进程中。</p><p>YOUTUBE希望用户能对这项服务抱有信心，原因是该公司并非面向全世界提供按次付费的功能。YOUTUBE表示：“如果你是曾要求使用YOUTUBE LIVE平台的许多人之一，但却尚未进入这个平台，那么我们想对你的耐心表示非常感谢。我们开发出了这些特性，盼望着能有更多用户最终能够使用YOUTUBE LIVE；但就像我们所说的那样，广泛推出这项服务的进程需要一段时间才能完成。  </p><a name="31"> </a><h3>TESTTUBE</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a3_84_97_50200014992522154399973888815_jpg.html" target="_blank" title="YOUTUBE测试新功能的地方—TESTTUBE"><img alt="YOUTUBE测试新功能的地方—TESTTUBE" data-original="http://a3.att.hudong.com/84/97/50200014992522154399973888815.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE测试新功能的地方—TESTTUBE"/></a>
+<strong>YOUTUBE测试新功能的地方—TESTTUBE</strong>
+</div><p>在YOUTUBE任意页面的最下角，点击(试试新功能!)按钮，便能进入TESTTUBE了。</p><p>TESTTUBE是YOUTUBE进行新功能测试的地方，以用户自愿为原则，用户可以试用多个未正式发布的新功能，再将使用情况和建议反馈给YOUTUBE，以此来帮助调试他们的新功能，新功能待用户反馈情况良好时再正式发布上线。  </p><a name="33"> </a><h3>数字音乐</h3><p>在数字音乐领域的有趣趋势之一就是 YOUTUBE 被认为会成为最流行的体验在线音乐的手段。</p><p>NIELSEN 的一项对全球音乐会议MIDEM的最新调查报告显示，人们在 YOUTUBE 上听的音乐数量是合法下载的三倍。这一结果很可能让音乐行业有些诧异。YOUTUBE 一直在MV领域占据主动，所以我们不应惊讶用户转而开始用它来收听音乐。除了商业制作的单曲MV以外，许多专辑曲目和现场也被发到了这一平台上，无论是用静态图片还是演唱会录像制作的。</p><p>对于数十亿已经熟悉 YOUTUBE 的查询和推荐功能的用户来说，在上面直接听歌是种非常快速、便捷的手段，而且是免费的。YOUTUBE 在移动设备上的普及程度是有据可查的，并即使它在缓冲时会用掉用户的许多流量，它的跨平台性和熟悉的操作使之成为智能手机用户的首选。</p><p>每天都有大量的歌曲被上传到 YOUTUBE。歌手们也不大可能去时时关注有没有人非法把他们的作品传到了上面。尽管有过艺术家和厂牌试图用IP跟踪来找到并起诉那些侵犯自己知识产权的人，但是事实是上面的大量无版权内容还是没有人去管理。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a1_44_49_50200009239445155795493086161_jpg.html" target="_blank" title="YOUTUBE百首金曲，就是音乐的每周排行榜"><img alt="YOUTUBE百首金曲，就是音乐的每周排行榜" data-original="http://a1.att.hudong.com/44/49/50200009239445155795493086161.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE百首金曲，就是音乐的每周排行榜"/></a>
+<strong>YOUTUBE百首金曲，就是音乐的每周排行榜</strong>
+</div><p>大多数版权所有人无可奈何的意识到一个事实，即无论怎样威胁或警告，都会有人来上传他们的作品。</p><p>对于正在寻找试听的用户，他们不会太在意音质，而 YOUTUBE 就很适合他们。一些精明的艺术家和更多的网络唱片公司已采取类似于在曲目中嵌入广告，或者“购买”按钮，或者到 ITUNES 的链接的促销措施。如果这一手段可以被广泛使用，那么将把这一平台从单一但伟大的音乐收听平台向更加伟大的音乐购买平台转变。</p><p>YOUTUBE为用户提供了百首金曲列表，就是一百首金曲，每周更新一次。默认的是按周点击量进行排行，所以一般来说每周变化不大。这一列表主要是向用户推荐歌曲，当然用户也可以选择按周最多收藏、最多评论、最受欢迎等来排列自己的百首金曲。</p><p>其实百首金曲就是音乐视频的每周排行榜，用户也可以查看其它类别例如体育、搞笑、人物博客等的每周排行榜。      </p><a name="35"> </a><h3>打赏功能</h3><p>YOUTUBE 正式在美国、澳大利亚、日本和墨西哥四个国家推出了观众向视频上传者打赏的功能。可以在自己账号的管理页面中看到这个选项，自行决定是否开启这个功能。</p><p>这个功能将同时支持 WEB 端和 ANDROID 版本（最低 5.7 版），IOS 目前尚未支持，因为显然，打赏是通过 GOOGLE WALLET 进行并完成的。      </p><a name="37"> </a><h3>360度视频</h3><p>2015年1月7日，视频网站Youtube计划在未来几周内支持原生“360度视频”(360-degree video)上传和播放。</p><p>Youtube支持“360度视频”意味着，用户在Youtube上观看“360度视频”时，可以用鼠标、按键等调整镜头角度，而在此期间，无需暂停视频播放。</p><p>2015年2月5日消息，此前传出的Youtube将支持“360度视频”属实，Youtube今天在网站发布了首部支持多角度观看的视频。所谓多角度视频或者“360度视频”就是，多个摄像机同时对同一个空间下的物体进行多个角度拍摄，支持多角度视频播放或者“360度视频播放”的网站，比如Youtube，允许用户在无需暂停视频播放的情况下，自由切换观看角度。用户只需点击视频框右面的四个小摄像机图标，就可切换四个不同角度观看表演。根据Youtube官方消息，目前仅美国地区用户可以测试这一多角度视频观看功能。  </p><a name="39"> </a><h3>儿童版应用</h3><p>2015年2月21日消息，YouTube将发布一款面向儿童的新应用YouTube Kids。这款应用将包括智能手机和平板电脑版本，专注于适合儿童的内容。</p><p>从2015年2月23日开始，用户将可以下载这款免费应用。这款应用也将采用对儿童友好的设计，有着尺寸较大的图标。YouTube Kids将与YouTube自身应用区分开。这款应用将支持定时器等家长控制功能，便于父母控制儿童使用设备的时间。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="41"> </a>公司盈利<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="41" target="_self">编辑</a>
+</h2>
+</div>
+<a name="43"> </a><h3>广告浏览</h3><p>2011年2月16日消息，YOUTUBE产品经理西什尔·梅罗特拉（SHISHIR MEHROTRA）周二表示，YOUTUBE每周广告赞助视频的浏览量已超过30亿次，与2010年5月份相比增长了50%，为谷歌带来不菲营收。</p><p>YOUTUBE每周的视频浏览量为140亿次，梅罗特拉称，由广告赞助的视频浏览量已经超过30亿，意味着约1/5的浏览量为公司带来了营收。梅罗特拉说：“我们的合作伙伴看到了效果，因此开始 投资。”</p><p>YOUTUBE正试图吸引用户在网站上停留更长时间，从而吸引更多广告主，进一步刺激公司营收。调研公司EMARKETER数据显示，YOUTUBE营收翻了一番多。</p><p>调研公司THINKEQUITY分析师亚伦·凯斯勒（AARON KESSLER) 称：“YOUTUBE可能不会成为游戏规则的改变者，但却是投资者一直在寻找的谷歌非搜索业务增长。”        </p><a name="45"> </a><h3>开始盈利</h3><p>美国投资公司CARIS &amp;AMP;CO分析师桑迪普·阿加瓦尔（SANDEEP AGGARWAL）预计，YOUTUBE在2008年的营收为7.1亿美元，而2009年仅为3.45亿美元。阿加瓦尔认为，YOUTUBE已经开始盈利，运营利润率约为35%。</p><p>梅罗特拉称，由广告赞助的视频的浏览量是YOUTUBE财务状况是否强劲的核心指标。2009年，YOUTUBE每周由广告赞助的视频的浏览量达到10亿次，2010年5月达到20亿次，2010年10月首次达到30亿次。</p><p>调研公司COMSCORE数据显示，谷歌占据了美国互联网视频浏览量的80%。    </p><a name="47"> </a><h3>伙伴受益</h3><p>沙伊·巴特勒（SHAY BUTLER）在YOUTUBE上发布一些喜剧视频，通过提供广告位与YOUTUBE共享营收。巴特勒称，因为YOUTUBE他可能会主动辞去工作。巴特勒通过YOUTUBE进账10万美元，他的视频浏览量超过2.5亿次。</p><p>巴特勒称：“最初没有想到会赚钱，第一次查账时还不到500美元。YOUTUBE的广告业务发展得越来越好，人们也开始看到价值。”      </p><a name="49"> </a><h3>目标用户</h3><p>在拓展视频内容的同时，YOUTUBE还帮助广告主根据用户喜好来吸引目标用户。YOUTUBE推出了新广告系统TRUEVIEW，只有当用户选择观看广告后，才向广告主收费。</p><p>梅罗特拉说，广告主可以更轻松地投资体育内容，从而获得更多关注。惠普也在YOUTUBE上投放了广告，惠普全球营销副总裁塔里克·汉森（TARIQ HASSAN）称：“YOUTUBE为我们提供了利用数字技术进行尝试的机会。”      </p><a name="51"> </a><h3>付费服务</h3><p>2014年6月，YOUTUBE官方宣称，如果其平台上的独立音乐人或机构，不加入YOUTUBE即将推出的付费流媒体音乐服务，那么它们将无法再次利用YOUTUBE的庞大用户资源，来分发推广自己制作的内容。此消息一出，立即引来了众多独立音乐人的抗议。</p><p>此前媒体报道称，该流媒体音乐服务暂定名为“YOUTUBEMUSICPASS”。用户需要交付一定的订阅费用来进行音乐收听、MV观看、歌曲下载等等。</p><p>YOUTUBE内容与商业运营负责人ROBERTKYNCL在接受《金融时报》采访时，证实了上述消息，表示必须确保YOUTUBE平台上的所有音乐制作方，都与YOUTUBE合作，加入最新的流媒体音乐服务计划，并遵守相关条款。    </p><div class="content_h2"><h2 class="mar-t10">
+<a name="53"> </a>社会影响<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="53" target="_self">编辑</a>
+</h2>
+</div>
+<a name="55"> </a><h3>市场份额</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a4_51_61_50200014992522154400611272907_jpg.html" target="_blank" title="2011年全球视频网站排行，YOUTUBE第一"><img alt="2011年全球视频网站排行，YOUTUBE第一" data-original="http://a4.att.hudong.com/51/61/50200014992522154400611272907.jpg" src="http://www.huimg.cn/lib/0.gif" title="2011年全球视频网站排行，YOUTUBE第一"/></a>
+<strong>2011年全球视频网站排行，YOUTUBE第一</strong>
+</div><p>根据COMSCORE发布2011年全球视频网站排行，YOUTUBE蝉联第一，以43.8%的市场占有率位居榜首，比第二名优酷的2.3%整整高了41.5%（优酷和土豆已合并，市场份额为3.5%）。排第三的是VEVO的1.8%，紧随其后的是FACEBOOK的1.3%。  </p><p>根据美国市场研究公司eMarketer的测算，美国的数字视频广告市场份额2014年增长56%，达到58亿美元，2015年预计还将增长30%，达到77亿美元。其中YouTube的市场份额为19.3%，但eMarketer预计该网站2017年的份额将降至17.7%。  </p><a name="57"> </a><h3>视频数量</h3><p>YOUTUBE在庆祝八岁生日的一篇博文中对外披露，用户每分钟上传的视频，长达100小时。这意味着每分钟上传的视频，需要一个用户观看四天才能看完。如果以一天24小时计算，YOUTUBE接收到的用户原创视频长度为1440亿分钟。作为对比，2011年，YOUTUBE宣布每分钟收到的视频长度为48小时，过了两年翻了一倍。  </p><a name="59"> </a><h3>资讯发布</h3><p>随着2005年YOUTUBE的开站后，提供了简单的方法让普通电脑用户上传影片。而科技发达、宽带和摄影器材的普及，使得短片信息大行其道。凭借其简单的界面，使得YOUTUBE可让任何已上传至网络的视频在几分钟之内使全世界观众观看，这令用户由传统的接收信息者，变成信息发布者。</p><p>一个早期YOUTUBE对社会影响的例子如2006年的巴士阿叔事件，并被广泛的在主流媒体上讨论。另一个 YOUTUBE影片获得广泛报道是一以电吉他弹奏需扫弦奏法（SWEEP PICKING）技巧的摇滚版的D大调卡农，表演者的名称虽然没有在视频出现，随着超过数百万次的播放后，由《纽约时报》披露吉他手的身份为23岁韩国人林正玄，他是在其卧室中拍下此段影片。    </p><a name="61"> </a><h3>网络社区</h3><p>不少用户通过自拍短片分享个人珍藏和心得，或从事商业买卖行为。</p><p>2009年4月29日，一名英格兰孕妇在家中突感腹部不适即将分娩，其丈夫在情况紧急的情况下在YOUTUBE上搜索有关分娩和接生的视频教程。4个小时之后他的妻子进入分娩过程，正是根据YOUTUBE上的视频教程，丈夫顺利的完成了妻子的接生工作。      </p><a name="63"> </a><h3>用户规模</h3><p>2006年的一项研究发现，使用YOUTUBE男性要比女性多出约20%。同时也发现，12至17岁的年龄组有高于其他年龄组1.5倍的机率前往浏览YOUTUBE。</p><p>2013年的统计数据显示，每个月有8亿人次使用YOUTUBE，Y月度活跃用户超过了10亿人。总观看时间超过30亿个小时，且每分钟上传的影片长度达72小时。      </p><a name="65"> </a><h3>枪击案</h3><p>2018年4月3日，YOUTUBE公司总部发生枪击案，三人中枪受伤被送往医院。  </p><a name="67"> </a><h3>获得荣誉</h3><p>2008年，YOUTUBE被授予当年度皮博迪奖，被誉为“发言者的角落”。获奖理由为YOUTUBE借由其网站技术，使用户能上传、观看和分享影片，如同一能不断扩大的存盘/公告板，也因此同时体现并促进民主精神。        </p><p>2018年12月18日，世界品牌实验室编制的《2018世界品牌500强》揭晓，YouTube排名第20位。  </p><a name="69"> </a><h3>播放极限</h3><p>2014年12月5日，韩国说唱音乐歌手“鸟叔”（朴载相）暴火的《江南STYLE》打破了因特网的点击上限，视频的点击量在2014年超过了2147483647次，YOUTUBE网站的计数器超过了其理论上限。  </p><p>但是，YOUTUBE视频网站很快解决了可能发生的灾难，把点击上限从32位最大正整数升级到64位，这样，从理论上来说，最高点击量可达9223372036854775808次。  </p><p>已有21.53亿观众看过“鸟叔”在2012年推出《江南STYLE》视频，这是YOUTUBE网站点击观看量最多的视频，比排在第二名的贾斯汀·比伯的《BABY》要多出10亿点击量。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="71"> </a>争议事件<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="71" target="_self">编辑</a>
+</h2>
+</div>
+<a name="73"> </a><h3>不良风气</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a3_55_42_50200014992522154402429744221_jpg.html" target="_blank" title="You"><img alt="You" data-original="http://a3.att.hudong.com/55/42/50200014992522154402429744221.jpg" src="http://www.huimg.cn/lib/0.gif" title="You"/></a>
+<strong>You</strong>
+</div><p>2006年8月11日至19日，英国极右派团体在YOUTUBE张贴数段恐吓影片，模仿伊斯兰教激进份子“殉道烈士”录像带，每段影片的长度是2－3分钟。影片内容是一群白人男性荷枪实弹，手持刀刃棍棒，仿效恐怖份子蒙面装扮，警告所有穆斯林马上离开英国。影片中，一名操威尔士口音的男子警告英国穆斯林若不“回家”就会被活活烧死，并说全英国已有许多“同志”受够了穆斯林。英国伊斯兰人权委员会执行长MASSOUD SHADJAREH说，这些影片的出现相当令他忧心。英国反法西斯主义杂志《探照灯》发行人GERRY GABLE谴责YOUTUBE容许这类提倡恐怖主义的影片存在。</p><p>2006年6月1日，英国独立电视台（ITV）批评YOUTUBE及近似的网站鼓吹暴力，因为这些网站上传了由手机拍摄的打斗影片。虽然YOUTUBE禁止过份暴力和色情的影片，但ITV指与这些网站沟通时有一定困难。</p><p>2007年11月7日，一位芬兰高中生在YOUTUBE上预告后犯下校园枪击案。YOUTUBE于事后删除了该人账号。      </p><a name="75"> </a><h3>侵犯版权</h3><p>YOUTUBE自成立以来，其短片曾被不少机构和公司批评为侵犯版权，如《周末夜现场》节目、NBC环球、《居家男人》影片版权持有者、TURNER MEDIA、日升动画等公司机构。YOUTUBE本身并不会在用户上传影片前，事先进行审核，而是被指为侵权的短片在版权持有人要求下，YOUTUBE会将之删除。虽然用户在上传影片时，YOUTUBE会显示消息指出“请勿上传任何电视节目、音乐视频、音乐会，或其他未经批准的广告，除非它们的所有内容皆是由你自己所创建”。尽管已有这般建议，但在YOUTUBE上仍有许多未经授权且具有版权内容的影片片断。</p><p>包括维亚康姆在内，MEDIASET和英格兰超级足球联赛也已经提起诉讼反对在YOUTUBE，声称YOUTUBE在防止上载有版权的影片防治这方面做得太少。2007年3月，美国媒体公司维亚康姆向法院提交了诉状，起诉YOUTUBE及其母公司GOOGLE侵犯其作品版权，并要求10亿美元的赔偿。公司负责人指出已发现了超过 15万美元价值的未经授权影片，且能直接免费的在YOUTUBE观看。YOUTUBE在此事答复中说：“协助内容所有者来保护他们自己的作品，已远远超出其在法律上所需负责的义务。”YOUTUBE已导入修正后的地区化版权控管机制，当地区的代理商提出异议时，则将该地区排除拨放，以维护代理商的权利。因此导致即使算是原始的版权持有人所经营的官方频道，也不是任何地区都能看。提示为“这部影片含有 XXX 所拥有的内容，您的国家/地区的观众已无法再观看该影片。此外，YOUTUBE也在网站上加入一名叫影片ID的系统，它对用户所上传的影片与存储有具版权内容影片的数据库交互比对，以减少与此相关的违法行为。2010年6月23日，维亚康姆的诉讼在简易法庭被法官LOUIS STANTON驳回。维亚康姆公司宣布他们仍会继续提起上诉。</p><p>2014年12月24日，代表数十位音乐巨星的法律组织“全球音乐版权”(Global Music Rights)要求谷歌旗下YouTube移除大约2万个音乐视频，否则就将面临10亿美元的诉讼索赔。  </p><a name="77"> </a><h3>隐私权</h3><p>2008年7月，维亚康姆赢得了法院的裁决，并要求YOUTUBE交出数据，数据上需详细附上每个用户的浏览纪录，以让公司了解谁在网站上看过这些侵权影片。此举令有浏览习惯的个人用户担心，因为可借由这些纪录通过组合确定其IP地址和登录名。这一决定也令电子前哨基金会批评，他们认为这次法院裁决“隐私权受到侵犯”。美国地方法院法官LOUIS STANTON认为这是一“投机”行为，驳回这次有隐私权争议的裁决，并要求YOUTUBE交出约12太字节的相关数据以供判决。LOUIS STANTON亦驳回维亚康姆要求YOUTUBE交出搜索引擎的源代码，且表示说并没有任何证据表明，YOUTUBE的影片处理侵犯了版权。  </p><p>2018年4月10日，23个隐私及儿童保护团体向FTC提交文件，指责YouTube非法收集儿童数据。无商业化童年运动（Campaign for a Commercial-Free Childhood）组织是所有团体的领导者，它认为YouTube侵犯了《儿童隐私保护法案》（Children’s Online Privacy Protection Act），未经父母允许，YouTube收集13岁以下儿童的数据。   事实上，YouTube明确要求用户的年龄至少达到13岁，而且它还在广告政策中规定，不许收集13岁以下儿童的数据。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="79"> </a>接受审查<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="79" target="_self">编辑</a>
+</h2>
+</div>
+<p>由于YOUTUBE上的内容问题，网站至少在全球十几个国家受到过审查，包括巴西、中国、印度尼西亚、伊朗、摩洛哥、突尼斯、巴基斯坦、土耳其、沙特阿拉伯、叙利亚、泰国和阿拉伯联合酋长国等，但绝大部分已经获解封；YOUTUBE亦被美国和英国的个别院校自行封锁。在2009年9月21日，完全无法直接访问YOUTUBE的地区至少包括中国大陆和土耳其。2010年10月31日，土耳其解除了对YOUTUBE的禁止，但2014年3月27日又对其进行封杀。而截至2016年7月，伊朗、土耳其、中国和巴基斯坦等国家对YOUTUBE进行了全面的封锁。  </p><a name="81"> </a><h3>中国</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a2_71_54_50200014992522154400543743666_jpg.html" target="_blank" title="YOUTUBE在中国无法浏览"><img alt="YOUTUBE在中国无法浏览" data-original="http://a2.att.hudong.com/71/54/50200014992522154400543743666.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE在中国无法浏览"/></a>
+<strong>YOUTUBE在中国无法浏览</strong>
+</div><p>GOOGLE旗下的YOUTUBE视频网站含有不合法的视频、图像、言论等内容，违反了中国互联网审查标准。</p><p>2007年10月18日，YOUTUBE推出台湾和香港的繁体中文版，自YOUTUBE香港分站推出后，中国大陆就开始无法访问YOUTUBE，其网址亦被加入防火长城的关键字过滤系统。 但在2007年10月31日，YOUTUBE再度可以访问，期间官方没有任何解释。2008年3月15日，再次被防火长城屏蔽， GOOGLE关注防火长城第二次封锁YOUTUBE，中国国务院新闻办公室副主任蔡名照当时否认国新办知道屏蔽之事，并保证展开调查。此次封锁于3月22日解封。</p><p>2009年2月份YOUTUBE在中国大陆被收录互联网关键字阻断过滤的范畴，并使用IP封锁、URL关键词过滤、DNS域名劫持污染、TCP连接重置、主干网路由器侦测拦截等方法进行阻断屏蔽。同时，中国三大主要互联网服务提供商〈ISP〉永久性封锁了YOUTUBE的DNS服务器端口的接入，屏蔽了YOUTUBE的所有国际IP地址，故中国大陆地区无法访问YOUTUBE。国内网站激动网曾经传闻将会以内容合作的方式和YOUTUBE展开合作，但是最后不了了之.。</p><p>2009年3月4日下午起，中国大陆各地网民开始发现YOUTUBE再次被封锁，此次封锁可能与两会的召开有所联系。2009年3月23日，YOUTUBE被中国永久性封锁，但是外交部发言人却拒绝直接回应此事，并称“中国政府不害怕互联网”。 YOUTUBE随后指已确认网站被中国大陆封锁，但发言人对法新社表示，该公司并不知道网站为何被封杀，并寻求尽快恢复在中国大陆的接入。2009年3月29日晚间21时左右YOUTUBE再次被屏蔽。有外国记者向中国外交部询问为何再次被封时，发言人秦刚说：“至于能看什么，不能看什么，能看的就看，不能看的就别看。”2009年8月6日，《中国国防报》发表文章指责TWITTER、FACEBOOK和YOUTUBE是西方敌对势力的宣传与颠覆工具，并称要加快提高网络隔绝、屏蔽、锁定和反击网上攻击的能力。随后YOUTUBE在中国大陆一直处于封锁状态，不过期间仍不时有部分地区报告可突然访问一小段时间，可能与防火长城调整规则或技术故障有关。</p><p>2010年4月份，YOUTUBE产品总监等一行人造访了激动网，双方主要是进行行业层面的交流，不涉及合作。但激动网市场部门的说法是，YOUTUBE已经和激动网达成内容合作初步意向，或为入华落地探路。  </p><p>据吕文生透露，激动网很早前与YOUTUBE曾有过小规模合作，他也不看好YOUTUBE大规模入华，“GOOGLE都退出中国了，他们还玩什么。”  </p><a name="83"> </a><h3>芬兰</h3><p>2007年11月7日发生于芬兰新地省图拉镇（TUUSULA）约凯拉村（JOKELA）的公立中学约凯拉中学（JOKELAN KOULUKESKUS）中。</p><p>该次事件导致了九人死亡：六名学生（五男一女）、校长、校护及凶手自己。在事件发生前的几个小时，凶手将一段视频发表在了YOUTUBE网站上，预言了该次校园大屠杀。</p><p>这是芬兰校园中发生的第二次枪击事件。另一次事件在1989年发生于劳马的劳曼梅里学校。当时一名14岁的学生射杀了他的两名同学  </p><a name="85"> </a><h3>亚美尼亚</h3><p>2008年2月的总统选举抗议，亚美尼亚政府暂时禁止网络用户使用YOUTUBE，理由为反对派利用该网站的影片宣传军警人员对反政府示威者的流血冲突。  </p><a name="87"> </a><h3>巴西</h3><p>YOUTUBE巴西语言版本被巴西MTV和其主持人丹妮埃拉·西卡雷莉控告，指出该网站放置了由一名狗仔队偷拍她和她男友在西班牙海滩的性爱影片。这起诉讼导致YOUTUBE被封锁，直到所有的影片副本皆被删除。2007年1月6日礼拜六，巴西法院下达一法律强制令命令，在网络服务器上放置过滤器以防止巴西用户浏览YOUTUBE。</p><p>该措施在有效性方面受到质疑，因为影片除了可以在YOUTUBE上播放，且随着网络快速传播现象也可以出现在其他类似网站上。2007年1月9日礼拜二，同一个法院推翻其先前的决定，命令将过滤器删除。虽然该影片本身仍被禁止，但已没有技术性的方式来阻止使用户浏览YOUTUBE。  </p><a name="89"> </a><h3>孟加拉国</h3><p>2009年3月，YOUTUBE被孟加拉封锁，理由为一纪录影片揭示其军事政府总理和高级军官是如何处理在达卡部队的兵变事件，已解除对YOUTUBE封锁。  </p><a name="91"> </a><h3>印度尼西亚</h3><p>2008年4月1日，印尼新闻部长MUHAMMAD NUH要求YOUTUBE删除一个由荷兰右翼政治家基尔特·威尔德斯所制的短片《FITNA》。印尼政府允许YOUTUBE有两天移动此视频的期限，如果不从将会在印度尼西亚封锁YOUTUBE。4月4日，MUHAMMAD NUH要求互联网服务提供商封杀YOUTUBE，解释原因为网站上含有反伊斯兰的视频。4月5日，YOUTUBE由一个ISP的测试开始进行封锁。4月8日，最后YOUTUBE和MYSPACE、METACAFE、RAPIDSHARE、MULTIPLY、LIVELEAK等网站皆被封锁。但是封杀政策出台之后，激起了许多印尼网民的不满。他们提出投诉，或者抗议当局审查互联网。随后4月10日，印尼政府同意解封YOUTUBE，但仍有一些当地居民直到2008年5月才能浏览该网站。印尼通信部长NUH对于这次封杀向印尼网民表示道歉。印尼各电信公司表示，未来他们将不再封杀整个网站，而是只封杀含有反伊斯兰电影内容的单个网页。  </p><a name="93"> </a><h3>伊朗</h3><p>2006年12月3日，伊朗政府由于YOUTUBE网站有性相关的内容，遂宣布YOUTUBE违反社会道德和行为准则，暂时封锁其网站，而在2009年伊朗总统选举时封锁已取消。  </p><a name="95"> </a><h3>利比亚</h3><p>2010年1月24日，利比亚无限期封锁YOUTUBE。理由为在封锁前有一内容为1996年时，在班加西的示威人士家庭被拘留，且在ABU SALIM监狱遭打死。此次封锁受到人权观察的注目。  </p><a name="97"> </a><h3>摩洛哥</h3><p>2007年5月25日，国有的摩洛哥电信公司停止访问YOUTUBE，而另外两家私营的网络服务提供商WANA和MÉDITEL则未受任何影响。并没有任何理由解释为何YOUTUBE被封锁，但据猜测可能是是与站内拥有一些波利萨里奥阵线的宣传影片剪辑，或由于一些影片批评摩洛哥国王穆罕默德六世。5月30日，YOUTUBE可以再次进行浏览，之后摩洛哥电信公司非正式的宣布，此次无法访问YOUTUBE仅是一个单纯的“技术故障”。  </p><a name="99"> </a><h3>巴基斯坦</h3><p>2008年2月23日，巴基斯坦电信管理局下令互联网服务提供者屏蔽YOUTUBE，以阻止用户访问“含有亵渎网页内容/电影”的YOUTUBE，违法者将会实施无期徒刑或者死刑。事情的起因是2005年发生在丹麦的日德兰邮报穆罕默德漫画事件，之后由荷兰右翼政治家基尔特·威尔德斯所制的短片《FITNA》再次确定次政策。然而，2月24日巴基斯坦电信局在屏蔽YOUTUBE时，向全球提交广播（BROADCAST），宣称自己是全球YOUTUBE互联网地址208.65.15.3网络空间256个地址的合法目的地，而YOUTUBE自己广播互联网地址208.65.15.3为1024台电脑的终站，根据边界网关协议，前者更为准确。而提供互联网连线给巴基斯坦电信公司的香港电讯盈科并没有挡下错误广播，造成从亚太地区开始，全球所有对YOUTUBE的访问都流向了巴基斯坦电信公司，2小时后巴基斯坦电信公司才停止了这个行为，期间导致全球YOUTUBE网站皆无法访问。直到2月26日，在YOUTUBE移除服务器上由巴基斯坦政府指出的不良内容后解除封锁，在这被封锁的三天内，有多数的巴基斯坦人改使用虚拟私人网络来浏览YOUTUBE。2010年5月20日，由于EVERYBODY DRAW MOHAMMED DAY，巴基斯坦再次以“扩散亵渎内容”为由再次封锁YOUTUBE。5月31日禁令解除后，YOUTUBE网站已因应巴基斯坦政府的要求从服务器上删除不良内容。  </p><a name="101"> </a><h3>苏丹</h3><p>2008年苏丹曾短暂封锁YOUTUBE，封锁原因不明。2010年4月21日，随着2010年苏丹大选，苏丹当局封锁YOUTUBE和其所有者GOOGLE的网页有关。原因为网站有一影片显示全国选举委员会工作人员穿着公务人员制服工作，一个小孩在填写选票并把他们带往投票箱，其中一人解释说投票期的延长，使他们得以完成其工作。  </p><a name="103"> </a><h3>俄罗斯</h3><p>由于车臣伊斯兰主义反政府武装领导人乌马罗夫（DOKU UMAROV）在上载至YOUTUBE网站的视频声称策划造成40人死亡，88人受伤留院的；2010年莫斯科地铁爆炸案。此外事实证明有超过300部视频因为有“不适当的内容”而被删除。俄罗斯政府指责由于YOUTUBE给予极大的压力，所以采取这种措施。2010年7月28日，阿穆尔河畔共青城当地法院要求ISP阻止民众访问YOUTUBE。  </p><a name="105"> </a><h3>泰国</h3><p>2006年，泰国禁止了泰国IP地址用户访问YOUTUBE。泰国当局确定的20个具有攻击性的影片，并要求YOUTUBE删除之前也自行检查其他影片的内容。2007年3月8日的这一周，YOUTUBE再次被泰国封锁。许多博客客认为是前任总理塔克辛·钦那瓦在有线电视新闻网的访问所导致，泰国政府则对于这次禁令并没有提供理由。YOUTUBE于3月10又再次被开放使用。2007年4月30日晚兼，泰国政府再次封锁YOUTUBE且长达近4个月。原因是该网站上的一段视频显示了两只脚对着泰国国王普密蓬·阿杜德，而这在泰国被认为是冒犯动作。不过政府之后声称将在几天后解除封锁YOUTUBE网页，只会封锁网站内这类影片而不是整个网站。交通部长SITTHICHAI POKAI-UDOM指出：“当他们决定移除该影片时，我们将会撤销禁令。”在这一事件中，互联网新闻博客MASHABLE也因报道对于YOUTUBE影片的问题也被泰国当局封锁。最后YOUTUBE同意禁止在网站上出现此段视频之后，于8月30日获得解封。[53]2007年9月21日，泰国当局通过法院想要禁止出现的影片，内容指出泰国枢密院主席炳·廷素拉暖企图操纵皇室，使自己继承成为泰国国王。  </p><a name="107"> </a><h3>突尼斯</h3><p>2007年11月2日，突尼斯封锁了YOUTUBE网页，并会出现一假造的“HTTP 404错误消息”的消息，仍没有正式的消息解释此一事件。  </p><a name="109"> </a><h3>土耳其</h3><p>土耳其法院自2007年3月开始已禁止YOUTUBE好几次（第一次禁止时间为2007年3月6日到3月9日），用户仍无法在土耳其正常访问YOUTUBE：</p><p>2008年1月17日，土耳其一家法院宣布封锁YOUTUBE，原因是上面有一些讽刺土耳其国父穆斯塔法·凯末尔·阿塔图尔克的视频剪辑。据报道，这已经是土耳其法院第二次要求封锁YOUTUBE。土耳其用户在试图访问该网站时，会看到英语和土耳其语提示的“该网站已经被禁止访问”的字样。但尽管如此，土耳其总理雷杰普·塔伊普·埃尔多安向记者承认他可以访问YOUTUBE，因为该网站在土耳其仍然可以通过来公开代理来使用。尽管YOUTUBE被法院正式禁止浏览，该网站仍可通过修改连接参数和使用备用的域名系统服务器而被浏览，根据ALEXA的统计记录，YOUTUBE仍然是土耳其第9大最热门的网站。2008年11月，雷杰普说出一具讽刺的话：“我已浏览网站了，该换你了。”2010年6月，土耳其总统阿卜杜拉·居尔在其TWITTER帐户上，表达反对土耳其封锁YOUTUBE，也说这影响到许多GOOGLE在土耳其的服务，居尔也说他已指示官员查找法律途径让YOUTUBE能被允许访问。  </p><p>2014年3月27日，继TWITTER之后，土耳其政府又封杀了谷歌旗下视频网站YOUTUBE。  </p><a name="111"> </a><h3>土库曼斯坦</h3><p>2009年12月25日，土库曼斯坦唯一的ISPTURKMENTELECOM封锁了YOUTUBE以及包括LIVEJOURNAL等网站，至今仍未恢复。  </p><a name="113"> </a><h3>阿联酋</h3><p>2006年8月，阿拉伯联合酋长国电信监管当局封锁YOUTUBE，理由为网站影片“具有成人内容”，1个月后这禁令解除。  </p><a name="115"> </a><h3>日本</h3><p>由于日本新的著作权法在2012年6月出台，并在2012年10月1日正式执行的关系。该国政府开始打击非法上传下载的行为，在2012年10月1日开始，当地法院开始要求ISP打击在YOUTUBE里面非法上传下载的行为。  </p><a name="117"> </a><h3>软件方面</h3><p>WINDOWS LIVE MESSENGER：2008年5月10日微软停止缺省功能上YOUTUBE连结WINDOWS LIVE MESSENGER的服务，虽然在21：30时已取消此禁令，但微软始终对此事并没有解释如占用CPU资源等类似理由。原本连结是以HTTP://或WWW做为开头来启动连结，但是在此事件中当有YOUTUBE .COM的字眼时，将会出现一&amp;QUOT;THE FOLLOWING MESSAGE COULD NOT BE DELIVERED TO ALL RECIPIENTS： (ORIGINAL MESSAGE HERE).”的错误提示。巧合的是，这一礼拜刚好微软公布其一新的视频服务。  </p><a name="119"> </a><h3>教育机构</h3><p>杨百翰大学：美国一些高校也会阻挡学生对YOUTUBE的浏览，如由摩门教教会所创的私立大学杨百翰大学在之前封锁 YOUTUBE的访问，但2009年6月这项决定遭到改变。  </p><p>南加州建筑学院：已毕业的研究生和尚未毕业的学生皆被禁止到YOUTUBE或者其他常见的影片分享网站，如GOOGLE影片；且并不考虑影片是否拥有教育内容。</p><p>K-12：许多美国和加拿大的K-12学校由于影片内容可能含有性、暴力和其他不寻常内容，会阻止学生访问YOUTUBE，但也有一些学校会允许在教育目的时的使用。</p><p>英国学校：英国各地的学校也禁止YOUTUBE和其他影片分享网站的浏览，以“避免在工作上分心”。这大多是针对学生，在一些学校的教师被允许能前往YOUTUBE浏览与教育相关的影片。这是通过使用代理检查员系统，来通过理事会所提供的网络。但是在英国仍有些学校允许学生访问YOUTUBE，但他们只允许观看被认为是适当的影片，且通过登录到非自己所注册的帐户，并禁止上传影片。  </p><p>马来西亚亚太工艺与革新大学：学校尽可能阻止学生浏览YOUTUBE，以减少学生堵塞宽带。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="121"> </a>特别活动<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="121" target="_self">编辑</a>
+</h2>
+</div>
+<a name="123"> </a><h3>愚人节</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a1_63_10_50200014992522154401109367454_jpg.html" target="_blank" title="YOUTUBE的愚人节彩蛋总能给人惊喜"><img alt="YOUTUBE的愚人节彩蛋总能给人惊喜" data-original="http://a1.att.hudong.com/63/10/50200014992522154401109367454.jpg" src="http://www.huimg.cn/lib/0.gif" title="YOUTUBE的愚人节彩蛋总能给人惊喜"/></a>
+<strong>YOUTUBE的愚人节彩蛋总能给人惊喜</strong>
+</div><p>YOUTUBE自2008年开始，每年都会在网站上发布愚人节玩笑。</p><p>2008年4月1日：所有在首页上的特色影片链接都被重新定向到理察·艾斯利的音乐录像带“NEVER GONNA GIVE YOU UP”。</p><p>2009年4月1日：当在首页点击一个特色影片时，整个页面将会颠倒过来。YOUTUBE开玩笑的声称说这是一个新的网页设计。</p><p>2010年4月1日：YOUTUBE在此日公布一个叫做“TEXTP”模式，按下后会在影片将改以英文字母、符号拼凑成影片内容，YOUTUBE开玩笑的声称这样做是为了减少成本。</p><p>2011年4月1日：YOUTUBE在此日公布一个叫做“重返1911年”的模式，按下后会在影片将把影片声音改成牛仔音乐；影片内容变成“怀旧化影片”，YOUTUBE声称：“今天，为了庆祝 YOUTUBE 100岁生日，让我们温故知新，重新回味1911年的第一篇博客文章。除此之外，今天的 YOUTUBE 首页更是特别重现 100 年前 YOUTUBE 的模样来纪念这个里程碑。我们将带您穿越时光隧道，回到 YOUTUBE 网站草创之初。</p><p>2012年4月1日：当进入YOUTUBE首页时，以往熟悉的YOUTUBE图标旁边多了一个光盘标志，点进去后是一个订购界面，里面会有一个视频告诉你YOUTUBE推出了合集（THE YOUTUBE COLLECTION），如果你订购的话每周都会收到17箱卡车的YOUTUBE视频，刻成光碟，内含所有YOUTUBE视频。而且价格高的离谱，总共需要300多万美元，可以选择海运航运等。但当你提交后会显示：您的货物将在2045年6月送达。事实上这只是个笑话，这个视频的演员多是网络红人。  </p><p>2013年4月1日: YouTube的几位高管介绍说为了选出全球最棒的视频，YouTube还专门成立了一个专家评审团，其中包括知名影评人、视频评论者以及YouTube上的名人。在过去的8年中，YouTube投入了3万多名技术人员来筛选最佳视频，而评委将会在提名名单公布之后，用10年的时间来评选出最佳视频。YouTube网站将会在4月1日正式关闭，而对应的视频内容将会被全部删除，直到最终的评选结果出炉，也就是2023年，网站才会重新启动，而提名名单将会从4月1日起开始宣布并直播，每天会持续宣布12个小时。  </p><p>此外，在参选的15万个视频中，评委们不会依据视频受欢迎的程度来对其下结论，即便是最受欢迎的《江南Style》也和其它视频一样，公平参与评委的评审。最终的获胜者将会获得一台MP3播放器以及500美元的奖金。</p><a name="125"> </a><h3>贪食蛇</h3><p>刚打开YOUTUBE影片或在快转、回转时，有时影片中间会出现一个转圈圈的灰色小圆点表示处理影片信息中，此时按下键盘的方向键“↑”或“↓”或“←”，小圆点即会另外被拉出来，直接在屏幕上玩贪食蛇。因为YOUTUBE这样做能让YOUTUBE浏览者不会感到无聊，这是一个非常棒的创新。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="127"> </a>未来发展<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="127" target="_self">编辑</a>
+</h2>
+</div>
+<p>为吸引更多广告客户，YOUTUBE正计划将自己打造成电视的替代者。但EMARKETER分析师保罗·沃纳（PAUL VERNA）认为，这不是一件容易的事情。沃纳说：“谈及YOUTUBE就意味着那是一个由用户创建的短片。”  </p><p>YOUTUBE聘请NETFLIX高管罗伯特·金赛尔（ROBERT KYNCL）负责其电视及电影业务，金赛尔引进来不少直播内容，使YOUTUBE变得有些像电视。此外YOUTUBE还积极与提供独家内容的赞助商建立合作关系。</p><p>互联网巨头GOOGLE早已将目光对准了电视。雄心勃勃地准备凭借强大的搜索能力，将所有的视频都整合到用户面前。GOOGLE TV。GOOGLE TV将网络和电视结合在一起，成为一套新的娱乐系统。</p><p>但是GOOGLE TV的发展受到美国几大电视巨头相继出手封杀。不过GOOGLE并没有放弃。他们把目光放在了YOUTUBE上。</p><p>GOOGLE转而开始在YOUTUBE上下工夫，为未来50年甚至100的电视布局。2012年4月7日YOUTUBE斥资高达1亿美元委托第三方生产低成本内容，并将设置20余个频道，开拓专业原创视频的细分市场。4月12日，YOUTUBE直播频道正式上线，直接播出合作方的直播电视节目，同时向用户开放直播平台。用户订阅之后会节目收到节目更新提醒。相比WEB2.0时代的网络视频，这种频道化的视频直播是在向电视广播靠齐。</p><p>未来，经过GOOGLE的布局下，电视台可以将YOUYOUNIAO作为直播电视的运营商。YOUTUBE直接向客厅电视机提供视频，和有线电视运营商面对面争夺用户。而且YOUTUBE自己拥有海量的用户生产内容（UGC），这次又斥资1亿美元开始制作专业化的内容，同时向合作方和用户开放直播平台。这意味着视频记者可以轻松地在上开设电视直播。</p><p>无论如何，随着宽带的的飞速增长，随着终端智能化的普及，随着互联网的发展，YOUTUBE将在互联网上向全世界提供无所不在的视频，电视台、运营商将来的存在意义都变得模糊了。即使最后成功的不是YOUTUBE，也会是类似的企业。</p><p>未来，YOUTUBE主要发展付费业务，虽然其为全球第一大视频网站，但它的盈利手段绝大多数依靠广告。每年谷歌都为其投入大笔资金保证其运营（维护服务器，带宽等。），YOUTUBE其实并没有盈利多少。而其竞争对手HULU也已快步追上。日前，YOUTUBE已经开始发展其付费业务。  </p><div class="content_h2"><h2 class="mar-t10">
+<a name="129"> </a>相关事件<span class="f18">/Youtube </span><a class="bjbd" href="#" secid="129" target="_self">编辑</a>
+</h2>
+</div>
+<p>2018年10月16日21时，Youtube出现了大面积的服务中断，出现网站不能正常播放视频，只能显示空白网页的情况。  </p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder">
+<h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=Youtube" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=Youtube" target="_blank">添加图册</a></span>相关影像</h3>
+<h4>视频</h4>
+<div class="scrollX">
+<div class="scroll-con" style="height:175px;"><ul class="fodder-vod" id="fodder-vod" style="width: 10000px;position: absolute;"><li>
+<p>
+<a class="fimg" href="http://v.baike.com/view/youku_XMjQyNjM1MDg4.shtml?prd=zhengwenye_sucai_shipin" target="_blank">
+<img src="http://g1.ykimg.com/0100641F464D52D6B4CE2D000F9B13469AF2E4-477E-2463-BD54-4213525BBC78" title="Youtube五年历史回顾"/><span class="playbj"> </span>
+</a>
+</p>
+<a href="http://v.baike.com/view/youku_XMjQyNjM1MDg4.shtml?prd=zhengwenye_sucai_shipin" target="_blank" title="Youtube五年历史回顾">Youtube五...</a>
+</li></ul></div>
+<p class="arrow gray9" id="vPageId" style="display:none;"><i><span id="vPageNumSpan"></span></i><span id="vPageSizeSpan"></span><em class="btn-prev" id="vBtnPrev"></em><em class="btn-next" id="vBtnNext"></em></p>
+</div>
+</div>
+<div class="relevantinfo">
+<script type="text/javascript">
+		 function goUrl(url){
+		  StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_new_doccomments');
+		  window.open(url,'_blank');
+		 }
+		</script>
+<dl class="reference bor-no">
+<dt>扩展阅读</dt>
+<dd>
+<em>1</em>YouTube<a><input name="refrenceurlinput" onclick="goUrl('http://www.zbaike.net/doc-view-570.html')" readonly="" type="text" value="http://www.zbaike.net/doc-view-570.html"/></a>
+</dd>
+</dl>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/%E4%BA%92%E8%81%94%E7%BD%91/?prd=zhengwenye_left_kuozhan_kaifangfenlei">互联网</a><a href="http://fenlei.baike.com/%E7%A7%91%E6%8A%80/?prd=zhengwenye_left_kuozhan_kaifangfenlei">科技</a><a href="http://fenlei.baike.com/%E7%BD%91%E7%AB%99/?prd=zhengwenye_left_kuozhan_kaifangfenlei">网站</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="互联网"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="科技"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="网站"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;">
+<dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt>
+<dd class="h27">
+<a href="/wiki/youtubr?prd=zhengwenye_left_tongyici">youtubr</a><a href="/wiki/youtube%E8%A7%86%E9%A2%91?prd=zhengwenye_left_tongyici">youtube视频</a><a href="/wiki/YUTUBE?prd=zhengwenye_left_tongyici">YUTUBE</a>
+</dd>
+</dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;">
+<dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt>
+<dd>
+<input class="input-textarea" maxlength="50" name="thes" onblur="this.setAttribute('value',this.value);" type="text" value="youtubr"/> <a href="javascript:void(0)" id="_REMOVETHES" onclick="removeThesaurus(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="50" name="thes" onblur="this.setAttribute('value',this.value);" type="text" value="youtube视频"/> <a href="javascript:void(0)" id="_REMOVETHES" onclick="removeThesaurus(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="50" name="thes" onblur="this.setAttribute('value',this.value);" type="text" value="YUTUBE"/> <a href="javascript:void(0)" id="_REMOVETHES" onclick="removeThesaurus(this)">[删除]</a>
+</dd>
+</dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="Youtube"/><input id="docidencry" name="docidencry" type="hidden" value="cRFoEXlEDXF9QAgJO"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/Youtube/a0_53_96_50200009239445155956968195820_jpg.html" target="_blank" title=""><img alt="" src="http://a0.att.hudong.com/53/96/50200009239445155956968195820_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/Youtube/a0_53_96_50200009239445155956968195820_jpg.html" target="_blank"><em></em>Youtube图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>249次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=Youtube&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>186</span>位</li>
+<li>最近更新时间：2019-07-25 03:17:51</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=Youtube&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=aRFtRXEUDEEIADVlE&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">姽妹儿</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=nfUACAwUEUkADAAN2&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="nfUACAwUEUkADAAN2">r21484514794</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=icFpAUWB4BGNKVU53&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="icFpAUWB4BGNKVU53">two_fish2009</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=vHFZRbkNaBUYHCx0f&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="vHFZRbkNaBUYHCx0f">255657</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=zAANWX1lWWERWXnEL&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="zAANWX1lWWERWXnEL">tppck119885</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=XRABRCUcMXVxMbFJC&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="XRABRCUcMXVxMbFJC">mzjhq</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/Google&amp;prd=citiao_so" target="_blank" title="Google"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/40/70/20300544243541156394702054663_140.jpg);"><p></p></span>Goog…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E4%BC%98%E9%85%B7&amp;prd=citiao_so" target="_blank" title="优酷"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/75/07/01300000330208123100079296352_140.jpg);"><p></p></span>优酷</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%9C%9F%E8%B1%86%E7%BD%91&amp;prd=citiao_so" target="_blank" title="土豆网"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/53/81/50200009239445155794819577212_140.jpg);"><p></p></span>土豆网</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E9%99%88%E5%A3%AB%E9%AA%8F&amp;prd=citiao_so" target="_blank" title="陈士骏"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/37/44/50200009239445155972442240270_140.jpg);"><p></p></span>陈士骏</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%BF%80%E5%8A%A8%E7%BD%91&amp;prd=citiao_so" target="_blank" title="激动网"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/14/88/50200009239445155793889922541_140.jpg);"><p></p></span>激动网</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E8%BF%85%E9%9B%B7&amp;prd=citiao_so" target="_blank" title="迅雷"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/06/38/20300542446111139624380816554_f.png);"><p></p></span>迅雷</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%88%B1%E5%A5%87%E8%89%BA&amp;prd=citiao_so" target="_blank" title="爱奇艺"><span class="aimg" style="background-image:url(http://a3.att.hudong.com/24/31/50200009239445155262312822207_140.jpg);"><p></p></span>爱奇艺</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%94%B5%E9%A9%B4&amp;prd=citiao_so" target="_blank" title="电驴"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/54/08/50200009239445155793085520501_140.jpg);"><p></p></span>电驴</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%97%A0%E6%B2%B9%E8%BD%B4%E6%89%BF&amp;prd=citiao_so" target="_blank" title="无油轴承"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/74/35/50200009239445155793355410972_140.jpg);"><p></p></span>无油轴承</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E4%BA%92%E5%8A%A8%E7%99%BE%E7%A7%91&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">互动百科</a></li>
+<li><a href="http://so.baike.com/doc/%E7%BB%B4%E5%9F%BA%E8%A7%A3%E5%AF%86&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">维基解密</a></li>
+<li><a href="http://so.baike.com/doc/%E5%B0%8F%E6%9C%88%E6%9C%88&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">小月月</a></li>
+<li><a href="http://so.baike.com/doc/%E8%81%8A%E5%A4%A9%E8%BD%AE%E7%9B%98&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">聊天轮盘</a></li>
+<li><a href="http://so.baike.com/doc/3Q%E6%88%98%E4%BA%89&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">3Q战争</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E6%83%85%E8%89%B2%E4%BA%94%E6%9C%88%E5%A4%A9&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">情色五月天</a></li>
+<li><a href="http://so.baike.com/doc/%E7%89%A9%E8%81%94%E7%BD%91&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">物联网</a></li>
+<li><a href="http://so.baike.com/doc/%E7%99%BE%E5%BA%A6&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">百度</a></li>
+<li><a href="http://so.baike.com/doc/%E5%BC%80%E5%BF%83%E7%BD%91&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">开心网</a></li>
+<li><a href="http://so.baike.com/doc/Youtube&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">Youtube</a></li>
+</ul>
+</div>
+</div>
+<div appcode="zxAccurate">
+<link href="http://www.huimg.cn/hudong/entry/widget/gg-express/css/gg-window171226.css" rel="stylesheet"/>
+<link href="http://www.huimg.cn/libs/swiper/4.0.3/css/swiper.min.css" rel="stylesheet"/>
+<script src="http://www.huimg.cn/libs/swiper/4.0.3/js/swiper.min.js"></script>
+<script charset="utf-8" src="http://www.huimg.cn/zhixiao/js/zxAccurateRecommend.js" type="text/javascript"></script>
+<!-- 橱窗广告 -->
+<div class="gg-window" id="gg-window">
+<div class="rightdiv">
+<div class="ggwd-title">猜你想了解</div>
+<div class="roll-content swiper-container" id="gg-window-swiper">
+<ul class="swiper-wrapper" id="gg-ul">
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a0.att.hudong.com/28/53/21300543881782149276535119683_f.jpg"/></span>
+<strong class="gg-qiyedoctitle">北京互动百科网络技术股份有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">互动百科隶属于北京互动百科网络技术股份有限公司，互动百科网（www.baike.com）是全球知名中文百科网站，创建于2005年7月18日，致力于为数亿中文用户免费提供海量、全面、及时的百科信息，并通过全新的维基（wiki）平台不断改善用户对信息的创作获取和共享方式。</a></p>
+</li>
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a0.att.hudong.com/28/53/21300543881782149276535119683_f.jpg"/></span>
+<strong class="gg-qiyedoctitle">北京互动百科网络技术股份有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">互动百科隶属于北京互动百科网络技术股份有限公司，互动百科网（www.baike.com）是全球知名中文百科网站，创建于2005年7月18日，致力于为数亿中文用户免费提供海量、全面、及时的百科信息，并通过全新的维基（wiki）平台不断改善用户对信息的创作获取和共享方式。</a></p>
+</li>
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a0.att.hudong.com/28/53/21300543881782149276535119683_f.jpg"/></span>
+<strong class="gg-qiyedoctitle">北京互动百科网络技术股份有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">互动百科隶属于北京互动百科网络技术股份有限公司，互动百科网（www.baike.com）是全球知名中文百科网站，创建于2005年7月18日，致力于为数亿中文用户免费提供海量、全面、及时的百科信息，并通过全新的维基（wiki）平台不断改善用户对信息的创作获取和共享方式。</a></p>
+</li>
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/广西淘木科技有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a2.att.hudong.com/73/08/21300544446294150831085735713_f.png"/></span>
+<strong class="gg-qiyedoctitle">广西淘木科技有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/广西淘木科技有限公司" target="_blank">广西淘木科技有限公司坐落于山水甲天下的桂林，是一家集域名注册、网站建设、小程序制作、微信平台开发、电商项目策划、商城系统定制、网络营销推广、互联网产品咨询于一体的互联网公司。公司致力于垂直生态型电商的理论研究和实战运作，从项目的规划、商业模式的顶层设计；到商城系统的定制开发、产品策划；最后是引流推广、打造生态，为客户提供一站式电商平台解决方案。</a></p>
+</li>
+</ul>
+</div>
+<div class="goto">
+<a class="alink" href="javascript:void(0);" id="alink" target="_blank">去瞅瞅</a>
+<a class="acut" href="javascript:void(0);" id="acut">没兴趣</a>
+</div>
+<em class="guang">广告</em>
+</div>
+</div></div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

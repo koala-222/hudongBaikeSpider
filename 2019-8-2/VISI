@@ -1,0 +1,371 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/VISI" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/3F/14/3F14DE0EE35722005219CEE2CF99F067_90.png?title=VISI"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>VISI</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/V%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="V开头单词">V开头单词</a><a href="//fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英文单词">英文单词</a><a href="//fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英语">英语</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>网络形象设计（VISI）与视觉文化时代 随着时代步伐的前进，时代的概念也在逐渐变化，第四媒体互联网的迅速发展，使信息传播业面临一场变革，视觉识别系统（visual Indentity system）,也延伸到新的领域，互联网络上逐渐成为企业讯息等宣传的重要阵地，具有迅捷、传播范围广等优势，vi的含义也逐渐应用在互联网上，我们重新定义为网络形象识别设计，简称VISI(Visual Indentity system internate),开拓了新的空间，视觉文化成为主导设计潮流。</p><p></p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="VISI"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('culture_zhuanyeshuyu')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>中文名：</strong>
+<span>网络形象设计</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>英文名：</strong>
+<span>VISI</span>
+</td> </tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie4">
+<li>
+<em>1</em><a alt="历史的形象识别设计与视觉文化" catalogkey="1" class="bold" href="javascript:void(0)" title="历史的形象识别设计与视觉文化">历史的形象识...</a>
+</li>
+<li class="dot"><a alt="历史上CI的出现" catalogkey="3" href="javascript:void(0)" title="历史上CI的出现">历史上CI的出现</a></li>
+<li class="dot"><a alt="视觉文化时代的到来" catalogkey="5" href="javascript:void(0)" title="视觉文化时代的到来">视觉文化时代...</a></li>
+<li>
+<em>2</em><a alt="第四大众传媒互联网的发展" catalogkey="7" class="bold" href="javascript:void(0)" title="第四大众传媒互联网的发展">第四大众传媒...</a>
+</li>
+<li class="dot"><a alt="互联网的发展" catalogkey="9" href="javascript:void(0)" title="互联网的发展">互联网的发展</a></li>
+<li class="dot"><a alt="四次信息传播革命" catalogkey="11" href="javascript:void(0)" title="四次信息传播革命">四次信息传播...</a></li>
+<li class="dot"><a alt="“第四大众传媒”互联网新媒体" catalogkey="13" href="javascript:void(0)" title="“第四大众传媒”互联网新媒体">“第四大众传...</a></li>
+</ul>
+<ul class="lie4">
+<li>
+<em>3</em><a alt="网络形象设计的出现与定义" catalogkey="15" class="bold" href="javascript:void(0)" title="网络形象设计的出现与定义">网络形象设计...</a>
+</li>
+<li class="dot"><a alt="网页VI设计重要性" catalogkey="17" href="javascript:void(0)" title="网页VI设计重要性">网页VI设计重...</a></li>
+<li class="dot"><a alt="怎样才是一个好的VI设计" catalogkey="19" href="javascript:void(0)" title="怎样才是一个好的VI设计">怎样才是一个...</a></li>
+<li class="dot"><a alt="怎样才能有一个让人一见倾心的视觉效果" catalogkey="21" href="javascript:void(0)" title="怎样才能有一个让人一见倾心的视觉效果">怎样才能有一...</a></li>
+<li class="dot"><a alt="成功网站的VI设计" catalogkey="23" href="javascript:void(0)" title="成功网站的VI设计">成功网站的VI...</a></li>
+<li class="dot"><a alt="VISI网络形象识别系统" catalogkey="25" href="javascript:void(0)" title="VISI网络形象识别系统">VISI网络形象...</a></li>
+<li>
+<em>4</em><a alt="网络形象识别设计的语素" catalogkey="27" class="bold" href="javascript:void(0)" title="网络形象识别设计的语素">网络形象识别...</a>
+</li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="互联网的属性特点" catalogkey="29" href="javascript:void(0)" title="互联网的属性特点">互联网的属性...</a></li>
+<li class="dot"><a alt="传播范围广" catalogkey="31" href="javascript:void(0)" title="传播范围广">传播范围广</a></li>
+<li class="dot"><a alt="信息资源丰富" catalogkey="33" href="javascript:void(0)" title="信息资源丰富">信息资源丰富</a></li>
+<li class="dot"><a alt="形态多样化" catalogkey="35" href="javascript:void(0)" title="形态多样化">形态多样化</a></li>
+<li class="dot"><a alt="交互传达" catalogkey="37" href="javascript:void(0)" title="交互传达">交互传达</a></li>
+<li class="dot"><a alt="网络形象识别设计" catalogkey="39" href="javascript:void(0)" title="网络形象识别设计">网络形象识别...</a></li>
+<li>
+<em>5</em><a alt="机械制造领域" catalogkey="41" class="bold" href="javascript:void(0)" title="机械制造领域">机械制造领域</a>
+</li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="模具用5轴" catalogkey="43" href="javascript:void(0)" title="模具用5轴">模具用5轴</a></li>
+<li class="dot"><a alt="航空航天用5轴" catalogkey="45" href="javascript:void(0)" title="航空航天用5轴">航空航天用5轴</a></li>
+<li class="dot"><a alt="汽车用5轴" catalogkey="47" href="javascript:void(0)" title="汽车用5轴">汽车用5轴</a></li>
+<li class="dot"><a alt="高阶解决方案" catalogkey="49" href="javascript:void(0)" title="高阶解决方案">高阶解决方案</a></li>
+<li class="dot"><a alt="VISI-系些列包含的内容" catalogkey="51" href="javascript:void(0)" title="VISI-系些列包含的内容">VISI-系些列包...</a></li>
+<li class="dot"><a alt="说明" catalogkey="53" href="javascript:void(0)" title="说明">说明</a></li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">历史的形象识别设计与...</a>
+<i></i>
+</li>
+<li class="dot">
+<em>1.1</em><a catalogkey="3" href="javascript:void(0)">历史上CI的出现</a>
+</li>
+<li class="dot">
+<em>1.2</em><a catalogkey="5" href="javascript:void(0)">视觉文化时代的到来</a>
+</li>
+<li>
+<em>2</em><a catalogkey="7" class="bold" href="javascript:void(0)">第四大众传媒互联网的...</a>
+<i></i>
+</li>
+<li class="dot">
+<em>2.1</em><a catalogkey="9" href="javascript:void(0)">互联网的发展</a>
+</li>
+<li class="dot">
+<em>2.2</em><a catalogkey="11" href="javascript:void(0)">四次信息传播革命</a>
+</li>
+<li class="dot">
+<em>2.3</em><a catalogkey="13" href="javascript:void(0)">“第四大众传媒”互联...</a>
+</li>
+<li>
+<em>3</em><a catalogkey="15" class="bold" href="javascript:void(0)">网络形象设计的出现与...</a>
+<i></i>
+</li>
+<li class="dot">
+<em>3.1</em><a catalogkey="17" href="javascript:void(0)">网页VI设计重要性</a>
+</li>
+<li class="dot">
+<em>3.2</em><a catalogkey="19" href="javascript:void(0)">怎样才是一个好的VI设计</a>
+</li>
+<li class="dot">
+<em>3.3</em><a catalogkey="21" href="javascript:void(0)">怎样才能有一个让人一...</a>
+</li>
+<li class="dot">
+<em>3.4</em><a catalogkey="23" href="javascript:void(0)">成功网站的VI设计</a>
+</li>
+<li class="dot">
+<em>3.5</em><a catalogkey="25" href="javascript:void(0)">VISI网络形象识别系统</a>
+</li>
+<li>
+<em>4</em><a catalogkey="27" class="bold" href="javascript:void(0)">网络形象识别设计的语素</a>
+<i></i>
+</li>
+<li class="dot">
+<em>4.1</em><a catalogkey="29" href="javascript:void(0)">互联网的属性特点</a>
+</li>
+<li class="dot">
+<em>4.2</em><a catalogkey="31" href="javascript:void(0)">传播范围广</a>
+</li>
+<li class="dot">
+<em>4.3</em><a catalogkey="33" href="javascript:void(0)">信息资源丰富</a>
+</li>
+<li class="dot">
+<em>4.4</em><a catalogkey="35" href="javascript:void(0)">形态多样化</a>
+</li>
+<li class="dot">
+<em>4.5</em><a catalogkey="37" href="javascript:void(0)">交互传达</a>
+</li>
+<li class="dot">
+<em>4.6</em><a catalogkey="39" href="javascript:void(0)">网络形象识别设计</a>
+</li>
+<li>
+<em>5</em><a catalogkey="41" class="bold" href="javascript:void(0)">机械制造领域</a>
+<i></i>
+</li>
+<li class="dot">
+<em>5.1</em><a catalogkey="43" href="javascript:void(0)">模具用5轴</a>
+</li>
+<li class="dot">
+<em>5.2</em><a catalogkey="45" href="javascript:void(0)">航空航天用5轴</a>
+</li>
+<li class="dot">
+<em>5.3</em><a catalogkey="47" href="javascript:void(0)">汽车用5轴</a>
+</li>
+<li class="dot">
+<em>5.4</em><a catalogkey="49" href="javascript:void(0)">高阶解决方案</a>
+</li>
+<li class="dot">
+<em>5.5</em><a catalogkey="51" href="javascript:void(0)">VISI-系些列包含的内容</a>
+</li>
+<li class="dot">
+<em>5.6</em><a catalogkey="53" href="javascript:void(0)">说明</a>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>历史的形象识别设计与视觉文化<span class="f18">/VISI </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<a name="3"> </a><h3>历史上CI的出现</h3><p>从50年代初到现在，CI的诞生有近50年的历史,他发展沿革大致上经历三个阶段:</p><p>A 从商标品牌到产品视觉统一设计，</p><p>B 企业风格的视觉传达设计，</p><p>C 从视觉形象识别到整体形象识别，</p><p>CI已经从单纯的视觉传达设计演变为一种企业形象的传播策略，我们可以看出VI形象的识别是现在CI、MI等的最初起源，最初是商品标志视觉功能的扩展，商标品牌作为商品的标记和象征，在商品市场的竞争中发挥这主要作用，1851年，美国宝龄公司老板发现负责货运的人总是在装蜡烛的箱子上画上黑叉叉，经询问才知道是为了那些目不识丁的码头工人能分辨哪是蜡烛哪是香皂。后来，有位聪明的工人把难看的叉叉改成了星星，进而成为固定的符号经常出现。</p><p>CI这一词最早由美国的设计家来蒙特于1930年左右提出。第二次世界大战以后，美国的经济发展在世界一直处于领先地位，企业重视工业设计和产品的视觉设计。现代设计的摇篮德国包豪斯设计学院，这所起初培养建筑设计而创建的学校，转而以培养工业设计、商业设计、视觉传达设计等专门人才。造就了一批设计师，对今天设计产生了深远的影响。</p><a name="5"> </a><h3>视觉文化时代的到来</h3><p>据说视觉文化的时代已经来临。丹尼尔·贝尔认为：“目前居统治地位的是视觉观念。声音和景象，尤其是后者组织了美学、统率了观众。在一个大众社会里，这几乎是不可避免的”。随着时代的进步，大众社会的要求逐渐扩展延伸，品牌等成为一种无形资产成为商品分辨和信誉保证的重要识别，使得在人们视线里出现整体的视觉识别系统，时代也有了它新的概念，即视觉文化时代。视觉文化时代的到来，急剧加速经济的发展，经济的发展也促使视觉文化的进步，总之，设计与经济时代的发展是紧密联系不可分割的。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>第四大众传媒互联网的发展<span class="f18">/VISI </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+<a name="9"> </a><h3>互联网的发展</h3><p>自从发明了电脑，出现了WWW,科学发明改变了社会，人类的智慧是无穷无限的，互联网的发明称之为人类历史上迄今为止的最伟大的发明。PC时代的数字化是个人的，互联网时代的数字化则是全球的。互联网使时空的距离成为零，整个地球被收缩成一个新的世界，我们可以周游世界，大大地降低了信息的传播费用，实现社会化，达到信息的迅速广泛的传播。与传统的传媒方式相比较，互联网具有鲜明的优势。以计算机二进制语言处理的数字化信息，构成了信息社会的最基本原子，在信息时代，人类的生存和生活，不可避免地建立在数字化信息之上，第四大众传媒互联网将普及发展与人类社会。</p><a name="11"> </a><h3>四次信息传播革命</h3><p>自从人类诞生以来，人类社会至少已经经历了四次意义重大的信息传播革命，每一次信息传播革命都把人类文明推向一个新的发展阶段。</p><p>第一次信息传播革命是语言传播的诞生：提高了人类信息传播的质量、速度与效率。</p><p>第二次信息传播革命是文字传播的诞生：使得人类的信息传播革命第一次突破时间、空间的限制，得以广泛流传和长期保存。</p><p>第三次信息传播革命是印刷传播的诞生。报纸、杂志、书籍等印刷品大众媒介迅速普及。第四次信息传播革命是模拟式电子传播的诞生。</p><p>19世纪40年代至70年代，一系列模拟式电子传播技术与媒介相继出现，并迅速普及，使得人类信息传播的速度空前迅疾，范围空前广泛，内容空前丰富，复制扩散和保存信息的能力空前增强。人类进入以模拟式电子传播为代表的大众传播时代。</p><p>最新的一次信息传播革命，即正在我们身边发生的第五次信息传播革命，是数字式电子传播的诞生。进入90年代以来，先进的计算机技术不仅征服了文字数字化的难题，而且征服了比文字更复杂的声音世界。如今，表现和记录人类物资和精神世界的数字、语言、文字、声音、图画和影像等过去相互之间界限分明的各种信息传播方式，都可以用计算机的二进制语言来作数字化处理，从而可以浑然一体，相互转换了。报纸、广播、电视和书籍、杂志、电影等传统大众传播媒介在形式之间的差异正在缩小或消失；交互式传播媒体的出现，使得传播者与受众之间的传统的相互关系正面临巨大的变化。人类进入了真正的信息时代。</p><a name="13"> </a><h3>“第四大众传媒”互联网新媒体</h3><p>网络作为新兴的第四媒体确实有它独特的优势，这恐怕任何一个用过互联网的用户都能一一道来: 报道及时、零传播成本、多媒体、可以检索等等。有报道说互联网发展的速度远远超过了前几任媒体：无线电广播问世38年后，拥有5000万听众，电视诞生13年后，拥有同样数量的观众，而因特网从1993年对公众开放，到拥有这个数量的用户只花了4年时间。网络作为新的信息传播的载体，确实起了传统媒体所起的很多功用，或者说它替代了传统媒体的很多功用。</p><p>公认的大众传媒主要包括报纸、广播、杂志、书籍和电影等六大媒介。随着数字化技术的发展，电脑硬件的更新换代，互联网技术迅速普及和网站的大量建立，互联网正成为一种新的媒体广泛进入人们的生活。如今，国际上已把互联网纳入六大媒介中，并将其称为继报纸、广播、电视之后的“第四大众传媒”。这说明，人们已经认同了互联网的作用，能够同报纸、广播、电视等新闻媒介一样，广泛地传递新闻信息。其实，国际互联网不仅具有报纸、广播、电视等传统新闻媒介能够及时广泛传播信息的一般功能，而且还具有多媒体、实时性、交互性传播新闻信息的独特优势。它使人类面临着一次信息传播技术的前所未有的，带有根本性的突破和变革。传统的、界限分明的语言、文字、声音、影像等各种传播形式之间的铜墙铁壁顷刻就要瓦解，传统的、相互分割的报纸、广播、书籍、杂志和电影等大众传媒顷刻就要融为一体。人类社会，就要随着新一代信息传播新技术、新媒介进入一个信息传播的时代。由于国际互联网所具有的超越传统新闻媒介的优势，决定了网络对平面媒体的超越，不过是迟早的事情。</p><p>互联网的发展使视觉文化识别出现了新的空间和领域。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="15"> </a>网络形象设计的出现与定义<span class="f18">/VISI </span><a class="bjbd" href="#" secid="15" target="_self">编辑</a>
+</h2>
+</div>
+<a name="17"> </a><h3>网页VI设计重要性</h3><p>要回答这个问题，就先得回答：网站的外观重要吗？一个网站的内容固然重要，但是如果没有一个好看而吸引的外表，哪怕有着再好的内容，有着再好的结构，相信整个网站的浏览效果也会大打折扣，浏览者的阅读兴致也会大减。就等于一个内涵丰富但却外表平庸的人在一个公共场所出现，是难以引起别人的注意的一样。人们称互联网经济为注意力经济，如何吸引大众的注意力，除了内容是一个重要的因素外，外观也同样起着举足轻重的作用。网站的外观非常重要，因此，网站的VI设计也非常重要。</p><a name="19"> </a><h3>怎样才是一个好的VI设计</h3><p>一个好的视觉设计，首先要有一个好的视觉效果。一个网站怎样才算是有一个好的视觉效果？一个最简单的判别方法是，看她三眼：第一眼，看是否抢眼；第二眼，看是否顺眼；第三眼，看是养眼。其实，这三眼就是网站给你的第一感觉。第一感觉很重要，浏览者能否接受这个网站，很大程度上，就看有否这种一见钟情的感觉。如果答案都是Yes，那么，这个网站就是有一个很好的视觉效果了，相信浏览者也会耐着性子去看完你整个网站的。</p><a name="21"> </a><h3>怎样才能有一个让人一见倾心的视觉效果</h3><p>首先要看整个页面的颜色是否协调，千万不可给人刺眼的感觉；其次要看网页上的的文字是否易于阅读，文字太细、颜色太浅、页面太长或超出屏幕宽度，都是有违网站设计的“美学原则”；再次要看图片，图片太大、太多、太模糊都会惹来浏览者的反感；最后要看“动”与“静”是否配合得当，无节制地滥用Flash、动态GIF、滚动字幕等效果就会让人眼花缭乱，但死气沉沉，毫无生气的页面也会让人感到乏味。</p><p>上面谈到的VI设计仅仅是就一个页面而言，VI设计的另一方面是看整个网站的所有页面是否协调与一致。每个页面都使用相同种排版方式、相同的背景色及近似的按钮都能增加网页一致性，树立统一的风格。这是最基本而有最重要的网站VI设计。</p><a name="23"> </a><h3>成功网站的VI设计</h3><p>如果你是打算为企业建立一个商业网站，则更加要注重网站的VI设计。如果你的企业本身已经有了一个统一的CI设计（Corporate Indentity，企业形象识别），那么，网站的VI设计就应该遵循其CI设计。当然，前提是你必须有一套适用的CI设计。按照我们的经验，有相当的CI设计并不适合应用到网站的视觉设计之中，这使得网站的设计受到很大限制，因此企业在制定其CI设计时，很有必要听取专业网页制作人员的意见，哪怕企业暂时并被有触网的打算。</p><p>一个好的VI设计，事实上可以凭借CI设计里已经指定的Logo、色彩、或标准字型等予以发展。尤其是色彩部分，使用正确的色彩往往可以得到相得益彰的效果。另外针对Logo本身的一致性所作的设计上变化也是一种变化，总而言之，所有的做法必须能够发展出一套更具品牌形象的设计，而且能将网站的整体特性完全地容入浏览者的脑海里。能让浏览者记住，并能吸引浏览者回头的VI设计，就是一个成功的网站VI设计</p><a name="25"> </a><h3>VISI网络形象识别系统</h3><p>VI设计，来源英文中的 Visual Indentity System，意即视觉识别系统。单单就网站而言，一个网站上看到的所有图片、文字、动画、以及他们的编排方式等等一切能够看到的元素都是VI设计的一部分，简单来说，其实就一一个网站的外观，他能在色彩版式等形成一种认知识别，达到一定的视觉效应，我们重新定义为VISI,即网络形象识别系统(Visual Indentity System internate)它既是CI部分的延伸、有是VI部分的发展与具体应用，网络形象识别系统是一个系统化的识别形象，它将根据企业CI、VI根据网络的要求整合定位成网络形象识别系统他的具体内容将在后面作具体说明</p><div class="content_h2"><h2 class="mar-t10">
+<a name="27"> </a>网络形象识别设计的语素<span class="f18">/VISI </span><a class="bjbd" href="#" secid="27" target="_self">编辑</a>
+</h2>
+</div>
+<a name="29"> </a><h3>互联网的属性特点</h3><p>以互联网为代表技术的信息时代，为视觉传达设计师们提供了更为广阔的自由发挥空间。视觉传达设计与新媒体的结合必将产生前所未有的巨大力量，数字化设计成为未来设计师的主要表现手段。</p><a name="31"> </a><h3>传播范围广</h3><p>国际互联网的优势之一就是全球传播，不论在世界的哪个角落，只要计算机连入网络，那么你就可以将信息传送给他，或是获取他的信息。商家在互联网络上只花极少量的广告费用，就可以将他的产品在全球宣传；设计师可以与远在天边异国同行交流设计心得……</p><a name="33"> </a><h3>信息资源丰富</h3><p>有上网经验的人都有这种体会，即当你在网冲浪的时候，会真切地感受到互联网络这个信息海洋的广博无边。目前全球网民数量已超过1．5亿，网上主机数量约3000万台，可检索的网页数约50亿页，真正称得上“信息海洋”。</p><a name="35"> </a><h3>形态多样化</h3><p>网络对多媒体技术的支持，所以在视觉传达的手段上丰富多样。多媒体技术是将传统的、相互分离的各种信息传播形式(如语言、文字、声音、图象和影象等)有机地融合在一起，进行各种信息的处理、传输和显示。这样，视觉传达设计的表现手段和表现范围得到了大大的扩展，未来的视觉传达设计是综合性的，涵盖了人类全部感官的全面设计。这已经超越了现有视觉传达设计的概念。</p><a name="37"> </a><h3>交互传达</h3><p>互联网是有史以来的影响我们生活面最广、最容易产生互动的新科技，它改变了人们的思考方式，从以前的线形思考到现今的网状思考，由一体通用到量身定做，从单向沟通到双向沟通，从实体到虚拟，这皆是互联网的互动特性所带来的新特性。互动的设计更会引起受众的兴趣，满足人们的参与感。受众不再仅仅是信息的接受者，他们拥有更大的选择自由和参与机会，例如可以对网上的某些信息作出自己的反应，并将其加入到网络媒体当中，反过来又成为互联网信息的一部分。</p><a name="39"> </a><h3>网络形象识别设计</h3><p>本文提出了网络形象识别设计的新概念，几下具体说明网络形象识别设计的语素。</p><p>网络形象识别设计要根据企业制定的识别系统进行扩展延伸，设计出新的符合网络属性特点的形象识别系统。从宏观上讲，网络形象应该具有统一的整体的便于识别的设计。</p><p>首先，网络形象设计的整体定位，网络海洋如此之大，但是整体的网络视觉效果很少能出现在我们的屏幕中，这就需要策划设计人员有依据的进行整体定位策划。VI设计中的企业标准形象需要重新整合组成，事实上可以凭借CI设计里已经指定的Logo、色彩、或标准字型等予以发展。尤其是色彩部分，使用正确的色彩往往可以得到相得益彰的效果。另外针对Logo本身的一致性所作的设计上变化也是一种变化，总而言之，所有的做法必须能够发展出一套更具品牌形象的设计。</p><p>网络形象标识设计可以以动态形式或静态形式出现，网络的web色彩和版式需要统一，我们称网络标准色彩和网络应用版式，当然其形式和要素非常多，我们可以概括为基本元素形式。这里所说的基本元素主要包括：文字的处理、背景色彩、各种动态按钮、图表、表格、导航工具、背景音乐、互动影像、视频播放、小窗口等，我们需要根据实际情况确定元素，当然更重要的是整个元素要有一种共同点，这也就是网络形象设计的创意设计所在。　以上各视听元素大多数浏览器本身都可以显示或收听，无需任何外部程序或模块支持。比如，大部分浏览器都可以显示GIF、JPEG图形和GIF89a动画。还有些多媒体文件（如MP3音乐）需要先下载到本地硬盘上，然后启动相应的外部程序来播放。另外，在浏览器使用插件（Plug-in）可以播放更多格式的多媒体文件。微软推出IE浏览器后，提供了基于OLE的ActiveX技术，用来在网页中播放多媒体。目前ActiveX已经成为热门技术。另一种播放多媒体的技术是JavaApplet。它是用Java语言编写的应用于网页之中的小应用程序，相比于插件和ActiveX，JavaApplet具有更大的灵活性和良好的跨平台能力，因此具有很好的发展前景。总之，技术的不断发展使多媒体元素在网页艺术设计中的综合运用越来越广泛，使浏览者可以享受到更加完美的视听效果。这些新技术的出现，也对网页的艺术设计提出了更高的要求。多媒体技术的运用大大丰富了网页艺术设计的表现力。</p><p>网页的版式设计同报刊杂志等平面媒体的版式设计有很多共同之处，它在网页的艺术设计中占据着重要的地位。所谓网页的版式设计，是在有限的屏幕空间上将视听多媒体元素进行有机的排列组合，将理性思维个性化的表现出来，是一种具有个人风格和艺术特色的视听传达方式。它在传达信息的同时，也产生感官上的美感和精神上的享受。</p><p>但网页的排版与书籍杂志的排版又有很多差异。印刷品都有固定的规格尺寸，网页则不然，它的尺寸是由读者来控制的。这使网页设计者不能精确控制页面上每个元素的尺寸和位置。而且，网页的组织结构不像印刷品那样为线性组合，这给网页的版式设计带来了一定的难度。网页的版式设计和流程是网络形象识别系统的重要部分</p><p>总之网络视觉识别系统将是统帅所有技术与艺术集合的核心。紧跟时代步伐，视觉文化时代的要求将随着科技的进步不断变化，整体的统一的便于识别的视觉效果将会对品牌企业、产品的形象产生一定的效应.,促进经济文化的发展.</p><div class="content_h2"><h2 class="mar-t10">
+<a name="41"> </a>机械制造领域<span class="f18">/VISI </span><a class="bjbd" href="#" secid="41" target="_self">编辑</a>
+</h2>
+</div>
+<p><b>英国VISI-Series CAD/CAM 模具软件。VISI-系列在全球模具业界被公认为是世界领先的CAD/CAM解决方案.它提供了一种独特而完整的应用组合,包括线架构、曲面及实体建模,全面的2D和3D加工策略，以及专业的塑模和级进模设计工具.</b></p><p>VISI-系列凭借其专业化的运用,给精密制造者们带来了超乎想象的生产力.在处理不同软件间和传统系统所需的实体到曲面的转换方面,它提供了专业的解决方案.</p><p>英国华沃国际软件有限公司很高兴地宣布在VISI-系列的V13版本中发布VISI-5轴加工功能，这将为模具、航空航天和汽车工业提供完整的5轴解决方案</p><p>由25种不同的加工方式组成了功能丰富的模块，允许用户自主选择需要的功能。如果您正在加工叶片、深腔或发动机盖，VISI-5轴加工功能为您提供一套完整的解决方案。</p><a name="43"> </a><h3>模具用5轴</h3><p>许多复杂的模具包含了很多深腔区域和用小刀具加工的小倒角，一般来说这需要使用更多的刀具或使用加长型刀具，并可能造成过大的加工误差和较差的表面质量。经一个不同角度进刀，使短刀具的使用成为可能，由于刀具的钢性和加工稳定性增强，从而获得良好的表面质量。这种方式也得益于较短的切削距离，并减少编程和加工时间。</p><p>VISI-系列在5轴的刀具路径里，针对模具加入了真正的高速加工策略，并能在任意实体、曲面或STL模型上工作。在模具加工需要使用到包括球刀、 锥柄球刀和飞刀等多种刀具。</p><a name="45"> </a><h3>航空航天用5轴</h3><p>当今的航空航天公司正努力改良航天器的功效，同时如最新的可供给持续燃料且有效率的发动机、减少航天器的重量也同样被证明有非常重要的意义.</p><p>VISI-系列为所有的航空航天类产品的加工提供了一个专业而强大的特色功能，包括涡轮叶片和航空航天用零件。</p><p>简单的结构、良好的曲面质量、增强的可靠性、支持多样的刀具类型和先进的碰撞检测机能正好非常适用于航空航天制造公司。</p><a name="47"> </a><h3>汽车用5轴</h3><p>在汽车工业中的5轴加工适用于从塑料饰件和传动装置到发动机组件和涡轮叶片等许多领域。VISI-系列正是迎合了汽车制造业者加工需求的完善的系统。</p><p>涡轮叶片的加工或许被认为是5轴加工的必要条件，这主要由于有先进的碰撞控制。通过使用VISI-系列的'金属屑切削选项，叶片的最优化加工是个简单化的操作.包括发动机进口和排气口的加工等其它特殊加工区域。</p><p>许多制造商正在开发低能耗的发动机，而且在这些领域对于有效地提供更好的低能耗量的性能是很有必要的。VISI-系列的专业的加工程序确保达到最佳的效果。</p><a name="49"> </a><h3>高阶解决方案</h3><p>4轴和铣/旋转加工满足了如在凸轮轴零件上单独设定铣/旋转加工操作和如螺杆槽制造等切削刀具制造商、发动机零件供应商们的需要。</p><p>真空模板或玻璃钢/碳纤维的模具零件地切削能够很容易完成。金属屑切削程序采用铣刀侧面修整成理想形状。</p><p>激光切割得益于能够建立多轴切削的刀具路径的能力，此刀具路径是用于如模板零件等的薄钢板材料的切削；同时也受益于那些传统加工技术难于达到的区域的加工能力。激光切割适用于金属冲压需要修正的试生产或者需要单独设定修正以提高生产速度的时候。</p><p>机床模拟是多轴加工和VISI-系列应用的重要部分，包括一个高阶的机床定义，如允许创建包括轴的设置和机床限制等完整的机床配置.操作者能够模拟加工过程，并且在模拟的过程中可对视图进行缩放和旋转操作，以便能够更清楚的不同角度的观察。</p><p>VISI-系列的应用包括针对IGES、DXF、DWG、Parasolid、STL与VDA等标准格式和Catia V4/V5、Catia 2D、Unigraphics、Pro/E、ACIS与STEP等任意格式转换.大部分档案能够运用VISI-建模、3D和包括4轴线切割的2D CAM等功能被轻易处理，用户可以在一个操作界面中完成全部的加工。</p><a name="51"> </a><h3>VISI-系些列包含的内容</h3><p>VISI-系列也包含专业的模具设计、零件拆分与模流分析、级进模设计、冲压工具设计与分析和高端的3D加工的应用。</p><p>VISI-Series包括：</p><p>VISI-Modelling　三维实体及曲面造型系统</p><p>VISI-Mould 塑料模具快速设计系统</p><p>VISI-Progress 级进模具快速设计系统</p><p>VISI-Machining 2~5轴三维实体数控加工编程系统</p><p>VISI-Electrode 电极设计模块</p><p>VISI PEPS-Wire 线切割编程软件</p><p>VISI-Flow 塑模模具的模流分析软件</p><a name="53"> </a><h3>说明</h3><p>VISI-Series可使用户在与PRO/E UGS CATIA实体转换实现无误差实体转换，在模型自动分型拆模，塑料模具结构三维快速设计，绘制总装图，零件图，上下模加工程序编制及切削仿真等各方面处于世界先进水平。极大的缩短设计时间，简化设计难度，减少出错率。提高设计效率10倍以上。</p><p>VISI-Progress为冲模、连续模制造商提供了世界水平的三维设计系统,该系统简化了设计难度，提供自动计算及分析功能，三维设计使设计人员易于观察设计结果，减少出错率，提高了设计效率10倍以上。</p><p>网络形象识别设计，简称VISI(Visual Indentity system internate)</p><p>CISC导致时间延迟很打，给VISI的设计带来了很大的复杂性，许多复杂的指令需要复杂的逻辑设计！</p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=VISI" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=VISI" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/V%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">V开头单词</a><a href="http://fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英文单词</a><a href="http://fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英语</a><a href="/fenlei/">形象设计</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="V开头单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英文单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英语"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="形象设计"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="VISI"/><input id="docidencry" name="docidencry" type="hidden" value="qfnEAAAgEBGh-fXF_"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img"><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;" title="编辑摘要"><img alt="编辑摘要" src="//www.huimg.cn/entry/images/summary_default270x233.png" title="编辑摘要"/></a></div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>21次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=VISI&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>12</span>位</li>
+<li>最近更新时间：2019-07-29 01:21:40</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=VISI&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=cRFoEXlEDWFRTCAJE&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">伤心BOY</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=fRBxfQEcMWUNfUhZB&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="fRBxfQEcMWUNfUhZB">ؼVian</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=zAANWX1lXU0RcUngL&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="zAANWX1lXU0RcUngL">guolishui</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=xRQBRDEACX1xEb1lE&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="xRQBRDEACX1xEb1lE">patienti</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=vHVZRa0dXAU0LBh0e&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="vHVZRa0dXAU0LBh0e">zhaoze0699</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=yQl1RVURWC2BReUVJ&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="yQl1RVURWC2BReUVJ">xchsummer</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/CPU&amp;prd=citiao_so" target="_blank" title="CPU"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/50/33/50200009239445155972333420627_140.jpg);"><p></p></span>CPU</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/CPU%E7%9F%A5%E8%AF%86%E5%A4%A7%E5%85%A8&amp;prd=citiao_so" target="_blank" title="CPU知识大全"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>CPU知…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E9%A3%9E%E4%BF%A1&amp;prd=citiao_so" target="_blank" title="飞信"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/41/28/50200009239445155794286784060_140.jpg);"><p></p></span>飞信</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%88%B4%E6%B1%9D%E4%B8%BA&amp;prd=citiao_so" target="_blank" title="戴汝为"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/64/97/50200014992522154993979819383_140.jpg);"><p></p></span>戴汝为</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/Apache&amp;prd=citiao_so" target="_blank" title="Apache"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/23/82/20300542519316142702828051656_140.jpg);"><p></p></span>Apac…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/OLLYDBG&amp;prd=citiao_so" target="_blank" title="OLLYDBG"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/70/36/50200009239445155970364345130_140.jpg);"><p></p></span>OLLY…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E4%B8%AD%E5%A4%AE%E5%A4%84%E7%90%86%E5%99%A8&amp;prd=citiao_so" target="_blank" title="中央处理器"><span class="aimg" style="background-image:url(http://a3.att.hudong.com/56/51/50200014992522154429514594461_140.jpg);"><p></p></span>中央处理器</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/JVM&amp;prd=citiao_so" target="_blank" title="JVM"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/73/24/50200009239445155958248700171_140.jpg);"><p></p></span>JVM</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/RISC%E6%8A%80%E6%9C%AF&amp;prd=citiao_so" target="_blank" title="RISC技术"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/08/50/50200009239445156001509064065_140.jpg);"><p></p></span>RISC…</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/vae&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">vae</a></li>
+<li><a href="http://so.baike.com/doc/VLAN&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">VLAN</a></li>
+<li><a href="http://so.baike.com/doc/VPN&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">VPN</a></li>
+<li><a href="http://so.baike.com/doc/vss&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">vss</a></li>
+<li><a href="http://so.baike.com/doc/VSS&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">VSS</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/VMI&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">VMI</a></li>
+<li><a href="http://so.baike.com/doc/veket&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">veket</a></li>
+<li><a href="http://so.baike.com/doc/VISA&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">VISA</a></li>
+<li><a href="http://so.baike.com/doc/VBA&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">VBA</a></li>
+<li><a href="http://so.baike.com/doc/VRRP&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">VRRP</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

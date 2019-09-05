@@ -1,0 +1,269 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/C2/A5/C2A5DA6676CA841C1115162466CCC64E_90.png?title=%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>《笑星撞地球》</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/1990%E5%B9%B4%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="1990年电影">1990年电影</a><a href="//fenlei.baike.com/%E5%96%9C%E5%89%A7%E7%89%87/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="喜剧片">喜剧片</a><a href="//fenlei.baike.com/%E5%BD%B1%E8%A7%86/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="影视">影视</a><a href="//fenlei.baike.com/%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="电影">电影</a><a href="//fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="艺术">艺术</a><a href="//fenlei.baike.com/%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="香港电影">香港电影</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>《<a href="http://www.baike.com/wiki/%E7%AC%91%E6%98%9F" target="_blank">笑星</a>撞地球》是一部香港搞笑电影。剧情夸张，令人捧腹。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="《笑星撞地球》"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('fun_film')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>主演：</strong>
+<span>曾志伟</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>上映时间：</strong>
+<span>
+<a href="" title=""></a><a href="http://www.baike.com/wiki/1990%E5%B9%B4" target="_blank">1990年</a>
+</span>
+</td> </tr> <tr>
+<td>
+<strong>类别：</strong>
+<span>剧情 喜剧</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>导演：</strong>
+<span>胡大为</span>
+</td> </tr> <tr>
+<td>
+<strong>上映地区：</strong>
+<span>香港</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>语言版本：</strong>
+<span>粤语</span>
+</td> </tr> <tr>
+<td>
+<strong>画面颜色：</strong>
+<span>彩色</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="剧情简介" catalogkey="1" class="bold" href="javascript:void(0)" title="剧情简介">剧情简介</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">剧情简介</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>剧情简介<span class="f18">/《笑星撞地球》 </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r" style="width: 225px"><a href="http://tupian.baike.com/a2_54_76_01300000628516129274768409817_jpg.html" target="_blank" title="《笑星撞地球》"><img alt="《笑星撞地球》" data-original="http://a2.att.hudong.com/54/76/01300000628516129274768409817_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="《笑星撞地球》"/></a><strong>《笑星撞地球》</strong></div><p>电视台争霸战中地球台被火星台击败地球台<a class="innerlink" href="http://www.baike.com/wiki/%E8%80%81%E6%9D%BF%E7%97%85" title="老板病">老板病</a>倒嘱女儿亚May挽救地球台  亚May得属下细龟帮助从火星台密件"居安思危计划"中得知廖雄等四人为地球台球星力邀加盟四人涎于亚May美色答允援手  最初四人只顾追求亚May后却对电视制作发生兴趣可惜创作节目被偷换失去<a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%BF%E5%91%8A" title="广告">广告</a>商支持  却原来细龟<a class="innerlink" href="http://www.baike.com/wiki/%E7%81%AB%E6%98%9F" title="火星">火星</a>台派来内奸而"居安思危计划"根本火星台欲摧毁地球台计划之一亚May等五人遂发愤图强凭着创新意念将劣势逆转而五人亦成为好朋友好拍档。</p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/1990%E5%B9%B4%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kuozhan_kaifangfenlei">1990年电影</a><a href="http://fenlei.baike.com/%E5%96%9C%E5%89%A7%E7%89%87/?prd=zhengwenye_left_kuozhan_kaifangfenlei">喜剧片</a><a href="http://fenlei.baike.com/%E5%BD%B1%E8%A7%86/?prd=zhengwenye_left_kuozhan_kaifangfenlei">影视</a><a href="http://fenlei.baike.com/%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kuozhan_kaifangfenlei">电影</a><a href="http://fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kuozhan_kaifangfenlei">艺术</a><a href="http://fenlei.baike.com/%E9%A6%99%E6%B8%AF%E7%94%B5%E5%BD%B1/?prd=zhengwenye_left_kuozhan_kaifangfenlei">香港电影</a><a href="/fenlei/">粤语电影</a><a href="/fenlei/">香港II级电影</a><a href="/fenlei/">香港喜剧片</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="1990年电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="喜剧片"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="影视"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="艺术"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="香港电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="粤语电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="香港II级电影"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="香港喜剧片"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="《笑星撞地球》"/><input id="docidencry" name="docidencry" type="hidden" value="VG1ZRa0deDEIGAxke"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B/a4_01_10_20300544247028149823108072205_jpg.html" target="_blank" title="《笑星撞地球》"><img alt="《笑星撞地球》" src="http://a4.att.hudong.com/01/10/20300544247028149823108072205_s.jpg" title="《笑星撞地球》"/></a><a class="card" href="http://tupian.baike.com/doc/%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B/a4_01_10_20300544247028149823108072205_jpg.html" target="_blank"><em></em>《笑星撞地球》图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>14次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>9</span>位</li>
+<li>最近更新时间：2017-06-29 23:11:55</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=%E3%80%8A%E7%AC%91%E6%98%9F%E6%92%9E%E5%9C%B0%E7%90%83%E3%80%8B&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=heWBmR0dnBHxtdHR8&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">小贝小贝</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=nfEACAwQEW0MICAN2&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="nfEACAwQEW0MICAN2">xiaolaoban888</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=RAglxZQhjeXAFcAEJ&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="RAglxZQhjeXAFcAEJ">zero128</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=aRVtRWUEHEkUEBVNO&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="aRVtRWUEHEkUEBVNO">坏坏过</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=rAglxZQhje34AfQAF&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="rAglxZQhje34AfQAF">苏默</a></h4></li>
+<li><h4><a class="yonghu">匿名用户</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E9%A6%99%E6%B8%AF&amp;prd=citiao_so" target="_blank" title="香港"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/17/91/20300000432220140808910033313_140.jpg);"><p></p></span>香港</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%94%B5%E5%BD%B1&amp;prd=citiao_so" target="_blank" title="电影"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/85/27/20300542906611141999271707338_140.jpg);"><p></p></span>电影</a></li>
+</ul>
+</div>
+<div><iframe frameborder="0" height="384" marginheight="0" marginwidth="0" scrolling="no" src="http://www.baike.com/shouye/reci/reci-yule-common.html" width="270"></iframe></div>
+<div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E7%92%90%E7%92%90%E7%9A%84%E8%AF%B1%E6%83%91%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《璐璐的诱惑》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%89%AA%E5%88%80%E6%89%8B%E7%88%B1%E5%BE%B7%E5%8D%8E%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《剪刀手爱德华》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E8%8F%8A%E8%B1%86%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《菊豆》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%8D%B1%E6%83%85%E5%8D%81%E6%97%A5%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《危情十日》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E8%B5%8C%E5%9C%A3%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《赌圣》</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%8D%86%E7%9D%80%E6%88%91%EF%BC%8C%E7%BB%91%E7%9D%80%E6%88%91%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《捆着我，绑着我》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%B8%88%E5%85%84%E6%92%9E%E9%AC%BC%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《师兄撞鬼》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E8%B5%A4%E9%9D%A2%E7%85%9E%E6%98%9F%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《赤面煞星》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E6%BB%9A%E6%BB%9A%E7%BA%A2%E5%B0%98%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《滚滚红尘》</a></li>
+<li><a href="http://so.baike.com/doc/%E3%80%8A%E5%92%96%E5%96%B1%E8%BE%A3%E6%A4%92%E3%80%8B&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">《咖喱辣椒》</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

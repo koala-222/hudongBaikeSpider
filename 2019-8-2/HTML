@@ -1,0 +1,1190 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/HTML" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/2C/62/2C62C1DA8AE2E477B807204920A973AA_90.png?title=HTML"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>HTML</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/DHTML/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="DHTML">DHTML</a><a href="//fenlei.baike.com/H%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="H开头单词">H开头单词</a><a href="//fenlei.baike.com/IT%E6%9C%8D%E5%8A%A1%E5%88%9B%E6%96%B0/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="IT服务创新">IT服务创新</a><a href="//fenlei.baike.com/%E4%BA%92%E8%81%94%E7%BD%91/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="互联网">互联网</a><a href="//fenlei.baike.com/%E5%BA%94%E7%94%A8%E5%B1%82%E5%8D%8F%E8%AE%AE/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="应用层协议">应用层协议</a><a href="//fenlei.baike.com/%E6%8A%80%E6%9C%AF/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="技术">技术</a><a href="//fenlei.baike.com/%E7%BD%91%E7%AB%99/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="网站">网站</a><a href="//fenlei.baike.com/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%9C%AF%E8%AF%AD/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="网站建设术语">网站建设术语</a><a href="//fenlei.baike.com/%E7%BD%91%E7%AB%99%E6%9C%AF%E8%AF%AD/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="网站术语">网站术语</a><a href="//fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英文单词">英文单词</a><a href="//fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="英语">英语</a><a href="//fenlei.baike.com/%E8%A1%A8%E7%A4%BA%E5%B1%82%E5%8D%8F%E8%AE%AE/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="表示层协议">表示层协议</a><a href="//fenlei.baike.com/%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="通信技术">通信技术</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>超文本标记语言(Hyper Text Markup Language)，标准通用标记语言下的一个应用。HTML 不是一种编程语言，而是一种标记语言 (markup language)，是网页制作所必备的</p><p>“超文本”就是指页面内可以包含图片、链接，甚至音乐、程序等非文字元素。</p><p>超文本标记语言的结构包括“头”部分（英语：Head）、和“主体”部分（英语：Body），其中“头”部提供关于网页的信息，“主体”部分提供网页的具体内容。</p><p></p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="HTML"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('science_program')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>中文名：</strong>
+<span>HTML</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>外文名：</strong>
+<span>HyperText Markup Language</span>
+</td> </tr> <tr>
+<td>
+<strong>类别：</strong>
+<span><a href="http://www.baike.com/wiki/%E6%A0%87%E8%AE%B0%E8%AF%AD%E8%A8%80" target="_blank">标记语言</a></span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>意义：</strong>
+<span>可扩展性</span>
+</td> </tr>
+</table>
+</div>
+<div class="module zoom">
+<table><tr>
+<td>
+<strong>阅读方式：</strong>
+<span><a href="http://www.baike.com/wiki/%E7%BD%91%E9%A1%B5%E6%B5%8F%E8%A7%88%E5%99%A8" target="_blank">网页浏览器</a></span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>中文缩写：</strong>
+<span>超文本标记语言</span>
+</td> </tr> <tr>
+<td>
+<strong>外文缩写：</strong>
+<span>HTML或HTM（都作文件扩展名）</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<div class="dianping zoom"><ul class="zoom">
+<li>
+<span><a class="yonghu" href="//i.baike.com/profile.do?useriden=OXFlBUEZDBQEPR15W" target="_blank" uiden="OXFlBUEZDBQEPR15W">马清天</a></span><span><em class="yinhao_l"></em>很好，比较完善。<em class="yinhao_r"></em></span>
+</li>
+<li>
+</li></ul></div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie4">
+<li>
+<em>1</em><a alt="详细介绍" catalogkey="1" class="bold" href="javascript:void(0)" title="详细介绍">详细介绍</a>
+</li>
+<li class="dot"><a alt="由来" catalogkey="3" href="javascript:void(0)" title="由来">由来</a></li>
+<li class="dot"><a alt="定义" catalogkey="5" href="javascript:void(0)" title="定义">定义</a></li>
+<li>
+<em>2</em><a alt="语言特点" catalogkey="7" class="bold" href="javascript:void(0)" title="语言特点">语言特点</a>
+</li>
+<li>
+<em>3</em><a alt="书写方式" catalogkey="9" class="bold" href="javascript:void(0)" title="书写方式">书写方式</a>
+</li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="编辑" catalogkey="11" href="javascript:void(0)" title="编辑">编辑</a></li>
+<li class="dot"><a alt="字符集" catalogkey="13" href="javascript:void(0)" title="字符集">字符集</a></li>
+<li>
+<em>4</em><a alt="整体结构" catalogkey="15" class="bold" href="javascript:void(0)" title="整体结构">整体结构</a>
+</li>
+<li class="dot"><a alt="头部内容" catalogkey="17" href="javascript:void(0)" title="头部内容">头部内容</a></li>
+<li class="dot"><a alt="主体内容" catalogkey="19" href="javascript:void(0)" title="主体内容">主体内容</a></li>
+</ul>
+<ul class="lie4">
+<li>
+<em>5</em><a alt="发展历史" catalogkey="21" class="bold" href="javascript:void(0)" title="发展历史">发展历史</a>
+</li>
+<li>
+<em>6</em><a alt="相关要求" catalogkey="23" class="bold" href="javascript:void(0)" title="相关要求">相关要求</a>
+</li>
+<li>
+<em>7</em><a alt="常见实体" catalogkey="25" class="bold" href="javascript:void(0)" title="常见实体">常见实体</a>
+</li>
+<li>
+<em>8</em><a alt="标记" catalogkey="27" class="bold" href="javascript:void(0)" title="标记">标记</a>
+</li>
+<li class="dot"><a alt="数据类型" catalogkey="29" href="javascript:void(0)" title="数据类型">数据类型</a></li>
+</ul>
+<ul class="lie4">
+<li class="dot"><a alt="类型描述" catalogkey="31" href="javascript:void(0)" title="类型描述">类型描述</a></li>
+<li class="dot"><a alt="元素" catalogkey="33" href="javascript:void(0)" title="元素">元素</a></li>
+<li>
+<em>9</em><a alt="关联项目" catalogkey="35" class="bold" href="javascript:void(0)" title="关联项目">关联项目</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">详细介绍</a>
+<i></i>
+</li>
+<li class="dot">
+<em>1.1</em><a catalogkey="3" href="javascript:void(0)">由来</a>
+</li>
+<li class="dot">
+<em>1.2</em><a catalogkey="5" href="javascript:void(0)">定义</a>
+</li>
+<li>
+<em>2</em><a catalogkey="7" class="bold" href="javascript:void(0)">语言特点</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="9" class="bold" href="javascript:void(0)">书写方式</a>
+<i></i>
+</li>
+<li class="dot">
+<em>3.1</em><a catalogkey="11" href="javascript:void(0)">编辑</a>
+</li>
+<li class="dot">
+<em>3.2</em><a catalogkey="13" href="javascript:void(0)">字符集</a>
+</li>
+<li>
+<em>4</em><a catalogkey="15" class="bold" href="javascript:void(0)">整体结构</a>
+<i></i>
+</li>
+<li class="dot">
+<em>4.1</em><a catalogkey="17" href="javascript:void(0)">头部内容</a>
+</li>
+<li class="dot">
+<em>4.2</em><a catalogkey="19" href="javascript:void(0)">主体内容</a>
+</li>
+<li>
+<em>5</em><a catalogkey="21" class="bold" href="javascript:void(0)">发展历史</a>
+<i></i>
+</li>
+<li>
+<em>6</em><a catalogkey="23" class="bold" href="javascript:void(0)">相关要求</a>
+<i></i>
+</li>
+<li>
+<em>7</em><a catalogkey="25" class="bold" href="javascript:void(0)">常见实体</a>
+<i></i>
+</li>
+<li>
+<em>8</em><a catalogkey="27" class="bold" href="javascript:void(0)">标记</a>
+<i></i>
+</li>
+<li class="dot">
+<em>8.1</em><a catalogkey="29" href="javascript:void(0)">数据类型</a>
+</li>
+<li class="dot">
+<em>8.2</em><a catalogkey="31" href="javascript:void(0)">类型描述</a>
+</li>
+<li class="dot">
+<em>8.3</em><a catalogkey="33" href="javascript:void(0)">元素</a>
+</li>
+<li>
+<em>9</em><a catalogkey="35" class="bold" href="javascript:void(0)">关联项目</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>详细介绍<span class="f18">/HTML </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<a name="3"> </a><h3>由来</h3><p>万维网（world wide web）上的一个超媒体文档称之为一个页面（外语：page）。作为一个组织或者个人在万维网上放置开始点的页面称为主页（外语：Homepage）或首页，主页中通常包括有指向其他相关页面或其他节点的指针（超级链接），所谓超级链接，就是一种统一资源定位器（Uniform Resource Locator，外语缩写：URL）指针，通过激活（点击）它，可使浏览器方便地获取新的网页。这也是HTML获得广泛应用的最重要的原因之一。在逻辑上将视为一个整体的一系列页面的有机集合称为网站（Website或Site）。超级文本标记语言（英文缩写：HTML）是为“网页创建和其它可在网页浏览器中看到的信息”设计的一种标记语言。</p><p>网页的本质就是超级文本标记语言，通过结合使用其他的Web技术（如：脚本语言、公共网关接口、组件等），可以创造出功能强大的网页。因而，超级文本标记语言是万维网（Web）编程的基础，也就是说万维网是建立在超文本基础之上的。超级文本标记语言之所以称为超文本标记语言，是因为文本中包含了所谓“超级链接”点。  </p><a name="5"> </a><h3>定义</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a2_16_77_50200009239445156156776672118_s_jpg.html" target="_blank" title="超文本标记语言"><img alt="超文本标记语言" data-original="http://a2.att.hudong.com/16/77/50200009239445156156776672118_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="超文本标记语言"/></a>
+<strong>超文本标记语言</strong>
+</div><p>超级文本标记语言是标准通用标记语言下的一个应用，也是一种规范，一种标准，  它通过标记符号来标记要显示的网页中的各个部分。网页文件本身是一种文本文件，通过在文本文件中添加标记符，可以告诉浏览器如何显示其中的内容（如：文字如何处理，画面如何安排，图片如何显示等）。浏览器按顺序阅读网页文件，然后根据标记符解释和显示其标记的内容，对书写出错的标记将不指出其错误，且不停止其解释执行过程，编制者只能通过显示效果来分析出错原因和出错部位。但需要注意的是，对于不同的浏览器，对同一标记符可能会有不完全相同的解释，因而可能会有不同的显示效果。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>语言特点<span class="f18">/HTML </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+<p>超级文本标记语言文档制作不是很复杂，但功能强大，支持不同数据格式的文件镶入，这也是万维网（WWW）盛行的原因之一，其主要特点如下：</p><p>简易性：超级文本标记语言版本升级采用超集方式，从而更加灵活方便。</p><p>可扩展性：超级文本标记语言的广泛应用带来了加强功能，增加标识符等要求，超级文本标记语言采取子类元素的方式，为系统扩展带来保证。</p><p>平台无关性：虽然个人计算机大行其道，但使用MAC等其他机器的大有人在，超级文本标记语言可以使用在广泛的平台上，这也是万维网（WWW）盛行的另一个原因。</p><p>通用性：另外，HTML是网络的通用语言,一种简单、通用的全置标记语言。它允许网页制作人建立文本与图片相结合的复杂页面，这些页面可以被网上任何其他人浏览到，无论使用的是什么类型的电脑或浏览器。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="9"> </a>书写方式<span class="f18">/HTML </span><a class="bjbd" href="#" secid="9" target="_self">编辑</a>
+</h2>
+</div>
+<a name="11"> </a><h3>编辑</h3><p>它其实是文本，它需要浏览器的解释，它的编辑器大体可以分为三种，</p><p>基本文本、文档编辑软件，使用微软自带的记事本或写字板都可以编写，当然，如果你用WPS来编写，也可以。不过存盘时请使用.htm或.html作为扩展名，这样就方便浏览器认出直接解释执行了。</p><p>半所见即所得软件，</p><p>如：FCK-Editer、E-webediter等在线网页编辑器；</p><p>尤其推荐：Sublime Text代码编辑器（由Jon Skinner开发，Sublime Text2收费但可以无限期试用）。</p><p>所见即所得软件，使用最广泛的编辑器，完全可以一点不懂HTML的知识就可以做出网页，如：</p><p>AMAYA（出品单位：万维网联盟）；</p><p>FRONTPAGE（出品单位：微软）；</p><p>Dreamweaver（出品单位：Adobe）。</p><p>Microsoft Visual Studio（出品公司：微软）</p><p>所见即所得软件与半所见即所得的软件相比，开发速度更快，效率更高，且直观的表现更强。任何地方进行修改只需要刷新即可显示。缺点是生成的代码结构复杂，不利于大型网站的多人协作和精准定位等高级功能的实现。</p><a name="13"> </a><h3>字符集</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a0_00_61_50200009239445156049615546250_s_jpg.html" target="_blank" title="字符集"><img alt="字符集" data-original="http://a0.att.hudong.com/00/61/50200009239445156049615546250_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="字符集"/></a>
+<strong>字符集</strong>
+</div><p>在网页中除了可显示常见的美国信息交换标准代码（外语缩写：ASCII）字符和汉字外，HTML还有许多特殊字符，它们一起构成了HTML字符集。有2种情况需要使用特殊字符，一是网页中有其特殊意义的字符，二是键盘上没有的字符。HTML字符可以用一些代码来表示，代码可以有2种表示方式。即字符代码（命名实体）和数字代码（编号实体）。字符代码以“&amp;”符开始，以分号";"结束，其间是字符名，如®。数字代码也以“”符开始，以分号";"结束，其间是编号，如®。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="15"> </a>整体结构<span class="f18">/HTML </span><a class="bjbd" href="#" secid="15" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a1_12_10_50200009239445155369108505538_s_jpg.html" target="_blank" title="超文本标记语言"><img alt="超文本标记语言" data-original="http://a1.att.hudong.com/12/10/50200009239445155369108505538_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="超文本标记语言"/></a>
+<strong>超文本标记语言</strong>
+</div><p>一个网页对应多个HTML文件，超文本标记语言文件以.htm（磁盘操作系统DOS限制的外语缩写）为扩展名或.html（外语缩写）为扩展名。可以使用任何能够生成TXT类型源文件的文本编辑器来产生超文本标记语言文件，只用修改文件后缀即可。标准的超文本标记语言文件都具有一个基本的整体结构，标记一般都是成对出现（部分标记除外例如：&lt;br/&gt;），即超文本标记语言文件的开头与结尾标志和超文本标记语言的头部与实体两大部分。有三个双标记符用于页面整体结构的确认。</p><p>标记符&lt;html&gt;,说明该文件是用超文本标记语言（本标签的中文全称）来描述的,它是文件的开头;而&lt;/html&gt;,则表示该文件的结尾，它们是超文本标记语言文件的开始标记和结尾标记。</p><a name="17"> </a><h3>头部内容</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a3_52_79_50200009239445156093798520824_s_jpg.html" target="_blank" title="关于HTML"><img alt="关于HTML" data-original="http://a3.att.hudong.com/52/79/50200009239445156093798520824_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="关于HTML"/></a>
+<strong>关于HTML</strong>
+</div><p>&lt;head&gt;&lt;/head&gt;；这2个标记符分别表示头部信息的开始和结尾。头部中包含的标记是页面的标题、序言、说明等内容，它本身不作为内容来显示，但影响网页显示的效果。头部中最常用的标记符是标题标记符和meta标记符，其中标题标记符用于定义网页的标题，它的内容显示在网页窗口的标题栏中，网页标题可被浏览器用作书签和收藏清单。</p><p>设置文档标题和其它在网页中不显示的信息，比如 
+<b>dir</b>
+<i>ection</i>方向、语言代码 
+<b>Lang</b>
+<i>uage Code</i>（实体定义!ENTITY % i18n）、指定字典中的元信息、等等。</p><p><b>以下表格列出了 HTML head 元素：</b></p><div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tbody>
+<tr>
+<td align="left" height="0" width="102"><b>标签</b></td>
+<td align="left" height="0" width="320"><b>描述</b></td>
+</tr>
+<tr>
+<td align="left" valign="center" width="59">
+<div class="para" label-module="para">
+      &lt;head&gt;
+     </div> </td>
+<td align="left" valign="center" width="320">
+<div class="para" label-module="para">
+      定义了文档的信息
+     </div> </td>
+</tr>
+<tr>
+<td align="left" valign="center" width="59">
+<div class="para" label-module="para">
+      &lt;title&gt;
+     </div> </td>
+<td align="left" valign="center" width="320">
+<div class="para" label-module="para">
+      定义了文档的标题
+     </div> </td>
+</tr>
+<tr>
+<td align="left" valign="center" width="59">
+<div class="para" label-module="para">
+      &lt;base&gt;
+     </div> </td>
+<td align="left" valign="center" width="320">
+<div class="para" label-module="para">
+      定义了页面链接标签的默认链接地址
+     </div> </td>
+</tr>
+<tr>
+<td align="left" valign="center" width="59">
+<div class="para" label-module="para">
+      &lt;link&gt;
+     </div> </td>
+<td align="left" valign="center" width="320">
+<div class="para" label-module="para">
+      定义了一个文档和外部资源之间的关系
+     </div> </td>
+</tr>
+<tr>
+<td align="left" valign="center" width="59">
+<div class="para" label-module="para">
+      &lt;meta&gt;
+     </div> </td>
+<td align="left" valign="center" width="320">
+<div class="para" label-module="para">
+      定义了HTML文档中的元数据
+     </div> </td>
+</tr>
+<tr>
+<td align="left" valign="center" width="59">
+<div class="para" label-module="para">
+      &lt;script&gt;
+     </div> </td>
+<td align="left" valign="center" width="320">
+<div class="para" label-module="para">
+      定义了客户端的脚本文件
+     </div> </td>
+</tr>
+<tr>
+<td align="left" valign="center" width="59">
+<div class="para" label-module="para">
+      &lt;style&gt;
+     </div> </td>
+<td align="left" valign="center" width="320">
+<div class="para" label-module="para">
+      定义了HTML文档的样式文件
+     </div> </td>
+</tr>
+</tbody>
+</table>
+</div><a name="19"> </a><h3>主体内容</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a1_34_56_50200009239445156056568289385_s_jpg.html" target="_blank" title="超文本标记语言"><img alt="超文本标记语言" data-original="http://a1.att.hudong.com/34/56/50200009239445156056568289385_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="超文本标记语言"/></a>
+<strong>超文本标记语言</strong>
+</div><p>&lt;body&gt;&lt;/body&gt;；，网页中显示的实际内容均包含在这2个正文标记符之间。正文标记符又称为实体标记。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="21"> </a>发展历史<span class="f18">/HTML </span><a class="bjbd" href="#" secid="21" target="_self">编辑</a>
+</h2>
+</div>
+<p>超文本标记语言（第一版）——在1993年6月作为互联网工程工作小组（IETF）工作草案发布（并非标准）：</p><p>HTML 2.0——1995年11月作为RFC 1866发布，在RFC 2854于2000年6月发布之后被宣布已经过时</p><p>HTML 3.2——1997年1月14日，W3C推荐标准</p><p>HTML 4.0——1997年12月18日，W3C推荐标准</p><p>HTML 4.01（微小改进）——1999年12月24日，W3C推荐标准</p><p>HTML 5——2014年10月28日，W3C推荐标准   （ 
+<b>详见本处</b>参考资料）</p><p>ISO/IEC 15445:2000（“ISO HTML”）——2000年5月15日发布，基于严格的HTML 4.01语法，是国际标准化组织和国际电工委员会的标准。</p><p>Wijmo是基于HTML5、jQuery、CSS3和SVG的一个控件包，能够满足构建当今Web系统的需求。基于Wijmo，您的系统运行将更加快速和流畅，外观也会更加引人入胜。Wijmo中所有新的控件都是在符合最新的UI设计潮流的基础上，对新的以及改良后的主题进行封装。优美的、专业的控件外观会让您的应用程序引人注目。比如 ComponentOne Studio for ASP .NET Wijmo 控件包内置的6个主题，同时可以使用jQuery UI项目提供的 30 多个主题，甚至可以使用 ThemeRoller 创建属于您自己的系统主题。</p><p>HTML没有1.0版本是因为当时有很多不同的版本。有些人认为蒂姆·伯纳斯-李的版本应该算初版，这个版本没有IMG元素。当时被称为HTML+的后续版的开发工作于1993年开始，最初是被设计成为“HTML的一个超集”。第一个正式规范为了和当时的各种HTML标准区分开来，使用了2.0作为其版本号。HTML+的发展继续下去，但是它从未成为标准。</p><p>HTML3.0规范是由当时刚成立的W3C于1995年3月提出，提供了很多新的特性，例如表格、文字绕排和复杂数学元素的显示。虽然它是被设计用来兼容2.0版本的，但是实现这个标准的工作在当时过于复杂，在草案于1995年9月过期时，标准开发也因为缺乏浏览器支持而中止了。3.1版从未被正式提出，而下一个被提出的版本是开发代号为Wilbur的HTML 3.2，去掉了大部分3.0中的新特性，但是加入了很多特定浏览器，例如Netscape和Mosaic的元素和属性。HTML对数学公式的支持最后成为另外一个标准MathML。</p><p>HTML 4.0同样也加入了很多特定浏览器的元素和属性，但是同时也开始“清理”这个标准，把一些元素和属性标记为过时，建议不再使用它们。HTML的未来和CSS结合会更好。</p><p>HTML 5草案的前身名为Web Applications 1.0。于2004年被WHATWG提出，于2007年被W3C接纳，并成立了新的HTML工作团队。在2008年1月22日，第一份正式草案发布。</p><p>XHTML1.0——发布于2000年1月26日，是W3C推荐标准，后来经过修订于2002年8月1日重新发布。</p><p>XHTML 1.1，于2001年5月31日发布，W3C推荐标准。</p><p>XHTML 2.0，W3C工作草案。</p><p>XHTML 5，从XHTML 1.x的更新版，基于HTML 5草案。</p><p>HTML4.01 是常见的版本。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="23"> </a>相关要求<span class="f18">/HTML </span><a class="bjbd" href="#" secid="23" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a3_62_01_50200009239445156094017395422_s_jpg.html" target="_blank" title="HTML"><img alt="HTML" data-original="http://a3.att.hudong.com/62/01/50200009239445156094017395422_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="HTML"/></a>
+<strong>HTML</strong>
+</div><p>在编辑超文本标记语言文件和使用有关标记符时有一些约定或默认的要求。</p><p>文本标记语言源程序的文件扩展名默认使用htm（磁盘操作系统DOS限制的外语缩写为扩展名）或html（外语缩写为扩展名），以便于操作系统或程序辨认，除自定义的汉字扩展名。在使用文本编辑器时，注意修改扩展名。而常用的图像文件的扩展名为gif和jpg。</p><p>超文本标记语言源程序为文本文件，其列宽可不受限制，即多个标记可写成一行，甚至整个文件可写成一行；若写成多行，浏览器一般忽略文件中的回车符（标记指定除外）；对文件中的空格通常也不按源程序中的效果显示。完整的空格可使用特殊符号（实体符）“&amp;nbsp（注意此字母必须小写，方可空格）”表示非换行空格；表示文件路径时使用符号“/”分隔，文件名及路径描述可用双引号也可不用引号括起。</p><p>标记符中的标记元素用尖括号括起来，带斜杠的元素表示该标记说明结束；大多数标记符必须成对使用，以表示作用的起始和结束；标记元素忽略大小写，即其作用相同，但完整的空格可使用特殊符号“&amp;nbsp（注意此字母必须小写，方可空格）”；许多标记元素具有属性说明，可用参数对元素作进一步的限定，多个参数或属性项说明次序不限，其间用空格分隔即可；一个标记元素的内容可以写成多行。</p><p>标记符号，包括尖括号、标记元素、属性项等必须使用半角的西文字符，而不能使用全角字符。</p><p>HTML注释由"<!--"号开始，由符号”-->“结束结束，例如<!--注释内容-->。注释内容可插入文本中任何位置。任何标记若在其最前插入惊叹号，即被标识为注释，不予显示。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="25"> </a>常见实体<span class="f18">/HTML </span><a class="bjbd" href="#" secid="25" target="_self">编辑</a>
+</h2>
+</div>
+<div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tbody>
+<tr>
+<td align="left" height="0"><b>显示结果</b></td>
+<td align="left" height="0" valign="top"><b>描述</b></td>
+<td><b>实体名称</b></td>
+<td><b>实体编号</b></td>
+</tr>
+<tr>
+<td align="center" valign="center"></td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      空格
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+       
+     </div> </td>
+<td align="center" valign="center"></td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &lt;
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      小于号
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &lt;
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &lt;
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &gt;
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      大于号
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &gt;
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &gt;
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &amp;
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      和号
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &amp;
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      &amp;
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      "
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      引号
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      "
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      "
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      '
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      撇号
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ' (IE不支持)
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      '
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ￠
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      分
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ¢
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ¢
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ￡
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      镑
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      £
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      £
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ￥
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      日元
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ¥
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ¥
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      €
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      欧元
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      €
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      €
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      §
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      小节
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      §
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      §
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ©
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      版权
+     </div> </td>
+<td align="center" valign="center">©</td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ©
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ®
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      注册商标
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ®
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ®
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">™</td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      商标
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ™
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ™
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ×
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      乘号
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ×
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ×
+     </div> </td>
+</tr>
+<tr>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ÷
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      除号
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ÷
+     </div> </td>
+<td align="center" valign="center">
+<div class="para" label-module="para">
+      ÷
+     </div> </td>
+</tr>
+</tbody>
+</table>
+</div><div class="content_h2"><h2 class="mar-t10">
+<a name="27"> </a>标记<span class="f18">/HTML </span><a class="bjbd" href="#" secid="27" target="_self">编辑</a>
+</h2>
+</div>
+<a name="29"> </a><h3>数据类型</h3><div class="img img_r">
+<a href="http://tupian.baike.com/a4_34_78_50200009239445156052784395748_s_jpg.html" target="_blank" title="html示例"><img alt="html示例" data-original="http://a4.att.hudong.com/34/78/50200009239445156052784395748_s.jpg" src="http://www.huimg.cn/lib/0.gif" title="html示例"/></a>
+<strong>html示例</strong>
+</div><p>超文本标记语言定义了多种数据类型的元素内容，如脚本数据和样式表的数据，和众多类型的属性值，包括ID、名称、URI、数字、长度单位、语言、媒体描述符、颜色、字符编码、日期和时间等。所有这些数据类型都是专业的字符数据。</p><a name="31"> </a><h3>类型描述</h3><p>为了说明文档使用的超文本标记语言标准，所有超文本标记语言文档应该以 
+<b>“</b>
+<b>文件类型声明</b>
+<b>”</b>（外语全称加缩写&lt;!DOCTYPE&gt;）开头，引用一个文件类型描述或者必要情况下自定义一个文件类型描述。举例来说：</p><p><b>HTML 5</b>由于没定义一个文档类型定义（外语缩写：DTD），只包含根元素的它所以如此简单。</p><div class="nav-module" style="width: 780px; overflow-x: auto;">
+<table class="table">
+<tbody>
+<tr>
+<td align="left" height="0" style="border: 0px solid #ddd;" valign="top"><b>公共标识符</b></td>
+<td style="border: 0px solid #ddd;"><b>系统标识符</b></td>
+<td align="left" height="0" style="border: 0px solid #ddd;"><b>说明</b></td>
+</tr>
+<tr>
+<td style="border: 0px solid #ddd;">
+<div class="para" label-module="para">
+      -//W3C//DTD HTML 4.0//EN
+     </div> </td>
+<td style="border: 0px solid #ddd;"></td>
+<td align="left" height="0" style="border: 0px solid #ddd;" valign="center">
+<div class="para" label-module="para">
+      超文本标记语言（版本：4.0）、万维网联盟。
+     </div> </td>
+</tr>
+<tr>
+<td style="border: 0px solid #ddd;">
+<div class="para" label-module="para">
+      -//W3C//DTD HTML 4.01//EN
+     </div> </td>
+<td style="border: 0px solid #ddd;"></td>
+<td align="left" class="coloredcell" height="0" style="border: 0px solid #ddd;" valign="center">
+<div class="para" label-module="para">
+      超文本标记语言（版本：4.01）、万维网联盟。
+     </div> </td>
+</tr>
+</tbody>
+</table>
+</div><p>这个声明说明文档服从超文本标记语言 4.01的严格文件类型描述，这个标准是严格结构化的，使用层叠样式表（外语缩写：CSS）来做格式化。有时是否存在一个合适的文件类型描述会影响一个浏览器显示网页的方式。</p><p>除了超文本标记语言 4.01的严格文件类型描述之外，超文本标记语言 4.01也提供“ 
+<b>过渡</b>”和“ 
+<b>框架集</b>”文件类型描述。</p><p><b>过渡文件类型描述</b>是向严格的文件类型描述过渡的缓冲。</p><p><b>框架集文件类型描述</b>则针对包含框架元素的网页。</p><a name="33"> </a><h3>元素</h3><p>&lt;html&gt;&lt;/html&gt; 创建一个超文本标记语言文档。</p><p>&lt;head&gt;&lt;/head&gt; （头）设置文档标题和其它在网页中不显示的信息，比如direction方向、语言代码Language Code（见实体定义!ENTITY % i18n）、指定字典中的元信息、等等。</p><p>&lt;BASE&gt; 文档中不能被该站点辨识的其它所有链接源的URL（统一资源定位器）</p><p>&lt;LINK&gt; 定义一个链接和源之间的相互关系，比如引用一个层叠样式表（英文缩写：css）、做一个链接到一个脚本、为某文件做一个链接（可打印的版本）、文档特定的工具栏/菜单。</p><p>&lt;script&gt;&lt;/script&gt;脚本语句标签，比如引用一个javascript脚本。</p><p>&lt;body&gt;&lt;/body&gt;文档体，文档的可见部分。</p><p>&lt;title&gt;&lt;/title&gt; 设置文档的标题。</p><p>当然，如果不使用以上基本框架结构，而直接使用在实体部分中出现的标记符，在浏览器下也可以解释执行。</p><p>内容描述</p><p>&lt;h1&gt;&lt;/h1&gt; 最大的标题（一号标题）</p><p>&lt;pre&gt;&lt;/pre&gt; 预先格式化文本 （英文全称： 
+<b>PRE</b>
+<i>formatted</i>）</p><p>&lt;u&gt;&lt;/u&gt; 下划线（英文全称：Underline）</p><p>&lt;b&gt;&lt;/b&gt; 黑体字 （英文全称：Bold）</p><p>&lt;i&gt;&lt;/i&gt; 斜体字 （英文全称：Italics）</p><p>&lt;tt&gt;&lt;/tt&gt;打字机风格的字体</p><p>&lt;cite&gt;&lt;/cite&gt;引用，通常是斜体</p><p>&lt;em&gt;&lt;/em&gt; 强调文本（通常是斜体加黑体、英文全称： 
+<b>EM</b>
+<i>phasize</i>）</p><p>&lt;strong&gt;&lt;/strong&gt; 加重文本（通常是斜体加黑体）</p><p>&lt;font size="" color=""&gt;&lt;/font&gt; 设置字体大小从1到7，颜色使用名字或RGB（中文全称：红绿蓝）的十六进制值</p><p>&lt;BASEFONT&gt;&lt;/BASEFONT&gt;基准字体标记</p><p>&lt;big&gt;&lt;/big&gt; 字体加大</p><p>&lt;SMALL&gt;&lt;/SMALL&gt; 字体缩小</p><p>&lt;DELECT&gt;&lt;/DELECT&gt; 加删除线</p><p>&lt;CODE&gt;&lt;/CODE&gt;程式码</p><p>&lt; 
+<b>KBD</b>&gt;&lt;/KBD&gt;键盘字（英文全称： 
+<b>K</b>
+<i>ey</i>
+<b>B</b>
+<i>oar</i>
+<b>D</b>）</p><p>&lt;SAMP&gt;&lt;/SAMP&gt; 范例（英文全称： 
+<b>SAMP</b>le）</p><p>&lt;VAR&gt;&lt;/VAR&gt; 变量（英文全称：VARiable）</p><p>&lt;BLOCKQUOTE&gt;&lt;/BLOCKQUOTE&gt; 向右缩排（向右缩进、块引用）</p><p>&lt;DFN&gt;&lt;/DFN&gt; 述语定义（英文全称：DeFiNe）</p><p>&lt;ADDRESS&gt;&lt;/ADDRESS&gt;地址标记</p><p>&lt;sup&gt;&lt;/SUP&gt; 上标字 （英文全称：SUPerscript）</p><p>&lt;SUB&gt;&lt;/SUB&gt; 下标字（英文全称：SUBscript）</p><p>&lt;xmp&gt;...&lt;/xmp&gt;；固定宽度字体（在文件中空白、换行、定位功能有效）</p><p>&lt;plaintext&gt;...&lt;/plaintext&gt;；固定宽度字体（不执行标记符号）</p><p>&lt;listing&gt;...&lt;/listing&gt; 固定宽度小字体</p><p>&lt;font color=00ff00&gt;...&lt;/font&gt;；字体 颜色</p><p>&lt;font size=1&gt;...&lt;/font&gt;；字体 大小等于1（最小）。</p><p>&lt;font style ='font-size:100 px'&gt;...&lt;/font&gt;；字体 样式等于无限增大（100像素）</p><p><b>格式标志标签</b></p><p>&lt;p&gt;&lt;/p&gt; 创建一个段落 （英文全称： 
+<b>P</b>
+<i>aragraphs</i>）</p><p>&lt;p align=""&gt; 将段落按左、中、右对齐</p><p>&lt;br/&gt;定义新行</p><p>&lt;blockquote&gt;&lt;/blockquote&gt; 从两边缩进文本</p><p>&lt;dl&gt;&lt;/dl&gt; 定义列表（英文全称： 
+<b>D</b>
+<i>efinition</i>
+<b>L</b>
+<i>ist</i>）</p><p>&lt;dt&gt; 放在每个定义术语词前（定义术语、英文全称：D 
+<i>efinition</i>T 
+<i>erm</i>）</p><p>&lt;dd&gt; 放在每个定义之前（定义说明、英文全称：D 
+<i>efinition</i>D 
+<i>escription</i>）</p><p>&lt;ol&gt;&lt;/ol&gt; 创建一个标有序的列表，默认前面有数字，从数字“1”开始计数，依次叠加，也可以设置为字母或从任何自然数开始计数的列表项 （有序列表、外语全称：O 
+<i>rdered</i>L 
+<i>ist</i>）</p><p>&lt;ul&gt;&lt;/ul&gt; 创建一个无序的列表，默认前面标有圆点，也可以自己设置为none或者其他形状，如空心圆、方块等。（无序列表、外语全称：U 
+<i>nordered</i>L 
+<i>ists</i>）</p><p>&lt;li&gt; 放在每个列表项之前，若在&lt;ol&gt;&lt;/ol&gt;；之间则每个列表项加上一个数字，</p><p>若在&lt;ul&gt;&lt;/ul&gt;；之间则每个列表项加上一个圆点</p><p>&lt;div align=""&gt;&lt;/div&gt; 用来排版大块HTML段落，也用于格式化表</p><p>&lt;MENU&gt; 选项清单</p><p>&lt;DIR&gt; 目录清单</p><p>&lt;nobr&gt;&lt;/nobr&gt; 强行不换行（英文全称：nobr 
+<i>eakin</i>g）</p><p>&lt;hr size='9' width='80%' color='ff0000'&gt;；水平线（设定宽度、外语全称：horizontalrule）</p><p>&lt;center&gt;&lt;/center&gt; 水平居中</p><p><b>网页表格标签</b></p><p>由于表格可以精确控制文本和图像在网页中的显示位置，所以在很多网站的主页中一般都使用表格来进行布局。<br/>　　表格的基本结构如下：</p><p><br/>　　&lt;Table&gt;定义整个表格，即表格的内容要放在&lt;Table&gt;和&lt;/Table&gt;标记中；在&lt;Table&gt;中的主要属性：border属性显示表格的边框，width, height属性定义表格的大小。&lt;caption&gt;标记符用来定义表格的标题。<br/>　　表格的表示以行为单位，在行中包含列。其中：一个&lt;tr&gt;...&lt;/tr&gt;标记表示一行；一个&lt;td&gt;...&lt;/td&gt;标记表示一列；&lt;th&gt;... &lt;/th&gt;定义表头，一般可以不用。</p><p><b>链接标志表格标志</b></p><p>：创建超文本链接。</p><p>：创建位于文档内部的书签。</p><p>：创建指向位于文档内部书签的链接。</p><p>使用</p><p>每种HTML标记符在使用中可带有不同的属性项，用于描述该标记符说明的内容显示不同的效果。正文标记符中提供以下属性来改变文本的颜色及页面背景。</p><p>BGCOLOR（外语全称：BackgroundColor）用于定义网页的 
+<i>背景色</i>，BACKGROUND用于定义网页背景图案的图像文件</p><p>TEXT用于定义正文字符的颜色，默认为黑色</p><p>LINK用于定义网页中超级链接字符的颜色，默认为蓝色</p><p>VLINK（外语全称：V 
+<i>isited</i>LINK）用于定义网页中 
+<i>已</i>被 
+<i>访问过的</i>超接 
+<i>链接</i>字符的颜色，默认为紫红色</p><p>ALINK（中文全称：活动链接）用于定义被鼠标选中，但未使用时超链字符的颜色，默认为红色</p><p>例如：标记将定义页面的背景色为黑色，正文字体显示为白色。</p><p>以上属性使用中，需要对颜色进行说明，在HTML中对颜色可使用3种方法说明颜色属性值，即直接颜色名称、16进制颜色代码、10进制RGB码。</p><p>直接颜色名称，可以在代码中直接写出颜色的英文名称。如&lt;font color="red"&gt;我们&lt;/font&gt;，在浏览器上显示时就为红色。</p><p>16进制颜色代码，语法格式： #RRGGBB 。16进制颜色代码之前必须有一个“#”号，这种颜色代码是由三部分组成的，其中前两位代表红色，中间两位代表绿色，后两位代表蓝色。不同的取值代表不同的颜色，他们的取值范围是00--FF。如&lt;font color="#FF0000"&gt;我们&lt;/font&gt;，在浏览器上显示同样为红色。</p><p>10进制RGB码，语法格式： RGB(RRR,GGG,BBB) 。在这种表示法中，后面三个参数分别是红色、绿色、蓝色，他们的取值范围是0--255。以上两种表达方式可以相互转换，标准是16进制与10进制的相互转换。如&lt;font color="rgb(255,0,0)"&gt;我们&lt;/font&gt;，在浏览器上显示字体为红色。</p><p>使用图案代替背景颜色，可以使页面更生动、美观。</p><p>如今用一张大图当做网页的背景已经成为一种流行趋势，高质量的精美照片和抽象的设计图片能够给网站的外观带去深刻的影响。</p><p>可将图像文件“图像.gif”所表示的一幅图像作为页面的背景，若图像幅面不够大，将会将图像重复平铺在窗口中。</p><p>注释</p><p>其他版本</p><p>和XHTML之间的差异：</p><p>xmlns 属性在XHTML中是必需的，但在 HTML中不是。不过，即使XHTML文档中的 &lt;html&gt; 没有使用此属性，W3C 的验证器也不会报错。这是因为 "xmlns=百度" 是一个固定值，即使您没有包含它，此值也会被添加到 &lt;html&gt; 标签中。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="35"> </a>关联项目<span class="f18">/HTML </span><a class="bjbd" href="#" secid="35" target="_self">编辑</a>
+</h2>
+</div>
+<p>标准通用标记语言</p><p>标准通用标记语言实体</p><p>文档类型定义（外语缩写：DTD）</p><p>！文档类型（外语全称加缩写：!doctype）</p><p>CSS+div</p><p>Html5（超文本标记语言五）</p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div appcode="category">
+<link href="http://www.huimg.cn/hudong/entry/widget/tree/css/tree160908.css" media="all" rel="stylesheet" type="text/css"/>
+<p class="classification_style">显示方式：<a class="current" href="javascript:void(0)" value="tabletree">分类详情</a> | <a href="javascript:void(0)" value="tree">分类树</a></p>
+<div id="tableTree_style_category">
+<div class="classification" style="z-index:1;">
+<div class="h3tit" data-treeid="81">
+<h3>网络协议</h3>
+<span class="more"><a class="editterm quizForTreeHref" href="javascript:void(0)">我要提建议</a></span>
+<span class="toggleshow" style="display: none;"></span>
+<span class="togglehide" style="display: block;"></span>
+</div>
+<div class="bor-ddd">
+<p class="gray6 pd10 bor-t">计算机通信或网络设备的共同语言。现在最普及的计算机通信为网络通信，所以“传送协议”一般都指计算机通信的传送协议，如：TCP/IP、NetBEUI、HDCP、FTP等。</p>
+<div class="lve2_t bor-t">
+<!--展开方式<div class="t_w   autoh">-->
+<div class="t_w">
+<div class="h84">
+<ul class="current" data-datatype="category" data-focus="858" data-order="3">
+<li class="bold">
+<a alt="网络协议" title="网络协议" value="858">网络协议  </a>
+</li>
+</ul>
+</div>
+<span class="xl"><i></i>
+</span>
+<div class="page">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div class="lve3_t">
+<!--展开方式<div class="t_w  autoh">-->
+<div class="t_w">
+<div class="h84">
+<ul class="current" data-datatype="category" data-focus="859" data-order="2">
+<li class="bold">
+<a alt="应用层协议" title="应用层协议" value="859">应用层协议</a>
+</li>
+<li>
+<a alt="传输层协议" title="传输层协议" value="860">传输层协议</a>
+</li>
+<li>
+<a alt="网络层协议" title="网络层协议" value="861">网络层协议</a>
+</li>
+<li>
+<a alt="数据链路层协议" title="数据链路层协议" value="862">数据链路..</a>
+</li>
+<li>
+<a alt="物理层协议" title="物理层协议" value="863">物理层协议</a>
+</li>
+</ul>
+</div>
+<span class="xl2"><i></i>
+</span>
+<div class="page">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div class="lve_c">
+<!-- 分类列表 -->
+<ul class="pic_ul" style="display:none;">
+</ul>
+<!-- 词条列表 -->
+<ul class="ul_pic zoom" data-datatype="doc" data-focus="HTML" data-order="1">
+<li class="current">
+<a alt="HTML" class="aimg" href="http://www.baike.com/wiki/HTML" target="_blank" title="HTML"><img src="http://a4.att.hudong.com/13/86/50200009239445155792868795062_02_120_90.jpg" title="HTML"/>
+</a>
+<a alt="HTML" href="http://www.baike.com/wiki/HTML" target="_blank" title="HTML">HTML</a>
+</li>
+<li>
+<a alt="ADSP" class="aimg" href="http://www.baike.com/wiki/ADSP" target="_blank" title="ADSP"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="ADSP"/>
+</a>
+<a alt="ADSP" href="http://www.baike.com/wiki/ADSP" target="_blank" title="ADSP">ADSP</a>
+</li>
+<li>
+<a alt="AFP" class="aimg" href="http://www.baike.com/wiki/AFP" target="_blank" title="AFP"><img src="http://a2.att.hudong.com/64/95/20300001128119141864955496607_02_120_90.jpg" title="AFP"/>
+</a>
+<a alt="AFP" href="http://www.baike.com/wiki/AFP" target="_blank" title="AFP">AFP</a>
+</li>
+<li>
+<a alt="AIM" class="aimg" href="http://www.baike.com/wiki/AIM" target="_blank" title="AIM"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="AIM"/>
+</a>
+<a alt="AIM" href="http://www.baike.com/wiki/AIM" target="_blank" title="AIM">AIM</a>
+</li>
+<li>
+<a alt="APPC" class="aimg" href="http://www.baike.com/wiki/APPC" target="_blank" title="APPC"><img src="http://a2.att.hudong.com/43/26/01300543140711149629268681645_02_120_90.jpg" title="APPC"/>
+</a>
+<a alt="APPC" href="http://www.baike.com/wiki/APPC" target="_blank" title="APPC">APPC</a>
+</li>
+<li>
+<a alt="ASN.1" class="aimg" href="http://www.baike.com/wiki/ASN.1" target="_blank" title="ASN.1"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="ASN.1"/>
+</a>
+<a alt="ASN.1" href="http://www.baike.com/wiki/ASN.1" target="_blank" title="ASN.1">ASN.1</a>
+</li>
+<li>
+<a alt="ASP" class="aimg" href="http://www.baike.com/wiki/ASP" target="_blank" title="ASP"><img src="http://a0.att.hudong.com/42/39/20300542493146139945399321651_02_120_90.jpg" title="ASP"/>
+</a>
+<a alt="ASP" href="http://www.baike.com/wiki/ASP" target="_blank" title="ASP">ASP</a>
+</li>
+<li>
+<a alt="BitTorrent" class="aimg" href="http://www.baike.com/wiki/BitTorrent" target="_blank" title="BitTorrent"><img src="http://www.huimg.cn/entry/images/wordimg_default120x90.gif" title="BitTorrent"/>
+</a>
+<a alt="BitTorrent" href="http://www.baike.com/wiki/BitTorrent" target="_blank" title="BitTorrent">BitTorrent</a>
+</li>
+</ul>
+<div id="flipover">
+<!-- 没有就留白 -->
+<em>共有53个词条</em>
+<ul>
+<span class="">1</span><a class="" value="2">[2]</a><a class="" value="3">[3]</a><a class="" value="4">[4]</a>…<a class="" value="7">[7]</a><a class="after" value="2">下一页</a>
+</ul>
+</div>
+<!--下面是没数据时的显示内容已隐藏-->
+<div class="build-info" style="display:none;">
+<a class="btn_build" href="http://www.baike.com/createDocAuth.do?doc_title=HTML&amp;prd=so_chuangjiann" target="_blank">立刻创建</a>
+<h4>
+<strong>该分类下还没有词条</strong>，欢迎您来创建。
+						</h4>
+<p>
+							与广大同友分享关于“HTML”的知识。<br/>成千上万的读者会因为您的贡献而受益匪浅。
+						</p>
+<h4 class="mar-t20 gray3">您还可以：</h4>
+<p>
+<a href="http://fenlei.baike.com/themeManagerApply.do?Action=forapply" target="_blank">申请分类管理员</a>，参与知识体系建设。<br/>
+							分类管理员是一个分类的建设者，超着指导用户阅读的作用。所以现责任心是必不可少的。除此之外，只要您对某一领域有着相当的了解或者深厚的兴趣，拥有丰富的知识，并具愿意将自己的知识传递给更多的人，您就是分类管理员最合适的人选。
+						</p>
+<p class="mar-t5">
+<a href="http://task.baike.com/tasklist.wiki?Action=missionpackage2&amp;type=2" target="_blank">参加有奖任务</a>和更多举相同的人，通过完成某一领域的词条，分享知识聚集在一起。<br/>根据您的贡献程度，您将有机会获得积分和信用奖励。<br/>我可以用积分和信用干什么？
+							<a href="http://www.baike.com/giftshop/index.html?prd=xinzhishe_jifenshangdian" target="_blank">进入百科商城兑换各种精美礼品</a>。
+						</p>
+</div>
+</div>
+</div>
+</div>
+<script src="http://www.huimg.cn/app/category/js/categoryTree20150115.js" type="text/javascript"></script>
+</div>
+<div id="tree_style_category" style="display:none;">
+<!----------------style tree-------------------------------- -->
+<div class="categoryAppPannel">
+<div class="classification">
+<div class="h3tit">
+<h3><a href="http://fenlei.hudong.com/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/?prd=fenleishequ_fufenlei" target="_blank">网络协议</a></h3><span class="more"> <a class="editterm quizForTreeHref" href="javascript:void(0)">我要提建议</a></span>
+<span class="toggleshow" style="display:none;"></span><span class="togglehide"></span>
+</div>
+<div class="vtree" style="display:block;">
+<ul class="one">
+<li><span><a href="http://fenlei.hudong.com/%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/" target="_blank" title="网络协议">网络协议</a><a class="t_no"><em class="line"></em></a></span></li>
+</ul>
+<ul class="last">
+<li class="backnone"></li>
+<li class="backnone"></li>
+<li class="backnone"></li>
+<li class="yellow yellow_l">
+<span><a href="http://fenlei.hudong.com/%E5%BA%94%E7%94%A8%E5%B1%82%E5%8D%8F%E8%AE%AE/" target="_blank" title="应用层协议">应用层协议</a></span>
+</li>
+<li>
+<span><a href="http://fenlei.hudong.com/%E4%BC%A0%E8%BE%93%E5%B1%82%E7%BD%91%E7%BB%9C%E5%8D%8F%E8%AE%AE/" target="_blank" title="传输层协议">传输层协议</a></span>
+</li>
+<li>
+<span><a href="http://fenlei.hudong.com/%E7%BD%91%E7%BB%9C%E5%B1%82%E5%8D%8F%E8%AE%AE/" target="_blank" title="网络层协议">网络层协议</a></span>
+</li>
+<li class="right">
+<span><a href="http://fenlei.hudong.com/%E6%95%B0%E6%8D%AE%E9%93%BE%E8%B7%AF%E5%B1%82%E5%8D%8F%E8%AE%AE/" target="_blank" title="数据链路层协议">数据链路层协议</a></span>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<div class="clear"></div>
+</div>
+<script type="text/javascript">
+(function($,dom){
+	var category_tree_position = ["tableTree_style_category","tree_style_category"];
+	var tree_top_as = $(".classification_style a");
+	tree_top_as.each(function (index, domEle) {
+		  var $self = $(domEle);
+		  var tree_div = $('#'+category_tree_position[$(tree_top_as).index($self)]);
+		  if($.trim(tree_div.text()).length<1){
+			  $self.removeClass().addClass("disabled");
+			}
+	});
+
+	var tree_top_as_exclude = tree_top_as.not(".disabled");
+	$(dom).delegate(".classification_style a[class!='disabled']", 'click', function() {
+		var $self = $(this);
+		var tree_div = $('#'+category_tree_position[tree_top_as.index($self)]);
+		if($self.hasClass('current')){
+			return;
+		}
+		$self.removeClass().addClass("current");
+		tree_div.show();
+		if($self[0].text == "分类树"){
+			  $(".htree").each(function(i, el){
+				var o = $(el), height= o.height();
+				o.css('overflowY', ( height < 350 ) ? 'hidden':'scroll');
+			  });
+		}
+		tree_top_as_exclude.not($self).each(function(){
+				var _this = $(this);
+				_this.removeClass("current");
+			    $('#'+category_tree_position[tree_top_as.index(_this)]).hide();
+		});
+	});
+})(jQuery,document);
+
+
+try{
+	$(document).ready(function(){
+		$('.toggleshow').click(function(){
+		   $(this).closest(".classification").find("div").eq(1).show();
+		});
+		
+		$('.togglehide').click(function(){
+		   $(this).closest(".classification").find("div").eq(1).hide();
+		});
+
+		$('.quizForTreeHref').click(function(){
+		  $('#bootomtiwen').click();
+		});
+		
+		$(".htree").each(function(i, el){
+			var o = $(el), height= o.height();
+			o.css('overflowY', ( height < 350 ) ? 'hidden':'scroll');
+		});
+		
+		$(".categoryAppPannel a[target=_blank]").bind("click", function(){
+  			StatVirtualTraffic(document.referrer, window.location, 'stat_hdstat_onclick_category_tree_app');
+    	});
+	});
+	
+}catch(e){
+	
+}
+</script></div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder">
+<h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=HTML" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=HTML" target="_blank">添加图册</a></span>相关影像</h3>
+<h4>视频</h4>
+<div class="scrollX">
+<div class="scroll-con" style="height:175px;"><ul class="fodder-vod" id="fodder-vod" style="width: 10000px;position: absolute;"><li>
+<p>
+<a class="fimg" href="http://v.baike.com/view/youku_XMTU2MTgwMjA4.shtml?prd=zhengwenye_sucai_shipin" target="_blank">
+<img src="http://g2.ykimg.com/0100641F464B91E5AD9081028C213FA0B9D563-1655-1BA4-25D2-0D577A393F9B" title="XML3D带来了网页3D图形 可作为HTML扩展"/><span class="playbj"> </span>
+</a>
+</p>
+<a href="http://v.baike.com/view/youku_XMTU2MTgwMjA4.shtml?prd=zhengwenye_sucai_shipin" target="_blank" title="XML3D带来了网页3D图形 可作为HTML扩展">XML3D带来了...</a>
+</li></ul></div>
+<p class="arrow gray9" id="vPageId" style="display:none;"><i><span id="vPageNumSpan"></span></i><span id="vPageSizeSpan"></span><em class="btn-prev" id="vBtnPrev"></em><em class="btn-next" id="vBtnNext"></em></p>
+</div>
+</div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/DHTML/?prd=zhengwenye_left_kuozhan_kaifangfenlei">DHTML</a><a href="http://fenlei.baike.com/H%E5%BC%80%E5%A4%B4%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">H开头单词</a><a href="http://fenlei.baike.com/IT%E6%9C%8D%E5%8A%A1%E5%88%9B%E6%96%B0/?prd=zhengwenye_left_kuozhan_kaifangfenlei">IT服务创新</a><a href="http://fenlei.baike.com/%E4%BA%92%E8%81%94%E7%BD%91/?prd=zhengwenye_left_kuozhan_kaifangfenlei">互联网</a><a href="http://fenlei.baike.com/%E5%BA%94%E7%94%A8%E5%B1%82%E5%8D%8F%E8%AE%AE/?prd=zhengwenye_left_kuozhan_kaifangfenlei">应用层协议</a><a href="http://fenlei.baike.com/%E6%8A%80%E6%9C%AF/?prd=zhengwenye_left_kuozhan_kaifangfenlei">技术</a><a href="http://fenlei.baike.com/%E7%BD%91%E7%AB%99/?prd=zhengwenye_left_kuozhan_kaifangfenlei">网站</a><a href="http://fenlei.baike.com/%E7%BD%91%E7%AB%99%E5%BB%BA%E8%AE%BE%E6%9C%AF%E8%AF%AD/?prd=zhengwenye_left_kuozhan_kaifangfenlei">网站建设术语</a><a href="http://fenlei.baike.com/%E7%BD%91%E7%AB%99%E6%9C%AF%E8%AF%AD/?prd=zhengwenye_left_kuozhan_kaifangfenlei">网站术语</a><a href="http://fenlei.baike.com/%E8%8B%B1%E6%96%87%E5%8D%95%E8%AF%8D/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英文单词</a><a href="http://fenlei.baike.com/%E8%8B%B1%E8%AF%AD/?prd=zhengwenye_left_kuozhan_kaifangfenlei">英语</a><a href="http://fenlei.baike.com/%E8%A1%A8%E7%A4%BA%E5%B1%82%E5%8D%8F%E8%AE%AE/?prd=zhengwenye_left_kuozhan_kaifangfenlei">表示层协议</a><a href="http://fenlei.baike.com/%E9%80%9A%E4%BF%A1%E6%8A%80%E6%9C%AF/?prd=zhengwenye_left_kuozhan_kaifangfenlei">通信技术</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="DHTML"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="H开头单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="IT服务创新"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="互联网"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="应用层协议"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="技术"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="网站"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="网站建设术语"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="网站术语"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英文单词"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="英语"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="表示层协议"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="通信技术"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;">
+<dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt>
+<dd class="h27"><a href="/wiki/%E4%BD%95%E8%B0%93HTML?prd=zhengwenye_left_tongyici">何谓HTML</a></dd>
+</dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;">
+<dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt>
+<dd>
+<input class="input-textarea" maxlength="50" name="thes" onblur="this.setAttribute('value',this.value);" type="text" value="何谓HTML"/> <a href="javascript:void(0)" id="_REMOVETHES" onclick="removeThesaurus(this)">[删除]</a>
+</dd>
+</dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="HTML"/><input id="docidencry" name="docidencry" type="hidden" value="sZHFndWV6VwlRUVlu"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/HTML/a4_13_86_50200009239445155792868795062_jpg.html" target="_blank" title=""><img alt="" src="http://a4.att.hudong.com/13/86/50200009239445155792868795062_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/HTML/a4_13_86_50200009239445155792868795062_jpg.html" target="_blank"><em></em>HTML图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>68次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=HTML&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>44</span>位</li>
+<li>最近更新时间：2019-06-03 21:25:31</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=HTML&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=fRBxfQEcEX0VZUhJG&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">dayforever</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=dd3cDAFtZCnZeC3dx&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="dd3cDAFtZCnZeC3dx">dbldblwan</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=tAQREAwReWkNDWwID&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="tAQREAwReWkNDWwID">xiaoxiaojiet</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=nfUACAwQNXUEDAAR7&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="nfUACAwQNXUEDAAR7">chenwei222000</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=QfnEABQ8CAGd4c3Z7&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="QfnEABQ8CAGd4c3Z7">黑馍馍不黑</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=WU0YACAMMTEZGXRdS&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="WU0YACAMMTEZGXRdS">75man</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF&amp;prd=citiao_so" target="_blank" title="科学技术"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/21/35/50200009239445155956356038764_140.jpg);"><p></p></span>科学技术</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E5%83%8F%E7%B4%A0&amp;prd=citiao_so" target="_blank" title="像素"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/76/35/50200009239445155957358033876_140.jpg);"><p></p></span>像素</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%96%87%E4%BB%B6%E6%89%A9%E5%B1%95%E5%90%8D&amp;prd=citiao_so" target="_blank" title="文件扩展名"><span class="aimg" style="background-image:url(http://a0.att.hudong.com/13/93/50200009239445155792938464026_140.jpg);"><p></p></span>文件扩展名</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/CSS&amp;prd=citiao_so" target="_blank" title="CSS"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/85/08/50200009239445155966088354524_140.jpg);"><p></p></span>CSS</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/XML&amp;prd=citiao_so" target="_blank" title="XML"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/40/44/20300542476289142000445606742_140.jpg);"><p></p></span>XML</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/A%E5%85%83%E7%B4%A0&amp;prd=citiao_so" target="_blank" title="A元素"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>A元素</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/JSP%E5%86%85%E5%B9%95&amp;prd=citiao_so" target="_blank" title="JSP内幕"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>JSP内幕</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/HTML&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">HTML</a></li>
+<li><a href="http://so.baike.com/doc/html&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">html</a></li>
+<li><a href="http://so.baike.com/doc/javascript&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">javascript</a></li>
+<li><a href="http://so.baike.com/doc/XSL&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">XSL</a></li>
+<li><a href="http://so.baike.com/doc/xsl&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">xsl</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/Dojo&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">Dojo</a></li>
+<li><a href="http://so.baike.com/doc/HTA&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">HTA</a></li>
+<li><a href="http://so.baike.com/doc/getElementById&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">getElementById</a></li>
+<li><a href="http://so.baike.com/doc/%E5%B1%82%E5%8F%A0%E6%A0%B7%E5%BC%8F%E8%A1%A8&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">层叠样式表</a></li>
+<li><a href="http://so.baike.com/doc/ShowBrowserUI&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">ShowBrowserUI</a></li>
+</ul>
+</div>
+</div>
+<div appcode="zxAccurate">
+<link href="http://www.huimg.cn/hudong/entry/widget/gg-express/css/gg-window171226.css" rel="stylesheet"/>
+<link href="http://www.huimg.cn/libs/swiper/4.0.3/css/swiper.min.css" rel="stylesheet"/>
+<script src="http://www.huimg.cn/libs/swiper/4.0.3/js/swiper.min.js"></script>
+<script charset="utf-8" src="http://www.huimg.cn/zhixiao/js/zxAccurateRecommend.js" type="text/javascript"></script>
+<!-- 橱窗广告 -->
+<div class="gg-window" id="gg-window">
+<div class="rightdiv">
+<div class="ggwd-title">猜你想了解</div>
+<div class="roll-content swiper-container" id="gg-window-swiper">
+<ul class="swiper-wrapper" id="gg-ul">
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a0.att.hudong.com/28/53/21300543881782149276535119683_f.jpg"/></span>
+<strong class="gg-qiyedoctitle">北京互动百科网络技术股份有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">互动百科隶属于北京互动百科网络技术股份有限公司，互动百科网（www.baike.com）是全球知名中文百科网站，创建于2005年7月18日，致力于为数亿中文用户免费提供海量、全面、及时的百科信息，并通过全新的维基（wiki）平台不断改善用户对信息的创作获取和共享方式。</a></p>
+</li>
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a0.att.hudong.com/28/53/21300543881782149276535119683_f.jpg"/></span>
+<strong class="gg-qiyedoctitle">北京互动百科网络技术股份有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">互动百科隶属于北京互动百科网络技术股份有限公司，互动百科网（www.baike.com）是全球知名中文百科网站，创建于2005年7月18日，致力于为数亿中文用户免费提供海量、全面、及时的百科信息，并通过全新的维基（wiki）平台不断改善用户对信息的创作获取和共享方式。</a></p>
+</li>
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a0.att.hudong.com/28/53/21300543881782149276535119683_f.jpg"/></span>
+<strong class="gg-qiyedoctitle">北京互动百科网络技术股份有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/北京互动百科网络技术股份有限公司" target="_blank">互动百科隶属于北京互动百科网络技术股份有限公司，互动百科网（www.baike.com）是全球知名中文百科网站，创建于2005年7月18日，致力于为数亿中文用户免费提供海量、全面、及时的百科信息，并通过全新的维基（wiki）平台不断改善用户对信息的创作获取和共享方式。</a></p>
+</li>
+<li class="swiper-slide item">
+<a href="http://qiye.baike.com/wiki/广西淘木科技有限公司" target="_blank">
+<span class="simg"><img alt="" onerror="javascript:this.src='http://www.huimg.cn/public/default-xn360.png'" src="http://a2.att.hudong.com/73/08/21300544446294150831085735713_f.png"/></span>
+<strong class="gg-qiyedoctitle">广西淘木科技有限公司</strong>
+</a>
+<p><a href="http://qiye.baike.com/wiki/广西淘木科技有限公司" target="_blank">广西淘木科技有限公司坐落于山水甲天下的桂林，是一家集域名注册、网站建设、小程序制作、微信平台开发、电商项目策划、商城系统定制、网络营销推广、互联网产品咨询于一体的互联网公司。公司致力于垂直生态型电商的理论研究和实战运作，从项目的规划、商业模式的顶层设计；到商城系统的定制开发、产品策划；最后是引流推广、打造生态，为客户提供一站式电商平台解决方案。</a></p>
+</li>
+</ul>
+</div>
+<div class="goto">
+<a class="alink" href="javascript:void(0);" id="alink" target="_blank">去瞅瞅</a>
+<a class="acut" href="javascript:void(0);" id="acut">没兴趣</a>
+</div>
+<em class="guang">广告</em>
+</div>
+</div></div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>

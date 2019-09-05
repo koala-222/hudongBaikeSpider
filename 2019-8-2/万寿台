@@ -1,0 +1,379 @@
+﻿<div class="w-990">
+<div class="polysemy" style="display:none"></div>
+<p id="unifypromptone" style="display:none"> </p>
+<div class="polysemy industry" id="personal_polysemy" style="display:none"></div>
+<div class="l w-640">
+<div id="place_div"><div class="mainnav-l"><ul class="l">
+<li><span class="noback"></span><a class="btn-editdoc" href="/editdocauth/%E4%B8%87%E5%AF%BF%E5%8F%B0" onclick="return editdoc();">编辑</a>
+</li>
+<li><a class="discuss" href="javascript:void(0)">讨论</a></li>
+<li class="hide" id="sha">
+<a class="share" href="javascript:void(0)">分享</a><em></em>
+<div class="d-list" id="share" name="div_fun_kmod"><p><a class="sinaminblog" href="#"><em></em>新浪微博</a>
+<a class="weixin" href="#"><em></em>微信
+					<span class="qrcode"><img class="img" src="//a7.baike.com/EB/8B/EB8BDF96B45F5E685764816CED551C61_90.png?title=%E4%B8%87%E5%AF%BF%E5%8F%B0"/>扫描二维码用<i>手机</i>浏览词条</span></a>
+<a class="xinzhishe" href="#" id="xinzhisheshare2"> <em></em>新知社</a><a class="qqzone" href="#"> <em></em>QQ空间</a></p></div>
+</li>
+<li><a class="digg" href="javascript:void(0)">0</a></li>
+</ul></div></div>
+<div id="hd_ad_doc_7"> </div>
+<div class="edit-kz" id="doc_mission_view"></div>
+<div class="clear"></div>
+<div class="content-h1"><h1>万寿台</h1></div>
+<div class="clear"></div>
+<div class="place">
+<p id="openCatp" style="display:none">开放分类：<a href="//fenlei.baike.com/%E5%B9%B3%E5%A3%A4/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="平壤">平壤</a><a href="//fenlei.baike.com/%E5%BB%BA%E7%AD%91/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="建筑">建筑</a><a href="//fenlei.baike.com/%E6%96%87%E5%8C%96/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="文化">文化</a><a href="//fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kaifangfenlei" target="_blank" title="艺术">艺术</a></p>
+</div>
+<div class="clear"></div>
+<div class="information" id="unifyprompt"><div class="summary" id="anchor" name="anchor"><p>万寿台大纪念碑在1972年4月朝鲜领袖金日成同志的60寿辰之际，建立在平壤的万寿台山岗上。以伟大 领袖金日成同志铜像为中心，由群像雕塑和大幅镶嵌壁画组成。总占地面积为24万平方米，铜像两侧的群像雕的高度，各有22.8米，228人群像（右面119人、左面109人），平均高5米。大型纪念碑北衬朝鲜革命博物馆，其正面墙壁上有革命圣地白头山的大幅镶嵌壁画。 朝鲜革命博物馆与万寿台大纪念碑一起矗立于万寿台山上。1948年8月开馆，名称为国立中央解放斗争博物馆，1972年再次开馆更名为“朝鲜革命博物馆”并移址到万寿台山上。万寿台是朝鲜首都平壤中心的丘岗，是平壤城将台的古址。这里有万寿台大纪念碑、朝鲜革命博物馆、千里马铜像、万寿台议事堂、万寿台艺术剧院、万寿台喷泉公园、崇灵殿、崇仁殿、平壤学生少年宫等。</p><span><a action="editsummaryhref" href="javascript:void(0);" onclick="editSummary();return false;">编辑摘要</a></span>
+</div></div>
+<input id="doctitle" name="doctitle" type="hidden" value="万寿台"/><div id="hd_ad_doc_109"> </div>
+<div appcode="datamodule" id="datamodule" name="datamodule">
+<div class="module zoom">
+<h2 class="h2-title">基本信息
+        <a class="bjbd" href="javascript:void(0);" onclick="perfectinfotempletdata('geography_spot')">编辑信息模块</a>
+</h2>
+<table><tr>
+<td>
+<strong>中文名：</strong>
+<span>万寿台</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>所在地：</strong>
+<span><a href="http://www.baike.com/wiki/%E6%9C%9D%E9%B2%9C" target="_blank">朝鲜</a>平壤</span>
+</td> </tr> <tr>
+<td>
+<strong>地理位置：</strong>
+<span>万寿台山</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>建立时间：</strong>
+<span>1972年</span>
+</td> </tr> <tr>
+<td>
+<strong>适宜游玩季节：</strong>
+<span>全年</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>特色景观：</strong>
+<span>议事堂、千里马像、少年宫。</span>
+</td> </tr> <tr>
+<td>
+<strong>开放时间：</strong>
+<span>全天</span>
+</td>
+<td class="jg"></td>
+<td>
+<strong>门票价格：</strong>
+<span>免费</span>
+</td> </tr> <tr>
+<td>
+<strong>著名景点：</strong>
+<span><a href="http://www.baike.com/wiki/%E8%AE%AE%E4%BA%8B%E5%A0%82" target="_blank">议事堂</a>、千里马像、少年宫</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+<div class="module zoom">
+<table><tr>
+<td>
+<strong>建议游玩时长：</strong>
+<span>一小时</span>
+</td> <td class="jg"></td><td></td></tr>
+</table>
+</div>
+</div>
+<fieldset id="catalog">
+<div class="toctitle"><h3>目录</h3></div>
+<div id="full-all">
+<ul class="lie3">
+<li>
+<em>1</em><a alt="大纪念碑" catalogkey="1" class="bold" href="javascript:void(0)" title="大纪念碑">大纪念碑</a>
+</li>
+<li>
+<em>2</em><a alt="议事堂" catalogkey="3" class="bold" href="javascript:void(0)" title="议事堂">议事堂</a>
+</li>
+<li>
+<em>3</em><a alt="千里马像" catalogkey="5" class="bold" href="javascript:void(0)" title="千里马像">千里马像</a>
+</li>
+<li>
+<em>4</em><a alt="少年宫" catalogkey="7" class="bold" href="javascript:void(0)" title="少年宫">少年宫</a>
+</li>
+<li>
+<em>5</em><a alt="艺术剧场" catalogkey="9" class="bold" href="javascript:void(0)" title="艺术剧场">艺术剧场</a>
+</li>
+<li>
+<em>6</em><a alt="艺术团" catalogkey="11" class="bold" href="javascript:void(0)" title="艺术团">艺术团</a>
+</li>
+</ul>
+</div>
+<div class="bot-bg"></div>
+</fieldset>
+<div id="float_section" style="display:none;">
+<div class="catalog">
+<div class="full-list">
+<ul>
+<li>
+<em>1</em><a catalogkey="1" class="bold" href="javascript:void(0)">大纪念碑</a>
+<i></i>
+</li>
+<li>
+<em>2</em><a catalogkey="3" class="bold" href="javascript:void(0)">议事堂</a>
+<i></i>
+</li>
+<li>
+<em>3</em><a catalogkey="5" class="bold" href="javascript:void(0)">千里马像</a>
+<i></i>
+</li>
+<li>
+<em>4</em><a catalogkey="7" class="bold" href="javascript:void(0)">少年宫</a>
+<i></i>
+</li>
+<li>
+<em>5</em><a catalogkey="9" class="bold" href="javascript:void(0)">艺术剧场</a>
+<i></i>
+</li>
+<li>
+<em>6</em><a catalogkey="11" class="bold" href="javascript:void(0)">艺术团</a>
+<i></i>
+</li>
+</ul>
+</div>
+</div>
+<a class="topcontrol" href="#"></a>
+<a class="toollist" href="#"></a>
+</div>
+<!--google_ad_section_start-->
+<div id="content">
+<div class="content_h2 bac_no">
+<h2 class="mar-t10">
+<a name="1"> </a>大纪念碑<span class="f18">/万寿台 </span><a class="bjbd" href="#" secid="1" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a3_55_63_50200009239445155356636049023_jpg.html" target="_blank" title="金日成铜像（1972——2012）"><img alt="金日成铜像（1972——2012）" data-original="http://a3.att.hudong.com/55/63/50200009239445155356636049023.jpg" src="http://www.huimg.cn/lib/0.gif" title="金日成铜像（1972——2012）" width="100%"/></a>
+<strong>金日成铜像（1972——2012）</strong>
+</div><p>万寿台大纪念碑在1972年4月伟大领袖金日成同志的60寿辰之际，建立在平壤的万寿台山岗上。以伟大领袖金日成同志铜像为中心，由群像雕塑和大幅镶嵌壁画组成。总占地面积为24万平方米，铜像两侧的群像雕的高度，各有22.8米，228人群像(右面119人、左面109人)，平均高5米。大型纪念碑北衬朝鲜革命博物馆，其正面墙壁上有革命圣地白头山的大幅镶嵌壁画。</p><p>朝鲜革命博物馆与万寿台大纪念碑一起矗立于万寿台山上。1948年8月开馆，名称为国立中央解放斗争博物馆，1972年再次开馆更名为“朝鲜革命博物馆”并移址到万寿台山上。</p><div class="img img_r">
+<a href="http://tupian.baike.com/a3_14_04_50200009239445155357048596914_jpg.html" target="_blank" title="金日成·金正日铜像（2012年完工）"><img alt="金日成·金正日铜像（2012年完工）" data-original="http://a3.att.hudong.com/14/04/50200009239445155357048596914.jpg" src="http://www.huimg.cn/lib/0.gif" title="金日成·金正日铜像（2012年完工）" width="100%"/></a>
+<strong>金日成·金正日铜像（2012年完工）</strong>
+</div><p>2012年增加金正日同志的铜像于金日成主席铜像的旁边。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="3"> </a>议事堂<span class="f18">/万寿台 </span><a class="bjbd" href="#" secid="3" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a0_88_42_50200009239445155357422445010_jpg.html" target="_blank" title="万寿台议事堂"><img alt="万寿台议事堂" data-original="http://a0.att.hudong.com/88/42/50200009239445155357422445010.jpg" src="http://www.huimg.cn/lib/0.gif" title="万寿台议事堂" width="100%"/></a>
+<strong>万寿台议事堂</strong>
+</div><p><b>万寿台议事堂</b>（朝鲜语：坟）位于朝鲜民主主义人民共和国首都平壤市大同江畔万寿台，建立于1984年10月，是朝鲜最高立法机构最高人民会议会议用场所。万寿台议事堂是朝鲜国家最高权力机关－－朝鲜最高人民会议举行会议的地方。8月4日，朝鲜第十一届最高人民会议中央选举委员会宣布，朝鲜领导人金正日在3日举行的全国最高人民会议代表选举中当选为第十一届朝鲜最高人民会议代表。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="5"> </a>千里马像<span class="f18">/万寿台 </span><a class="bjbd" href="#" secid="5" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_00_94_50200009239445155356944425877_jpg.html" target="_blank" title="千里马铜像"><img alt="千里马铜像" data-original="http://a4.att.hudong.com/00/94/50200009239445155356944425877.jpg" src="http://www.huimg.cn/lib/0.gif" title="千里马铜像" width="100%"/></a>
+<strong>千里马铜像</strong>
+</div><p>千里马铜像矗立在万寿台的丘岗上，是1961年4月15日，在伟大领袖金日成同志的49寿辰之际建立的。座基是用360多种2，500多块不同规格的花岗岩垒起来的，铜像为一匹伸展双翅的骑有工人、农民的“千里马”。 铜像的总高度为46米（从人行便道到红色信纸），其中雕像高14米、长16米。工人铜像高7米，农民铜像高6.5米。 基座是用360多种2500多块不同规格的花岗岩垒起来的。铜像的前面是英雄式劳动阶级高举着朝鲜劳动党中央委员会的“红色信纸”，以骑着千里马的气势向前进, 其后面是一个抱着稻子的女农民加速进军的情景。</p><p>将云彩远远地抛在后面的千里马，因其鲜明的轮廓给人以持续前进和飞跃的气势，特别是展翅的千里马，进一步升华了整个铜像的生动性和形象性。 铜像总高46米，长16米。其中，马高14米，座台高32米。千里马铜像象征着为尽快恢复朝鲜战争后的国家经济而斗争的朝鲜人民的英雄气概。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="7"> </a>少年宫<span class="f18">/万寿台 </span><a class="bjbd" href="#" secid="7" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_53_34_50200009239445155357346080107_jpg.html" target="_blank" title="万寿台少年宫"><img alt="万寿台少年宫" data-original="http://a4.att.hudong.com/53/34/50200009239445155357346080107.jpg" src="http://www.huimg.cn/lib/0.gif" title="万寿台少年宫" width="100%"/></a>
+<strong>万寿台少年宫</strong>
+</div><p>万寿台学生少年宫于1989年5月开馆，是朝鲜少年学生接受课外教育的综合基地，占地面积30万平方米，建筑面积10.3万平方米，宏伟而壮丽，主楼呈半圆形。</p><p>正门左右两边有宽宽的行车道，中间有宽60米、长50米的台阶，台阶两侧有以《老虎和刺猬》、《月亮国望远镜》等童话为主题的6组雕塑，中间耸立着群雕《满载幸福的彩车》。</p><p>少年宫内有600多个房间，其中包括科技、体育、文艺等200多个小组活动室。少年宫内还有2000个坐席的剧场以及图书馆、游泳馆、科技产品展览室和水族馆、体育场、汽车和拖拉机驾驶实习场等设施。少年宫内共有500余名专职教师对学生进行课外活动的专门指导。</p><div class="content_h2"><h2 class="mar-t10">
+<a name="9"> </a>艺术剧场<span class="f18">/万寿台 </span><a class="bjbd" href="#" secid="9" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_42_05_50200009239445155357058350185_jpg.html" target="_blank" title="灯火璀璨的万寿台艺术剧场"><img alt="灯火璀璨的万寿台艺术剧场" data-original="http://a4.att.hudong.com/42/05/50200009239445155357058350185.jpg" src="http://www.huimg.cn/lib/0.gif" title="灯火璀璨的万寿台艺术剧场" width="100%"/></a>
+<strong>灯火璀璨的万寿台艺术剧场</strong>
+</div><p>万寿台艺术剧场位于首都平壤市中心，建筑面积为6万平方米。在展现独特建筑艺术水平的墙壁上，装饰有许多雕刻而成的壁画。剧场内有数间练功房、照明室、化妆室、大休息室、立体录音室、立体录音操纵室、闭路电视控制室等提高演出和演员们艺术技能所必需的现代设施。</p><p>旋转舞台面积有2，000平方米，高有40米。舞台可以容纳数千名演员同台演出。观众席上面的天花板上有彩虹式样的照明装置，墙上有可以调节音响效果的装置。圆形台阶上是以世界名胜—金刚山的风景为背景。有电梯在上上下下，让人有自己在腾云驾雾中欣赏金刚山风景的感觉。剧场的墙壁是用朝鲜画等雕塑和工艺品点缀的。柱子、墙壁和宽敞的大厅由许多花纹的大理石组成，而耀眼的吊灯使整个剧场更加美丽。</p><p>剧场前面的院子有喷水池。看过万寿台艺术剧场的某国建筑家代表团团长曾经这样评价：“从建筑技术和建筑风格，还有其内部装饰来看万寿台艺术剧场已经达到了世界水平。”</p><div class="content_h2"><h2 class="mar-t10">
+<a name="11"> </a>艺术团<span class="f18">/万寿台 </span><a class="bjbd" href="#" secid="11" target="_self">编辑</a>
+</h2>
+</div>
+<div class="img img_r">
+<a href="http://tupian.baike.com/a4_44_07_50200009239445155357073448052_jpg.html" target="_blank" title="万寿台艺术剧团"><img alt="万寿台艺术剧团" data-original="http://a4.att.hudong.com/44/07/50200009239445155357073448052.jpg" src="http://www.huimg.cn/lib/0.gif" title="万寿台艺术剧团" width="100%"/></a>
+<strong>万寿台艺术剧团</strong>
+</div><p>朝鲜万寿台艺术团是朝鲜最优秀的艺术团体之一，其前身是1946年成立的平壤歌舞团，1969年改为现名。团内设团长、副团长等职。下设舞蹈团、管弦乐团、民族管弦乐团、功勋男女声合唱团等。全团有演、职员300余人，其中有众多的著名演员。拥有歌剧《卖花姑娘》和音乐舞蹈故事《乐园之歌》等不朽的经典名作。该团因精湛的技艺和高雅的表演风格而享誉全球，曾多次访华演出，并曾出访日、法、意大利等40多个国家。该团拥有人民艺术家、人民演员、功勋艺术家、功勋演员120名，其中有多名为朝鲜文化艺术工作者的最高荣誉“金日成奖”桂冠获得者，艺术团也被授予朝鲜民主主义人民共和国最高勋章“金日成勋章”。</p><p>平壤万寿台艺术团由优秀文艺工作者组成，其中，有功勋男声小合唱组以及女声小合唱组、独奏家，民族管弦乐团、舞蹈团和优秀的创作人员、指挥人员。团中有许多人民艺术家、人民演员、功勋演员。平壤万寿台艺术团在革命歌剧创作中取得了巨大成就，他们把革命歌剧《卖花姑娘》出色地搬上舞台，受到了人民的高度评价。<br/>　　平壤万寿台艺术团访问过亚洲、非洲、拉丁美洲、欧洲等世界五大洲的五十多个国家，成功地进行了演出，引起了巨大的反响。</p>
+<div class="clear"></div>
+</div>
+<div id="hd_ad_doc_110"> </div>
+<!--google_ad_section_end-->
+<div id="hd_ad_doc_3"> </div>
+<div style="display:;"><div>
+<div id="hd_ad_doc_27"> </div>
+<div id="hd_ad_doc_28"> </div>
+</div></div>
+<div id="hd_ad_doc_19"> </div>
+<div class="wenxian_app">
+<link href="http://www.huimg.cn/hudong/entry/widget/wenxian/css/wenxianapp160908.css" rel="stylesheet" type="text/css"/>
+<div class="h3tit"><h3>相关文献</h3></div>
+<ul>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_ysj201102011.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="万岁万寿台">万岁万寿台</a><span>
+										-
+										艺术界
+										-
+									</span><span>2011</span><span>
+										(
+										2
+										)
+									</span>
+</li>
+<li>
+<span class="wfimg" title="万方数据">万方数据</span>期刊论文<a href="http://d.wanfangdata.com.cn/Periodical_jzxb200102021.aspx" onclick="StatVirtualTraffic(document.referrer,window.location,'stat_hdstat_onclick_wanfang_wenxian')" target="_blank" title="中国建筑学会代表团访问朝鲜">中国建筑学会代表团访问朝鲜</a><span>
+										-
+										建筑学报
+										-
+									</span><span>2001</span><span>
+										(
+										2
+										)
+									</span>
+</li>
+</ul>
+</div>
+<div class="nav-module">
+<h2>朝鲜平壤标志建筑</h2>
+<em class="tounfold"> </em><span class="toggleshow" style="display: none;"> </span><span class="togglehide"> </span><div id="navData"><table class="table" id="jqe-table-0"><tbody><tr><td>平壤，正式名称为<a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%B3%E5%A3%A4" title="平壤">平壤</a>直辖市，是<a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%9D%E9%B2%9C%E6%B0%91%E4%B8%BB%E4%B8%BB%E4%B9%89%E4%BA%BA%E6%B0%91%E5%85%B1%E5%92%8C%E5%9B%BD" title="朝鲜民主主义人民共和国">朝鲜民主主义人民共和国</a>的首都，也是传说中朝鲜民族的始祖<a class="innerlink" href="http://www.baike.com/wiki/%E6%AA%80%E5%90%9B" title="檀君">檀君</a>在前1122年建都的王俭城所在地，为朝鲜半岛历史最悠久的城市。其位于朝鲜半岛西北部、<a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%A7%E5%90%8C%E6%B1%9F" title="大同江">大同江</a>旁。 </td></tr></tbody></table><table class="table" id="jqe-table-1"><tbody><tr><td><a class="baikelink" href="http://www.baike.com/wiki/%E9%94%A6%E7%BB%A3%E5%B1%B1%E5%A4%AA%E9%98%B3%E5%AE%AB" target="_blank" title="锦绣山太阳宫">锦绣山太阳宫</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E9%87%91%E6%97%A5%E6%88%90%E5%B9%BF%E5%9C%BA" target="_blank" title="金日成广场">金日成广场</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%9D%E9%B2%9C%E9%82%AE%E7%A5%A8%E5%B1%95%E4%BD%BF%E9%A6%86" target="_blank" title="朝鲜邮票展使馆">朝鲜邮票展使馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%89%E5%9B%BD%E5%AF%BA%5B%E6%9C%9D%E9%B2%9C%5D" target="_blank" title="安国寺[朝鲜]">安国寺[朝鲜]</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%9F%B3%E4%BA%AC%E9%83%91%E5%91%A8%E6%B0%B8%E4%BD%93%E8%82%B2%E9%A6%86" target="_blank" title="柳京郑周永体育馆">柳京郑周永体育馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%99%AE%E9%80%9A%E9%97%A8" target="_blank" title="普通门">普通门</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E8%8B%8D%E5%85%89%E9%99%A2" target="_blank" title="苍光院">苍光院</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%A7%E5%90%8C%E6%B1%9F%E5%A4%96%E4%BA%A4%E4%BD%BF%E8%8A%82%E5%9B%A2%E4%BC%9A%E9%A6%86" target="_blank" title="大同江外交使节团会馆">大同江外交使节团会馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E9%A6%99%E6%BB%A1%E6%A5%BC%E9%85%92%E5%AE%B6" target="_blank" title="香满楼酒家">香满楼酒家</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E8%8E%B2%E6%B1%A0%E9%A6%86" target="_blank" title="莲池馆">莲池馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%87%E5%AF%BF%E5%8F%B0%E8%89%BA%E6%9C%AF%E5%89%A7%E5%9C%BA" target="_blank" title="万寿台艺术剧场">万寿台艺术剧场</a></td><td><a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%BB%E4%BD%93%E6%80%9D%E6%83%B3%E5%A1%94" target="_blank" title="主体思想塔">主体思想塔</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E7%99%BD%E5%96%84%E8%A1%8C%E7%BA%AA%E5%BF%B5%E9%A6%86" target="_blank" title="白善行纪念馆">白善行纪念馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%94%E6%9C%88%E4%B8%80%E6%97%A5%E4%BD%93%E8%82%B2%E5%9C%BA" target="_blank" title="五月一日体育场">五月一日体育场</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%88%E9%A6%99%E5%B1%95%E7%A4%BA%E9%A6%86" target="_blank" title="月香展示馆">月香展示馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E9%87%91%E6%97%A5%E6%88%90%E7%AB%9E%E6%8A%80%E5%9C%BA" target="_blank" title="金日成竞技场">金日成竞技场</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%B3%95%E4%BA%91%E5%BA%B5" target="_blank" title="法云庵">法云庵</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%A7%E5%90%8C%E9%97%A8" target="_blank" title="大同门">大同门</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%9D%E9%B2%9C%E4%B8%AD%E5%A4%AE%E5%8A%A8%E7%89%A9%E5%9B%AD" target="_blank" title="朝鲜中央动物园">朝鲜中央动物园</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%B3%E5%A3%A4%E9%AB%98%E4%B8%BD%E9%A5%AD%E5%BA%97" target="_blank" title="平壤高丽饭店">平壤高丽饭店</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%B3%E5%A3%A4%E6%96%87%E5%8C%96%E5%B1%95%E7%A4%BA%E9%A6%86" target="_blank" title="平壤文化展示馆">平壤文化展示馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%83%E8%B0%B7%E6%B0%91%E4%BF%97%E9%A6%86" target="_blank" title="七谷民俗馆">七谷民俗馆</a></td><td><a class="baikelink" href="http://www.baike.com/wiki/%E5%87%AF%E6%97%8B%E9%97%A8%5B%E5%B9%B3%E5%A3%A4%5D" target="_blank" title="凯旋门[平壤]">凯旋门[平壤]</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%A4%A7%E5%9F%8E%E5%B1%B1%E5%9F%8E" target="_blank" title="大城山城">大城山城</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%B3%E5%A3%A4%E9%A1%BA%E5%AE%89%E5%9B%BD%E9%99%85%E6%9C%BA%E5%9C%BA" target="_blank" title="平壤顺安国际机场">平壤顺安国际机场</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E7%8E%89%E6%B5%81%E9%A6%86" target="_blank" title="玉流馆">玉流馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%AE%89%E9%B9%A4%E5%AE%AB" target="_blank" title="安鹤宫">安鹤宫</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%B3%E5%A3%A4%E7%94%B5%E5%BD%B1%E5%9F%8E" target="_blank" title="平壤电影城">平壤电影城</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E7%83%BD%E7%81%AB%E9%87%8C%E9%9D%A9%E5%91%BD%E5%8D%9A%E7%89%A9%E9%A6%86" target="_blank" title="烽火里革命博物馆">烽火里革命博物馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%B3%E5%A3%A4%E8%B5%8F%E7%9F%B3%E5%B1%95%E7%A4%BA%E9%A6%86" target="_blank" title="平壤赏石展示馆">平壤赏石展示馆</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%9D%E9%B2%9C%E4%B8%AD%E5%A4%AE%E6%A4%8D%E7%89%A9%E5%9B%AD" target="_blank" title="朝鲜中央植物园">朝鲜中央植物园</a><br/><br/><br/></td><td><a class="innerlink" href="http://www.baike.com/wiki/%E6%9F%B3%E4%BA%AC%E9%A5%AD%E5%BA%97" target="_blank" title="柳京饭店">柳京饭店</a> <br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%9C%80%E8%83%9C%E5%8F%B0" target="_blank" title="最胜台">最胜台</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E4%B9%99%E5%AF%86%E5%8F%B0" target="_blank" title="乙密台">乙密台</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E7%BB%83%E5%85%89%E4%BA%AD" target="_blank" title="练光亭">练光亭</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E9%AB%98%E5%8F%A5%E4%B8%BD%E5%A2%93%E8%91%AC%E7%BE%A4" target="_blank" title="高句丽墓葬群">高句丽墓葬群</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E4%BA%BA%E6%B0%91%E5%A4%A7%E5%AD%A6%E4%B9%A0%E5%A0%82" target="_blank" title="人民大学习堂">人民大学习堂</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E6%B0%B8%E7%94%9F%E5%A1%94" target="_blank" title="永生塔">永生塔</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%87%E5%AF%BF%E5%8F%B0" target="_blank" title="万寿台">万寿台</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E4%B8%9C%E6%98%8E%E7%8E%8B%E9%99%B5" target="_blank" title="东明王陵">东明王陵</a><br/><a class="innerlink" href="http://www.baike.com/wiki/%E5%B9%BF%E6%B3%95%E5%AF%BA" target="_blank" title="广法寺">广法寺</a></td></tr></tbody></table></div>
+</div>
+<div id="hd_ad_doc_63"> </div>
+<div class="zoom" id="figure">
+<h3>附图</h3>
+<span class="more grayc" id="moreGrayc"><a name="_figurea"> </a><a href="javascript:void(0)" id="addFigure" style="display:none;">上传图片</a></span>
+</div>
+<div class="zoom" id="fodder"><h3>
+<span class="r grayc"><a href="http://v.baike.com/videocenter/initadd?docTitle=%E4%B8%87%E5%AF%BF%E5%8F%B0" target="_blank">添加视频</a> | <a href="http://tupian.baike.com/zutu/createZutuView?docTitle=%E4%B8%87%E5%AF%BF%E5%8F%B0" target="_blank">添加图册</a></span>相关影像</h3></div>
+<div class="relevantinfo" id="catp_bottom">
+<dl id="show_tag" style="display:block;">
+<dt>
+<span class="l">开放分类
+                   
+				    <em class="onoff">
+<a href="javascript:void(0)" id="open_tag" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_tag" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a class="r completetaghref" href="javascript:void(0)">我来补充</a>
+</dt>
+<dd class="h27">
+<a href="http://fenlei.baike.com/%E5%B9%B3%E5%A3%A4/?prd=zhengwenye_left_kuozhan_kaifangfenlei">平壤</a><a href="http://fenlei.baike.com/%E5%BB%BA%E7%AD%91/?prd=zhengwenye_left_kuozhan_kaifangfenlei">建筑</a><a href="http://fenlei.baike.com/%E6%96%87%E5%8C%96/?prd=zhengwenye_left_kuozhan_kaifangfenlei">文化</a><a href="http://fenlei.baike.com/%E8%89%BA%E6%9C%AF/?prd=zhengwenye_left_kuozhan_kaifangfenlei">艺术</a>
+</dd>
+</dl>
+<dl id="edit_tag" style="display:none;">
+<dt id="edit_tag_dt"><span class="l">开放分类</span></dt>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="平壤"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="建筑"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="文化"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+<dd>
+<input class="input-textarea" maxlength="20" name="tag" onblur="this.setAttribute('value',this.value);" type="text" value="艺术"/> <a href="javascript:void(0)" id="_removeTag" onclick="removeTag(this)">[删除]</a>
+</dd>
+</dl>
+<dl id="show_thesaurus" style="display:none;"><dt id="show_thesaurus_dt">
+<span class="l">同义词
+		
+				<em class="onoff">
+<a href="javascript:void(0)" id="open_thesaurus" style="display:none;">展开<i class="open"></i></a> <a href="javascript:void(0)" id="close_thesaurus" style="display:none;">收起<i class="close"></i></a>
+</em>
+</span><a name="show_thesaurus_test"></a>
+</dt></dl>
+<dl id="edit_thesaurus" style="display:none;z-index:11;"><dt id="thesaurus_edit_dt"><span class="l">同义词</span></dt></dl>
+</div>
+<p class="place-bottom zoom"></p>
+<p class="point l-he22 descriptionP">互动百科的词条（含所附图片）系由网友上传，如果涉嫌侵权，请与客服联系，我们将按照法律之相关规定及时进行处理。未经许可，禁止商业网站等复制、抓取本站内容；合理使用者，请注明来源于www.baike.com。</p>
+<div id="hd_ad_doc_32"> </div>
+<input name="type" type="hidden" value="doc"/><input id="doc_title" name="doc_title" type="hidden" value="万寿台"/><input id="docidencry" name="docidencry" type="hidden" value="SYnFndWV6UA9ZX1Fv"/><input id="_loginstate" name="_loginstate" type="hidden" value="0"/><div class="bklog">
+<p>登录后使用互动百科的服务，将会得到个性化的提示和帮助，还有机会和专业认证智愿者沟通。</p>
+<a class="bklogBtn" href="#" id="commentLoginButton">互动百科用户登录</a><a class="bkregBtn" href="http://passport.baike.com/user/userRegister.jsp" target="_self">注册</a>
+</div>
+<div id="hd_ad_doc_33"> </div>
+</div>
+<div class="r w-300">
+<div id="editmore">此词条还可添加 
+			<a href="javascript:void(0);" id="addDocInfoTemplethref">信息模块</a>
+</div>
+<div id="hd_ad_doc_92"> </div>
+<div id="hd_ad_doc_4"> </div>
+<div class="doc-img">
+<a href="http://tupian.baike.com/doc/%E4%B8%87%E5%AF%BF%E5%8F%B0/a3_61_50_50200009239445155357506732644_jpg.html" target="_blank" title=""><img alt="" src="http://a3.att.hudong.com/61/50/50200009239445155357506732644_s.jpg" title=""/></a><a class="card" href="http://tupian.baike.com/doc/%E4%B8%87%E5%AF%BF%E5%8F%B0/a3_61_50_50200009239445155357506732644_jpg.html" target="_blank"><em></em>万寿台图册</a>
+</div>
+<div class="rightdiv cooperation cooperation_t">
+<h3>WIKI热度</h3>
+<ol>
+<li>编辑次数：<span>27次</span> <a href="http://www.baike.com/wikdoc/sp/qr/history/list.do?doc_title=%E4%B8%87%E5%AF%BF%E5%8F%B0&amp;prd=citiao_right_jibenxinxi_lishibanben" target="_blank">历史版本</a>
+</li>
+<li>参与编辑人数：<span>13</span>位</li>
+<li>最近更新时间：2019-07-20 23:50:02</li>
+</ol>
+</div>
+<div class="rightdiv gongxianbang">
+<h3>贡献光荣榜</h3>
+<a class="more" href="http://www.baike.com/wikdoc/sp/qr/history/editorlist.do?doc_title=%E4%B8%87%E5%AF%BF%E5%8F%B0&amp;prd=zhengwenye_left_jibenxinxi_xiezuozhe" target="_blank">更多</a><ul>
+<li>创建者：<span><a class="yonghu" href="http://i.baike.com/profile.do?useriden=HeWBmR0dnAXpkd3V6&amp;prd=citiao_right_jibenxinxi_chuangjianzhe" target="_blank">徐徐小风</a></span>
+</li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=tAQREAwVWXkBHUAYF&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="tAQREAwVWXkBHUAYF">？？naomi</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=OXFlBUEJBBgABQFtX&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="OXFlBUEJBBgABQFtX">飞天小侠女</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=pGFpWQVlQfwhdYA0Y&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="pGFpWQVlQfwhdYA0Y">zshtiany</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=oXVlBVUVOBAEIRlte&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="oXVlBVUVOBAEIRlte">wxwywhwg</a></h4></li>
+<li><h4><a class="yonghu" href="http://i.baike.com/profile.do?useriden=kVFEDX0VEAFBXEQpR&amp;prd=zhengwenye_zuixinxiezuozhe" uiden="kVFEDX0VEAFBXEQpR">storm89629</a></h4></li>
+</ul>
+</div>
+<div class="rightdiv" id="map" style="display:none"><h3>地图</h3></div>
+<div id="hd_ad_doc_16"> </div>
+<div id="hd_ad_doc_1"> </div>
+<div id="hd_ad_doc_23"> </div>
+<div id="hd_ad_doc_24"> </div>
+<div id="hd_ad_doc_31"> </div>
+<div id="hd_ad_doc_133"> </div>
+<div class="xgct rightdiv" id="xgct" name="xgct">
+<h3>相关词条</h3>
+<a action="perfectcordocbtn" class="more" href="javascript:void(0);" id="a_xgct" style="display:none">编辑</a><ul>
+<li class="h105"><a href="http://so.baike.com/doc/%E6%9C%9D%E9%B2%9C&amp;prd=citiao_so" target="_blank" title="朝鲜"><span class="aimg" style="background-image:url(http://a3.att.hudong.com/43/60/20300543785849146422609969480_140.jpg);"><p></p></span>朝鲜</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%BA%AA%E5%BF%B5%E7%A2%91&amp;prd=citiao_so" target="_blank" title="纪念碑"><span class="aimg" style="background-image:url(http://a1.att.hudong.com/23/37/50200009239445155972370522916_140.jpg);"><p></p></span>纪念碑</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E4%B8%AD%E5%9B%BD%E5%B9%BF%E6%92%AD%E8%89%BA%E6%9C%AF%E5%9B%A2&amp;prd=citiao_so" target="_blank" title="中国广播艺术团"><span class="aimg" style="background-image:url(http://a2.att.hudong.com/15/06/50200009239445155547068905207_140.jpg);"><p></p></span>中国广播…</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E4%BC%9A%E9%A6%86&amp;prd=citiao_so" target="_blank" title="会馆"><span class="aimg" style="background-image:url(http://a4.att.hudong.com/67/19/50200009239445155966191437143_140.jpg);"><p></p></span>会馆</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E7%AE%95%E5%AD%90%E9%99%B5&amp;prd=citiao_so" target="_blank" title="箕子陵"><span class="aimg" style="background-image:url(http://a3.att.hudong.com/11/31/50200009239445156003319244580_140.jpg);"><p></p></span>箕子陵</a></li>
+<li class="h105"><a href="http://so.baike.com/doc/%E4%B8%87%E5%AF%BF%E5%8F%B0%E7%94%BB%E5%BB%8A&amp;prd=citiao_so" target="_blank" title="万寿台画廊"><span class="aimg" style="background-image:url(http://www.huimg.cn/public/default_70.png);"><p></p></span>万寿台画廊</a></li>
+</ul>
+</div><div><iframe frameborder="0" height="370" marginheight="0" marginwidth="0" scrolling="no" src="//www.baike.com/shouye/reci/wiki1.html" width="270"></iframe></div>
+<div class="yzct rightdiv">
+<h3>分类热词</h3>
+<div class="f_4">
+<ul class="l">
+<li><a href="http://so.baike.com/doc/%E6%9F%B3%E4%BA%AC%E9%A5%AD%E5%BA%97&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">柳京饭店</a></li>
+<li><a href="http://so.baike.com/doc/%E9%94%A6%E7%BB%A3%E5%B1%B1%E7%BA%AA%E5%BF%B5%E5%AE%AB&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">锦绣山纪念宫</a></li>
+<li><a href="http://so.baike.com/doc/%E4%B8%BB%E4%BD%93%E6%80%9D%E6%83%B3%E5%A1%94&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">主体思想塔</a></li>
+<li><a href="http://so.baike.com/doc/%E6%9B%B9%E6%99%9A%E6%A4%8D&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">曹晚植</a></li>
+<li><a href="http://so.baike.com/doc/%E6%9C%9D%E9%B2%9C%E8%A1%8C%E6%94%BF%E5%8C%BA%E5%88%92&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">朝鲜行政区划</a></li>
+</ul>
+<ul class="r">
+<li><a href="http://so.baike.com/doc/%E4%B8%87%E6%99%AF%E5%8F%B0&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">万景台</a></li>
+<li><a href="http://so.baike.com/doc/%E4%B8%87%E5%AF%BF%E5%8F%B0&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">万寿台</a></li>
+<li><a href="http://so.baike.com/doc/%E7%BE%8A%E8%A7%92%E5%B2%9B%E9%85%92%E5%BA%97&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">羊角岛酒店</a></li>
+<li><a href="http://so.baike.com/doc/%E4%B8%9C%E5%B9%B3%E5%A3%A4%E5%A4%A7%E5%89%A7%E9%99%A2&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">东平壤大剧院</a></li>
+<li><a href="http://so.baike.com/doc/%E5%AD%99%E6%98%BE%E5%AF%85&amp;prd=citiao_so%0A%09%09%09%09%09%09%09" target="_blank">孙显寅</a></li>
+</ul>
+</div>
+</div>
+<div id="hd_ad_doc_5"> </div>
+<div id="hd_ad_doc_25"> </div>
+<div id="hd_ad_doc_26"> </div>
+<div id="hd_ad_doc_17"> </div>
+<div id="hd_ad_doc_18"> </div>
+<div data-offset="245" data-toggle="fixed" data-top="34.1" data-top-ie6="-16" data-trigger="scrolltop" data-type="oncenter" id="hd_ad_doc_30"> </div>
+<div id="hd_ad_doc_146"> </div>
+<div class="rightdiv wap-citiao clearfix">
+<style type="text/css">.wap-citiao{padding:10px;}.wap-citiao .fl{margin-top:5px;width:110px;font-size:12px;float:left;text-align: center;}.wap-citiao .fl img{display: block;width:60px;margin:0 auto;}.wap-citiao .fl p{color:#333;padding:6px 0;}.wap-citiao .fl span{color:#686868;}.wap-citiao .fr{float:right;}.wap-citiao .fr img{display: block;width:110px;height:110px;}</style>
+<div class="fl">
+<img src="//static.hudong.com/11/01/26100000006187151090019714114.png"/>
+<p>互动百科</p>
+<span>扫码下载APP</span>
+</div>
+<div class="fr" id="doc_qrcode">
+</div>
+</div>
+</div>
+</div>
